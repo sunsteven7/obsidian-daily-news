@@ -6,91 +6,91 @@
 > 摘要来自 RSS/新闻源描述，保留原文语言；`可能需订阅` 表示该来源可能有付费墙。
 
 > [!quote] 财经 / 金融
-> 10/10 · 国内 4 / 国际 6
+> 10/10 · 国内 6 / 国际 4
 >
 > **1. [BlackRock seeks to buy at least $5 billion in SpaceX IPO shares, WSJ reports - Reuters](https://news.google.com/rss/articles/CBMiugFBVV95cUxNQ01abjYydVU1UnlKV2dkRVZvbTRsd0lYQ2ZuQ2p2dHFidmRMdmtwcGdGQ3pKT2UwcE1Oem9mdlhJVWFkNFA0dUozdEt0Xy1iRTRFNlVHWkx2aGpyV09aWGxaWmozR3JVYVlhdkktekowX09vd2lQYWMyQ0ZIZGFXeHVKYlc4XzFMSkNldzd1SF8wN0NKSUVsOUNkdWxjcUYxVU1YLXo2NEtUWU9BVDZBSHJZVHhBS3Zjb0E?oc=5)**
 > <small>Reuters · 国际 · 00:54</small>
 > BlackRock seeks to buy at least $5 billion in SpaceX IPO shares, WSJ reports Reuters
 >
-> **2. [Markets Brace for an Inflation Surprise](https://www.nytimes.com/2026/06/10/business/dealbook/cpi-inflation-surprise.html)**
-> <small>NYTimes Business · 国际 · 19:27 · `可能需订阅`</small>
-> New data is putting investors on edge, especially over the prospect that the Federal Reserve may raise interest rates to blunt rising prices.
+> **2. [长鑫科技完成IPO注册 即将登陆A股 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE0tRFBCNmdiZHF5bEtyRWdLOU5saU9kbkhQWHRCTFFUMDM2T0VJRWlHaEZTRkN2NzFabVp3RF9JejNHSVo5RzhQMWZHcTgxcWNzWWZwS011X2MyWUtLdGJ0Y1NB?oc=5)**
+> <small>财新 · 国内 · 20:26</small>
+> 长鑫科技完成IPO注册 即将登陆A股 财新
 >
 > **3. [美研报看空光电共封（CPO）产能引发美股光通信板块抛售潮 A股港股跟进调整 - 财新](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE15NHZ6QUVldnE2Y3VIVFd3Y25BZ3VNOGpyRGM4OGE2TFRzQ3RPWFVGVmVmR3Y0c1FnM3FTZGMtaVhhMTdfOVRXak1NWk1uaW1zWjZ2NmVaeVZaUHF4Y0tpZnpla1E4ZEU?oc=5)**
 > <small>财新 · 国内 · 20:15</small>
 > 美研报看空光电共封（CPO）产能引发美股光通信板块抛售潮 A股港股跟进调整 财新
 >
-> **4. [Markets May Be a Bit Too Relaxed About Inflation - Bloomberg.com](https://news.google.com/rss/articles/CBMixgFBVV95cUxPblVGTG9rOVhYRnhMeG4tSmN5WDEwZGxCdnZFWWRNbWlBUmV0Rl9BVjc4czM4aFktdkxVOTRhckRES1hlbE5WWUZmYTU0VUhXZG5tSXBTS1h2VFBVQkxsRU9venpEVUs5T3JFc0dKN3NqdDFYMkhNV3hkRjFDcUNNOFZacnZCSnYwZF80N04tc3ZYTHJZV3JTZFpIaFM3c3VGNVROOXVIX1B3VUx1SWk0VjVXNHhuS2tVNnRKd3h2TXpMZFNSYkE?oc=5)**
-> <small>Bloomberg.com · 国际 · 12:05 · `可能需订阅`</small>
-> Markets May Be a Bit Too Relaxed About Inflation Bloomberg.com
+> **4. [史上最大IPO即将登陆：一场1.8万亿美元的“信仰豪赌” - 第一财经](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1nVFY4dERKb01jOFhTODY4YVBHc1BpdUJzUGJPWkFzd0REc3EyZThvMHV3U0RUT0s1WXVocjY3empCdm9zNWVoQUVFdkZSZ2pI?oc=5)**
+> <small>第一财经 · 国内 · 08:34</small>
+> 史上最大IPO即将登陆：一场1.8万亿美元的“信仰豪赌” 第一财经
 >
-> **5. [SpaceX IPO demand is approaching four times oversubscribed, source says - Reuters](https://news.google.com/rss/articles/CBMisgFBVV95cUxNVUdxVklCSVNiWC0wakRUOVBtRU02MWI3QkN6Wk5Tc2xuVUQxTWdjYzlwbmR2V3VkajVPVnNJM2dGVDBXUHpaaHJrUlczSGRfNlBMNHQ2NDVldURZWjVvWHliNEtKVXZrVURrQTI4NkFiU3h0X3E5S3hSR19BZnVIMXI0THBCRHZXNnotVTNhUWkyTG1QVklxRVZVYjhfc0RRaGtjeFE5QnN3MjU3eUwxUVF3?oc=5)**
-> <small>Reuters · 国际 · 11:47</small>
-> SpaceX IPO demand is approaching four times oversubscribed, source says Reuters
+> **5. [就在今晚！一文看懂SpaceX“史诗级”IPO - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9OTzllV0dlMWx6aEhJYWtOTHNIVmhFZ0IzOW9wQW1taUpPbXJLVmN5TFBBUHdBeXF2TElhVVJBT3ROUm1heEdVM1ZNSnZxb0tDQllJ?oc=5)**
+> <small>第一财经 · 国内 · 03:04</small>
+> 就在今晚！一文看懂SpaceX“史诗级”IPO 第一财经
 >
 > **6. [Hong Kong's IPO boom is developing a performance problem](https://www.cnbc.com/2026/06/08/hong-kongs-ipo-boom-is-developing-a-performance-problem.html)**
 > <small>CNBC Finance · 国际 · 08:44</small>
 > As Hong Kong vies with Wall Street to be the top IPO market, a growing number of pre-debut runups turn sour after their listing.
 >
-> **7. [SpaceX’s IPO Could Turn 4,400 Employees Into Millionaires](https://www.nytimes.com/2026/06/10/technology/spacex-ipo-employee-millionaires.html)**
-> <small>NYTimes Business · 国际 · 23:14 · `可能需订阅`</small>
-> While Elon Musk may soon become a trillionaire, his rocket company’s market debut is set to change the lives of its current and former employees, too.
+> **7. [最新财新周刊｜SpaceX：全球最大IPO登陆 - 财新周刊](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5iRXJ4TlJvZG5hb1dzaVlabUcxeHdxSENybVBJTlNkYjg2Ti1nOXUyZ0ltRDdmSk90SElnNndMVDZ2eGFPT0luUTFXcjFtZ0FkcTN0MGVqa0xtSWtrRVh1Ng?oc=5)**
+> <small>财新周刊 · 国内 · 18:02 · `可能需订阅`</small>
+> 最新财新周刊｜SpaceX：全球最大IPO登陆 财新周刊
 >
-> **8. [通胀压力压倒增长担忧，欧洲央行近三年来首次加息 - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1zMTJNOGVCemd3ZnhBazZHeHNxeFVWU0VBdTZ4UGE1anYzRVBuUEh1Q3dVVkpkVC1jaHZjUkw5TTBMaHpUTkE4SHFEbE1aQlhBS05V?oc=5)**
-> <small>第一财经 · 国内 · 13:52</small>
-> 通胀压力压倒增长担忧，欧洲央行近三年来首次加息 第一财经
+> **8. [SpaceX Stock Rises 11% in Largest IPO Ever](https://www.nytimes.com/2026/06/12/technology/spacex-ipo-elon-musk.html)**
+> <small>NYTimes Business · 国际 · 04:52 · `可能需订阅`</small>
+> The blockbuster stock market debut of Elon Musk’s rocket company paves the way for a wave of enormous offerings that are coming from OpenAI and Anthropic.
 >
-> **9. [央行就存贷款利率管理新规征求意见：贷款罚息取消“30%~50%固定上浮”，不得高息揽储 - 证券时报](https://news.google.com/rss/articles/CBMiXEFVX3lxTFByQ1lRdi1sYlRDUF9yX1ZMUmdCQjEwWmVqSUhOSVdTOXJ3QXAtakV0b1hUSkxzVmFsZktvYndqTElYR0xtX2xXYmtLb0tFQzJ2dkNMamUyQmlGSDNp?oc=5)**
-> <small>证券时报 · 国内 · 02:12</small>
+> **9. [Risk Strait of Hormuz or Wait? Shipping Companies Face a Costly Dilemma.](https://www.nytimes.com/2026/06/12/business/strait-hormuz-ships-iran.html)**
+> <small>NYTimes Business · 国际 · 21:07 · `可能需订阅`</small>
+> With more than 500 ships still stranded in the Persian Gulf, pressure on the shipowners and sailors is growing by the day.
+>
+> **10. [央行就存贷款利率管理新规征求意见：贷款罚息取消“30%~50%固定上浮”，不得高息揽储 - 证券时报](https://news.google.com/rss/articles/CBMiXEFVX3lxTFByQ1lRdi1sYlRDUF9yX1ZMUmdCQjEwWmVqSUhOSVdTOXJ3QXAtakV0b1hUSkxzVmFsZktvYndqTElYR0xtX2xXYmtLb0tFQzJ2dkNMamUyQmlGSDNp?oc=5)**
+> <small>证券时报 · 国内 · 11:38</small>
 > 央行就存贷款利率管理新规征求意见：贷款罚息取消“30%~50%固定上浮”，不得高息揽储 证券时报
->
-> **10. [履新未满月 “70后”金融监管干将因何被带走 - 财新](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5TdG5vdXZvN1VTNXZDdUFhVDA0S2pubHpKWGY1MEIwLUcwemNySGtUOER4cWg5emVETGlpOXRkR2J3cmx2aHduM3dUVFk0MUVBSXdLUjZIYWZWaWllQXJjcg?oc=5)**
-> <small>财新 · 国内 · 22:57</small>
-> 履新未满月 “70后”金融监管干将因何被带走 财新
 >
 
 > [!example] 科技 / AI
-> 10/10 · 国内 3 / 国际 7
+> 10/10 · 国内 4 / 国际 6
 >
 > **1. [Google DeepMind is worried about what happens when millions of agents start to interact](https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/)**
 > <small>MIT Technology Review · 国际 · 19:00</small>
 > Google DeepMind is funding research into the potential dangers of situations where millions of different AI agents interact with each other online. According to Rohin Shah, who directs the company’s AGI safety and alignment research, the m…
 >
-> **2. [Learning to lead in a hybrid human-AI enterprise](https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/)**
-> <small>MIT Technology Review · 国际 · 18:20</small>
-> As adoption of AI agents looks set to surge by as much as 300% in the next two years, leadership teams are carefully considering the implications of a hybrid human-AI workforce. Unlike existing enterprise-level automation that relies on ma…
+> **2. [无问芯穹CTO李伯勋：卖Token不易 模型推理算力市场远未饱和 - 财新](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBERFJZTXVMTWdXaDRYUFJvc1F1OHBmQjltdHRjTlZFN3U2OFFQanZyN3JzN3FIR0ZZemVLZEJ0TXFBb1MtVFVVMFBPT1FIeVdPWG5SNTlZai1KeGEzYXZNOHFtVGQ?oc=5)**
+> <small>财新 · 国内 · 20:12</small>
+> 无问芯穹CTO李伯勋：卖Token不易 模型推理算力市场远未饱和 财新
 >
 > **3. [京铭资本领投千诀科技完成数亿元A轮融资，助推国内具身智能世界模型产业落地 - 证券时报](https://news.google.com/rss/articles/CBMiXEFVX3lxTE40TDNwdlIwdkNLakZqaTd2elgxNWJoN2F4Y095NWMxSHlWRy1UdktwN0pTVHU0VHhQLWhpMGtvMG82cm9TR0FtWmJ4X0tpTUtZTUdzVy05b1B2VGVP?oc=5)**
-> <small>证券时报 · 国内 · 17:51</small>
+> <small>证券时报 · 国内 · 18:58</small>
 > 京铭资本领投千诀科技完成数亿元A轮融资，助推国内具身智能世界模型产业落地 证券时报
 >
 > **4. [OpenAI Files Confidentially for IPO as AI Companies Rush to Wall St.](https://www.nytimes.com/2026/06/08/technology/openai-ipo.html)**
 > <small>NYTimes Technology · 国际 · 05:58 · `可能需订阅`</small>
 > The company hopes to raise billions in a highly anticipated public offering that could unlock a new generation of tech industry wealth.
 >
-> **5. [Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale](https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/)**
-> <small>TechCrunch · 国际 · 12:30</small>
-> Avataar AI's distilled video model is priced at $0.005 for every second of generation
+> **5. [Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI](https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/)**
+> <small>TechCrunch · 国际 · 10:26</small>
+> Anthropic isn't hiding its frustration. "We disagree that the finding of a narrow potential jailbreak should be cause for recalling a commercial model deployed to hundreds of millions of people," the company wrote in a blog post.
 >
-> **6. [Equal AI raises $30M to screen calls so Indians don’t have to](https://techcrunch.com/2026/06/11/equal-ai-raises-30m-to-screen-calls-so-indians-dont-have-to/)**
-> <small>TechCrunch · 国际 · 12:30</small>
-> Equal AI said that its AI-powered call assistant now has over a million monthly active users.
+> **6. [Meta’s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it](https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/)**
+> <small>TechCrunch · 国际 · 07:00</small>
+> A new report suggests the unit, which employs 6,500 people, is on the verge of revolt.
 >
-> **7. [Amazon’s data centers used 2.5 billion gallons of water last year](https://www.theverge.com/tech/948534/amazon-data-centers-water-use)**
-> <small>The Verge · 国际 · 01:26</small>
-> Just after Seattle enacted a one-year data center moratorium that some of Amazon's own employees pushed for, Amazon shared how much water its data centers use, reportedly for the first time. With concerns about water consumption and energy…
+> **7. [Jeff Bezos’ AI startup aims to build an ‘artificial general engineer’](https://www.theverge.com/ai-artificial-intelligence/949005/jeff-bezos-prometheus-artificial-general-engineer)**
+> <small>The Verge · 国际 · 22:07</small>
+> Amazon founder Jeff Bezos says his new AI startup will work toward developing an "artificial general engineer," according to reports from The New York Times and CNBC. The startup, called Prometheus, aims to develop AI-powered engineering t…
 >
-> **8. [Waymo introduces $30-a-month premium tier for riders who want faster pickups](https://www.theverge.com/transportation/947974/waymo-premier-monthly-membership-perks-priority-cash-back)**
-> <small>The Verge · 国际 · 04:16</small>
-> Uber One, meet Waymo Premier. The robotaxi operator announced a new $29.99-a-month premium tier for riders who want a more elevated and exclusive autonomous experience. The invite-only membership service is aimed at Waymo customers who use…
+> **8. [Anthropic Blocks Foreigners From Using Mythos and Fable AI](https://www.nytimes.com/2026/06/12/technology/anthropic-mythos-fable5-blocked.html)**
+> <small>NYTimes Technology · 国际 · 11:48 · `可能需订阅`</small>
+> The company said on Friday night that the federal government had ordered limits on its Mythos and Fable 5 A.I. systems, citing national security concerns.
 >
-> **9. [OpenAI CEO奥特曼推迟访韩计划](https://36kr.com/newsflashes/3849894508041220?f=rss)**
+> **9. [江丰电子：公司生产的先端存储芯片用高纯300mm硅靶已批量供货](https://36kr.com/newsflashes/3851370635334919?f=rss)**
 > <small>36氪 · 国内</small>
-> 据报道，OpenAI首席执行官山姆·奥特曼因个人原因推迟访韩计划。奥特曼原定于14日至15日访韩，会见三星电子、Kakao、NAVER等企业负责人。（界面）
+> 36氪获悉，江丰电子在互动平台表示，公司是全球少数几家同时具备技术领先优势与规模化供应能力的高纯金属溅射靶材制造商。公司生产的先端存储芯片用高纯300mm硅靶已批量供货，超高纯钨靶、铜锰合金靶等高端品类已应用于先进存储芯片制造中，目前只有公司及头部跨国企业掌握了生产上述产品的核心技术。
 >
-> **10. [智元机器人等入股蓝点触控](https://36kr.com/newsflashes/3849899016246280?f=rss)**
+> **10. [美格智能：存储芯片价格上涨成本在合理、有序向下游客户传导](https://36kr.com/newsflashes/3851282375971842?f=rss)**
 > <small>36氪 · 国内</small>
-> 36氪获悉，天眼查 App 显示，近日，蓝点触控（北京）科技有限公司发生工商变更，新增智元机器人关联公司智元创新（上海）科技股份有限公司、宁德时代参投的福建时代泽远股权投资基金合伙企业（有限合伙）等为股东，同时，注册资本由约500.3万人民币增至约525.5万人民币。
+> 36氪获悉，美格智能6月11日接受机构调研时表示，公司目前存货金额较大，其中很大部分是存储芯片备货。在存储芯片涨价早期，公司根据研发项目、订单情况，及对存储芯片行情预测，为保证客户订单顺利交付，进行了较大金额的战略备货，对后续产品利润有正面影响。存储芯片价格上涨成本，我们在合理、有序向下游客户传导，比如车载产品、海外运营商5G产品等，都进行了价格调整。
 >
 
 > [!tip] 私募股权 / 投资市场
@@ -108,33 +108,33 @@
 > <small>Private Equity International · 国际 · 23:42</small>
 > An inside look at the $219bn pension’s buyout and growth performance, geographic and sector exposure and co-investment portfolio.
 >
-> **4. [Nestle's private equity partner exits bidding for Perrier business, Bloomberg News reports - Reuters](https://news.google.com/rss/articles/CBMivgFBVV95cUxQM0NXTzgyYjNsQWNNNWU0NHQyVWhtV2Q3NUdYc050eVgzZDZLcy1TZlQ2SFBwTS0tV215c1VJd0dIeXRnT3NDWHFfbjU4ZDRKT04xajMtcTdtMkVRYThPMVBKOEZsRFZpNW10WnBlRlBGOV9EeTZGbnVjcGgzbzFsRkd2b19BU2QyUDY1UlRQRk1IclNDUUFtcFVTbTd1VllaWGNETW1NOVdpQ3NhUE96aFQ4aVh4Z3h5elJVV1lB?oc=5)**
-> <small>Reuters · 国际 · 02:25</small>
+> **4. [General Atlantic, Aquitaine, Avesi, PPC Enterprises target speech therapy; Stable pharmaceutical demand leads SK Capital-backed Apotex to C$1.3bn IPO](https://www.pehub.com/general-atlantic-aquitaine-avesi-ppc-enterprises-target-speech-therapy-stable-pharmaceutical-demand-leads-sk-capital-backed-apotex-to-c1-3bn-ipo/)**
+> <small>PE Hub · 国际 · 21:39</small>
+> Early intervention is leading to more diagnoses in children of conditions that require speech therapy, fueling demand in the segment and catching the eye of private equity; discussing the largest life sciences IPO in the Toronto Stock Exch…
+>
+> **5. [Nestle's private equity partner exits bidding for Perrier business, Bloomberg News reports - Reuters](https://news.google.com/rss/articles/CBMivgFBVV95cUxQM0NXTzgyYjNsQWNNNWU0NHQyVWhtV2Q3NUdYc050eVgzZDZLcy1TZlQ2SFBwTS0tV215c1VJd0dIeXRnT3NDWHFfbjU4ZDRKT04xajMtcTdtMkVRYThPMVBKOEZsRFZpNW10WnBlRlBGOV9EeTZGbnVjcGgzbzFsRkd2b19BU2QyUDY1UlRQRk1IclNDUUFtcFVTbTd1VllaWGNETW1NOVdpQ3NhUE96aFQ4aVh4Z3h5elJVV1lB?oc=5)**
+> <small>Reuters · 国际 · 02:33</small>
 > Nestle's private equity partner exits bidding for Perrier business, Bloomberg News reports Reuters
 >
-> **5. [Florida SBA considers rebalancing to reduce venture exposure](https://www.buyoutsinsider.com/florida-sba-considers-rebalancing-to-reduce-venture-exposure/)**
+> **6. [Florida SBA considers rebalancing to reduce venture exposure](https://www.buyoutsinsider.com/florida-sba-considers-rebalancing-to-reduce-venture-exposure/)**
 > <small>Buyouts · 国际 · 05:32</small>
 > Florida SBA is considering a number of rebalancing initiatives, including LP-led secondaries activity, in order to reduce its venture capital exposure.
 >
-> **6. [Carlyle targets $15bn for ninth flagship PE fund](https://www.altassets.net/premium/carlyle-targets-15bn-for-ninth-flagship-pe-fund.html)**
-> <small>AltAssets · 国际 · 18:40</small>
-> Carlyle Group has launched fundraising for its ninth flagship buyout fund with a target of approximately $15bn, matching the $14.8bn secured by its predecessor vehicle. According to Bloomberg, the firm outlined the ambition for Carlyle Par…
->
 > **7. [京铭资本领投千诀科技完成数亿元A轮融资，助推国内具身智能世界模型产业落地 - 证券时报](https://news.google.com/rss/articles/CBMiXEFVX3lxTE40TDNwdlIwdkNLakZqaTd2elgxNWJoN2F4Y095NWMxSHlWRy1UdktwN0pTVHU0VHhQLWhpMGtvMG82cm9TR0FtWmJ4X0tpTUtZTUdzVy05b1B2VGVP?oc=5)**
-> <small>证券时报 · 国内 · 17:51</small>
+> <small>证券时报 · 国内 · 18:58</small>
 > 京铭资本领投千诀科技完成数亿元A轮融资，助推国内具身智能世界模型产业落地 证券时报
 >
 > **8. [独家 | 联手知名高校，天创资本成立了一支新基金 - 投中网](https://news.google.com/rss/articles/CBMibEFVX3lxTE1HTnJqZ3UyLTBKTXdmaVdBVENhWnV1UVlxS29laHhmOEhUUi1wbUNsMFQzd05qNFJIZHN1a0tLYlpna0kxWllRTlJmbmFmTDJLTDRVNFJ0aWs2VFhUQUdsWnBQRDkxR21BeTcxNw?oc=5)**
 > <small>投中网 · 国内 · 14:25</small>
 > 独家 | 联手知名高校，天创资本成立了一支新基金 投中网
 >
-> **9. [量坤科技完成数亿元天使轮融资，开启Quantum AI for Science新范式 - 投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9CbnZqbDdkbkVDMkdjdVF2UlZOVGZTY0dTS3ktZEY1eFN2dnBZeGxvdHk3LTF6UlRrOHU1ck90VERKRUlmeXRxRjliWU0xUlFqWmFIVUl3?oc=5)**
+> **9. [科创企业IPO助推港股升温 瑞银如何展望下半年发展？ - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBfN2lPYnh4ZHFabWp1Wk9FN2xzUDZVdFBhOEtyYWV4WjRZRzdTQnh1QVJ1ZV9sLTNTZnQ0X1FpNXFzY3BrYU9WNkdDT2hGbGhCcTNsRm1nNmhhbjcyMkpEWlVR?oc=5)**
+> <small>财新 · 国内 · 18:12</small>
+> 科创企业IPO助推港股升温 瑞银如何展望下半年发展？ 财新
+>
+> **10. [量坤科技完成数亿元天使轮融资，开启Quantum AI for Science新范式 - 投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9CbnZqbDdkbkVDMkdjdVF2UlZOVGZTY0dTS3ktZEY1eFN2dnBZeGxvdHk3LTF6UlRrOHU1ck90VERKRUlmeXRxRjliWU0xUlFqWmFIVUl3?oc=5)**
 > <small>投资界 · 国内 · 09:42</small>
 > 量坤科技完成数亿元天使轮融资，开启Quantum AI for Science新范式 投资界
->
-> **10. [今日，宇树科技IPO上会！1只新股申购！ - 证券时报](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1iWmZNOE1zdnc4M1lRam1VYjQwNnkwVVBaYVhIQXFaSlp4LTEzaUFVNV9yZEJRaFh0MFM2QUthZm02cDdpaDdxemNaTnRpb0FGTTVfT0ZRTjZzQVRD?oc=5)**
-> <small>证券时报 · 国内 · 15:00</small>
-> 今日，宇树科技IPO上会！1只新股申购！ 证券时报
 >
 
 #daily-news
