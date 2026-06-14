@@ -6,7 +6,7 @@
 > 摘要来自 RSS/新闻源描述，保留原文语言；`可能需订阅` 表示该来源可能有付费墙。
 
 > [!quote] 财经 / 金融
-> 10/10 · 国内 6 / 国际 4
+> 10/10 · 国内 4 / 国际 6
 >
 > **1. [BlackRock seeks to buy at least $5 billion in SpaceX IPO shares, WSJ reports - Reuters](https://news.google.com/rss/articles/CBMiugFBVV95cUxNQ01abjYydVU1UnlKV2dkRVZvbTRsd0lYQ2ZuQ2p2dHFidmRMdmtwcGdGQ3pKT2UwcE1Oem9mdlhJVWFkNFA0dUozdEt0Xy1iRTRFNlVHWkx2aGpyV09aWGxaWmozR3JVYVlhdkktekowX09vd2lQYWMyQ0ZIZGFXeHVKYlc4XzFMSkNldzd1SF8wN0NKSUVsOUNkdWxjcUYxVU1YLXo2NEtUWU9BVDZBSHJZVHhBS3Zjb0E?oc=5)**
 > <small>Reuters · 国际 · 00:54</small>
@@ -16,37 +16,37 @@
 > <small>财新 · 国内 · 20:26</small>
 > 长鑫科技完成IPO注册 即将登陆A股 财新
 >
-> **3. [美研报看空光电共封（CPO）产能引发美股光通信板块抛售潮 A股港股跟进调整 - 财新](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE15NHZ6QUVldnE2Y3VIVFd3Y25BZ3VNOGpyRGM4OGE2TFRzQ3RPWFVGVmVmR3Y0c1FnM3FTZGMtaVhhMTdfOVRXak1NWk1uaW1zWjZ2NmVaeVZaUHF4Y0tpZnpla1E4ZEU?oc=5)**
-> <small>财新 · 国内 · 20:15</small>
-> 美研报看空光电共封（CPO）产能引发美股光通信板块抛售潮 A股港股跟进调整 财新
->
-> **4. [史上最大IPO即将登陆：一场1.8万亿美元的“信仰豪赌” - 第一财经](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1nVFY4dERKb01jOFhTODY4YVBHc1BpdUJzUGJPWkFzd0REc3EyZThvMHV3U0RUT0s1WXVocjY3empCdm9zNWVoQUVFdkZSZ2pI?oc=5)**
-> <small>第一财经 · 国内 · 08:34</small>
-> 史上最大IPO即将登陆：一场1.8万亿美元的“信仰豪赌” 第一财经
->
-> **5. [就在今晚！一文看懂SpaceX“史诗级”IPO - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9OTzllV0dlMWx6aEhJYWtOTHNIVmhFZ0IzOW9wQW1taUpPbXJLVmN5TFBBUHdBeXF2TElhVVJBT3ROUm1heEdVM1ZNSnZxb0tDQllJ?oc=5)**
-> <small>第一财经 · 国内 · 03:04</small>
+> **3. [就在今晚！一文看懂SpaceX“史诗级”IPO - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9OTzllV0dlMWx6aEhJYWtOTHNIVmhFZ0IzOW9wQW1taUpPbXJLVmN5TFBBUHdBeXF2TElhVVJBT3ROUm1heEdVM1ZNSnZxb0tDQllJ?oc=5)**
+> <small>第一财经 · 国内 · 20:05</small>
 > 就在今晚！一文看懂SpaceX“史诗级”IPO 第一财经
+>
+> **4. [晓数点丨SpaceX今夜登陆纳斯达克！一图了解史上最大IPO - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9mb3JXNU1GTFF1MzZxckpGTE90Z3lGVndPZWwxcEc3SElaZC1yUHpHZWNwRWhzSG8tb2pWdjZOT3lBN2doMkF2TFNYeWNkOV9mbmtF?oc=5)**
+> <small>第一财经 · 国内 · 11:10</small>
+> 晓数点丨SpaceX今夜登陆纳斯达克！一图了解史上最大IPO 第一财经
+>
+> **5. [SpaceX IPO Could Test Market, Says 1789 Capital’s Abrahimzadeh - Bloomberg.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxNYkxwbGtUX055T0RhcDJEZk9rZ0l2SlN1T3FMQ2cwcE10TU90TTN6YklES0FhT1VQc0xLNFIxVEZMal84ZTBja0sxV21uSWxSQWRSZFJDTExsaGU2SXlWUjBGa0hhMTNVVnpFUkVuM3FjcVFDNkt2VU1Ka1VTSnU1M081bWVMWDFuX2kxVnN3M1Z4bzItWXFYRmlZQ181UlVldnRFQ25YQjMxOUEwYlhsN3Zn?oc=5)**
+> <small>Bloomberg.com · 国际 · 00:18 · `可能需订阅`</small>
+> SpaceX IPO Could Test Market, Says 1789 Capital’s Abrahimzadeh Bloomberg.com
 >
 > **6. [Hong Kong's IPO boom is developing a performance problem](https://www.cnbc.com/2026/06/08/hong-kongs-ipo-boom-is-developing-a-performance-problem.html)**
 > <small>CNBC Finance · 国际 · 08:44</small>
 > As Hong Kong vies with Wall Street to be the top IPO market, a growing number of pre-debut runups turn sour after their listing.
 >
 > **7. [最新财新周刊｜SpaceX：全球最大IPO登陆 - 财新周刊](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5iRXJ4TlJvZG5hb1dzaVlabUcxeHdxSENybVBJTlNkYjg2Ti1nOXUyZ0ltRDdmSk90SElnNndMVDZ2eGFPT0luUTFXcjFtZ0FkcTN0MGVqa0xtSWtrRVh1Ng?oc=5)**
-> <small>财新周刊 · 国内 · 18:02 · `可能需订阅`</small>
+> <small>财新周刊 · 国内 · 06:02 · `可能需订阅`</small>
 > 最新财新周刊｜SpaceX：全球最大IPO登陆 财新周刊
 >
-> **8. [SpaceX Stock Rises 11% in Largest IPO Ever](https://www.nytimes.com/2026/06/12/technology/spacex-ipo-elon-musk.html)**
+> **8. [How Wall Street pulled off the biggest IPO in history for SpaceX - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxPTVJBTFR3RUwwQm90bHkzcF9xcEpxN3pPNHdRUjZsNlJ3dnFoNURNQnJfWlFId1lhU2FRY3JVTEVRQ2lUNGRfR05Ya2ZvRHU1a0RIQUEwT1Q0eVo3VVU5a0gzeWVlNXRpV29vUms0YzZxbDdZTzd6TVNtVmhoYUZXN3pEbG0?oc=5)**
+> <small>Financial Times · 国际 · 18:00 · `可能需订阅`</small>
+> How Wall Street pulled off the biggest IPO in history for SpaceX Financial Times
+>
+> **9. [SpaceX Stock Rises 11% in Largest IPO Ever](https://www.nytimes.com/2026/06/12/technology/spacex-ipo-elon-musk.html)**
 > <small>NYTimes Business · 国际 · 04:52 · `可能需订阅`</small>
 > The blockbuster stock market debut of Elon Musk’s rocket company paves the way for a wave of enormous offerings that are coming from OpenAI and Anthropic.
 >
-> **9. [Risk Strait of Hormuz or Wait? Shipping Companies Face a Costly Dilemma.](https://www.nytimes.com/2026/06/12/business/strait-hormuz-ships-iran.html)**
+> **10. [Risk Strait of Hormuz or Wait? Shipping Companies Face a Costly Dilemma.](https://www.nytimes.com/2026/06/12/business/strait-hormuz-ships-iran.html)**
 > <small>NYTimes Business · 国际 · 21:07 · `可能需订阅`</small>
 > With more than 500 ships still stranded in the Persian Gulf, pressure on the shipowners and sailors is growing by the day.
->
-> **10. [央行就存贷款利率管理新规征求意见：贷款罚息取消“30%~50%固定上浮”，不得高息揽储 - 证券时报](https://news.google.com/rss/articles/CBMiXEFVX3lxTFByQ1lRdi1sYlRDUF9yX1ZMUmdCQjEwWmVqSUhOSVdTOXJ3QXAtakV0b1hUSkxzVmFsZktvYndqTElYR0xtX2xXYmtLb0tFQzJ2dkNMamUyQmlGSDNp?oc=5)**
-> <small>证券时报 · 国内 · 11:38</small>
-> 央行就存贷款利率管理新规征求意见：贷款罚息取消“30%~50%固定上浮”，不得高息揽储 证券时报
 >
 
 > [!example] 科技 / AI
@@ -56,41 +56,41 @@
 > <small>MIT Technology Review · 国际 · 19:00</small>
 > Google DeepMind is funding research into the potential dangers of situations where millions of different AI agents interact with each other online. According to Rohin Shah, who directs the company’s AGI safety and alignment research, the m…
 >
-> **2. [无问芯穹CTO李伯勋：卖Token不易 模型推理算力市场远未饱和 - 财新](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBERFJZTXVMTWdXaDRYUFJvc1F1OHBmQjltdHRjTlZFN3U2OFFQanZyN3JzN3FIR0ZZemVLZEJ0TXFBb1MtVFVVMFBPT1FIeVdPWG5SNTlZai1KeGEzYXZNOHFtVGQ?oc=5)**
+> **2. [加拿大母亲起诉奥特曼与OpenAI，指控ChatGPT诱导女儿自杀](https://36kr.com/newsflashes/3852506866865414?f=rss)**
+> <small>36氪 · 国内</small>
+> 一名加拿大母亲于周四在美国法院起诉人工智能企业OpenAI及其首席执行官山姆・奥特曼，指控聊天机器人ChatGPT诱导其女儿走向自杀。近期已有多起诉讼指责该公司未能管控用户与聊天机器人之间的危险对话，本案是最新一例。这起诉讼提交至旧金山州法院。原告克里斯蒂・卡里尔表示，女儿艾丽斯离世前，曾十数次向ChatGPT倾诉自杀念头，但OpenAI的安全系统既未将相关对话标记并转交人工审核，也没有终止对话。OpenAI方面称，公司对模型进行过专项训练，当用户流露自残、自杀倾向时，模型…
+>
+> **3. [无问芯穹CTO李伯勋：卖Token不易 模型推理算力市场远未饱和 - 财新](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBERFJZTXVMTWdXaDRYUFJvc1F1OHBmQjltdHRjTlZFN3U2OFFQanZyN3JzN3FIR0ZZemVLZEJ0TXFBb1MtVFVVMFBPT1FIeVdPWG5SNTlZai1KeGEzYXZNOHFtVGQ?oc=5)**
 > <small>财新 · 国内 · 20:12</small>
 > 无问芯穹CTO李伯勋：卖Token不易 模型推理算力市场远未饱和 财新
 >
-> **3. [京铭资本领投千诀科技完成数亿元A轮融资，助推国内具身智能世界模型产业落地 - 证券时报](https://news.google.com/rss/articles/CBMiXEFVX3lxTE40TDNwdlIwdkNLakZqaTd2elgxNWJoN2F4Y095NWMxSHlWRy1UdktwN0pTVHU0VHhQLWhpMGtvMG82cm9TR0FtWmJ4X0tpTUtZTUdzVy05b1B2VGVP?oc=5)**
-> <small>证券时报 · 国内 · 18:58</small>
-> 京铭资本领投千诀科技完成数亿元A轮融资，助推国内具身智能世界模型产业落地 证券时报
+> **4. [Amazon security research reportedly led to the White House’s Anthropic Fable ban](https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban)**
+> <small>The Verge · 国际 · 05:39</small>
+> According to the Wall Street Journal, the export control directive that led to Anthropic cutting off access to Fable 5 and Mythos 5 was triggered in part by cybersecurity research from Amazon and conversations between CEO Andy Jassy and th…
 >
-> **4. [OpenAI Files Confidentially for IPO as AI Companies Rush to Wall St.](https://www.nytimes.com/2026/06/08/technology/openai-ipo.html)**
+> **5. [Exclusive: Nvidia begins Vera CPU sales pitch to Chinese clients, sources say - Reuters](https://news.google.com/rss/articles/CBMirwFBVV95cUxPR2Z6dFV3WHhOamNSbFQ1VmxlNk5iNHR4bjJDdWE1d28tM3VEX01aOVVWMkNRYlZ3aUlQWXgxNi1VbGdtQ3FoNkY2MEZLSzZKZHBLcHFfNlhSTlhlYm5CbFNoaHdyOFM4UUVjQzIyU0o4VmNuaHo1cTg0cFgwSGdMdFctdGZCQnVwamdHZEdRQkJ5Umw0U1ZPTldxZ2ZRWE9Yc05xM2EtNFlwb1l5alBV?oc=5)**
+> <small>Reuters · 国际 · 14:19</small>
+> Exclusive: Nvidia begins Vera CPU sales pitch to Chinese clients, sources say Reuters
+>
+> **6. [OpenAI Files Confidentially for IPO as AI Companies Rush to Wall St.](https://www.nytimes.com/2026/06/08/technology/openai-ipo.html)**
 > <small>NYTimes Technology · 国际 · 05:58 · `可能需订阅`</small>
 > The company hopes to raise billions in a highly anticipated public offering that could unlock a new generation of tech industry wealth.
 >
-> **5. [Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI](https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/)**
-> <small>TechCrunch · 国际 · 10:26</small>
-> Anthropic isn't hiding its frustration. "We disagree that the finding of a narrow potential jailbreak should be cause for recalling a commercial model deployed to hundreds of millions of people," the company wrote in a blog post.
+> **7. [OpenAI faces investigation from state attorneys general](https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/)**
+> <small>TechCrunch · 国际 · 00:47</small>
+> It's not clear which states are involved, but they're asking about everything from OpenAI's ad policies to its handling of health data.
 >
-> **6. [Meta’s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it](https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/)**
-> <small>TechCrunch · 国际 · 07:00</small>
-> A new report suggests the unit, which employs 6,500 people, is on the verge of revolt.
+> **8. [State Attorneys General Are Investigating OpenAI](https://www.nytimes.com/2026/06/13/technology/states-investigating-openai.html)**
+> <small>NYTimes Technology · 国际 · 08:57 · `可能需订阅`</small>
+> OpenAI said that a coalition of states had opened an investigation over a wide range of its practices, including its handling of user data, safety of minors and advertising activities.
 >
-> **7. [Jeff Bezos’ AI startup aims to build an ‘artificial general engineer’](https://www.theverge.com/ai-artificial-intelligence/949005/jeff-bezos-prometheus-artificial-general-engineer)**
-> <small>The Verge · 国际 · 22:07</small>
-> Amazon founder Jeff Bezos says his new AI startup will work toward developing an "artificial general engineer," according to reports from The New York Times and CNBC. The startup, called Prometheus, aims to develop AI-powered engineering t…
->
-> **8. [Anthropic Blocks Foreigners From Using Mythos and Fable AI](https://www.nytimes.com/2026/06/12/technology/anthropic-mythos-fable5-blocked.html)**
-> <small>NYTimes Technology · 国际 · 11:48 · `可能需订阅`</small>
-> The company said on Friday night that the federal government had ordered limits on its Mythos and Fable 5 A.I. systems, citing national security concerns.
->
-> **9. [江丰电子：公司生产的先端存储芯片用高纯300mm硅靶已批量供货](https://36kr.com/newsflashes/3851370635334919?f=rss)**
+> **9. [SK海力士去年新增员工超2000人](https://36kr.com/newsflashes/3852722264101889?f=rss)**
 > <small>36氪 · 国内</small>
-> 36氪获悉，江丰电子在互动平台表示，公司是全球少数几家同时具备技术领先优势与规模化供应能力的高纯金属溅射靶材制造商。公司生产的先端存储芯片用高纯300mm硅靶已批量供货，超高纯钨靶、铜锰合金靶等高端品类已应用于先进存储芯片制造中，目前只有公司及头部跨国企业掌握了生产上述产品的核心技术。
+> 业内消息人士周日透露，受全球人工智能热潮推动，存储芯片需求激增，SK海力士去年新增员工超2000人。 在韩国整体就业市场放缓的大背景下，此次扩招尤为引人注目。 数据显示，截至2025年底，SK海力士员工总数达34549人，较上年增加2159人。 同期，三星电子旗下负责芯片业务的设备解决方案部门员工数量为78064人，较上年的78699人略有减少。 截至去年年底，两家科技巨头的芯片相关从业人员总计112613人，同比增加1554人。
 >
-> **10. [美格智能：存储芯片价格上涨成本在合理、有序向下游客户传导](https://36kr.com/newsflashes/3851282375971842?f=rss)**
-> <small>36氪 · 国内</small>
-> 36氪获悉，美格智能6月11日接受机构调研时表示，公司目前存货金额较大，其中很大部分是存储芯片备货。在存储芯片涨价早期，公司根据研发项目、订单情况，及对存储芯片行情预测，为保证客户订单顺利交付，进行了较大金额的战略备货，对后续产品利润有正面影响。存储芯片价格上涨成本，我们在合理、有序向下游客户传导，比如车载产品、海外运营商5G产品等，都进行了价格调整。
+> **10. [AI｜互动盲盒快闪卖出12万+，AI激活率40%，他要定义AI时代IP新品类：对话WakuArt树杨 - 36氪出海](https://news.google.com/rss/articles/CBMiRkFVX3lxTE0zV3pFU2t2Ulg2NEFaUjBVZ1BZT29EVTdONTE2Uno4bEFseFZpVmx1UGhkRGZ5NTcyWTRiMldUUGNOSnFGMWc?oc=5)**
+> <small>36氪出海 · 国内 · 17:41</small>
+> AI｜互动盲盒快闪卖出12万+，AI激活率40%，他要定义AI时代IP新品类：对话WakuArt树杨 36氪出海
 >
 
 > [!tip] 私募股权 / 投资市场
@@ -112,21 +112,21 @@
 > <small>PE Hub · 国际 · 21:39</small>
 > Early intervention is leading to more diagnoses in children of conditions that require speech therapy, fueling demand in the segment and catching the eye of private equity; discussing the largest life sciences IPO in the Toronto Stock Exch…
 >
-> **5. [Nestle's private equity partner exits bidding for Perrier business, Bloomberg News reports - Reuters](https://news.google.com/rss/articles/CBMivgFBVV95cUxQM0NXTzgyYjNsQWNNNWU0NHQyVWhtV2Q3NUdYc050eVgzZDZLcy1TZlQ2SFBwTS0tV215c1VJd0dIeXRnT3NDWHFfbjU4ZDRKT04xajMtcTdtMkVRYThPMVBKOEZsRFZpNW10WnBlRlBGOV9EeTZGbnVjcGgzbzFsRkd2b19BU2QyUDY1UlRQRk1IclNDUUFtcFVTbTd1VllaWGNETW1NOVdpQ3NhUE96aFQ4aVh4Z3h5elJVV1lB?oc=5)**
-> <small>Reuters · 国际 · 02:33</small>
-> Nestle's private equity partner exits bidding for Perrier business, Bloomberg News reports Reuters
->
-> **6. [Florida SBA considers rebalancing to reduce venture exposure](https://www.buyoutsinsider.com/florida-sba-considers-rebalancing-to-reduce-venture-exposure/)**
+> **5. [Florida SBA considers rebalancing to reduce venture exposure](https://www.buyoutsinsider.com/florida-sba-considers-rebalancing-to-reduce-venture-exposure/)**
 > <small>Buyouts · 国际 · 05:32</small>
 > Florida SBA is considering a number of rebalancing initiatives, including LP-led secondaries activity, in order to reduce its venture capital exposure.
 >
+> **6. [Carlyle targets $15bn for ninth flagship PE fund](https://www.altassets.net/premium/carlyle-targets-15bn-for-ninth-flagship-pe-fund.html)**
+> <small>AltAssets · 国际 · 18:40</small>
+> Carlyle Group has launched fundraising for its ninth flagship buyout fund with a target of approximately $15bn, matching the $14.8bn secured by its predecessor vehicle. According to Bloomberg, the firm outlined the ambition for Carlyle Par…
+>
 > **7. [京铭资本领投千诀科技完成数亿元A轮融资，助推国内具身智能世界模型产业落地 - 证券时报](https://news.google.com/rss/articles/CBMiXEFVX3lxTE40TDNwdlIwdkNLakZqaTd2elgxNWJoN2F4Y095NWMxSHlWRy1UdktwN0pTVHU0VHhQLWhpMGtvMG82cm9TR0FtWmJ4X0tpTUtZTUdzVy05b1B2VGVP?oc=5)**
-> <small>证券时报 · 国内 · 18:58</small>
+> <small>证券时报 · 国内 · 17:51</small>
 > 京铭资本领投千诀科技完成数亿元A轮融资，助推国内具身智能世界模型产业落地 证券时报
 >
-> **8. [独家 | 联手知名高校，天创资本成立了一支新基金 - 投中网](https://news.google.com/rss/articles/CBMibEFVX3lxTE1HTnJqZ3UyLTBKTXdmaVdBVENhWnV1UVlxS29laHhmOEhUUi1wbUNsMFQzd05qNFJIZHN1a0tLYlpna0kxWllRTlJmbmFmTDJLTDRVNFJ0aWs2VFhUQUdsWnBQRDkxR21BeTcxNw?oc=5)**
-> <small>投中网 · 国内 · 14:25</small>
-> 独家 | 联手知名高校，天创资本成立了一支新基金 投中网
+> **8. [长鑫科技完成IPO注册 即将登陆A股 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE0tRFBCNmdiZHF5bEtyRWdLOU5saU9kbkhQWHRCTFFUMDM2T0VJRWlHaEZTRkN2NzFabVp3RF9JejNHSVo5RzhQMWZHcTgxcWNzWWZwS011X2MyWUtLdGJ0Y1NB?oc=5)**
+> <small>财新 · 国内 · 20:26</small>
+> 长鑫科技完成IPO注册 即将登陆A股 财新
 >
 > **9. [科创企业IPO助推港股升温 瑞银如何展望下半年发展？ - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBfN2lPYnh4ZHFabWp1Wk9FN2xzUDZVdFBhOEtyYWV4WjRZRzdTQnh1QVJ1ZV9sLTNTZnQ0X1FpNXFzY3BrYU9WNkdDT2hGbGhCcTNsRm1nNmhhbjcyMkpEWlVR?oc=5)**
 > <small>财新 · 国内 · 18:12</small>
