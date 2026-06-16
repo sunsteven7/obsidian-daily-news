@@ -27,7 +27,7 @@ jobs:
       - name: Generate daily news
         run: python3 daily_news_digest_cloud.py
 
-       - name: Commit generated news
+      - name: Commit generated news
         run: |
           git config user.name "daily-news-bot"
           git config user.email "daily-news-bot@users.noreply.github.com"
@@ -35,3 +35,9 @@ jobs:
           git commit -m "Daily news $(TZ=Asia/Shanghai date +%F)" || echo "No changes to commit"
           git pull --rebase origin main
           git push
+
+      - name: Purge jsDelivr cache
+        run: |
+          curl -fsS "https://purge.jsdelivr.net/gh/sunsteven7/obsidian-daily-news@main/output/latest-daily-section.md" || true
+          curl -fsS "https://purge.jsdelivr.net/gh/sunsteven7/obsidian-daily-news@main/output/latest-news.md" || true
+          curl -fsS "https://purge.jsdelivr.net/gh/sunsteven7/obsidian-daily-news@main/output/latest-date.txt" || true
