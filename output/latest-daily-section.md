@@ -12,81 +12,81 @@
 > <small>Reuters · 国际 · 15:51</small>
 > Australia's richest person Rinehart takes $1 billion stake in SpaceX IPO, WSJ reports Reuters
 >
-> **2. [AI芯片公司燧原科技科创板IPO过会 2025年净亏损11.97亿元 - 财新](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1pRzl1Z29KeERNQkdIUE0tOTVCV1BOUVRfaExERmU1cVVzSEFJNUhPTUpLZXNOaV9EZXVGTUs3RG1mMTRmS3pkVEtYZlBIYUQwdjBHSjRBQmpyeVp1Sk5yclVsdm0?oc=5)**
+> **2. [JPMorgan mulls Chase expansion into Europe's largest markets, FT reports - Reuters](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNS2dqUWtMb1JQUklRNFlmM1FCSVU0VW9qQ25kV0ZFUWl0SW13OFhpUDhucVhaYjNmTWVnNkZzUnhoYTliTTlWbnBwcEp1Ykc5QmlRTkw2eVBaSFVLbkczRnVMM240OHBxWHZjQmh3NWVWRzFLRU5sYW9VX05XSS1ET3k5ckV3ZVFmWEdGNXZsYzlQcUhfVGVJV05EOXZGUXhDcHpyTnIweUZPTXZpUkdWc0JNVnRFODlLX1Q5dVV0eE0?oc=5)**
+> <small>Reuters · 国际 · 12:18</small>
+> JPMorgan mulls Chase expansion into Europe's largest markets, FT reports Reuters
+>
+> **3. [AI芯片公司燧原科技科创板IPO过会 2025年净亏损11.97亿元 - 财新](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1pRzl1Z29KeERNQkdIUE0tOTVCV1BOUVRfaExERmU1cVVzSEFJNUhPTUpLZXNOaV9EZXVGTUs3RG1mMTRmS3pkVEtYZlBIYUQwdjBHSjRBQmpyeVp1Sk5yclVsdm0?oc=5)**
 > <small>财新 · 国内 · 22:06</small>
 > AI芯片公司燧原科技科创板IPO过会 2025年净亏损11.97亿元 财新
 >
-> **3. [SpaceX IPO leaves retail investors with too few shares and a tough hold-or-sell decision](https://www.cnbc.com/2026/06/15/spacex-ipo-leaves-retail-investors-with-too-few-shares-and-a-tough-hold-or-sell-decision.html)**
-> <small>CNBC Finance · 国际 · 01:24</small>
-> Those who did receive stock are taking different approaches, with some selling into the company's market debut while others are holding for the long haul.
+> **4. [SpaceX IPO leaves retail investors with too few shares and a tough hold-or-sell decision](https://www.cnbc.com/2026/06/15/spacex-ipo-leaves-retail-investors-with-too-few-shares-and-a-tough-hold-or-sell-decision.html)**
+> <small>CNBC Finance · 国际 · 20:51</small>
+> Those who did receive stock are taking different approaches, with some selling into the company's market debut while others holding for the long haul.
 >
-> **4. [Hong Kong's IPO boom is developing a performance problem](https://www.cnbc.com/2026/06/08/hong-kongs-ipo-boom-is-developing-a-performance-problem.html)**
+> **5. [Hong Kong's IPO boom is developing a performance problem](https://www.cnbc.com/2026/06/08/hong-kongs-ipo-boom-is-developing-a-performance-problem.html)**
 > <small>CNBC Finance · 国际 · 08:44</small>
 > As Hong Kong vies with Wall Street to be the top IPO market, a growing number of pre-debut runups turn sour after their listing.
 >
-> **5. [Cautious of U.S.-Iran Deal, Shipping Firms Await Strait to Reopen](https://www.nytimes.com/2026/06/15/business/us-iran-deal-shipping-companies-strait-of-hormuz.html)**
-> <small>NYTimes Business · 国际 · 23:18 · `可能需订阅`</small>
-> Shipowners welcomed the agreement to reopen the Strait of Hormuz, but said they would need more security guarantees before resuming transits.
+> **6. [Big Questions for Warsh as New Era for the Fed Begins](https://www.nytimes.com/2026/06/16/business/dealbook/warsh-fed-questions.html)**
+> <small>NYTimes Business · 国际 · 19:44 · `可能需订阅`</small>
+> Interest rates, inflation, independence are among the challenges the new chairman of the Federal Reserve faces as the central bank’s policymakers meet.
 >
-> **6. [Financial Security (FinSec) Series with Dr. Philip Takyi: Series #063: Wall Street Crosses the Rubicon: NYSE’s on-chain revolution and the rise of 24/7 tokenised capital markets -…](https://news.google.com/rss/articles/CBMirwJBVV95cUxOOVhnd1VCUWZqR0JDZWtaV01RUTdHNnBxV2tkU2MyM2VyMFlwQzhQNXdqX0V5NnJDdVhzQl9lUzI1YzRCVnczVEpNQXVLVWQyaWdPTDZBVUMzVklWdExBSU1TbDVjWFIxVUNpVG9waDNkYVZBR1Zhb3VQSFdjUTJ2TUhycEJGWFFHZ0hEV2FnUUpyd2V3WVRBVWlKamtxWWZ1SUl0RkFoWldoUS1ITE9wZFJmU0RtRDNtSU5aUUF2TTExNWJWeVdnMGZ6OWgtbXM2dFo2M3htdGNvbVBjaTdCcUNMMmViQTBnT08tYmlpeWFHc3hhLXVVYUZYZG1QVkJrQnY4OE5WX2g5VVh2a2ZTNzhKUkYtVk1xelRIRFlFNTBxN1ZfbG5GNmpaaVUzUmM?oc=5)**
-> <small>The Business & Financial Times · 国际 · 20:01 · `可能需订阅`</small>
-> Financial Security (FinSec) Series with Dr. Philip Takyi: Series #063: Wall Street Crosses the Rubicon: NYSE’s on-chain revolution and the rise of 24/7 tokenised capital markets The Business & Financial Times
+> **7. [Jardine Matheson, titan of Asian commerce, pivots to developed markets - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxPa3REdW04cHQxQW1PRVZqTkl1R3piZmNvMGN3TC1zRUhiRlVMZng0NGc5V2IyNHFaT04tdHVvWXNoR1FlYk0zOVd1Z2xxQjJnVENxZGFtWWROM01yRlczYUtORUJuaW5Ra0hTRDdjQXVBNzZlTlUxLThkWFhrTmRmQ3VyQTE?oc=5)**
+> <small>Financial Times · 国际 · 13:58 · `可能需订阅`</small>
+> Jardine Matheson, titan of Asian commerce, pivots to developed markets Financial Times
 >
-> **7. [最新财新周刊｜SpaceX：全球最大IPO登陆 - 财新周刊](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5iRXJ4TlJvZG5hb1dzaVlabUcxeHdxSENybVBJTlNkYjg2Ti1nOXUyZ0ltRDdmSk90SElnNndMVDZ2eGFPT0luUTFXcjFtZ0FkcTN0MGVqa0xtSWtrRVh1Ng?oc=5)**
+> **8. [最新财新周刊｜SpaceX：全球最大IPO登陆 - 财新周刊](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5iRXJ4TlJvZG5hb1dzaVlabUcxeHdxSENybVBJTlNkYjg2Ti1nOXUyZ0ltRDdmSk90SElnNndMVDZ2eGFPT0luUTFXcjFtZ0FkcTN0MGVqa0xtSWtrRVh1Ng?oc=5)**
 > <small>财新周刊 · 国内 · 18:58 · `可能需订阅`</small>
 > 最新财新周刊｜SpaceX：全球最大IPO登陆 财新周刊
 >
-> **8. [{{最新周刊导播｜“反蒸馏”之战、AI答案污染、SpaceX最大IPO - 财新周刊](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9UdEVTRldMQW5jVUtvVE1RNUhEOTNacC1wMWl5d2hvdUNjLV84YU9kZmVjRmJWSGlLTi1EQVpJS0F5TXJWTDJBUk9tdUFDcmEyQzZSNUZKTUpFampwbXo0SA?oc=5)**
+> **9. [{{最新周刊导播｜“反蒸馏”之战、AI答案污染、SpaceX最大IPO - 财新周刊](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9UdEVTRldMQW5jVUtvVE1RNUhEOTNacC1wMWl5d2hvdUNjLV84YU9kZmVjRmJWSGlLTi1EQVpJS0F5TXJWTDJBUk9tdUFDcmEyQzZSNUZKTUpFampwbXo0SA?oc=5)**
 > <small>财新周刊 · 国内 · 17:21 · `可能需订阅`</small>
 > {{最新周刊导播｜“反蒸馏”之战、AI答案污染、SpaceX最大IPO 财新周刊
 >
-> **9. [How Wall Street pulled off the biggest IPO in history for SpaceX - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxPTVJBTFR3RUwwQm90bHkzcF9xcEpxN3pPNHdRUjZsNlJ3dnFoNURNQnJfWlFId1lhU2FRY3JVTEVRQ2lUNGRfR05Ya2ZvRHU1a0RIQUEwT1Q0eVo3VVU5a0gzeWVlNXRpV29vUms0YzZxbDdZTzd6TVNtVmhoYUZXN3pEbG0?oc=5)**
-> <small>Financial Times · 国际 · 18:00 · `可能需订阅`</small>
-> How Wall Street pulled off the biggest IPO in history for SpaceX Financial Times
->
-> **10. [智谱盘中一度涨近48% 新模型GLM-5.2已全量开放 - 财新](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1sU1NtTEZlUlZmU3l4UXZ6OUhVRGRTY3RJZ2VzbVVCVHdfRktwcEc3c0UzaGp4MjQ1WTdnSEZ4eHRCNWd2Ny1NODlKRHh3bWZQVnFaSkFUeGprc013TEFITFhEMmM?oc=5)**
-> <small>财新 · 国内 · 13:44</small>
-> 智谱盘中一度涨近48% 新模型GLM-5.2已全量开放 财新
+> **10. [别再苛求贷款量了 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5heFRoRHI3Z0JiaXpRUTU4NXd3X3hISm10N1QyY1hnc1lGYmRIQ0tNOVB5dkRWTzRfcEp0anBHN0l2Q09HcUl0Y2JjRWR5eGg2dnNHTGQ0c1lJb05qSnRmMG1B?oc=5)**
+> <small>财新 · 国内 · 17:19</small>
+> 别再苛求贷款量了 财新
 >
 
 > [!example] 科技 / AI
 > 10/10 · 国内 4 / 国际 6
 >
-> **1. [Google DeepMind is worried about what happens when millions of agents start to interact](https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/)**
-> <small>MIT Technology Review · 国际 · 19:00</small>
-> Google DeepMind is funding research into the potential dangers of situations where millions of different AI agents interact with each other online. According to Rohin Shah, who directs the company’s AGI safety and alignment research, the m…
+> **1. [Why do South Koreans love AI so much?](https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/)**
+> <small>MIT Technology Review · 国际 · 02:46</small>
+> This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. When I landed in Seoul after a grueling 12-hour flight from San Francisco, I walked through an unmann…
 >
-> **2. [AI周报 | DeepSeek-V4发布，国产芯片加持；谷歌将投资Anthropic至多400亿美元 - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTE4xVWU2d21wOVoxaWhFTFJOcmpEMEZIZWNNV0ZibHdlcGZCQTZSTzR1dE1BcGI5MlhSZ0tsVGxYQ1lOTlNtYzZ0aFl5a3ZwOEZWN29V?oc=5)**
+> **2. [Want to get a data center online quickly? Give it some flex. - MIT Technology Review](https://news.google.com/rss/articles/CBMinwFBVV95cUxNR3l6cGlQbUQwWlpDWFJPRjBUZXJzOXVXSFBGUUdQMXh0OExSQjhBWEU4U3ktNFlIeEhPLWVhb1FDb3IwM3pQQlZIR20zWk42OFZ4b2ZSY2R2YjNJTXlxLTNkNC1SQ2RseDZqNGpvUkwtd01aR3paWTRncmJwbWo5RWdqYlpGMkZGc2VPUWZlR0ZWSmlNSHpvaGpHQ3lMa1nSAaQBQVVfeXFMTWhweGF6RXBvUmdTakxOMzdLdlhPcmI0cWt2eHJzc0dtRDMwR1Z6cnJfa3U3SmJ4aVZCdXB2b0ZQM0tZMDVTRzJpeFFRTC0tQm45c2htSEhCMURvUWdUdzMtOUltMkZBemJNSzlMWVJoampQX2xGaXJEQ3dUeHpQT2ZrT2pTcXlDNS1ya1BEa1JHVmJkZWVyeUk2WDhjekI1TTQ4R2s?oc=5)**
+> <small>MIT Technology Review · 国际 · 17:00</small>
+> Want to get a data center online quickly? Give it some flex. MIT Technology Review
+>
+> **3. [AI周报 | DeepSeek-V4发布，国产芯片加持；谷歌将投资Anthropic至多400亿美元 - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTE4xVWU2d21wOVoxaWhFTFJOcmpEMEZIZWNNV0ZibHdlcGZCQTZSTzR1dE1BcGI5MlhSZ0tsVGxYQ1lOTlNtYzZ0aFl5a3ZwOEZWN29V?oc=5)**
 > <small>第一财经 · 国内 · 08:39</small>
 > AI周报 | DeepSeek-V4发布，国产芯片加持；谷歌将投资Anthropic至多400亿美元 第一财经
 >
-> **3. [OpenAI Files Confidentially for IPO as AI Companies Rush to Wall St.](https://www.nytimes.com/2026/06/08/technology/openai-ipo.html)**
-> <small>NYTimes Technology · 国际 · 05:58 · `可能需订阅`</small>
-> The company hopes to raise billions in a highly anticipated public offering that could unlock a new generation of tech industry wealth.
->
-> **4. [硬氪首发 | 海洋具身智能公司「世航智能」拿下创纪录10亿融资，朱啸虎押注](https://36kr.com/p/3853011900142848?f=rss)**
+> **4. [融了数亿美金的「大晓机器人」，其创始人揭开了具身行业的割裂一面](https://36kr.com/p/3855262364488969?f=rss)**
 > <small>36氪 · 国内</small>
-> 作者 | 邱晓芬 编辑 | 袁斯来 硬氪获悉，海洋具身智能公司「世航智能」完成A轮融资，融资金额超过10亿元，这也是目前全球海洋机器人领域规模最大的单轮融资。本轮融资由两家芯片公司「摩尔线程」和「昆仑芯」的产业投资方上河动量基金、新加坡国有投资平台Vertex Growth 、上市公司大洋电机等资方出资。 另外，金沙江创投也在本轮追加投资，这已是其创始人朱啸虎第五轮投资「世航智能」，祥峰中国、华映资本、长石资本等老股东亦全部超额跟投。 「世航智能」创始人兼CEO陈晓博为19…
+> 文｜周鑫雨 编辑｜张雨忻 梳理近半年的成果，大晓机器人董事长、商汤科技联合创始人王晓刚，滔滔不绝聊了10多分钟。 成立于2025年7月，大晓机器人（ACE ROBOTICS）是具身领域姗姗来迟的入局者。但一年来，这位新玩家成了赛道的“卷王”： 在模型侧，大晓新发布的具身大脑——世界模型“开悟（Kairos）3.0”，在4项全球具身智能基准测试中取得SOTA；开源的Kairos 3.0-4B，则率先实现在端侧直接驱动具身智能本体的能力。 △Kairos3.0在4个世界模型生成…
 >
-> **5. [State Attorneys General Are Investigating OpenAI](https://www.nytimes.com/2026/06/13/technology/states-investigating-openai.html)**
+> **5. [硬氪首发 | 海洋具身智能公司「世航智能」拿下创纪录10亿融资，朱啸虎押注](https://36kr.com/p/3853011900142848?f=rss)**
+> <small>36氪 · 国内</small>
+> 作者 | 邱晓芬 编辑 | 袁斯来 硬氪获悉，海洋具身智能公司「世航智能」完成A轮融���，融资金额超过10亿元，这也是目前全球海洋机器人领域规模最大的单轮融资。本轮融资由两家芯片公司「摩尔线程」和「昆仑芯」的产业投资方上河动量基金、新加坡国有投资平台Vertex Growth 、上市公司大洋电机等资方出资。 另外，金沙江创投也在本轮追加投资，这已是其创始人朱啸虎第五轮投资「世航智能」，祥峰中国、华映资本、长石资本等老股东亦全部超额跟投。 「世航智能」创始人兼CEO陈晓博为…
+>
+> **6. [State Attorneys General Are Investigating OpenAI](https://www.nytimes.com/2026/06/13/technology/states-investigating-openai.html)**
 > <small>NYTimes Technology · 国际 · 08:57 · `可能需订阅`</small>
 > OpenAI said that a coalition of states had opened an investigation over a wide range of its practices, including its handling of user data, safety of minors and advertising activities.
 >
-> **6. [‘Tell Him He’s a Piece of Shit’: Meta’s New AI Unit Is a Total Mess - WIRED](https://news.google.com/rss/articles/CBMihgFBVV95cUxPRXotU214OGVnc1BwSW5QTENCTlByR1BiUlBOTkVNNnJUNEV0dE1KT2FCT3RyYW9xdVV4NDFOMUlwVWl5OWMtTXJ1bmw0N0RuT2o2V3dLUWFOcWNUOUtfMmtESF9MdkhRSG1Qb2x4eFlDT2FRLU5jNndQdWxXSWc4amFvT1JyZw?oc=5)**
-> <small>WIRED · 国际 · 05:16</small>
-> ‘Tell Him He’s a Piece of Shit’: Meta’s New AI Unit Is a Total Mess WIRED
+> **7. [Plaud says its software business topped $100M in ARR after shipping over 2M AI notetakers](https://techcrunch.com/2026/06/16/plaud-says-its-software-business-topped-100m-in-arr-after-shipping-over-2m-ai-notetakers/)**
+> <small>TechCrunch · 国际 · 23:00</small>
+> Plaud is trying to make a mark in a crowded market full of AI-powered meeting notetakers.
 >
-> **7. [Big Tech’s desperate last push at AI regulation](https://www.theverge.com/policy/949970/ai-regulation-child-safety-kosa-congress)**
-> <small>The Verge · 国际 · 01:44</small>
-> For months, Big Tech's Washington lobbyists have chased after the holy grail of pro-AI legislation: preemption. This would be a comprehensive federal law, passed in Congress and signed by the president, applying one set of AI rules across…
+> **8. [Robinhood’s note on 10% layoffs shows blaming AI isn’t cutting it](https://techcrunch.com/2026/06/16/robinhoods-note-on-10-layoffs-shows-blaming-ai-isnt-cutting-it/)**
+> <small>TechCrunch · 国际 · 22:50</small>
+> Unlike many of his tech industry peers who have cut thousands of jobs citing the need to restructure to make the most of AI, Robinhood's CEO Vlad Tenev conspicuously made no mention of AI in his note about layoffs.
 >
-> **8. [Salesforce acquires AI customer service platform Fin for $3.6 billion](https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/)**
-> <small>TechCrunch · 国际 · 22:34</small>
-> Salesforce says it wants to use Fin's team and technology to improve Agentforce, its existing enterprise platform that businesses can use to build custom AI agents that automate tasks.
->
-> **9. [云南锗业：公司股价存在非理性炒作风险](https://36kr.com/newsflashes/3854370547291392?f=rss)**
-> <small>36氪 · 国内</small>
-> 36氪获悉，云南锗业公告，公司的市盈率和市净率显著高于同行业平均水平，存在市场情绪过热、非理性炒作风险。截至目前，公司主要业务为锗系列产品的精深加工及研究开发。2025年度公司营业收入10.66亿元，其中化合物半导体材料产品（包括砷化镓晶片、磷化铟晶片）营业收入约1.38亿元，占营业��入的比重为12.93%，占比较低，化合物半导体材料产品毛利仅占公司合并报表口径毛利的14.29%。请投资者充分关注磷化铟晶片价格涨跌趋势及未来供需关系变化均存在较大不确定性。
+> **9. [The Microsoft Surface Laptop 8 and Surface Pro 12 now come with Snapdragon X2 chips](https://www.theverge.com/tech/950146/microsoft-surface-laptop-8-surface-pro-12-snapdragon-x2-specs-price)**
+> <small>The Verge · 国际 · 10:31</small>
+> Microsoft is launching new Surface Laptops and a Surface Pro with Qualcomm Snapdragon X2 processors. These are direct follow-ups to the Surface Laptops and Surface Pro from 2024 that launched with Snapdragon X1 chips and jumpstarted Micros…
 >
 > **10. [AI｜互动盲盒快闪卖出12万+，AI激活率40%，他要定义AI时代IP新品类：对话WakuArt树杨 - 36氪出海](https://news.google.com/rss/articles/CBMiRkFVX3lxTE0zV3pFU2t2Ulg2NEFaUjBVZ1BZT29EVTdONTE2Uno4bEFseFZpVmx1UGhkRGZ5NTcyWTRiMldUUGNOSnFGMWc?oc=5)**
 > <small>36氪出海 · 国内 · 17:41</small>
@@ -108,29 +108,29 @@
 > <small>Buyouts · 国际 · 02:46</small>
 > Private equity is expected to continue serving an important role in the overall portfolio of the pension, which is switching to a total portfolio approach in July.
 >
-> **4. [Florida SBA considers rebalancing to reduce venture exposure](https://www.buyoutsinsider.com/florida-sba-considers-rebalancing-to-reduce-venture-exposure/)**
-> <small>Buyouts · 国际 · 05:32</small>
-> Florida SBA is considering a number of rebalancing initiatives, including LP-led secondaries activity, in order to reduce its venture capital exposure.
+> **4. [Apax preps Oncourse for sale, sources say; Lead Edge Capital acquires Elektrik; A look at PE’s bet on data center build-out](https://www.pehub.com/apax-preps-oncourse-for-sale-sources-say-lead-edge-capital-acquires-elektrik-a-look-at-pes-bet-on-data-center-build-out/)**
+> <small>PE Hub · 国际 · 21:57</small>
+> Apax Partners’ portfolio company that provides residential home warranty and repair claims services is expected to come up for sale this year; insights from Aaron Darr, a principal at Lead Edge Capital, on his firm's acquisition of Elektri…
 >
-> **5. [Carlyle targets $15bn for ninth flagship PE fund](https://www.altassets.net/premium/carlyle-targets-15bn-for-ninth-flagship-pe-fund.html)**
-> <small>AltAssets · 国际 · 18:40</small>
-> Carlyle Group has launched fundraising for its ninth flagship buyout fund with a target of approximately $15bn, matching the $14.8bn secured by its predecessor vehicle. According to Bloomberg, the firm outlined the ambition for Carlyle Par…
+> **5. [Teleo-backed Flatirons acquires enterprise AI platform Scope AR](https://www.pehub.com/teleo-backed-flatirons-acquires-enterprise-ai-platform-scope-ar/)**
+> <small>PE Hub · 国际 · 22:54</small>
+> Headquartered in Boulder, Flatirons provides a technical content and task management platform that helps aerospace, aviation, MRO, and defense organizations create, manage, and deliver complex procedures. The post Teleo-backed Flatirons ac…
 >
-> **6. [京铭资本领投千诀科技完成数亿元A轮融资，助推国内具身智能世界模型产业落地 - 证券时报](https://news.google.com/rss/articles/CBMiXEFVX3lxTE40TDNwdlIwdkNLakZqaTd2elgxNWJoN2F4Y095NWMxSHlWRy1UdktwN0pTVHU0VHhQLWhpMGtvMG82cm9TR0FtWmJ4X0tpTUtZTUdzVy05b1B2VGVP?oc=5)**
+> **6. [Partners Group denies rumor about freezing evergreen funds](https://www.buyoutsinsider.com/partners-group-denies-rumor-about-freezing-evergreen-funds/)**
+> <small>Buyouts · 国际 · 04:33</small>
+> Partners Group states "their portfolios are healthy and they have sufficient liquidity in line with the target allocations."
+>
+> **7. [京铭资本领投千诀科技完成数亿元A轮融资，助推国内具身智能世界模型产业落地 - 证券时报](https://news.google.com/rss/articles/CBMiXEFVX3lxTE40TDNwdlIwdkNLakZqaTd2elgxNWJoN2F4Y095NWMxSHlWRy1UdktwN0pTVHU0VHhQLWhpMGtvMG82cm9TR0FtWmJ4X0tpTUtZTUdzVy05b1B2VGVP?oc=5)**
 > <small>证券时报 · 国内 · 18:58</small>
 > 京铭资本领投千诀科技完成数亿元A轮融资，助推国内具身智能世界模型产业落地 证券时报
 >
-> **7. [Morgan Stanley closes deal to exit Brazos Delaware II for $1.6bn](https://www.pehub.com/morgan-stanley-closes-deal-to-exit-brazos-delaware-ii-for-1-6bn/)**
-> <small>PE Hub · 国际 · 00:46</small>
-> The purchase price of $1.6 billion represents an 8x EBITDA multiple based on projected 2027 EBITDA The post Morgan Stanley closes deal to exit Brazos Delaware II for $1.6bn appeared first on PE Hub .
->
-> **8. [长鑫科技完成IPO注册 即将登陆A股 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE0tRFBCNmdiZHF5bEtyRWdLOU5saU9kbkhQWHRCTFFUMDM2T0VJRWlHaEZTRkN2NzFabVp3RF9JejNHSVo5RzhQMWZHcTgxcWNzWWZwS011X2MyWUtLdGJ0Y1NB?oc=5)**
-> <small>财新 · 国内 · 20:26</small>
-> 长鑫科技完成IPO注册 即将登陆A股 财新
->
-> **9. [科创企业IPO助推港股升温 瑞银如何展望下半年发展？ - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBfN2lPYnh4ZHFabWp1Wk9FN2xzUDZVdFBhOEtyYWV4WjRZRzdTQnh1QVJ1ZV9sLTNTZnQ0X1FpNXFzY3BrYU9WNkdDT2hGbGhCcTNsRm1nNmhhbjcyMkpEWlVR?oc=5)**
+> **8. [科创企业IPO助推港股升温 瑞银如何展望下半年发展？ - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBfN2lPYnh4ZHFabWp1Wk9FN2xzUDZVdFBhOEtyYWV4WjRZRzdTQnh1QVJ1ZV9sLTNTZnQ0X1FpNXFzY3BrYU9WNkdDT2hGbGhCcTNsRm1nNmhhbjcyMkpEWlVR?oc=5)**
 > <small>财新 · 国内 · 18:12</small>
 > 科创企业IPO助推港股升温 瑞银如何展望下半年发展？ 财新
+>
+> **9. [滴滴领投，深朴智能完成数亿元 Pre-A 轮融资 - 投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBiTDRESjFJXzhBNWt2a1lwclRYOXpPdGV4Y1NOeTh5QjRSNHZFaUM3YlNsb2ROUTJ3QXlwVTBmR1RaS0pLaVk2RzZYUGUxc0JLYXZ2LVFn?oc=5)**
+> <small>投资界 · 国内 · 14:36</small>
+> 滴滴领投，深朴智能完成数亿元 Pre-A 轮融资 投资界
 >
 > **10. [「微眸医疗」完成近亿元A轮融资，元航资本领投 - 投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9PWDNSQmw2NlZlemNGVXBpY2lDOUVKd214SFFQVmY1dTBicmVqbDY5dFp3VERLZ3hreUVrNG91eUFtTTlYWm94TVVJM08ydDEtcmphYzZ3?oc=5)**
 > <small>投资界 · 国内 · 11:19</small>
