@@ -8,77 +8,77 @@
 > [!quote] 财经 / 金融
 > 10/10 · 国内 4 / 国际 6
 >
-> **1. [Markets are set for a much more hawkish Warsh Fed than expected](https://www.cnbc.com/2026/06/18/markets-are-set-for-a-much-more-hawkish-warsh-fed-than-expected.html)**
+> **1. [Charles Schwab working with Cboe to enter prediction market, WSJ reports - Reuters](https://news.google.com/rss/articles/CBMivgFBVV95cUxOQTZzOUJrYnpYelVWMFJyWkFaMWtDVnNUM0Q3RENwWDRTcWpIcW11dEN5bWFHVXFMT2xuYk4ybGl5Z2xxc0c4VGVkNm9zdVgyMDA5M3ZVeTlHRTRidU9VQWFBMUNxQnJWMGxGTDl2N0twYU1Qc3VhQTBKTEFFYWJGOWZSRXFyZGU5dlFqVFJoa3FETFVOZmdnNDBhcGFDcmpGbHpZdHcwOEN3OFQxb3JvSTNjbTFCUUZ0Y0FlMDZn?oc=5)**
+> <small>Reuters · 国际 · 01:55</small>
+> Charles Schwab working with Cboe to enter prediction market, WSJ reports Reuters
+>
+> **2. [Markets are set for a much more hawkish Warsh Fed than expected](https://www.cnbc.com/2026/06/18/markets-are-set-for-a-much-more-hawkish-warsh-fed-than-expected.html)**
 > <small>CNBC Finance · 国际 · 02:04</small>
 > Fed Chairman Kevin Warsh's tough talk on inflation Wednesday reverberated through financial markets.
 >
-> **2. [Warsh’s Hawkish Turn Has Scrambled the Math on Rates](https://www.nytimes.com/2026/06/18/business/dealbook/warsh-fed-rates.html)**
+> **3. [Warsh’s Hawkish Turn Has Scrambled the Math on Rates](https://www.nytimes.com/2026/06/18/business/dealbook/warsh-fed-rates.html)**
 > <small>NYTimes Business · 国际 · 20:01 · `可能需订阅`</small>
 > The futures market now sees at least one interest rate increase this year, as the Federal Reserve’s new leader, Kevin Warsh, vows to fight inflation.
 >
-> **3. [智谱科创板IPO辅导验收 新模型刺激市值破8800亿港元 - 财新](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBBdWdURUcxS1EzNUhralZQRmN4eHZDU3JxRlBfZ1gzenRNWmlkMHdYbTVlclBOcVE4RktPUS1hRDlrcjZaYVJCWnRsQkNRSzhPR1hCSnpSV3V5NnZRV2hjajY2WVM?oc=5)**
-> <small>财新 · 国内 · 15:40</small>
-> 智谱科创板IPO辅导验收 新模型刺激市值破8800亿港元 财新
->
-> **4. [Fed Meeting Live Updates: Kevin Warsh to Address U.S. Economy as Fed Holds Interest Rates Steady](https://www.nytimes.com/2026/06/17/business/federal-reserve-meeting-warsh.html)**
-> <small>NYTimes Business · 国际 · 06:01 · `可能需订阅`</small>
-> Officials at the Federal Reserve were split between no cuts this year and one or more rate increases as they braced for higher inflation, according to a new set of projections.
->
-> **5. [The riskiest SpaceX stock trade of all had a big first week](https://www.cnbc.com/2026/06/19/spacex-stock-risk-buy-sell.html)**
+> **4. [The riskiest SpaceX stock trade of all had a big first week](https://www.cnbc.com/2026/06/19/spacex-stock-risk-buy-sell.html)**
 > <small>CNBC Finance · 国际 · 23:53</small>
 > SpaceX's IPO did not just mint the biggest debut in market history and a trillionaire, but it also triggered a historic land grab in risky leveraged ETFs.
+>
+> **5. [Inflation Will Linger Despite U.S.-Iran Deal, British Officials Warn](https://www.nytimes.com/2026/06/18/business/uk-inflation-bank-of-england.html)**
+> <small>NYTimes Business · 国际 · 18:49 · `可能需订阅`</small>
+> Bank of England policymakers kept interest rates on hold, saying the impact of the war in Iran was still a major source of uncertainty for the economy.
 >
 > **6. [Blavatnik’s DAZN overhauls structure for potential new equity or IPO - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxPZF9qU05xNFBvUHNMRDdjV2JoVk1oUU50UzBlbG92YjM2MmxTSk5jeGd6V1BmSVJ5VEJoMW9oNzYyamFsU1VoZVIzY0RHMk5oNE82ZVc0UGMydHhfRjRmdUNJb2VGcHBZVG04MVdYakNRTXdEaDZmaUNFMlJmVzU2cGJ6bDg?oc=5)**
 > <small>Financial Times · 国际 · 12:01 · `可能需订阅`</small>
 > Blavatnik’s DAZN overhauls structure for potential new equity or IPO Financial Times
 >
-> **7. [German electricity grid equipment maker SGB-SMIT in early IPO talks - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxOZFRCVGlaLTJTQy02YUxlVE5wZ1hwSEt4eVFJQ3F2cVdoNndXR0dBTnRwd0stcURXeTNSbFAtOTQ5Yi1LVzZLeEZqZjdsNWJETUdNYU1oOUJoZldGSTdtNk5pcFp3ZWl3bGRzelo4Y1BoNmRMYkhSQlMzOVlJUVdBYlVlQUM?oc=5)**
-> <small>Financial Times · 国际 · 12:00 · `可能需订阅`</small>
-> German electricity grid equipment maker SGB-SMIT in early IPO talks Financial Times
+> **7. [熊猫债市场快速扩容 全球融资货币前景广阔 - 财新](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1XYVdOa0xsbUVSZkhWWTdoajFOVWFfNnRMUEFZTnJTdXpFX09ZSklYNVBDckZkcnNBWVFsTTAyaTktUVNrVG1CNURSR0tBdUFsVGpmamQzcXduUjY3SG5F?oc=5)**
+> <small>财新 · 国内 · 17:37</small>
+> 熊猫债市场快速扩容 全球融资货币前景广阔 财新
 >
-> **8. [央行研究设立特定情景非银流动性支持工具 如何发挥作用？ - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE04TlJWZEZNNm9rQnFObmUyZ21haV9KSmltOTY1REU1eWc5YnhfUm11LUd3UXhYVmNJTXFzcmt2YmlwN0o2TjlXS2w3MFozWUtNRm83X0VRd0diNEFHeXVJaXpB?oc=5)**
-> <small>财新 · 国内 · 13:00</small>
-> 央行研究设立特定情景非银流动性支持工具 如何发挥作用？ 财新
+> **8. [缓解对中小企业拖欠 如何把握供应链金融的合理账期？ - 财新](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9HN2ZUNEREbDRVWHAyU3ZTUTZrZFhXSDIzUF9iTmQ1X0lsdVprWHhOei04S2tlemtaT3FhVUlkb2xMcGxxNE0yZHB1RDhCbnNSUnM4Z3pMZ0QyUHBNUVoyVw?oc=5)**
+> <small>财新 · 国内 · 08:18</small>
+> 缓解对中小企业拖欠 如何把握供应链金融的合理账期？ 财新
 >
-> **9. [香港证监会行政总裁：人民币是全球分散投资的重要选项 香港全力助推人民币国际化 - 第一财经](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBJdDJPd2YwYWRXY0gwOW1xbnNIcDFlM19vd2VMMjBvZHREQmdqU0Nodm1sZ0FPQmdKa2k1cnIwaDQxVXNoOGpZNjNKNm1DUnZQZ3c?oc=5)**
-> <small>第一财经 · 国内 · 18:36</small>
-> 香港证监会行政总裁：人民币是全球分散投资的重要选项 香港全力助推人民币国际化 第一财经
+> **9. [京东集团刘强东：机器人早晚替代快递员但是70万兄弟不能没饭吃技术不应该剥夺人工作的权利 - 第一财经](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9XS2dfLV9wNl9mTm1jVGVJOG1sZ3lJT0xlZkUySEw1QXFtX0NnbGVRLXY3VnFlWE5Lay1zOHNQOEN5eWZGM0JFeDZzOW1KWWNrMnRqRA?oc=5)**
+> <small>第一财经 · 国内 · 19:12</small>
+> 京东集团刘强东：机器人早晚替代快递员但是70万兄弟不能没饭吃技术不应该剥夺人工作的权利 第一财经
 >
-> **10. [意大利经济与财政部原部长：中国金融市场深度融入全球 上海将承担更核心职能 - 第一财经](https://news.google.com/rss/articles/CBMiVEFVX3lxTFB1dzZGQ081aWpCVWNSTW9Bc3ZaN1VDeWl5My1QMjB3eE9yamk4c0s5bnR4MmhFa3R0WVAyT21nemJXeG5mRTdGODBXV0VDNjdyMDdUOA?oc=5)**
-> <small>第一财经 · 国内 · 18:47</small>
-> 意大利经济与财政部原部长：中国金融市场深度融入全球 上海将承担更核心职能 第一财经
+> **10. [伦敦金融城主席：人民币国际化是中英合作标杆 双方合力做强离岸人民币市场 - 第一财经](https://news.google.com/rss/articles/CBMiVEFVX3lxTE42d0VtY05JRmNXVDZzN3JBTl90a3NpR0RZbTIySmtpdUNieEE3WFYzV3pGNjU4cXphbmZDZk1sOUdyeWNkMU9yaGxiVjFHLVZ0LVBTTA?oc=5)**
+> <small>第一财经 · 国内 · 00:48</small>
+> 伦敦金融城主席：人民币国际化是中英合作标杆 双方合力做强离岸人民币市场 第一财经
 >
 
 > [!example] 科技 / AI
 > 10/10 · 国内 3 / 国际 7
 >
-> **1. [A startup claims it broke through a bottleneck that’s holding back LLMs](https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/)**
+> **1. [GPT周报｜上交所发布大模型企业适用科创板第五套上市指引；Anthropic应美国政府要求关停大模型服务；微信支付打通AI智能体 - 财新](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9MZlFuYjd1eUlRdHRWN09kd2RZRWwyREJpQ20tQTVNRGlDdDVzTU16SEkzLTRmWjBOZUtsb1FGTXllajNuc2htQnhHNlhJeFY2TGc4NHJ0bDhhR2RvRjduWDBnTkI?oc=5)**
+> <small>财新 · 国内 · 21:06</small>
+> GPT周报｜上交所发布大模型企业适用科创板第五套上市指引；Anthropic应美国政府要求关停大模型服务；微信支付打通AI智能体 财新
+>
+> **2. [A startup claims it broke through a bottleneck that’s holding back LLMs](https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/)**
 > <small>MIT Technology Review · 国际 · 18:40</small>
 > Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language models for almost a decade. The details were thi…
->
-> **2. [Amazon hopes to challenge Nvidia more directly by selling its AI chips](https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/)**
-> <small>TechCrunch · 国际 · 02:22</small>
-> AWS is in talks to sell its chips to other data centers. CEO Andy Jassy has said this represents a $50 billion opportunity for the company.
 >
 > **3. [OpenAI is bringing on some big guns in the lead-up to its IPO](https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/)**
 > <small>TechCrunch · 国际 · 03:59</small>
 > OpenAI is bulking up before its IPO, landing Transformer co-inventor Noam Shazeer from Google DeepMind and former Trump AI policy official Dean Ball in the same week.
 >
-> **4. [The film about Sam Altman has been dropped by Amazon MGM](https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped)**
-> <small>The Verge · 国际 · 22:58</small>
-> Luca Guadagnino's film about OpenAI CEO Sam Altman, Artificial, has reportedly been dropped by Amazon MGM. The film, which stars Andrew Garfield and covers the rollercoaster five days in 2023 spanning Altman's termination and reinstatement…
+> **4. [AI cuts tech project times from years to months, says Deutsche Bank exec - Reuters](https://news.google.com/rss/articles/CBMitwFBVV95cUxONzhXVzZqUzl4OHBoUzdiclRYdHhDRVlBYnVQYnFQVkZMdDN1dkFYVTlUQXkxZWUwVHpMb2Ffd3dkT1BkaGU3elRRdmNrNXVyVlNfMk5wQjN5dGRXbFFZMFV4elJBdDZzUUlpR3pPWndKWm8yT1JrX1RLbXVvSVFiUVJ3cDhodWpTWHFuYkx5VUlqN09panIzeXB0bFo5a18yOHdUQnQ0ZmphaEdydTBDYjdNR0o3NUE?oc=5)**
+> <small>Reuters · 国际 · 02:58</small>
+> AI cuts tech project times from years to months, says Deutsche Bank exec Reuters
 >
-> **5. [3 Amazon Workers Say They’re Under Investigation for Speaking Out About Data Centers - WIRED](https://news.google.com/rss/articles/CBMirwFBVV95cUxNQWJ2aHNEeFBic202Unl5RUNJLTM1dGZ3VkYzQXE5a18tbDlIeXNFRDZVaFh1NTJna1NCMmxEb3FtRGhqRTBNSlprU1hGcHp3S3VSWnZpRUNkRFIyZVd2c1paM2c0U2NaMTc3eFVxRmd4djF3M0wtaHlSTEYyR3k1eFMwMTlyM25nQ3g0QmsyamJrbnlsdnhhTFdiSGplVlU5Q0MxcDdaN2FsbXlGMi00?oc=5)**
+> **5. [Go eyes robotaxis and acquisitions after Japan’s biggest IPO of 2026 — here’s why it matters](https://techcrunch.com/2026/06/19/go-eyes-robotaxis-and-acquisitions-after-japans-biggest-ipo-of-2026-heres-why-it-matters/)**
+> <small>TechCrunch · 国际 · 05:45</small>
+> Go's IPO — Japan's biggest so far this year — has done more than provide a much-needed boost to the country's languishing listing season. It has also supplied the taxi-hailing app with the capital required to address an existential issue:…
+>
+> **6. [3 Amazon Workers Say They’re Under Investigation for Speaking Out About Data Centers - WIRED](https://news.google.com/rss/articles/CBMirwFBVV95cUxNQWJ2aHNEeFBic202Unl5RUNJLTM1dGZ3VkYzQXE5a18tbDlIeXNFRDZVaFh1NTJna1NCMmxEb3FtRGhqRTBNSlprU1hGcHp3S3VSWnZpRUNkRFIyZVd2c1paM2c0U2NaMTc3eFVxRmd4djF3M0wtaHlSTEYyR3k1eFMwMTlyM25nQ3g0QmsyamJrbnlsdnhhTFdiSGplVlU5Q0MxcDdaN2FsbXlGMi00?oc=5)**
 > <small>WIRED · 国际 · 00:03</small>
 > 3 Amazon Workers Say They’re Under Investigation for Speaking Out About Data Centers WIRED
 >
-> **6. [Amazon Retaliated Against Workers Who Supported Regulating Data Centers, Complaint Says](https://www.nytimes.com/2026/06/18/technology/amazon-worker-retaliation-data-center-complaints.html)**
+> **7. [Amazon Retaliated Against Workers Who Supported Regulating Data Centers, Complaint Says](https://www.nytimes.com/2026/06/18/technology/amazon-worker-retaliation-data-center-complaints.html)**
 > <small>NYTimes Technology · 国际 · 06:05 · `可能需订阅`</small>
 > The employees encouraged limits on the complexes in a series of hearings in the tech giant’s hometown, Seattle.
->
-> **7. [“保健品一哥”汤臣倍健，跨界投资半导体公司 - 证券时报](https://news.google.com/rss/articles/CBMiXEFVX3lxTE95RGFtRUxEQUxuaXFNVFBpaFBzRGxWYU5ZbjlYME1fNTlwM1pYak5JRUVrendlZ2JKcy02OGpIRmV4aktXQXhHZjBoTTlHaHR5X0xRX0dVNVdqaWIz?oc=5)**
-> <small>证券时报 · 国内 · 20:46</small>
-> “保健品一哥”汤臣倍健，跨界投资半导体公司 证券时报
 >
 > **8. [The Cloud Has Sound: The Unrelenting and Unseen Cost of A.I. Data Centers](https://www.nytimes.com/2026/06/17/us/data-centers-noise-pollution.html)**
 > <small>NYTimes Technology · 国际 · 22:59 · `可能需订阅`</small>
@@ -112,29 +112,29 @@
 > <small>Buyouts · 国际 · 05:33</small>
 > The pension fund’s new strategy generated a 21.9% return over the past three years.
 >
-> **5. [EQT to acquire satellite deployment biz; JF Lehman’s FSG adds US nuclear navy exposure](https://www.pehub.com/eqt-to-acquire-satellite-deployment-biz-jf-lehmans-fsg-adds-us-nuclear-navy-exposure/)**
+> **5. [京铭资本领投千诀科技完成数亿元A轮融资，助推国内具身智能世界模型产业落地 - 证券时报](https://news.google.com/rss/articles/CBMiXEFVX3lxTE40TDNwdlIwdkNLakZqaTd2elgxNWJoN2F4Y095NWMxSHlWRy1UdktwN0pTVHU0VHhQLWhpMGtvMG82cm9TR0FtWmJ4X0tpTUtZTUdzVy05b1B2VGVP?oc=5)**
+> <small>证券时报 · 国内 · 15:00</small>
+> 京铭资本领投千诀科技完成数亿元A轮融资，助推国内具身智能世界模型产业落地 证券时报
+>
+> **6. [EQT to acquire satellite deployment biz; JF Lehman’s FSG adds US nuclear navy exposure](https://www.pehub.com/eqt-to-acquire-satellite-deployment-biz-jf-lehmans-fsg-adds-us-nuclear-navy-exposure/)**
 > <small>PE Hub · 国际 · 16:56</small>
 > Intertek agrees to £11 billion takeover by EQT. The post EQT to acquire satellite deployment biz; JF Lehman’s FSG adds US nuclear navy exposure appeared first on PE Hub .
 >
-> **6. [JFLCO-backed FSG acquires manufacturer Custom Alloy Corporation](https://www.pehub.com/jflco-backed-fsg-acquires-manufacturer-custom-alloy-corporation/)**
+> **7. [JFLCO-backed FSG acquires manufacturer Custom Alloy Corporation](https://www.pehub.com/jflco-backed-fsg-acquires-manufacturer-custom-alloy-corporation/)**
 > <small>PE Hub · 国际 · 01:43</small>
 > Headquartered in Sheffield, UK, FSG is a provider of high specification forgings for the aerospace, defense, and space end markets. The post JFLCO-backed FSG acquires manufacturer Custom Alloy Corporation appeared first on PE Hub .
 >
-> **7. [科创企业IPO助推港股升温 瑞银如何展望下半年发展？ - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBfN2lPYnh4ZHFabWp1Wk9FN2xzUDZVdFBhOEtyYWV4WjRZRzdTQnh1QVJ1ZV9sLTNTZnQ0X1FpNXFzY3BrYU9WNkdDT2hGbGhCcTNsRm1nNmhhbjcyMkpEWlVR?oc=5)**
+> **8. [七年四度IPO终上市！溜溜梅港股上市涨超180% 业内：首日涨幅大 短期或回调︱港股直通车 - 第一财经](https://news.google.com/rss/articles/CBMiVEFVX3lxTFBhVWhXTUhQX2xweDJJd2I0YUU2Y29EcG9ReHRQcjVFTEZneTR1SEJxX0s2SzRNczZtNXlUZzZCazljbGRLSmZDZllKLUFiaEZ1QU1BSg?oc=5)**
+> <small>第一财经 · 国内 · 02:37</small>
+> 七年四度IPO终上市！溜溜梅港股上市涨超180% 业内：首日涨幅大 短期或回调︱港股直通车 第一财经
+>
+> **9. [科创企业IPO助推港股升温 瑞银如何展望下半年发展？ - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBfN2lPYnh4ZHFabWp1Wk9FN2xzUDZVdFBhOEtyYWV4WjRZRzdTQnh1QVJ1ZV9sLTNTZnQ0X1FpNXFzY3BrYU9WNkdDT2hGbGhCcTNsRm1nNmhhbjcyMkpEWlVR?oc=5)**
 > <small>财新 · 国内 · 15:00</small>
 > 科创企业IPO助推港股升温 瑞银如何展望下半年发展？ 财新
 >
-> **8. [并购潮浪渐高，A股进入产业资本博弈时代丨资本观察 - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnbDM3M1ZkUnY5YVR0RUlxeHFoTHFUNV9QZ3dxVUJjS2xuWTVrSTd1VG96dFhYbnppbzhIQUw2X25OdC1GVnh3bVdiNldnczhodXpV?oc=5)**
-> <small>第一财经 · 国内 · 15:00</small>
-> 并购潮浪渐高，A股进入产业资本博弈时代丨资本观察 第一财经
->
-> **9. [觅蜂科技完成数亿元天使+轮融资，国方创投领投 - 投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1uNTUwWjNRc2hUcFkzcklvbjZTWDQ4WjhJNGFJOVItYkp0a05QWWFPSUpfMXdyVUE0d2JUTWdfRXdRemdWSjZaeFJZbFo1bEhNcjBXRFZn?oc=5)**
-> <small>投资界 · 国内 · 13:37</small>
-> 觅蜂科技完成数亿元天使+轮融资，国方创投领投 投资界
->
-> **10. [滴滴领投，深朴智能完成数亿元 Pre-A 轮融资 - 投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBiTDRESjFJXzhBNWt2a1lwclRYOXpPdGV4Y1NOeTh5QjRSNHZFaUM3YlNsb2ROUTJ3QXlwVTBmR1RaS0pLaVk2RzZYUGUxc0JLYXZ2LVFn?oc=5)**
-> <small>投资界 · 国内 · 14:36</small>
-> 滴滴领投，深朴智能完成数亿元 Pre-A 轮融资 投资界
+> **10. [SpaceX上市改变行业估值逻辑 国内企业需关注商业闭环 - 证券时报](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5TbW5nVVI4anFVY2VHc2M0bTIzd3R3bnRNNW5wZFVVaHd0NHo4SFVqZlBrNHFBb2JJdWRqQlJQN2xsYUpoZjR4VG9kLV9oMFZPSW45LUdocWdHNFll?oc=5)**
+> <small>证券时报 · 国内 · 15:00</small>
+> SpaceX上市改变行业估值逻辑 国内企业需关注商业闭环 证券时报
 >
 
 #daily-news
