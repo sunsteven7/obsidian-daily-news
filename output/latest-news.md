@@ -2,7 +2,7 @@
 type: daily-news
 date: 2026-06-23
 generated: true
-generated_at: 2026-06-23T01:57:12+08:00
+generated_at: 2026-06-23T19:44:03+08:00
 categories:
   - finance
   - tech-ai
@@ -24,85 +24,85 @@ tags:
 > <small>CNBC Finance · 国际 · 02:04</small>
 > Fed Chairman Kevin Warsh's tough talk on inflation Wednesday reverberated through financial markets.
 >
-> **2. [Warsh’s Hawkish Turn Has Scrambled the Math on Rates](https://www.nytimes.com/2026/06/18/business/dealbook/warsh-fed-rates.html)**
-> <small>NYTimes Business · 国际 · 20:01 · `可能需订阅`</small>
-> The futures market now sees at least one interest rate increase this year, as the Federal Reserve’s new leader, Kevin Warsh, vows to fight inflation.
+> **2. [高盛亚太区（除日本外）总裁施南德：Mega IPO影响AI投资？并不会， 全球资本仍在追逐科技突破！ - 第一财经](https://news.google.com/rss/articles/CBMiVEFVX3lxTFBDaXBMVWxOb0xvQnFyM0Z0VW5LdVd5Snh6UHdlQm1PRW1UTGtqakFkVmFOdVdqRU1FVkhkby0yZGNiUFc3VERseU1McVdhbWxnT1MyVg?oc=5)**
+> <small>第一财经 · 国内 · 18:35</small>
+> 高盛亚太区（除日本外）总裁施南德：Mega IPO影响AI投资？并不会， 全球资本仍在追逐科技突破！ 第一财经
 >
-> **3. [The riskiest SpaceX stock trade of all had a big first week](https://www.cnbc.com/2026/06/19/spacex-stock-risk-buy-sell.html)**
+> **3. [OpenAI pitches ChatGPT ads to Cannes marketers ahead of IPO - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxPQkM3SjFYLWoxaDQwR2FtN0xKVzVTZzFsRXFRWlR1OUNBdThOMHY1aHNPSzlPMkJabWl0TEFTU2g4WTZvaV8yVjRZRk03ZGYzU2UyTkFoWWhESjQ2TkJlWWdIcUZBLW04UnVFOHRsenMtaXU2UFk4eFdMYlVZZ1pXUjNZSTU?oc=5)**
+> <small>Financial Times · 国际 · 12:03 · `可能需订阅`</small>
+> OpenAI pitches ChatGPT ads to Cannes marketers ahead of IPO Financial Times
+>
+> **4. [The riskiest SpaceX stock trade of all had a big first week](https://www.cnbc.com/2026/06/19/spacex-stock-risk-buy-sell.html)**
 > <small>CNBC Finance · 国际 · 23:53</small>
 > SpaceX's IPO did not just mint the biggest debut in market history and a trillionaire, but it also triggered a historic land grab in risky leveraged ETFs.
 >
-> **4. [多只券商股封死涨停 “买券商等于买打折科技”？ - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE01X19nTkJVR21XNnV0ZGJ2N0FNTWJseWc0TEs4UTJGbmJFQ2ZqYzlxdHFYMHpVUndORHY5bUxjUnpIZHJ1S2pBaWVwTEg1MWZFT21fbUVNOG90MnlwNnVBT2lR?oc=5)**
+> **5. [Markets Recoil in Global Sell-Off Driven by Tech Stocks](https://www.nytimes.com/2026/06/23/business/stock-market-down-tech-ai-asia-sp500-oil-gas.html)**
+> <small>NYTimes Business · 国际 · 18:33 · `可能需订阅`</small>
+> Chipmakers led the way down in South Korea, where the main index plunged 10 percent. Stocks in Europe were lower and S&P 500 futures pointed to a sharp fall.
+>
+> **6. [POWER & LEADERSHIP: Institutions. Governance. Markets. - The Business & Financial Times](https://news.google.com/rss/articles/CBMijgFBVV95cUxQaDItVjRiTzBxcDRaMUMxeTRYeW14TjVUWnJ4dm5zM0kyWEUybzc4bHgtMVYtTTQtdVI4a2JEV2xIcVdfYkZkQVM2VUIwQ0xBN1BCSTAweWZPSE9QYU5JRzIyUlZpSXF6Wjd5QXU3UFM3czllSm1lTThTdVUyNmg5aWxYQl9qQ2k0dWoyR2RR?oc=5)**
+> <small>The Business & Financial Times · 国际 · 16:20 · `可能需订阅`</small>
+> POWER & LEADERSHIP: Institutions. Governance. Markets. The Business & Financial Times
+>
+> **7. [Renewable energy group to raise $3.6bn in China’s biggest IPO for 4 years - Financial Times](https://news.google.com/rss/articles/CBMicEFVX3lxTFA4WFdUYVk2T3JfWGZBcHFvVjlCUHVrNy16QkRqaFBOZENNQUJtdkNaS2ppcnAwQUFfc3E4MGVIMnRsamtRb01LYV9HTzd6dER5c0tBQl9tenBsSUVKNnBlMlZqYVlWTWsxQlltZzRvU3I?oc=5)**
+> <small>Financial Times · 国际 · 16:10 · `可能需订阅`</small>
+> Renewable energy group to raise $3.6bn in China’s biggest IPO for 4 years Financial Times
+>
+> **8. [从卖基金到全景财务规划顾问，如何转型 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5KVDZiWGFoZWhCb2djNy1USDBHMUZKNEZ0ZDl2RFFiYmozUy1CdUNMWmVzRU42eGd5YlcyVFNiUlVZVGx4bi1rNkFGTDZ1WHlNRFo0ZHNlcTN6dVdsTVF5X3N3?oc=5)**
+> <small>财新 · 国内 · 12:47</small>
+> 从卖基金到全景财务规划顾问，如何转型 财新
+>
+> **9. [多只券商股封死涨停 “买券商等于买打折科技”？ - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE01X19nTkJVR21XNnV0ZGJ2N0FNTWJseWc0TEs4UTJGbmJFQ2ZqYzlxdHFYMHpVUndORHY5bUxjUnpIZHJ1S2pBaWVwTEg1MWZFT21fbUVNOG90MnlwNnVBT2lR?oc=5)**
 > <small>财新 · 国内 · 22:19</small>
 > 多只券商股封死涨停 “买券商等于买打折科技”？ 财新
 >
-> **5. [Inflation Will Linger Despite U.S.-Iran Deal, British Officials Warn](https://www.nytimes.com/2026/06/18/business/uk-inflation-bank-of-england.html)**
-> <small>NYTimes Business · 国际 · 18:49 · `可能需订阅`</small>
-> Bank of England policymakers kept interest rates on hold, saying the impact of the war in Iran was still a major source of uncertainty for the economy.
->
-> **6. [Ireland says it can secure an EU capital markets deal this year - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxPYjlSQ0ZOdzdRMUdPYWxEUjhWd21PZlI1QjIwZnBhZWFaNm52ekJ6QUVGZnhkZ3N4ejd5bjR3TDFNWXVqZVo2a2g5SXRFQS1seWh1aUFVa3J5YW5uZnAtTS1DckloTkh6RUtKYWhSWFNNNFNGQ3Z4U2JpdmVFZ2tJQ0FoMGE?oc=5)**
-> <small>Financial Times · 国际 · 12:00 · `可能需订阅`</small>
-> Ireland says it can secure an EU capital markets deal this year Financial Times
->
-> **7. [欧央行率先加息全球货币政策转向？OpenAI要打Token价格战狙击Anthropic？涨价潮轮到半导体上游材料大硅片丨20260612从华尔街到陆家嘴 - 第一财经](https://news.google.com/rss/articles/CBMiVEFVX3lxTFBjZmxUM2gwa3dlSjk5YkFmSUM1T3JmVHJJeUZhaU8tcWJ3Q0kzTEJfZ1M4bmxNODNaTkVxaE01UG5TcXpIWFVJMTBCWnhiSGtGS2JLTw?oc=5)**
-> <small>第一财经 · 国内 · 11:35</small>
-> 欧央行率先加息全球货币政策转向？OpenAI要打Token价格战狙击Anthropic？涨价潮轮到半导体上游材料大硅片丨20260612从华尔街到陆家嘴 第一财经
->
-> **8. [Holiday bookings surge in markets hit by Iran crisis - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNUEtySDhBOWhGTTlLVHk2UW5pU3dGanpNdTd6bklmMmhpb0xnbU80dEU3Qy1ZaERnMkgzN0lOTTZQSWs0amdCbGlHN0VWNWk4Rk11WkRBR25fbXh1a3A2bm9SUXVEdWpEcnBQZ0d0S0FRZEN6SHZlbUVwOWRtaFFBQUNHTy0?oc=5)**
-> <small>Financial Times · 国际 · 12:00 · `可能需订阅`</small>
-> Holiday bookings surge in markets hit by Iran crisis Financial Times
->
-> **9. [智谱市值破万亿 中国版“Anthropic”估值成立么？ - 财新](https://news.google.com/rss/articles/CBMiZEFVX3lxTE84THhnSjFRMEpkSktxSmw0Wmg5bkI0c1RRcTk3N2RHWGhXd2FZd3JxbHBxNGY1LWRmQ0RUeEVLZmN2SjJmcDZVWGxDNC1pQlB0bUw1YXBjZ2txX1dHZC1iN3V5Nkk?oc=5)**
-> <small>财新 · 国内 · 21:15</small>
-> 智谱市值破万亿 中国版“Anthropic”估值成立么？ 财新
->
-> **10. [纸尿裤风波引发消费退潮：有家长跨省“买放心货”，涉事品牌销量承压 - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBjTkZaei1kNjhTSjA4SjNOMFB4VTVpWFBrbzdILTNEUWR4LVB2UWZ1cXB4bWVnbFg4MkpHMWE2SXM1Z1hWcWJVeG9naHQ2aGlGTWJF?oc=5)**
-> <small>第一财经 · 国内 · 01:18</small>
-> 纸尿裤风波引发消费退潮：有家长跨省“买放心货”，涉事品牌销量承压 第一财经
+> **10. [下周外盘看点丨美联储领衔央行超级周，中东战火如何冲击欧美一季度GDP - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9VN0lkYmJYeDdLNjZ2aXlLSXpYaXBmZG9seVFyNnpISEFpM0dqRVczbEtFeEpQQkVtdWtCdGlDTmpUTGNJM0xESmNwUHNmTTJZN244?oc=5)**
+> <small>第一财经 · 国内 · 18:11</small>
+> 下周外盘看点丨美联储领衔央行超级周，中东战火如何冲击欧美一季度GDP 第一财经
 >
 
 > [!example] 科技 / AI
-> 10/10 · 国内 3 / 国际 7
+> 10/10 · 国内 2 / 国际 8
 >
-> **1. [36氪首发 | 联想之星险峰联合领投，AI算力中心感知与效能管理方案商完成天使轮融资](https://36kr.com/p/3863885024973832?f=rss)**
-> <small>36氪 · 国内</small>
-> 作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，芯感通科技有限公司（以下简称“芯感通”）日前完成数千万元天使轮融资，由联想之星与险峰联合领投。本轮融资将主要用于芯片研发迭代、产品验证及市场拓展。 随着大模型训练规模持续扩大和商业服务展开，AI算力基础设施的铺设在快速亟需高效能运营，同时，高性能GPU也将算力推入高能量密度、高功耗时代。 从单柜数十张GPU到万卡集群，数据中心内部的供电、散热和能耗管理正在成为新的技术瓶颈。与此同时，太空算力、轨道数据中心等新兴方向兴起，也对系统…
+> **1. [Elephant alert! AI warning systems aim to avoid deadly clashes](https://www.technologyreview.com/2026/06/23/1138562/elephant-alert-ai-warning-systems-avoid-deadly-clashes-india/)**
+> <small>MIT Technology Review · 国际 · 17:00</small>
+> India is home to about 60% of the world’s wild Asian elephants, and around 80% of the animals’ habitat lies outside protected areas, according to the Ministry of Environment, Forest, and Climate Change. That brings people and wildlife into…
 >
-> **2. [A startup claims it broke through a bottleneck that’s holding back LLMs](https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/)**
-> <small>MIT Technology Review · 国际 · 18:40</small>
-> The Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language models for almost a decade. The details were…
+> **2. [Three things to watch amid Anthropic’s latest feud with the government](https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/)**
+> <small>MIT Technology Review · 国际 · 02:00</small>
+> This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. For those of you enjoying your summer unaware of Anthropic’s latest feud with the US government, here…
 >
 > **3. [上海人工智能研究院许春山：AI技术与制造业应用仍存鸿沟 - 财新](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBPV3RwTGZId3FtNE81aUdfSzBvNzJiTEhCQThsWi1HdnFIakRJeVYycVprTVNYYWU4emU4M3Z0ZHVMT0hLVU5VNGFuWURBNWpON2E4S05ULUxaa09uR2ZSWQ?oc=5)**
 > <small>财新 · 国内 · 21:58</small>
 > 上海人工智能研究院许春山：AI技术与制造业应用仍存鸿沟 财新
 >
-> **4. [Hyperscale Data to Host Conference Call to Discuss Positive Michigan AI Data Center Developments and Montana Expansion Opportunities and Long-Term Growth Strategy – Company Announ…](https://news.google.com/rss/articles/CBMimAFBVV95cUxNeUxXbzFSQ3hxTzdraXNuTFhhUDZxTFR6dkJSRkJmMkR2cjdHLTd3c0hyYmRVSWx5cGtFX2tVSmlsNFZaYnVJclQ5Z2VRYUgxVk0tYzR1cTF5LXk5WWJyaGlQUDRWYkhkcm1nRHhDLXVpSW5DeThXN1Fmbi1Vdk1SeC05M1lQT3VuRFllUUZQdGViaWwxMjZSZQ?oc=5)**
+> **4. [Nvidia says its AI data center design runs hotter to use a lot less water](https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling)**
+> <small>The Verge · 国际 · 07:24</small>
+> Public pushback against data centers has emphasized their water and energy consumption, and now Nvidia is highlighting its claim that the Rubin generation reference design for a fully liquid-cooled data center has "eliminated massive amoun…
+>
+> **5. [AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia’s $20B not-acqui-hire deal](https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/)**
+> <small>TechCrunch · 国际 · 04:13</small>
+> What does an AI company do after one of those not-acqui-hire deals? Groq raised money, is leaning into its neocloud business, and is hiring new execs.
+>
+> **6. [Nvidia wants to cut data center water use, but that’s not the same as fixing AI’s water problem](https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/)**
+> <small>TechCrunch · 国际 · 04:08</small>
+> Nvidia announced a new cooling system that cuts water use inside the data center. But it does nothing to address AI's biggest water use — fossil fuel power plants.
+>
+> **7. [Hyperscale Data to Host Conference Call to Discuss Positive Michigan AI Data Center Developments and Montana Expansion Opportunities and Long-Term Growth Strategy – Company Announ…](https://news.google.com/rss/articles/CBMimAFBVV95cUxNeUxXbzFSQ3hxTzdraXNuTFhhUDZxTFR6dkJSRkJmMkR2cjdHLTd3c0hyYmRVSWx5cGtFX2tVSmlsNFZaYnVJclQ5Z2VRYUgxVk0tYzR1cTF5LXk5WWJyaGlQUDRWYkhkcm1nRHhDLXVpSW5DeThXN1Fmbi1Vdk1SeC05M1lQT3VuRFllUUZQdGViaWwxMjZSZQ?oc=5)**
 > <small>Financial Times · 国际 · 18:00 · `可能需订阅`</small>
 > Hyperscale Data to Host Conference Call to Discuss Positive Michigan AI Data Center Developments and Montana Expansion Opportunities and Long-Term Growth Strategy – Company Announcement - FT.com Financial Times
 >
-> **5. [Amazon Retaliated Against Workers Who Supported Regulating Data Centers, Complaint Says](https://www.nytimes.com/2026/06/18/technology/amazon-worker-retaliation-data-center-complaints.html)**
-> <small>NYTimes Technology · 国际 · 06:05 · `可能需订阅`</small>
-> The employees encouraged limits on the complexes in a series of hearings in the tech giant’s hometown, Seattle.
+> **8. [2连板长飞光纤：全球光纤光缆行业处于上行周期，但部分产品的价格波动幅度存在不确定性](https://36kr.com/newsflashes/3865678288131332?f=rss)**
+> <small>36氪 · 国内</small>
+> 36氪获悉，长飞光纤公告，公司股票连续两个交易日收盘价格涨幅偏离值累计超过20%，属于股票交易异常波动。公司注意到近期市场对应用于人工智能数据中心的相关光纤光缆价格波动关注度较高。当前，由于国内外算力基础设施建设持续加速，全球光纤光缆行业处于上行周期，但部分产品的价格波动幅度存在不确定性，其对公司业绩的影响需要结合市场环境和公司业务结构情况进行综合判断，敬请广大投资者注意投资风险，理性决策，审慎投资。
 >
-> **6. [The Cloud Has Sound: The Unrelenting and Unseen Cost of A.I. Data Centers](https://www.nytimes.com/2026/06/17/us/data-centers-noise-pollution.html)**
-> <small>NYTimes Technology · 国际 · 22:59 · `可能需订阅`</small>
+> **9. [The Cloud Has Sound: The Unrelenting and Unseen Cost of A.I. Data Centers](https://www.nytimes.com/2026/06/17/us/data-centers-noise-pollution.html)**
+> <small>NYTimes Technology · 国际 · 11:40 · `可能需订阅`</small>
 > As tech giants rush to build infrastructure, some residents who live near data centers say a constant low-frequency vibration is ruining their health and homes.
 >
-> **7. [Google invests in A24 to build AI movie tools](https://www.theverge.com/entertainment/953596/google-deepmind-a24-studio-ai-partnership)**
-> <small>The Verge · 国际 · 01:18</small>
-> Google's DeepMind AI lab is teaming up with A24 to develop new movie production technologies that aim to help future filmmakers "expand their storytelling possibilities." As part of this new research and development collaboration, The Wall…
->
-> **8. [When the Trump administration cracks down on Anthropic, who benefits?](https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/)**
-> <small>TechCrunch · 国际 · 23:28</small>
-> On the new episode of Equity, we discussed what actually prompted the administration's latest moves against Anthropic, and what this might mean for the AI ecosystem.
->
-> **9. [Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27](https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/)**
-> <small>TechCrunch · 国际 · 22:40</small>
-> Siri’s AI overhaul may have grabbed the headlines at WWDC, but some of Apple’s most useful AI features are arriving elsewhere in iOS 27.
->
-> **10. [映界科技：一支00后团队的空间智能“赌注” | 水下项目](https://36kr.com/p/3864071269569540?f=rss)**
-> <small>36氪 · 国内</small>
-> 当人形机器人在春晚上扭秧歌，在马拉松赛场上健步如飞，一个尴尬的现实浮出水面：机器人会动、很灵活，但不能干活——前者考验运动控制能力，后者还需要机器人真正理解物理环境，记住物体位置、推理空间关系。 感知瓶颈是今天几乎所有具身智能从业者都无法回避的现实。成立不到三个月的「映界科技」（MirrorSpace）正试图补齐具身智能产业链中的这个短板。映界科技由三位平均年龄仅有24岁的博士团队创办，专注具身机器人视觉空间感知系统的算法与硬件研发，致力于成为世界模型时代的基础设施服务商。…
+> **10. [Amazon Retaliated Against Workers Who Supported Regulating Data Centers, Complaint Says](https://www.nytimes.com/2026/06/18/technology/amazon-worker-retaliation-data-center-complaints.html)**
+> <small>NYTimes Technology · 国际 · 06:05 · `可能需订阅`</small>
+> The employees encouraged limits on the complexes in a series of hearings in the tech giant’s hometown, Seattle.
 >
 
 > [!tip] 私募股权 / 投资市场
@@ -128,25 +128,25 @@ tags:
 > <small>证券时报 · 国内 · 15:00</small>
 > 京铭资本领投千诀科技完成数亿元A轮融资，助推国内具身智能世界模型产业落地 证券时报
 >
-> **6. [Northleaf, Cornell lead recent PE laundry services deals; Disruption Matters returns; PE firms tackle college sports](https://www.pehub.com/northleaf-cornell-lead-recent-pe-laundry-services-deals-disruption-matters-returns-pe-firms-tackle-college-sports/)**
-> <small>PE Hub · 国际 · 21:35</small>
-> A look at the laundry services sector, which is drawing attention from private equity investors; diving into PE’s growing interest in college sports; a teaser for The Disruption Matters special podcast miniseries, which is returning for it…
+> **6. [PE-backed Hyve acquires C-suite community platform Virtuosi League](https://www.pehub.com/pe-backed-hyve-acquires-c-suite-community-platform-virtuosi-league/)**
+> <small>PE Hub · 国际 · 19:22</small>
+> Hyve’s previous backers were Providence Equity Partners and Searchlight Capital Partners. The post PE-backed Hyve acquires C-suite community platform Virtuosi League appeared first on PE Hub .
 >
-> **7. [Laundry services, with little to worry about from AI disruption, appeal to private equity](https://www.pehub.com/laundry-services-with-little-to-worry-about-from-ai-disruption-appeal-to-private-equity/)**
+> **7. [Why private equity firms are banking on live events](https://www.pehub.com/why-private-equity-is-banking-on-live-events/)**
 > <small>PE Hub · 国际 · 19:00</small>
-> The Sterling Group, Cornell Capital, Surge Private Equity, Northleaf Capital Partners, HIG Capital and Mainsail Partners are some of the firms investing in laundry services. The post Laundry services, with little to worry about from AI dis…
+> With the global market in this space expected to exceed $1.2trn by 2032, firms like Apollo and Platinum Equity are jumping on the bandwagon. The post Why private equity firms are banking on live events appeared first on PE Hub .
 >
 > **8. [滴滴领投 深朴智能完成数亿元融资 - 证券时报](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1vQlRjcXFqR0tEeHc4WGxYTEJkVFJsb3BQSklLTnoxRVk2Qm10VGFqSE9sWkk2SWk4UU90WEtHLTNUMkh4dmZCbU5aczU4cGhvTlR6Y081RlEzM1dC?oc=5)**
 > <small>证券时报 · 国内 · 09:52</small>
 > 滴滴领投 深朴智能完成数亿元融资 证券时报
 >
-> **9. [并购潮浪渐高，A股进入产业资本博弈时代丨资本观察 - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnbDM3M1ZkUnY5YVR0RUlxeHFoTHFUNV9QZ3dxVUJjS2xuWTVrSTd1VG96dFhYbnppbzhIQUw2X25OdC1GVnh3bVdiNldnczhodXpV?oc=5)**
+> **9. [长鑫科技完成IPO注册 即将登陆A股 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE0tRFBCNmdiZHF5bEtyRWdLOU5saU9kbkhQWHRCTFFUMDM2T0VJRWlHaEZTRkN2NzFabVp3RF9JejNHSVo5RzhQMWZHcTgxcWNzWWZwS011X2MyWUtLdGJ0Y1NB?oc=5)**
+> <small>财新 · 国内 · 15:00</small>
+> 长鑫科技完成IPO注册 即将登陆A股 财新
+>
+> **10. [并购潮浪渐高，A股进入产业资本博弈时代丨资本观察 - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnbDM3M1ZkUnY5YVR0RUlxeHFoTHFUNV9QZ3dxVUJjS2xuWTVrSTd1VG96dFhYbnppbzhIQUw2X25OdC1GVnh3bVdiNldnczhodXpV?oc=5)**
 > <small>第一财经 · 国内 · 15:00</small>
 > 并购潮浪渐高，A股进入产业资本博弈时代丨资本观察 第一财经
->
-> **10. [投资界LP周报|上海母基金宣布募集60亿 - 投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBrWXNaTDRCT2lqU2R3SE1yVjloVTlvM3MwWFBLUHpTT2pQNGlBRUNWNkowOW1GWVFaV1FwOHdDV3pUV2JFLVU0MHFSdXZtdm01YURDUWV3?oc=5)**
-> <small>投资界 · 国内 · 17:42</small>
-> 投资界LP周报|上海母基金宣布募集60亿 投资界
 >
 
 #daily-news
