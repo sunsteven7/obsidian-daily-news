@@ -20,121 +20,121 @@
 > <small>CNBC Finance · 国际 · 02:04</small>
 > Fed Chairman Kevin Warsh's tough talk on inflation Wednesday reverberated through financial markets.
 >
-> **4. [OpenAI pitches ChatGPT ads to Cannes marketers ahead of IPO - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxPQkM3SjFYLWoxaDQwR2FtN0xKVzVTZzFsRXFRWlR1OUNBdThOMHY1aHNPSzlPMkJabWl0TEFTU2g4WTZvaV8yVjRZRk03ZGYzU2UyTkFoWWhESjQ2TkJlWWdIcUZBLW04UnVFOHRsenMtaXU2UFk4eFdMYlVZZ1pXUjNZSTU?oc=5)**
-> <small>Financial Times · 国际 · 12:03 · `可能需订阅`</small>
-> OpenAI pitches ChatGPT ads to Cannes marketers ahead of IPO Financial Times
+> **4. [OpenAI leans toward waiting until next year for IPO, NYT reports - Reuters](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRkNFVmI0YkkxNUpIT2Zjc1ZjVGthLTViVlk0NG5kSzZMeEllaDBVcmlaUEczS25qMjR6VGg4MVpvVUM0M2sxOURZb1lhUWdSRHdUZHVLN0ZVZjBFQXRRX2N1NlI4bGJxc29GZEtiUnRNNElMbFRCZnNZV0pfbXpTOE8xbVZ3THpfY3Z1OXh2SXpEVWkzQWgxcDBURWloa05VVlVTZXFVWTViSXJiMVlNU0pIMkIzejhSOGFYNnliWVY?oc=5)**
+> <small>Reuters · 国际 · 04:42</small>
+> OpenAI leans toward waiting until next year for IPO, NYT reports Reuters
 >
-> **5. [Markets Recoil in Global Sell-Off Driven by Tech Stocks](https://www.nytimes.com/2026/06/23/business/stock-market-down-tech-ai-asia-sp500-oil-gas.html)**
+> **5. [US first-quarter GDP revised sharply higher; but consumer spending nearly stalls - Reuters](https://news.google.com/rss/articles/CBMivAFBVV95cUxPQVotZm4yTnRycktSUGtjOFBmeXBrOVhQRHRIbFB4cDRCdWxpaUdRWXNkMXRRaE90cGJOdmFla2dCRlNDT3ZJX04zUk0xUlY3ZmRGc0JsZkZXUGpnTUZjVXNKdXpqWlppcDJEajQ3YTJnV1FHSWM4cTNIR0Y4U3VIRmw5emlyQVRSSDdyQk5URHR2UVpxWk9TdHVVRkQtTk0xaXZXWjFzWXFZWHhMbURmWG40RXpPc0FYRmdadw?oc=5)**
+> <small>Reuters · 国际 · 21:44</small>
+> US first-quarter GDP revised sharply higher; but consumer spending nearly stalls Reuters
+>
+> **6. [SpaceX bond sale signals markets are in ‘bubble territory’, warns Allianz CIO - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxPc1RDXzA4VjR2WHNDMjRZaXlNZmpXSFJIaWNXU1ItdjJNSDZlMXJ3TUpHSWNYYTNXeC0zWm1PZm1FcjNDYWJCekZZTlIxSzJpTnk3Zk1VNTdCUV9kclZoYnR3bGh4c0MxTFVFNmlzWDFfVTBpTVI2UEVjVV9KV1BOQWU4Y3U?oc=5)**
+> <small>Financial Times · 国际 · 19:29 · `可能需订阅`</small>
+> SpaceX bond sale signals markets are in ‘bubble territory’, warns Allianz CIO Financial Times
+>
+> **7. [央行：坚决防范汇率超调风险，保持人民币汇率在合理均衡水平上基本稳定 - 证券时报](https://news.google.com/rss/articles/CBMiXkFVX3lxTE03VlFNd1VkekJkWFVuczNIcXMtVWpvcm9mM2lqSkhpMnNIcnJ6ZW04eF83RHdvZ3ZFV1A2N3JCQ1VfZzF0VHlMNG5xeDR5RzZzeFp1WDZYNk1Ydk9nWEE?oc=5)**
+> <small>证券时报 · 国内 · 17:00</small>
+> 央行：坚决防范汇率超调风险，保持人民币汇率在合理均衡水平上基本稳定 证券时报
+>
+> **8. [Markets Recoil in Global Sell-Off Driven by Tech Stocks](https://www.nytimes.com/2026/06/23/business/stock-market-down-tech-ai-asia-sp500-oil-gas.html)**
 > <small>NYTimes Business · 国际 · 08:19 · `可能需订阅`</small>
 > Chip makers led the way down in South Korea, where the main index plunged 10.5 percent. The Nasdaq in the U.S. was down 2.2 percent.
 >
-> **6. [Renewable energy group to raise $3.6bn in China’s biggest IPO for 4 years - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxOdDJNQkFBWWY5TXdxRDVIY0d3MFd3cElKT1d4Q2FUcm9MdXNDZUlGQ2hHVk90bVpBV2JHdlpycWN4UHc0RjdPSUNNdmRSai1FX1NjS0NjNkg3WnctZXJBWmZTSVZ6R1RZUDNWX0cyVk1menBwU1dENXp5QnNncUpBamZVejI?oc=5)**
-> <small>Financial Times · 国际 · 16:10 · `可能需订阅`</small>
-> Renewable energy group to raise $3.6bn in China’s biggest IPO for 4 years Financial Times
+> **9. [三星电子中国业务陷重组传闻，重心转向半导体 - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTE04OXkwMTFxd3JpRGRxWUs3TlAtd0FWRFVleXQxN2c4TXlZOEgyaXRWbmJHOHVqcWJZMkFjUXVET25FamJQWmdHNDhiNDFnYk1jUTJN?oc=5)**
+> <small>第一财经 · 国内 · 08:30</small>
+> 三星电子中国业务陷重组传闻，重心转向半导体 第一财经
 >
-> **7. [宏观与中观数据再现温差，如何解读 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE4tR19hNlNRa21Kbk5NbGFMSUFqbUFUc3I5cnh0ODZURy1UU0FRTzZ4U2FCcE9HZUlOMUI5azlUZ29DMmkzcnNvRlZWUkJmWjlIV21rNGpmemxaWDJoV2VabTFn?oc=5)**
-> <small>财新 · 国内 · 10:37</small>
-> 宏观与中观数据再现温差，如何解读 财新
->
-> **8. [Doncasters US IPO Said to Be More than 30 Times Oversubscribed - Bloomberg](https://news.google.com/rss/articles/CBMiswFBVV95cUxQU2FVNkQ5N3JqRDR2VWFtN0hhMTJENGFmLXQ3ZVdsaDdxVjA5QUE5bXdFVmxrR3BpdDdBUjBkLTJLcklnVWUtbVg3eFdQUjVKaXphSnVoSzllWXJESmR3R0pBOXdaNnNOcTMxVUR3VGxOeFZCeWRaTkwtc1JCM3UzbHZJanlrSUpHN3Zqdk1ZZDNFdzhrY0V4MWVmT216bnA0QXVoR2FxMUVPalc5U0ZQYW95QQ?oc=5)**
-> <small>Bloomberg · 国际 · 00:58 · `可能需订阅`</small>
-> Doncasters US IPO Said to Be More than 30 Times Oversubscribed Bloomberg
->
-> **9. [意大利经济与财政部原部长：中国金融市场深度融入全球 上海将承担更核心职能 - 第一财经](https://news.google.com/rss/articles/CBMiVEFVX3lxTFB1dzZGQ081aWpCVWNSTW9Bc3ZaN1VDeWl5My1QMjB3eE9yamk4c0s5bnR4MmhFa3R0WVAyT21nemJXeG5mRTdGODBXV0VDNjdyMDdUOA?oc=5)**
-> <small>第一财经 · 国内 · 16:51</small>
-> 意大利经济与财政部原部长：中国金融市场深度融入全球 上海将承担更核心职能 第一财经
->
-> **10. [A股四大指数集体高开，折叠屏、存储器等板块涨幅居前 - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1CNjlXSUZvX0lVWGlZbnU3bzRiUjlGV05qaG9PRmRrZGRNb0Z4bWQ2TS14LWlqS00tS2Vrd1FJVXd5aUUyQzJnakdyOERQZHVBQlhJ?oc=5)**
-> <small>第一财经 · 国内 · 02:15</small>
-> A股四大指数集体高开，折叠屏、存储器等板块涨幅居前 第一财经
+> **10. [如何解决供强需弱？学者称收入分配或比宏观政策更重要 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBzZGw3dTB1dERHZG9zSXNicS1ub2s4TjRkaHN6VlJfRnhEbzZ0NmUxN3k2S2F6UlEwS0cxdDBNdGFLRTZYYk0xLTIxa2g3VGVmRFBmSVpxSUhGQUFEbnNEXzVR?oc=5)**
+> <small>财新 · 国内 · 19:58</small>
+> 如何解决供强需弱？学者称收入分配或比宏观政策更重要 财新
 >
 
 > [!example] 科技 / AI
-> 10/10 · 国内 3 / 国际 7
+> 10/10 · 国内 2 / 国际 8
 >
 > **1. [Stripe, Anthropic, and OpenAI are backing an effort to stop respiratory infections](https://www.technologyreview.com/2026/06/24/1139621/stripe-anthropic-and-openai-are-backing-an-effort-to-stop-respiratory-infections/)**
 > <small>MIT Technology Review · 国际 · 20:00</small>
 > The common cold comes for us all—often more than once a year. And there is no way to prevent it. The best you can do is take vitamin C and stay away from people with the sniffles. Now the payment company Stripe, founded by brothers Patrick…
 >
-> **2. [RoboScience机器科学发布Visics通用具身大模型，实现跨本体、跨物体、跨任务｜最前线](https://36kr.com/p/3868276479710466?f=rss)**
-> <small>36氪 · 国内</small>
-> 作者｜黄楠 编辑｜袁斯来 6月24日，通用具身智能企业RoboScience机器科学通用具身大模型发布，首次完整披露自研Visics大模型的技术架构VLOA（Vision-Language-Object-Action），并展示了模型在家具拼装、灵巧抓取、动态流水线等多项真实场景的应用。 大语言模型有标准的文本Token，自动驾驶有统一的视觉或点云表征，这些基础格式的确定，让数据和模型可以在不同场景之间复用。但具身智能至今没有一个被行业公认的基础表征单元，其决定了数据如何采、…
+> **2. [Repositioning retail for the AI era](https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/)**
+> <small>MIT Technology Review · 国际 · 22:22</small>
+> Artificial intelligence is rapidly reshaping retail, but not in the ways consumers might immediately notice. The biggest transformation may not be flashy virtual try-ons or chatbot shopping assistants, but in how decisions are made behind…
 >
-> **3. [IBM has unveiled chip technology that could help extend Moore’s Law another decade](https://www.technologyreview.com/2026/06/25/1139696/ibm-unveils-sub1nm-chip/)**
-> <small>MIT Technology Review · 国际 · 18:00</small>
-> IBM has built a new prototype chip with around 100 billion transistors on an area the size of a fingernail, which is twice the density of the company’s previous state-of-the-art technology announced in 2021. The design could pave the way f…
+> **3. [Apple’s most powerful Macs might be waiting until 2027 for big processor upgrades](https://www.theverge.com/tech/957561/apple-m6-m7-ai-chip-release-timeline-gurman)**
+> <small>The Verge · 国际 · 19:14</small>
+> Apple is expected to shake up its usual Mac silicon release strategy, with Bloomberg's Mark Gurman reporting that there won't be Pro or Max versions of the upcoming M6 chip. Instead, Apple wants to "fast-track technologies that it original…
 >
-> **4. [A new paper argues Microsoft exaggerated its quantum claims a year ago](https://www.theverge.com/tech/956450/nature-microsoft-quantum-computing-majorana-1-claims)**
-> <small>The Verge · 国际 · 05:53</small>
-> A critique published in Nature Wednesday calls the basic technology behind Microsoft's "breakthrough" quantum computing chip the Majorana 1 into question. Microsoft unveiled the chip in February 2025 and said it featured a brand-new techno…
->
-> **5. [上海人工智能研究院许春山：AI技术与制造业应用仍存鸿沟 - 财新](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE82bklRc0ZoYnF0aFNYU1M5c0hxcl9PMHp2dnplSG9PckNTYWVYeXJYYnNKclNmQkNrelM0ZGZ0THY3UjYzbDFtb1ItZzJ0VlRxcXUwdy1kTHBUMWFIMmhXb1kwRXFpSm8?oc=5)**
-> <small>财新 · 国内 · 21:58</small>
-> 上海人工智能研究院许春山：AI技术与制造业应用仍存鸿沟 财新
->
-> **6. [OpenAI and Broadcom Unveil Custom A.I. Chip Design](https://www.nytimes.com/2026/06/24/technology/openai-broadcom-chip-jalapeno.html)**
+> **4. [OpenAI and Broadcom Unveil Custom A.I. Chip Design](https://www.nytimes.com/2026/06/24/technology/openai-broadcom-chip-jalapeno.html)**
 > <small>NYTimes Technology · 国际 · 05:41 · `可能需订阅`</small>
 > The maker of ChatGPT plans to use enough chips to consume 10 gigawatts of electricity, an amount that could power millions of households.
 >
-> **7. [OpenAI unveils its first custom chip, built by Broadcom](https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/)**
-> <small>TechCrunch · 国际 · 22:54</small>
-> Named Jalapeño, the new processor was designed specifically for the unique needs of OpenAI's inference systems.
+> **5. [The White House is asking OpenAI to slow roll the release of its new model over safety concerns](https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/)**
+> <small>TechCrunch · 国际 · 07:34</small>
+> OpenAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of with the broader public. The reason: the Trump administration told it to.
 >
-> **8. [36氪首发 | 固态变压器领域累计出货超50MW，功率半导体模组厂商完成数千万元融资](https://36kr.com/p/3867975570035717?f=rss)**
+> **6. [OpenAI will delay GPT-5.6 after Trump administration request](https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request)**
+> <small>The Verge · 国际 · 05:57</small>
+> The Trump administration, apprehensive of potential security issues, has reportedly asked OpenAI to stagger the release of its next big-ticket model, GPT-5.6. The Information reported that OpenAI CEO Sam Altman told employees Wednesday in…
+>
+> **7. [Netris raises $15M Series A from a16z to help AI neoclouds go live faster](https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/)**
+> <small>TechCrunch · 国际 · 22:55</small>
+> Netris provides software that runs on network switches, and offers a platform that helps neocloud operators reduce the time it takes to go live.
+>
+> **8. [戴宗宏和他的「工业世界模型」：一人两周，干完百人级定制化“累活”](https://36kr.com/p/3869445453305090?f=rss)**
 > <small>36氪 · 国内</small>
-> 作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，矽迪半导体近日完成数千万元人民币天使轮+融资，由苏创投和婧嘉投资共同投资，后浪资本担任战略财务顾问。本轮融资资金将主要用于固态变压器（SST）功率模组研发、产品迭代以及供应链体系建设。 矽迪半导体成立于2023年，主要从事功率半导体模组的研发、制造与销售，产品覆盖全碳化硅（SiC）功率模组、IGBT+SiC混合模组以及定制化功率解决方案，应用方向包括光伏储能、数据中心电源以及固态变压器等场景。 据介绍，公司目前已累计开发约60款…
+> 文｜王欣逸 编辑｜周鑫雨 半年前，我们第一次和基点起源创始人兼 CEO 戴宗宏交流时，这家逆流入局 B 端定制化的AI公司，刚刚推进了 7、8 个项目。他从外界接受到最多的声音是质疑：“故事不够性感”、“定制化都是累活”。 半年后，基点对质疑声的回应，是数千万元的在手订单。 戴宗宏对《智能涌现》透露，基点起源的订单数翻了一番 ，订单合同金额较半年前提升了一个数量级， AI 解决方案已经落地到了冶金、化工、精密制造、半导体、纺织等 10 多个行业。 伴随订单而来的，基点起源…
 >
-> **9. [Amazon Retaliated Against Workers Who Supported Regulating Data Centers, Complaint Says](https://www.nytimes.com/2026/06/18/technology/amazon-worker-retaliation-data-center-complaints.html)**
-> <small>NYTimes Technology · 国际 · 06:05 · `可能需订阅`</small>
-> The employees encouraged limits on the complexes in a series of hearings in the tech giant’s hometown, Seattle.
+> **9. [The New York Times Amends Lawsuit Against OpenAI and Microsoft](https://www.nytimes.com/2026/06/25/technology/times-lawsuit-openai-microsoft.html)**
+> <small>NYTimes Technology · 国际 · 07:11 · `可能需订阅`</small>
+> In a new court filing, The Times accused Microsoft of encouraging OpenAI to train its A.I. systems using copyrighted articles.
 >
-> **10. [Facebook’s Creator Studio has been revived as an AI companion app](https://www.theverge.com/tech/956668/meta-facebook-creator-studio-ai-app-relaunch)**
-> <small>The Verge · 国际 · 17:37</small>
-> Meta is bringing back the Facebook Creator Studio page manager, now "reimagined" as a standalone AI companion app. The new app aims to make it easier for creators to connect with their audiences and show them "exactly how to grow on Facebo…
+> **10. [对话张亚勤：AI不是泡沫，但AI公司有泡沫](https://36kr.com/p/3866837793952769?f=rss)**
+> <small>36氪 · 国内</small>
+> 文 | 海若镜 访谈 | 海若镜 巴芮 6月盛夏，在清华无锡研究院智能产业创新中心，我们见到了张亚勤院士。他匆匆赶来，一进门，就建议让室内温度降得更低些。 访谈中，聊起当下具身智能、AI投资创业热潮，张亚勤也觉得应该降降温，“更冷静些，不要急躁”。 五年前，张亚勤创建了清华大学智能产业研究院（以下简称AIR)，聚集了多位有AI产业经验的知名教授。据介绍，如今AIR的第一届博士生已经毕业；这里 孵化、走出的十家公司，累计“融资约150亿元，估值1500亿元” 。其中，华深智药…
 >
 
 > [!tip] 私募股权 / 投资市场
 > 10/10 · 国内 4 / 国际 6
 >
-> **1. [Side Letter: PE’s dreaded ‘Z’ word](https://www.privateequityinternational.com/side-letter-pes-dreaded-z-word/)**
-> <small>Private Equity International · 国际 · 22:40</small>
-> LPs are increasingly concerned about tail-end assets; Virginia's $134bn state pension system is worried about GP selection; Apax's new IR hire.
->
-> **2. [Side Letter: On a roll](https://www.privateequityinternational.com/side-letter-on-a-roll/)**
+> **1. [Side Letter: On a roll](https://www.privateequityinternational.com/side-letter-on-a-roll/)**
 > <small>Private Equity International · 国际 · 20:51</small>
 > In today's edition, LPs reckon CVs are here to stay; The proportion of GPs using such mechanisms doubles.
 >
-> **3. [CalPERS reaps benefits from PE strategy shift](https://www.buyoutsinsider.com/calpers-reaps-benefits-from-pe-strategy-shift/)**
+> **2. [CalPERS reaps benefits from PE strategy shift](https://www.buyoutsinsider.com/calpers-reaps-benefits-from-pe-strategy-shift/)**
 > <small>Buyouts · 国际 · 05:33</small>
 > The pension fund’s new strategy generated a 21.9% return over the past three years.
 >
-> **4. [Ohio Teachers prioritizes liquidity as it sets PE pacing for FY 2027](https://www.buyoutsinsider.com/ohio-teachers-prioritizes-liquidity-as-it-sets-pe-pacing-for-fy-2027/)**
-> <small>Buyouts · 国际 · 01:27</small>
+> **3. [Ohio Teachers prioritises liquidity as it sets PE pacing for FY 2027](https://www.privateequityinternational.com/ohio-teachers-prioritizes-liquidity-as-it-sets-pe-pacing-for-fy-2027/)**
+> <small>Private Equity International · 国际 · 22:44</small>
 > The pension fund has run a $4bn per year deficit and is hoping to remedy the cash drain with its new commitment plan.
 >
-> **5. [Bain Capital to acquire a stake in Everllence](https://www.pehub.com/bain-capital-to-acquire-a-stake-in-everllence/)**
-> <small>PE Hub · 国际 · 17:06</small>
-> Everllence provides propulsion, decarbonization and efficiency products for the maritime, energy and industrial sectors. The post Bain Capital to acquire a stake in Everllence appeared first on PE Hub .
+> **4. [Most LPs don’t expect CV activity to decline when exits improve](https://www.buyoutsinsider.com/most-lps-dont-expect-cv-activity-to-decline-when-exits-improve/)**
+> <small>Buyouts · 国际 · 22:38</small>
+> Around 40% of LPs expect continuation vehicle activity to continue growing, with a number opting to take a more concentrated approach to this corner of the market, according to Coller Capital's latest Barometer report.
 >
-> **6. [Tikehau agrees to Aubert & Duval exit; Bain Capital to buy Everllence stake from VW; Castlelake to access EasyJet books](https://www.pehub.com/tikehau-agrees-to-aubert-bain-capital-to-buy-everllence-stake-from-vw-castlelake-to-access-easyjet-books/)**
-> <small>PE Hub · 国际 · 17:01</small>
-> Everllence is a provider of propulsion, decarbonization and efficiency products for the maritime, energy and industrial sectors. The post Tikehau agrees to Aubert & Duval exit; Bain Capital to buy Everllence stake from VW; Castlelake to ac…
+> **5. [Smart cities offer decades-long growth opportunities: says Lincoln, Apollo featured in They Said It](https://www.pehub.com/smart-cities-offer-decades-long-growth-opportunities-says-lincoln-apollo-featured-in-they-said-it/)**
+> <small>PE Hub · 国际 · 16:31</small>
+> Smart city assets are enjoying very good tailwinds, resulting in high growth rates and 'very strong outcomes' from a valuation perspective, according to Lincoln International. The post Smart cities offer decades-long growth opportunities:…
 >
-> **7. [安永：全年港股IPO集资额将达3200亿港元 盼“新股通”放行 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ldmMzYVdSenY3NnRLWGVRSml4ekFHTTRTLUpCZ3hoSnFlVHoxVFhERzc3eHdSd180S2thTjVYVEpGSlBtQjhOaUs2aEIyQ3ZMWlVvVEdadnd2cW5xY3hvLXV3?oc=5)**
+> **6. [Advent to acquire Japanese home care operator JWB](https://www.pehub.com/advent-to-acquire-japanese-home-care-operator-jwb/)**
+> <small>PE Hub · 国际 · 01:11</small>
+> The seller is MBK Partners. The post Advent to acquire Japanese home care operator JWB appeared first on PE Hub .
+>
+> **7. [七年四度IPO终上市！溜溜梅港股上市涨超180% 业内：首日涨幅大 短期或回调︱港股直通车 - 第一财经](https://news.google.com/rss/articles/CBMiVEFVX3lxTFBhVWhXTUhQX2xweDJJd2I0YUU2Y29EcG9ReHRQcjVFTEZneTR1SEJxX0s2SzRNczZtNXlUZzZCazljbGRLSmZDZllKLUFiaEZ1QU1BSg?oc=5)**
+> <small>第一财经 · 国内 · 02:37</small>
+> 七年四度IPO终上市！溜溜梅港股上市涨超180% 业内：首日涨幅大 短期或回调︱港股直通车 第一财经
+>
+> **8. [安永：全年港股IPO集资额将达3200亿港元 盼“新股通”放行 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ldmMzYVdSenY3NnRLWGVRSml4ekFHTTRTLUpCZ3hoSnFlVHoxVFhERzc3eHdSd180S2thTjVYVEpGSlBtQjhOaUs2aEIyQ3ZMWlVvVEdadnd2cW5xY3hvLXV3?oc=5)**
 > <small>财新 · 国内 · 19:46</small>
 > 安永：全年港股IPO集资额将达3200亿港元 盼“新股通”放行 财新
 >
-> **8. [滴滴领投 深朴智能完成数亿元融资 - 证券时报](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1vQlRjcXFqR0tEeHc4WGxYTEJkVFJsb3BQSklLTnoxRVk2Qm10VGFqSE9sWkk2SWk4UU90WEtHLTNUMkh4dmZCbU5aczU4cGhvTlR6Y081RlEzM1dC?oc=5)**
+> **9. [滴滴领投 深朴智能完成数亿元融资 - 证券时报](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1vQlRjcXFqR0tEeHc4WGxYTEJkVFJsb3BQSklLTnoxRVk2Qm10VGFqSE9sWkk2SWk4UU90WEtHLTNUMkh4dmZCbU5aczU4cGhvTlR6Y081RlEzM1dC?oc=5)**
 > <small>证券时报 · 国内 · 09:52</small>
 > 滴滴领投 深朴智能完成数亿元融资 证券时报
 >
-> **9. [并购潮浪渐高，A股进入产业资本博弈时代丨资本观察 - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnbDM3M1ZkUnY5YVR0RUlxeHFoTHFUNV9QZ3dxVUJjS2xuWTVrSTd1VG96dFhYbnppbzhIQUw2X25OdC1GVnh3bVdiNldnczhodXpV?oc=5)**
-> <small>第一财经 · 国内 · 15:00</small>
-> 并购潮浪渐高，A股进入产业资本博弈时代丨资本观察 第一财经
->
-> **10. [滴滴领投，深朴智能完成数亿元 Pre-A 轮融资 - 投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBiTDRESjFJXzhBNWt2a1lwclRYOXpPdGV4Y1NOeTh5QjRSNHZFaUM3YlNsb2ROUTJ3QXlwVTBmR1RaS0pLaVk2RzZYUGUxc0JLYXZ2LVFn?oc=5)**
-> <small>投资界 · 国内 · 14:36</small>
-> 滴滴领投，深朴智能完成数亿元 Pre-A 轮融资 投资界
+> **10. [光通信企业排队上市 “易中天”或将齐聚港股 - 财新](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4tWkNuaFBnN3BlcERvbnpHV3BhZEw0elJaVE14cXpRMjBUOTVsWFBHS1VQVS05clRnRHlsZzd4OGtUMm1FZVFlOHZqQW5odlhwaXdXUDFTX3g3VEJxWFkyNTVTNXdYWTQ?oc=5)**
+> <small>财新 · 国内 · 15:00</small>
+> 光通信企业排队上市 “易中天”或将齐聚港股 财新
 >
 
 #daily-news
