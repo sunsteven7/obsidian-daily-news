@@ -20,113 +20,113 @@
 > <small>CNBC Finance · 国际 · 21:42</small>
 > Tarek Mansour said to CNBC's "Squawk Box" it made sense for the company at the stage to think about a debut on public markets.
 >
-> **4. [KNDS struggles to convince investors to back IPO at €12 billion-plus valuation, FT reports - Reuters](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQaFRyVHpuS3VwMkdFV3RJZnVKNHRKNGVrVWR4VlNsclN2Uy16THdyUHdSU0tUS2tGNE9xQVo1TEFpbzZtR2xIc19obEl5OHh2SGdhM0p2Nlc0V2JPRHBZdW9PZVpUMG9PVkNpcnRpU1Rpek13MUl5TWtCX1FJODhVbGI4eFNyekItTjlWNTZsbk9xZm1xb09kU3BEZ1dYRzFCeE9XYkNhRlNQdTRvajlCOHIyRW83THJYclAzd1MxdnB0R3lzcU9hRHJmUmtYN3Fq?oc=5)**
+> **4. [能源内参｜深交所最大IPO华润新能源上市 首日收涨137%；航空燃油附加费再下调 - 财新](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9RXzdJend3V25aN0RoUnBmbUlzdlI3Q01sYU5neEU5ckh1Sk9ENzc1TTl6Um9sajVZWFpkdTl1LVNZVC1TMC1JejgtYzhXYVl4NG9rUlpjOHdpUjZGZmNiVDhSWHh2RUk?oc=5)**
+> <small>财新 · 国内 · 12:42</small>
+> 能源内参｜深交所最大IPO华润新能源上市 首日收涨137%；航空燃油附加费再下调 财新
+>
+> **5. [深交所最大IPO华润新能源上市 首日收涨137% - 财新](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9nYnAxQ1B5b0x4RDZjeW9UbDc1UmtURXhTalJYRVR6QTlhaVJOLXdIQ05WVVczbGxlMFZ2Vjg3aDBVcWpfWF93YURkS3JXOXBPdHR6NXp3N1NhSlZHaXpiZWtlUVc?oc=5)**
+> <small>财新 · 国内 · 21:08</small>
+> 深交所最大IPO华润新能源上市 首日收涨137% 财新
+>
+> **6. [KNDS struggles to convince investors to back IPO at €12 billion-plus valuation, FT reports - Reuters](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQaFRyVHpuS3VwMkdFV3RJZnVKNHRKNGVrVWR4VlNsclN2Uy16THdyUHdSU0tUS2tGNE9xQVo1TEFpbzZtR2xIc19obEl5OHh2SGdhM0p2Nlc0V2JPRHBZdW9PZVpUMG9PVkNpcnRpU1Rpek13MUl5TWtCX1FJODhVbGI4eFNyekItTjlWNTZsbk9xZm1xb09kU3BEZ1dYRzFCeE9XYkNhRlNQdTRvajlCOHIyRW83THJYclAzd1MxdnB0R3lzcU9hRHJmUmtYN3Fq?oc=5)**
 > <small>Reuters · 国际 · 00:18</small>
 > KNDS struggles to convince investors to back IPO at €12 billion-plus valuation, FT reports Reuters
 >
-> **5. [How Polymarket Traders Revolted Over One Silly Syllable](https://www.nytimes.com/2026/06/28/business/donk-polymarket-prediction-markets.html)**
-> <small>NYTimes Business · 国际 · 19:19 · `可能需订阅`</small>
-> How one silly syllable ignited a bitter dispute over the nature of reality on Polymarket.
+> **7. [Latest Jobs Report Shows Labor Market Is Not a Source of Inflationary Pressure](https://www.nytimes.com/2026/07/02/business/economy/jobs-report-june-fed-interest-rates-warsh.html)**
+> <small>NYTimes Business · 国际 · 21:54 · `可能需订阅`</small>
+> The unemployment rate ticked down to 4.2 percent, but average hourly earnings were steady, giving Kevin Warsh, the Federal Reserve chairman, room to focus on fighting inflation.
 >
-> **6. [‘China’s Instagram’ targets male users as RedNote readies for IPO - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxOMGZjRk9Zc2R5bmxBS0dQYk53Q2tfa3pEb3RPb0JrNElveGV1Y0phNlpRQ011QnF3dnFQLUo0MmlMSWRaZnVJZGFHd2dQNWI2SHh5dlFjNVFxcGRXdGY0REFyZjd1ak9vbmVIcnVxbGFGUHdDcTB1MkFucG5QckNydUdwNjA?oc=5)**
-> <small>Financial Times · 国际 · 09:54 · `可能需订阅`</small>
-> ‘China’s Instagram’ targets male users as RedNote readies for IPO Financial Times
+> **8. [Why the Jobs Market Has Wall Street and Washington on Edge](https://www.nytimes.com/2026/07/02/business/dealbook/jobs-fed-rates-wall-street.html)**
+> <small>NYTimes Business · 国际 · 20:00 · `可能需订阅`</small>
+> A rebound in hiring has put more pressure on the Federal Reserve to raise interest rates. New jobs numbers are scheduled for release on Thursday.
 >
-> **7. [三星电子中国业务陷重组传闻，重心转向半导体 - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTE04OXkwMTFxd3JpRGRxWUs3TlAtd0FWRFVleXQxN2c4TXlZOEgyaXRWbmJHOHVqcWJZMkFjUXVET25FamJQWmdHNDhiNDFnYk1jUTJN?oc=5)**
+> **9. [三星电子中国业务陷重组传闻，重心转向半导体 - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTE04OXkwMTFxd3JpRGRxWUs3TlAtd0FWRFVleXQxN2c4TXlZOEgyaXRWbmJHOHVqcWJZMkFjUXVET25FamJQWmdHNDhiNDFnYk1jUTJN?oc=5)**
 > <small>第一财经 · 国内 · 09:27</small>
 > 三星电子中国业务陷重组传闻，重心转向半导体 第一财经
 >
-> **8. [截留借款人还款资金补保证金 助贷平台再陷危机 - 财新](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5aamI2YlVfdzJOZmljNy01cWJrejJITzNyUU9BeFpUSXA2ZzZPYi1acUMxcTFuWU94X1F4U2lxbkg5ekI4MVV6cElQM2VGUHYwRzZ6aElDeE9kT0pvMU9YTg?oc=5)**
-> <small>财新 · 国内 · 07:10</small>
-> 截留借款人还款资金补保证金 助贷平台再陷危机 财新
->
-> **9. [飙升超68%！债券通用质押式回购逆回购最佳操作“窗口期”或来到（附攻略） - 证券时报](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1qbnFpTXRGVlN6Q21IUTUtRFpXYmJqdVh1Q0Z2b2ZoSTlwVTZ2Y3dBX1M4a0Y2cTZlZjkwVGZCM2tkazhBWU1zUEZ6eE1PQXozc1Z4UEpwY0JWV1NX?oc=5)**
-> <small>证券时报 · 国内 · 00:47</small>
-> 飙升超68%！债券通用质押式回购逆回购最佳操作“窗口期”或来到（附攻略） 证券时报
->
-> **10. [货币政策、汇率、金融开放、人民币国际化，潘功胜释放四大重磅信号 - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBUQld1bkxkdGg4M012b2JsUnpjdW15ZHE1dXJoN0ZxQ0lsVjMwUlJKOUNXNG5Yb01VeEFqNjlzVXJTY1VEMFFyUWtMektqS3lRYmNN?oc=5)**
-> <small>第一财经 · 国内 · 15:59</small>
-> 货币政策、汇率、金融开放、人民币国际化，潘功胜释放四大重磅信号 第一财经
+> **10. [下周外盘看点丨美联储领衔央行超级周，沃什首秀会说什么 - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTE44ZTFHd0Y1empaQWk2SG5rdnF4SkJsYjNPd3VoN1RrMVk2dU1QV0c0TWVxcjA2c1F2S1ZkdjJxOHZ0QkVmQnNZNGVubG4xVENJZHNV?oc=5)**
+> <small>第一财经 · 国内 · 04:05</small>
+> 下周外盘看点丨美联储领衔央行超级周，沃什首秀会说什么 第一财经
 >
 
 > [!example] 科技 / AI
 > 10/10 · 国内 4 / 国际 6
 >
-> **1. [Building tech in the world’s secret R&D hub](https://www.technologyreview.com/2026/06/30/1139661/building-tech-in-the-worlds-secret-rd-hub/)**
-> <small>MIT Technology Review · 国际 · 18:23</small>
-> Apple. Anthropic. Disney Research. Google. Meta. Microsoft. NVIDIA. OpenAI. Few places outside Silicon Valley can claim R&D hubs from all of these companies. Fewer still are concentrated in a city of just over 400,000 people—roughly half t…
->
-> **2. [Claude Science is Anthropic’s newest flagship product](https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/)**
+> **1. [Claude Science is Anthropic’s newest flagship product](https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/)**
 > <small>MIT Technology Review · 国际 · 05:50</small>
 > At an event for pharmaceutical executives, biotech founders, and researchers on Tuesday, Anthropic announced Claude Science, a major new product intended to support scientific research in the same way that Claude Code supports software eng…
 >
-> **3. [Meta出租算力类似以旧养新，而不是停止追逐高端算力](https://36kr.com/newsflashes/3878343236759558?f=rss)**
+> **2. [The UK’s generational tobacco ban might not work. I’m supporting it anyway.](https://www.technologyreview.com/2026/07/03/1140036/uk-tobacco-ban-might-not-work-children-smoking/)**
+> <small>MIT Technology Review · 国际 · 17:00</small>
+> As the parent of two little girls, I often think about how their childhood is different from mine. The seven-year-old is learning about AI at school. The five-year-old is given internet-based homework every week. And they are both absolute…
+>
+> **3. [30亿美元！全球视频大模型公司融资纪录诞生！ - 证券时报](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9SUXNZOVNxdGdNS3JMQ0JhNHg4SS1LeDZBQkwyamZfZ2hiQjUtNWhNQXpXbDZUcm8zOER3a2hxX0xocDFoQUxKUTR6dDFQXzZqU0FCaHpMVWJQZnZz?oc=5)**
+> <small>证券时报 · 国内 · 12:32</small>
+> 30亿美元！全球视频大模型公司融资纪录诞生！ 证券时报
+>
+> **4. [See what legal professionals say about the role of AI and law - Thomson Reuters Legal Solutions](https://news.google.com/rss/articles/CBMiigFBVV95cUxPR2NScmdVTnIteHZJc0NMZkZLT3h6bXdLVGtCcS1GOEozNDNZNXd2ckpybnhTYWxwTTVNQko2OW5QS2lUaGZBcHJxbGpINDJNTTdzSmMzdERJcHJZRWIzU1paVjJHaHdEUWh1elJGZ3RMU1d2amF6OVNzdnRTbm5YLWhaOHFaOHdqQXc?oc=5)**
+> <small>Thomson Reuters Legal Solutions · 国际 · 13:31</small>
+> See what legal professionals say about the role of AI and law Thomson Reuters Legal Solutions
+>
+> **5. [Jersey Mike’s IPO illustrates how bad the AI hype has become](https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/)**
+> <small>TechCrunch · 国际 · 04:11</small>
+> Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But lo and behold.
+>
+> **6. [Anthropic is discussing a new custom chip with Samsung](https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/)**
+> <small>TechCrunch · 国际 · 02:31</small>
+> The news comes about a week after OpenAI announced its own custom AI chip in a partnership with Broadcom.
+>
+> **7. [Meta Is Planning a Cloud Business to Sell AI Computing Power - Bloomberg.com](https://news.google.com/rss/articles/CBMirwFBVV95cUxQLXhTQlFXWHNNdmlsTENPd2tXSkZzXy1mbEF1VXVxZHdPRTZfYjVrSjd0STNZOGYtVnBCMzVBOGZtM0tacEtHcE1JY1ZuOU9KazlZLUtyMXNxYjlWV1dNTE9ERlJtM0JXUVA2SmxFTHRWRlA5OTVHelNyc2dKdWZuaTYwTUtnZWthWUk0NEl2TU5WME16TDZzTjZLZVVuN21YMWE3TGhmX2h2dVdybFhr?oc=5)**
+> <small>Bloomberg.com · 国际 · 22:39 · `可能需订阅`</small>
+> Meta Is Planning a Cloud Business to Sell AI Computing Power Bloomberg.com
+>
+> **8. [36氪首发 | 清华、中科院团队联合华西医院研发康养转运机器人，进一步布局居家养老场景](https://36kr.com/p/3877863381741577?f=rss)**
 > <small>36氪 · 国内</small>
-> Meta正在筹划开展出租算力的云计算业务：一类是把部署在自身AI基础设施上的模型能力开放给外部客户，另一类是出租更底层的“裸算力”。但目前看，真实情况更倾向于是：Meta在把存量老旧算力做现金流回收，而不是停止追逐高端算力。6月中下旬，Meta被报道已与Crusoe签约，拟从Texas和Missouri州的两个数据中心获取合计约1.6GW的AI计算容量。同时，Meta 26Q1仍把全年资本开支指引上调到1250-1450亿美元。两件事放在一起看，更像是不同代际、不同用途的资…
+> 作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，深圳可立点科技有限公司（以下简称“可立点科技”）近日完成战略融资，由力合科创领投，江苏中科智能科学技术应用研究院旗下平台跟投。本轮融资将主要用于产品研发迭代、核心团队建设及商业化落地推进。 可立点科技总部位于深圳， 是一家聚焦“AI+机器人”养老场景的科技公司，围绕银发群体布局家庭陪伴与院内康复两大产品线。 目前，公司已推出面向居家养老场景的主动陪伴机器人，以及与四川大学华西医院联合研发的康复助行转运机器人，两款产品均已完成工程…
 >
-> **4. [硬氪首发 | 清华系芯片企业再获数千万融资，要以新技术突破AI算力瓶颈](https://36kr.com/p/3877057215393793?f=rss)**
+> **9. [美国银行：美国股市出现三个多月以来最大资金流出](https://36kr.com/newsflashes/3879708499275777?f=rss)**
 > <small>36氪 · 国内</small>
-> 硬氪获悉，硅基光子企业「灵动芯光」正式宣布完成数千万元天使++轮融资，本轮融资由磐霖资本领投、同方投资与深天使合作的子基金汇泽天诚跟投。 此次募集的资金将全部聚焦于芯片间光互联核心技术研发与产品落地，重点推进 SmartComb多波长密波光源的产品化及SmartPHY光I/O小芯粒的研发工作。 灵动芯光成立于2022年，是一家致力于硅基光子集成芯片设计与应用的高技术公司，主要面向物联网领域，关注分布式光纤传感、FMCW激光雷达及光I/O方向。 其创始人陈教授是清华大学电子工…
+> 7月3日消息，美国银行称，投资者正以3月份以来最快的速度抛售美国股票。美银表示，截至7月1日的一周内，该国股票基金资金流出172亿美元。投资者转而关注一些国际股票，其中日本股市迎来七周以来最大的资金流入，金额达19亿美元。摩根大通公司策略师表示，本周早些时候他们认为，美国半导体股票相对于人工智能超大规模数据中心的极端优异表现，造成了不可持续的估值差距，但最终这种差距将会缩小。总体而言，股票市场资金流出139亿美元，而投资级债券则吸引了172亿美元的资金流入。此外，高收益债券…
 >
-> **5. [中国移动设立集团级Token办公室 推进算力商业化 - 财新](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81VXZQYndJbGRGTE0wMUxxdHpfb3lpM3J4c0Rwdm45SXNqcmQ5UktDWlJnVXZraVVFalM5N0JCS3M3NzRJY0hoNFdUOTVtS1ozVVNhcEt4WGVxYWlhbGdFVExlRHBrc3M?oc=5)**
-> <small>财新 · 国内 · 20:21</small>
-> 中国移动设立集团级Token办公室 推进算力商业化 财新
->
-> **6. [Neocloud Together AI raises $800M, leaps to $8.3B valuation](https://techcrunch.com/2026/07/01/neocloud-together-ai-raises-800m-leaps-to-8-3b-valuation/)**
-> <small>TechCrunch · 国际 · 02:29</small>
-> The AI neocloud provider, which specializes in hosting open source models, last raised at a $3.3 billion valuation in early 2025.
->
-> **7. [Cloudflare’s new policy pushes AI companies to pay for publishers’ content](https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/)**
-> <small>TechCrunch · 国际 · 01:48</small>
-> Cloudflare is giving AI companies until September 15 to separate web crawlers used for search from those used for AI training and agents, or risk being blocked by default on many publisher sites.
->
-> **8. [Chinese A.I. Models Gain Ground on Anthropic and OpenAI](https://www.nytimes.com/2026/06/25/technology/zai-china-artificial-intelligence-models.html)**
-> <small>NYTimes Technology · 国际 · 13:16 · `可能需订阅`</small>
-> Silicon Valley engineers recently flocked to new technology from a Chinese company, Z.ai, that is almost as good as its American competitors but much cheaper.
->
-> **9. [Neon Buys ‘Artificial,’ a Film About OpenAI, After Amazon Dropped It](https://www.nytimes.com/2026/06/30/business/media/openai-movie-artificial-neon-amazon.html)**
-> <small>NYTimes Technology · 国际 · 07:02 · `可能需订阅`</small>
-> Neon purchased “Artificial,” which focuses on OpenAI’s chief, Sam Altman, after Amazon walked away from it following an investment in the start-up.
->
-> **10. [OpenSquilla 发布 0.4.0：AI 写代码首次能“自我验证” - 量子位](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9QWnItRWVNa2ozaVVzdjhaVzRWWWFpcHkyT1Z2TUdRQTExaDRKUkxxb2FpQUhCNEw2ZzNmTmZ5empJN01TVlUwSF9YNS12UUdfcXd5Uw?oc=5)**
-> <small>量子位 · 国内 · 15:32</small>
-> OpenSquilla 发布 0.4.0：AI 写代码首次能“自我验证” 量子位
+> **10. [顶级资本齐聚纽约：中国资产迎来重定价，AI 产业主导新旧动能切换 - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9BLWJhYWZDWm9PSzN2dWM1c1VrQlE0cU0tWWNNallhcW9NdFZPTmZPMVREM3pfd3NqbUpmYkRuSW45dHA0UlhVbDMtMDI5NTRoTG53?oc=5)**
+> <small>第一财经 · 国内 · 15:00</small>
+> 顶级资本齐聚纽约：中国资产迎来重定价，AI 产业主导新旧动能切换 第一财经
 >
 
 > [!tip] 私募股权 / 投资市场
-> 10/10 · 国内 4 / 国际 6
+> 10/10 · 国内 2 / 国际 8
 >
 > **1. [Investor Intentions: MWRA issue RFP for private equity buyout mandate](https://www.privateequityinternational.com/investor-intentions-mwra-issue-rfp-for-private-equity-buyout-mandate/)**
 > <small>Private Equity International · 国际 · 21:53</small>
 > The public pension fund plans on committing up to $20bn for this mandate.
 >
-> **2. [What LPs are looking for in defence-related PE strategies](https://www.privateequityinternational.com/what-lps-are-looking-for-in-defence-related-pe-strategies/)**
-> <small>Private Equity International · 国际 · 14:00</small>
-> In this podcast, we look at how investors are eyeing opportunities that could arise from an estimated €9trn spending spree over the next decade.
+> **2. [BCI seeks ‘good returns’ from newly launched capital solutions strategy](https://www.buyoutsinsider.com/bci-seeks-good-returns-from-newly-launched-capital-solutions-strategy/)**
+> <small>Buyouts · 国际 · 04:04</small>
+> While more LPs are participating directly in CVs and secondaries transactions, such investors remain 'the exception, not the norm' in the market, according to BCI’s global head of PE.
 >
-> **3. [Download the July/August 2026 issue of Buyouts](https://www.buyoutsinsider.com/download-the-july-august-2026-issue-of-buyouts/)**
+> **3. [Side Letter: A giant departs](https://www.privateequityinternational.com/side-letter-a-giant-departs/)**
+> <small>Private Equity International · 国际 · 22:51</small>
+> One of Japan's best-known and most-influential LPs is on the move; blurred investment lines could benefit mega-shops; what private capital wants from UK regulators.
+>
+> **4. [Download the July/August 2026 issue of Buyouts](https://www.buyoutsinsider.com/download-the-july-august-2026-issue-of-buyouts/)**
 > <small>Buyouts · 国际 · 14:00</small>
 > Inside: The Buyouts 100 – our annual ranking of North America’s largest fundraisers; How the SEC and LPs are converging on private fund fees; Is private equity earning its keep? Florida SBA has its say; And much more…
 >
-> **4. [Cinven’s Vitamin Well to merge with Waterland’s EMPWR; Apheon in talks to acquire orthopedic bone cement business; KKR to exit ship lessor Ocean Yield](https://www.pehub.com/cinvens-vitamin-well-to-merge-with-waterlands-empwr-apheon-in-talks-to-acquire-orthopedic-bone-cement-business-kkr-to-exit-ship-lessor-ocean-yield/)**
-> <small>PE Hub · 国际 · 17:05</small>
-> Few sectors have drawn more attention this year than shipping, after the conflict between the US and Iran led to the closing of the Strait of Hormuz. The post Cinven’s Vitamin Well to merge with Waterland’s EMPWR; Apheon in talks to acquir…
->
-> **5. [Arcline’s ‘compounding’ performance](https://www.buyoutsinsider.com/arclines-compounding-performance/)**
-> <small>Buyouts · 国际 · 05:15</small>
-> The industrial tech investor landed its latest fund by balancing its long-term plans for compounding growth with exits in the here and now.
+> **5. [Parthenon backs patient support solutions provider Momentum Life Sciences](https://www.pehub.com/parthenon-backs-patient-support-solutions-provider-momentum-life-sciences/)**
+> <small>PE Hub · 国际 · 23:24</small>
+> Following the investment, Momentum’s existing leadership team will continue as significant shareholders in the company. The post Parthenon backs patient support solutions provider Momentum Life Sciences appeared first on PE Hub .
 >
 > **6. [KKR plots entry into UK and European pension buyouts - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxOR2l3dzdpaEZCTmhuZ2ZyeUh3cEt0LXROY0JZX09hVzM4ZnBPbzJpcGRqWUQ3a2tfdXJ2UnpCQXg3S3FrWWQwZ0VScEVPbHpjeHBVSC1QRkFiVVJvbTFqa05uR21sblFsUXZNZDl5QkMxTWlzLWQ5eVZ1VU5PYm4yNTM2U2Q?oc=5)**
 > <small>Financial Times · 国际 · 12:00 · `可能需订阅`</small>
 > KKR plots entry into UK and European pension buyouts Financial Times
 >
-> **7. [安永：全年港股IPO集资额将达3200亿港元 盼“新股通”放行 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ldmMzYVdSenY3NnRLWGVRSml4ekFHTTRTLUpCZ3hoSnFlVHoxVFhERzc3eHdSd180S2thTjVYVEpGSlBtQjhOaUs2aEIyQ3ZMWlVvVEdadnd2cW5xY3hvLXV3?oc=5)**
-> <small>财新 · 国内 · 19:46</small>
-> 安永：全年港股IPO集资额将达3200亿港元 盼“新股通”放行 财新
+> **7. [‘Significant’ momentum in European digital infra, says Sandbrook; Main Capital, Volpi Capital in software deals](https://www.pehub.com/significant-momentum-in-european-digital-infra-says-sandbrook-main-capital-volpi-capital-in-software-deals/)**
+> <small>PE Hub · 国际 · 16:27</small>
+> In May, Sandbrook announced a €200 million investment in Krios, a European platform focused on developing grid-secured land to enable large-scale data center projects. The post ‘Significant’ momentum in European digital infra, says Sandbro…
 >
-> **8. [并购潮浪渐高，A股进入产业资本博弈时代丨资本观察 - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnbDM3M1ZkUnY5YVR0RUlxeHFoTHFUNV9QZ3dxVUJjS2xuWTVrSTd1VG96dFhYbnppbzhIQUw2X25OdC1GVnh3bVdiNldnczhodXpV?oc=5)**
-> <small>第一财经 · 国内 · 01:01</small>
-> 并购潮浪渐高，A股进入产业资本博弈时代丨资本观察 第一财经
+> **8. [KKR agrees $4.2bn EDF renewables acquisition, ACON backs YumEarth](https://www.altassets.net/private-equity-news/by-region/global-by-region/kkr-agrees-4-2bn-edf-renewables-acquisition-as-acon-backs-yumearth.html)**
+> <small>AltAssets · 国际 · 17:24</small>
+> KKR has agreed to acquire EDF power solutions’ renewable energy operations in the US and Canada from EDF Group in a transaction valuing the equity at approximately $4.2bn, with potential additional payments of up to $390m. The business ran…
 >
 > **9. [辰显光电完成数亿元B轮融资，加速Micro-LED产业化进程 - 投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Va19ZZVk1dFlyN0pRR3hLT19lQkpFZkdVTl9BbWozNURGY0EzV3M5QUFfVUxRQ0lMQmYwOFNXeVFVUzQ1Y3JxRWZfQmpMUFBiY1hkN2VR?oc=5)**
 > <small>投资界 · 国内 · 14:31</small>
