@@ -8,41 +8,41 @@
 > [!quote] 财经 / 金融
 > 10/10 · 国内 4 / 国际 6
 >
-> **1. [Musk denies WSJ report that SpaceX showed AI handset prototype before IPO - Reuters](https://news.google.com/rss/articles/CBMizAFBVV95cUxPeFJZTzFRUHJxMVVWc0FKU3Vhb29hWFVDQTRZdzhMaE1BYTVWbHVHUWZtNTY3VnBER0pBbUJOUEEtSkt0NnRoRDlNVldoTm50T3NiTEVNY09GcWZaOVJTeWhTUWpwLXFqLU1FRDlkRnFvdGI3N1VqMGIxX1hFREF1RXoyd2ZKYVZKbmhDRFR4N29EeVI3T2QxUEZxcEloWk1fQW5ZNW52WFJvQnE5MUdGMGtEVE5lZGlCemcyNmVGTnQ1clhZRkp4QWg5aUM?oc=5)**
-> <small>Reuters · 国际 · 03:03</small>
-> Musk denies WSJ report that SpaceX showed AI handset prototype before IPO Reuters
->
-> **2. [Why investors may want to prioritize bond markets outside the U.S.](https://www.cnbc.com/2026/06/27/inflation-as-major-reason-to-invest-in-global-bond-markets.html)**
+> **1. [Why investors may want to prioritize bond markets outside the U.S.](https://www.cnbc.com/2026/06/27/inflation-as-major-reason-to-invest-in-global-bond-markets.html)**
 > <small>CNBC Finance · 国际 · 23:00</small>
 > Allspring Global Investments is pushing clients toward countries with central banks that are raising interest rates or have different inflation dynamics.
 >
-> **3. [Kalshi CEO says prediction market thinking about IPO, but not for this year](https://www.cnbc.com/2026/06/24/kalshi-ceo-says-company-thinking-about-ipo-but-not-for-this-year-.html)**
+> **2. [Kalshi CEO says prediction market thinking about IPO, but not for this year](https://www.cnbc.com/2026/06/24/kalshi-ceo-says-company-thinking-about-ipo-but-not-for-this-year-.html)**
 > <small>CNBC Finance · 国际 · 21:42</small>
 > Tarek Mansour said to CNBC's "Squawk Box" it made sense for the company at the stage to think about a debut on public markets.
 >
-> **4. [GPT周报｜宇树IPO注册申请获批；OpenAI发布GPT-5.6；Anthropic最强模型解除出口限制 - 财新](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1jajR0NnE5aGF6bTk4alJPcm9WNUI4OE5OSE1wSDVSXzh6ZXFTTGx1RktWb3EwamxQbzltVGRjX05GM3NUakpxLW1pODctcGpqZHJ4RU05YmtSVTFtYVl2N19VS1U?oc=5)**
+> **3. [GPT周报｜宇树IPO注册申请获批；OpenAI发布GPT-5.6；Anthropic最强模型解除出口限制 - 财新](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1jajR0NnE5aGF6bTk4alJPcm9WNUI4OE5OSE1wSDVSXzh6ZXFTTGx1RktWb3EwamxQbzltVGRjX05GM3NUakpxLW1pODctcGpqZHJ4RU05YmtSVTFtYVl2N19VS1U?oc=5)**
 > <small>财新 · 国内 · 16:54</small>
 > GPT周报｜宇树IPO注册申请获批；OpenAI发布GPT-5.6；Anthropic最强模型解除出口限制 财新
 >
-> **5. [能源内参｜深交所最大IPO华润新能源上市 首日收涨137%；航空燃油附加费再下调 - 财新](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9RXzdJend3V25aN0RoUnBmbUlzdlI3Q01sYU5neEU5ckh1Sk9ENzc1TTl6Um9sajVZWFpkdTl1LVNZVC1TMC1JejgtYzhXYVl4NG9rUlpjOHdpUjZGZmNiVDhSWHh2RUk?oc=5)**
+> **4. [能源内参｜深交所最大IPO华润新能源上市 首日收涨137%；航空燃油附加费再下调 - 财新](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9RXzdJend3V25aN0RoUnBmbUlzdlI3Q01sYU5neEU5ckh1Sk9ENzc1TTl6Um9sajVZWFpkdTl1LVNZVC1TMC1JejgtYzhXYVl4NG9rUlpjOHdpUjZGZmNiVDhSWHh2RUk?oc=5)**
 > <small>财新 · 国内 · 12:42</small>
 > 能源内参｜深交所最大IPO华润新能源上市 首日收涨137%；航空燃油附加费再下调 财新
 >
-> **6. [Sandwich chain Jersey Mike’s files for IPO as Blackstone eyes windfall - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxQMFpzRlViUVl4Ty1CUW1Bb2Nval93YzFVSHI5UzJGMzNybDNJc0pGQjAyZ0pWU3E1ekRqTkpsbjlOWEc4d0p2NmVlUlY4dVlvSHQ4TlZJWElwOHVHQXc3dFlwTWkwYVlLOVZxMHQ4bkJROTIyM19kcFM0VWgySXhfUk5RNVo?oc=5)**
+> **5. [Sandwich chain Jersey Mike’s files for IPO as Blackstone eyes windfall - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxQMFpzRlViUVl4Ty1CUW1Bb2Nval93YzFVSHI5UzJGMzNybDNJc0pGQjAyZ0pWU3E1ekRqTkpsbjlOWEc4d0p2NmVlUlY4dVlvSHQ4TlZJWElwOHVHQXc3dFlwTWkwYVlLOVZxMHQ4bkJROTIyM19kcFM0VWgySXhfUk5RNVo?oc=5)**
 > <small>Financial Times · 国际 · 02:54 · `可能需订阅`</small>
 > Sandwich chain Jersey Mike’s files for IPO as Blackstone eyes windfall Financial Times
 >
-> **7. [OpenAI may hand Trump a 5% stake: Financial Times - BNN Bloomberg](https://news.google.com/rss/articles/CBMivAFBVV95cUxNem1UeXJxbFNTcjUteVJOalk0bkJpM2Jnd2JIVE02Q2taN2tHUnhhRGdEdTBOWXl2bDhubGtCNVVLSTdKZ3FYTDRnTWs3b2NPeTRURUl6Uk9wS3VhMk1CbEFSUDQ1a1M4WDh4Sm92bGZFV0ljaE5JeG16SWNXeWp3LWJaanNZc0dEZnRxRXJFajhycTVUSndwUUd0eHVtd0VZeEszcVRPRmp5SkxCREpfTU1kYUFvN0ljMjZybg?oc=5)**
+> **6. [OpenAI may hand Trump a 5% stake: Financial Times - BNN Bloomberg](https://news.google.com/rss/articles/CBMivAFBVV95cUxNem1UeXJxbFNTcjUteVJOalk0bkJpM2Jnd2JIVE02Q2taN2tHUnhhRGdEdTBOWXl2bDhubGtCNVVLSTdKZ3FYTDRnTWs3b2NPeTRURUl6Uk9wS3VhMk1CbEFSUDQ1a1M4WDh4Sm92bGZFV0ljaE5JeG16SWNXeWp3LWJaanNZc0dEZnRxRXJFajhycTVUSndwUUd0eHVtd0VZeEszcVRPRmp5SkxCREpfTU1kYUFvN0ljMjZybg?oc=5)**
 > <small>BNN Bloomberg · 国际 · 22:29 · `可能需订阅`</small>
 > OpenAI may hand Trump a 5% stake: Financial Times BNN Bloomberg
 >
-> **8. [Latest Jobs Report Shows Labor Market Is Not a Source of Inflationary Pressure](https://www.nytimes.com/2026/07/02/business/economy/jobs-report-june-fed-interest-rates-warsh.html)**
+> **7. [Latest Jobs Report Shows Labor Market Is Not a Source of Inflationary Pressure](https://www.nytimes.com/2026/07/02/business/economy/jobs-report-june-fed-interest-rates-warsh.html)**
 > <small>NYTimes Business · 国际 · 21:54 · `可能需订阅`</small>
 > The unemployment rate ticked down to 4.2 percent, but average hourly earnings were steady, giving Kevin Warsh, the Federal Reserve chairman, room to focus on fighting inflation.
 >
-> **9. [央行重启净投放，万亿买断式逆回购即将落地 - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1NTjEwZ1BPcmc1ZDNQMWRLSjEyZHlna0RXY0JvNk1GZXNkREZQQVdqQ2hCWXZUd1R3cjdkSTFQcFJ4Mkh6NlN0ZzJYcS00SzNhZDBr?oc=5)**
-> <small>第一财经 · 国内 · 20:48</small>
-> 央行重启净投放，万亿买断式逆回购即将落地 第一财经
+> **8. [Why the Jobs Market Has Wall Street and Washington on Edge](https://www.nytimes.com/2026/07/02/business/dealbook/jobs-fed-rates-wall-street.html)**
+> <small>NYTimes Business · 国际 · 20:00 · `可能需订阅`</small>
+> A rebound in hiring has put more pressure on the Federal Reserve to raise interest rates. New jobs numbers are scheduled for release on Thursday.
+>
+> **9. [欧央行率先加息全球货币政策转向？OpenAI要打Token价格战狙击Anthropic？涨价潮轮到半导体上游材料大硅片丨20260612从华尔街到陆家嘴 - 第一财经](https://news.google.com/rss/articles/CBMiVEFVX3lxTFBjZmxUM2gwa3dlSjk5YkFmSUM1T3JmVHJJeUZhaU8tcWJ3Q0kzTEJfZ1M4bmxNODNaTkVxaE01UG5TcXpIWFVJMTBCWnhiSGtGS2JLTw?oc=5)**
+> <small>第一财经 · 国内 · 11:09</small>
+> 欧央行率先加息全球货币政策转向？OpenAI要打Token价格战狙击Anthropic？涨价潮轮到半导体上游材料大硅片丨20260612从华尔街到陆家嘴 第一财经
 >
 > **10. [A股四大指数集体高开，折叠屏、存储器等板块涨幅居前 - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1CNjlXSUZvX0lVWGlZbnU3bzRiUjlGV05qaG9PRmRrZGRNb0Z4bWQ2TS14LWlqS00tS2Vrd1FJVXd5aUUyQzJnakdyOERQZHVBQlhJ?oc=5)**
 > <small>第一财经 · 国内 · 10:16</small>
@@ -50,7 +50,7 @@
 >
 
 > [!example] 科技 / AI
-> 10/10 · 国内 4 / 国际 6
+> 10/10 · 国内 3 / 国际 7
 >
 > **1. [Claude Science is Anthropic’s newest flagship product](https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/)**
 > <small>MIT Technology Review · 国际 · 05:50</small>
@@ -60,41 +60,41 @@
 > <small>MIT Technology Review · 国际 · 17:00</small>
 > As the parent of two little girls, I often think about how their childhood is different from mine. The seven-year-old is learning about AI at school. The five-year-old is given internet-based homework every week. And they are both absolute…
 >
-> **3. [Anthropic wants to develop its own drugs](https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development)**
-> <small>The Verge · 国际 · 21:56</small>
-> At the event "The Briefing: AI for Science" earlier this week, Anthropic announced Claude Science, a new "AI workbench for scientists" that pulls fragmented tools and datasets into one environment, and generates figures and visuals. Anthro…
->
-> **4. [30亿美元！全球视频大模型公司融资纪录诞生！ - 证券时报](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9SUXNZOVNxdGdNS3JMQ0JhNHg4SS1LeDZBQkwyamZfZ2hiQjUtNWhNQXpXbDZUcm8zOER3a2hxX0xocDFoQUxKUTR6dDFQXzZqU0FCaHpMVWJQZnZz?oc=5)**
-> <small>证券时报 · 国内 · 12:32</small>
-> 30亿美元！全球视频大模型公司融资纪录诞生！ 证券时报
->
-> **5. [具身智能公司光象科技累计完成数亿元天使轮融资](https://36kr.com/newsflashes/3881013448683785?f=rss)**
+> **3. [硬氪首发 | 港大教授成立的忆生科技获数亿天使轮融资，致力于为机器人造一套记忆系统](https://36kr.com/p/3882365879005186?f=rss)**
 > <small>36氪 · 国内</small>
-> 近日，光象科技宣布完成累计数亿元天使轮融资，最新一轮融资由珠海科技产业集团、兴证资本、松禾资本、顺禧基金、慕华科创、See Fund、亿宸资本、上市公司行云科技等头部财投与头部产投深度参与，老股东零一创投、L2F光源创业者基金等持续加注。据悉，本轮资金将重点投入物理原生基座模型的研发迭代，并推进具身智能机器人产品的商业化交付。（每日经济新闻）
+> 作者 | 邱晓芬 编辑 | 袁斯来 硬氪获悉，「忆生科技」（TranscEngram）完成数亿元天使轮融资，本轮投资方阵容横跨产业资本与国资平台，包括正大旗下中生制药、浦东创投、张江科投、张江高科、弘信电子、云晖资本、沃肯资本、金舵资本等。 「忆生科技」致力于从科学第一性原理出发，用"感知—预测—交互"闭环构建机器人"大脑+小脑"统一系统，探索下一代可解释自主智能（Autonomous Intelligence）。 本轮融资资金将主要用于可解释具身控制大模型与物理世界模型的…
 >
-> **6. [See what legal professionals say about the role of AI and law - Thomson Reuters Legal Solutions](https://news.google.com/rss/articles/CBMiigFBVV95cUxPR2NScmdVTnIteHZJc0NMZkZLT3h6bXdLVGtCcS1GOEozNDNZNXd2ckpybnhTYWxwTTVNQko2OW5QS2lUaGZBcHJxbGpINDJNTTdzSmMzdERJcHJZRWIzU1paVjJHaHdEUWh1elJGZ3RMU1d2amF6OVNzdnRTbm5YLWhaOHFaOHdqQXc?oc=5)**
-> <small>Thomson Reuters Legal Solutions · 国际 · 15:00</small>
-> See what legal professionals say about the role of AI and law Thomson Reuters Legal Solutions
+> **4. [What is Mistral AI? Everything to know about the OpenAI competitor](https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/)**
+> <small>TechCrunch · 国际 · 23:51</small>
+> Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”
 >
-> **7. [Jersey Mike’s IPO illustrates how bad the AI hype has become](https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/)**
+> **5. [Jersey Mike’s IPO illustrates how bad the AI hype has become](https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/)**
 > <small>TechCrunch · 国际 · 04:11</small>
 > Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But lo and behold.
 >
-> **8. [Anthropic is discussing a new custom chip with Samsung](https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/)**
-> <small>TechCrunch · 国际 · 02:31</small>
-> The news comes about a week after OpenAI announced its own custom AI chip in a partnership with Broadcom.
->
-> **9. [9点1氪｜阿里内部全面禁用Claude Code；FF洛杉矶总部人去楼空？公司回应：不实；微软砸25亿美元组建6000人AI新公司](https://36kr.com/p/3880629882679301?f=rss)**
+> **6. [9点1氪｜阿里内部全面禁用Claude Code；FF洛杉矶总部人去楼空？公司回应：不实；微软砸25亿美元组建6000人AI新公司](https://36kr.com/p/3880629882679301?f=rss)**
 > <small>36氪 · 国内</small>
 > 今日热点导览 三部门：调整节能汽车、新能源汽车车船税优惠政策 三星传获Meta超10万亿韩元AI芯片代工订单 茉莉奶白小程序更换彩色Logo Meta打算出售富余算力引发科技股回落 英伟达前光互连技术高管Ashkan Seyedi加入艾迈斯欧司朗 TOP3大新闻 因存在植入后门风险，阿里内部全面禁用Claude Code 36氪从阿里内部人士处获悉，因近期Claude Code被曝存在植入后门的安全风险，阿里经综合评估后已将其列入高风险软件名单。自7月10日起，阿里将全面禁…
 >
-> **10. [顶级资本齐聚纽约：中国资产迎来重定价，AI 产业主导新旧动能切换 - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9BLWJhYWZDWm9PSzN2dWM1c1VrQlE0cU0tWWNNallhcW9NdFZPTmZPMVREM3pfd3NqbUpmYkRuSW45dHA0UlhVbDMtMDI5NTRoTG53?oc=5)**
+> **7. [In San Francisco’s A.I. Era, Even $180,000 Tech Salaries Are No Longer Enough](https://www.nytimes.com/2026/06/29/technology/san-francisco-tech-salaries.html)**
+> <small>NYTimes Technology · 国际 · 10:47 · `可能需订阅`</small>
+> As OpenAI and Anthropic prepare to go public, tech workers making six figures are grousing that they cannot compete with the new A.I. elite. Some doubt they can afford to stay.
+>
+> **8. [Trump will oppose heavy US AI regulation, says outgoing tech adviser - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxQNW9USXIyLVQtZ1MzMjU1U2JrQ20tWlVkVU5KOW9GRlNmMVBibkNCLTFCdjNxcHJzRng0eURnbXFaR09iZDVyZEFiamVtTk1fM09oRXp3cWxtSUF5NzNHWTI3cmZhM09WVW1Ib0ltZG5NTGhHYVBrQUFoZ19WYjloTi02Nms?oc=5)**
+> <small>Financial Times · 国际 · 22:32 · `可能需订阅`</small>
+> Trump will oppose heavy US AI regulation, says outgoing tech adviser Financial Times
+>
+> **9. [顶级资本齐聚纽约：中国资产迎来重定价，AI 产业主导新旧动能切换 - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9BLWJhYWZDWm9PSzN2dWM1c1VrQlE0cU0tWWNNallhcW9NdFZPTmZPMVREM3pfd3NqbUpmYkRuSW45dHA0UlhVbDMtMDI5NTRoTG53?oc=5)**
 > <small>第一财经 · 国内 · 15:00</small>
 > 顶级资本齐聚纽约：中国资产迎来重定价，AI 产业主导新旧动能切换 第一财经
 >
+> **10. [To Reduce Electrical Grid Strain Amid Heat Wave, Data Centers Are Ordered to Use Backup Power](https://www.nytimes.com/2026/07/02/business/energy-environment/electric-grid-data-centers-pjm.html)**
+> <small>NYTimes Technology · 国际 · 02:54 · `可能需订阅`</small>
+> As triple-digit temperatures engulf much of the United States, the Trump administration wants grid managers to require the use of backup power that often goes unused.
+>
 
 > [!tip] 私募股权 / 投资市场
-> 10/10 · 国内 2 / 国际 8
+> 10/10 · 国内 3 / 国际 7
 >
 > **1. [Investor Intentions: MWRA issue RFP for private equity buyout mandate](https://www.privateequityinternational.com/investor-intentions-mwra-issue-rfp-for-private-equity-buyout-mandate/)**
 > <small>Private Equity International · 国际 · 21:53</small>
@@ -124,17 +124,17 @@
 > <small>PE Hub · 国际 · 16:27</small>
 > In May, Sandbrook announced a €200 million investment in Krios, a European platform focused on developing grid-secured land to enable large-scale data center projects. The post ‘Significant’ momentum in European digital infra, says Sandbro…
 >
-> **8. [Foreign bids help drive UK targeted M&A to new highs over $231 billion already in 2026 - Reuters](https://news.google.com/rss/articles/CBMitgFBVV95cUxNUjBJc0d6dEpiWDZJV19hSzFHV1pyM0s5Y1BxVENpSmtDQmo3aFBDSk5JZGFaMUFCWld0SklIdERIT2NvYlZfTjlVV1NydTQxSGJRMlpRQm9sRmQzM0pOU1VxVUpjeHBLSkF4cnc2ZUdyekRfNFhYSGhhS0FTZHNwR243Y3NHTGVjcFZ4SzJFeUUzQWFReXpGVkl4LUpTYWNQcE50eXZ1MkN3U3JzT1dsOUJtemMtUQ?oc=5)**
-> <small>Reuters · 国际 · 15:00</small>
-> Foreign bids help drive UK targeted M&A to new highs over $231 billion already in 2026 Reuters
->
-> **9. [辰显光电完成数亿元B轮融资，加速Micro-LED产业化进程 - 投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Va19ZZVk1dFlyN0pRR3hLT19lQkpFZkdVTl9BbWozNURGY0EzV3M5QUFfVUxRQ0lMQmYwOFNXeVFVUzQ1Y3JxRWZfQmpMUFBiY1hkN2VR?oc=5)**
-> <small>投资界 · 国内 · 14:31</small>
-> 辰显光电完成数亿元B轮融资，加速Micro-LED产业化进程 投资界
->
-> **10. [聚焦先进固态锂电池研发、生产与销售，「合源锂创」完成数亿元A轮融资 - 投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBZYmd3MlVkQmd1MjhsLXN4VVRWQXhxYXZySG9MbE9RbTZxeE5xeXdqMnhyYWhVMXhlUHRsQUVaWl90a1QwaEJsMU9qeUtLY3N6QkZQR2p3?oc=5)**
-> <small>投资界 · 国内 · 17:24</small>
+> **8. [聚焦先进固态锂电池研发、生产与销售，「合源锂创」完成数亿元A轮融资 - 投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBZYmd3MlVkQmd1MjhsLXN4VVRWQXhxYXZySG9MbE9RbTZxeE5xeXdqMnhyYWhVMXhlUHRsQUVaWl90a1QwaEJsMU9qeUtLY3N6QkZQR2p3?oc=5)**
+> <small>投资界 · 国内 · 17:37</small>
 > 聚焦先进固态锂电池研发、生产与销售，「合源锂创」完成数亿元A轮融资 投资界
+>
+> **9. [今年过半，诞生154个IPO - 投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1EeTU5UVBZRXRxc3NibndhWkcyNTVhMXJyeXVZOEVJWXhBem40d0FHOGNfX1FRN0tQa2NFVVc2VERweEtNNWx0dUloWUIwMnRwakFNcjdn?oc=5)**
+> <small>投资界 · 国内 · 07:17</small>
+> 今年过半，诞生154个IPO 投资界
+>
+> **10. [融资丨「CAYE咖爷科技」完成近4亿元B轮融资，系商用全自动咖啡机赛道单笔最大规模融资 - 创业邦](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9RUl94QThxTnpDTGRPcjdvdS1VYUlnZDUzMEYzZzBhdE9GR2FEa1hXYk80dzZ6dm01Z0R2NUN5UkVsdW9uMWxsNHRMWThNVGZRWmZn?oc=5)**
+> <small>创业邦 · 国内 · 11:17</small>
+> 融资丨「CAYE咖爷科技」完成近4亿元B轮融资，系商用全自动咖啡机赛道单笔最大规模融资 创业邦
 >
 
 #daily-news
