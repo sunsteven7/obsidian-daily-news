@@ -16,13 +16,13 @@
 > <small>CNBC Finance · 国际 · 00:04</small>
 > Kashkari said he sees a hike likely this year as the economy continues to feel the hit from spiking inflation.
 >
-> **3. [潘功胜：扩容债券南向通和人民币业务资金安排 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTFB5M3c0MTBJZE9GN0lDZGZiM0FCdUlSRjVVcWE4RENzVFJVdGhSbmxoMUdhcGhkUlFHN1ZpTE5ybVdta2FBQTQ3ZFM0ZDZTQUM2dngwc0NsMGpvZEdYY2FTSVJ3?oc=5)**
-> <small>财新 · 国内 · 19:05</small>
-> 潘功胜：扩容债券南向通和人民币业务资金安排 财新
->
-> **4. [BOE Sees Heightened Threat to Financial Stability as Leverage in Equity Markets Rises - WSJ](https://news.google.com/rss/articles/CBMizwFBVV95cUxOWG8ydWFuNEItQkFpdUtnU0R5OU9mZGxlQ3p1bE5yN1BSenlsQ3o0b0JNLWtjc25MM1JEdnNPcTlDd09FT00xNzAtWkVFdGJncFNwU2d6NkQ3anBacHpxdXN6WG9tcjFMTHZTa3BJZ2hGVGNwOHIzT1psS1JKOE82N2N3RndyTDVueUV3T3h0QkRDZVNCR3A4eEFiS2M1VlpYOGE2SnFlT2ZIRndqbDRwN0pXZWR0ckdjbUNzOE5IbTAtZDZQdnRhRHE0dENCVUk?oc=5)**
-> <small>WSJ · 国际 · 17:54 · `可能需订阅`</small>
+> **3. [BOE Sees Heightened Threat to Financial Stability as Leverage in Equity Markets Rises - WSJ](https://news.google.com/rss/articles/CBMizwFBVV95cUxOWG8ydWFuNEItQkFpdUtnU0R5OU9mZGxlQ3p1bE5yN1BSenlsQ3o0b0JNLWtjc25MM1JEdnNPcTlDd09FT00xNzAtWkVFdGJncFNwU2d6NkQ3anBacHpxdXN6WG9tcjFMTHZTa3BJZ2hGVGNwOHIzT1psS1JKOE82N2N3RndyTDVueUV3T3h0QkRDZVNCR3A4eEFiS2M1VlpYOGE2SnFlT2ZIRndqbDRwN0pXZWR0ckdjbUNzOE5IbTAtZDZQdnRhRHE0dENCVUk?oc=5)**
+> <small>WSJ · 国际 · 20:10 · `可能需订阅`</small>
 > BOE Sees Heightened Threat to Financial Stability as Leverage in Equity Markets Rises WSJ
+>
+> **4. [London IPO candidate CFC hires ex-Direct Line chief Adam Winslow as new boss - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxPMFNudEViNUIwMG9WUVVHYVg5aWFBRHBTbEFnQzAxSk1KaWszamRJbUVwNnFLbkRCSW1obVVmMjZ1MHJJNzRLa1pQb01PTWVLUHJkRWM5NkFhUHJnWEYyR01UYnJmVzM1Snhpal9XcHk4Q0Q4czdIUEREMlNrbTlycVYtaWk?oc=5)**
+> <small>Financial Times · 国际 · 19:01 · `可能需订阅`</small>
+> London IPO candidate CFC hires ex-Direct Line chief Adam Winslow as new boss Financial Times
 >
 > **5. [Hedge fund run by ex-OpenAI researcher bets on SK Hynix’s US IPO - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxQNnlMdzBCc0NQOFlyNG52T04xc2E0bnNMVjE1RjZFR3Bpd1YtODVtU1F4MV9KYlFSUEZhbHE1QTdoVjFaXzFRelpxcnNsWkpFQXRxdVVyaC1pZ0hzSUpJSVIwNHVxaXFGZDEyUVRUZjVPaUd6ZGpCMExUVFQ3bmRJWElxeUs?oc=5)**
 > <small>Financial Times · 国际 · 02:08 · `可能需订阅`</small>
@@ -32,21 +32,21 @@
 > <small>第一财经 · 国内 · 18:20</small>
 > 下周外盘看点丨美联储领衔央行超级周，中东战火如何冲击欧美一季度GDP 第一财经
 >
-> **7. [Holtec heads for IPO as chief declares ‘world has become rational’ about nuclear - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNcGZhMFY5bkdVY1pmYUtDUzBDM1FjclZxY1pYSjFvNEhOWDNMSmpoLU5PNTA3SW1qdFA2dnFjOVdsMDdNSGFIQnBUYm85STR6X3ZfZUVNUGtoSC1lSVVvaHVXWXB6dGhWbHlhd1RROFFCbVB1ZTdGaGZFcHV0emU5VFk4ZFU?oc=5)**
-> <small>Financial Times · 国际 · 11:01 · `可能需订阅`</small>
-> Holtec heads for IPO as chief declares ‘world has become rational’ about nuclear Financial Times
+> **7. [重要调整，明起，A股交易规则变了 - 财新](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBSUUxGNS03aEVwQ1ZuMUt6RDhKY01vUjRQS21UR2kyRlgzVVRWYjMyTnZNaUpPQmhDdy1obWI3czZvd3llVHZPdEF1cEw1cVY1S3FYTXY4NjU0SG9lTGc?oc=5)**
+> <small>财新 · 国内 · 10:51</small>
+> 重要调整，明起，A股交易规则变了 财新
 >
 > **8. [Latest Jobs Report Shows Labor Market Is Not a Source of Inflationary Pressure](https://www.nytimes.com/2026/07/02/business/economy/jobs-report-june-fed-interest-rates-warsh.html)**
 > <small>NYTimes Business · 国际 · 21:54 · `可能需订阅`</small>
 > The unemployment rate ticked down to 4.2 percent, but average hourly earnings were steady, giving Kevin Warsh, the Federal Reserve chairman, room to focus on fighting inflation.
 >
-> **9. [王君：格林斯潘是错在相信市场万能吗 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9VbDVaMkNrT3hLdkg2UEx2NEkwUmVBQkNJSTVMRkEyYTlnejU4QkdCNEc4YmVxeTJCeTVQc1Z6SnA3N0dpdjllMFU0enVQWHphSVFRUkhtcElTWXI3NkRiVC1B?oc=5)**
-> <small>财新 · 国内 · 10:37</small>
-> 王君：格林斯潘是错在相信市场万能吗 财新
+> **9. [港股智驾物理AI第一股！Momenta与上汽深度合作新模型较前代已有3倍以上提升｜港股直通车 - 第一财经](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9TNkc4Z1FnOUZQRktJVWJ5V1R0T0U4SGVuaGpWT0k1cUpIN3pWOVkzS1NyM0VRZTNSdnF3b0N4V2hYWWF2Y0NvajJHa3haTEdFekNWdg?oc=5)**
+> <small>第一财经 · 国内 · 14:11</small>
+> 港股智驾物理AI第一股！Momenta与上汽深度合作新模型较前代已有3倍以上提升｜港股直通车 第一财经
 >
-> **10. [欧英央行按兵不动，中东局势逆转降息预期 - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9uSWIyVjhOVUQtenRVdW0wSF9TS183NE45UWZCaUU3RGRJbmVOdVRfMzV6Qk9Ea3JfX0hQYjkybDRZOC1SM1A3anRqRDJablZVYWJF?oc=5)**
-> <small>第一财经 · 国内 · 22:45</small>
-> 欧英央行按兵不动，中东局势逆转降息预期 第一财经
+> **10. [潘功胜：扩容债券南向通和人民币业务资金安排 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTFB5M3c0MTBJZE9GN0lDZGZiM0FCdUlSRjVVcWE4RENzVFJVdGhSbmxoMUdhcGhkUlFHN1ZpTE5ybVdta2FBQTQ3ZFM0ZDZTQUM2dngwc0NsMGpvZEdYY2FTSVJ3?oc=5)**
+> <small>财新 · 国内 · 19:05</small>
+> 潘功胜：扩容债券南向通和人民币业务资金安排 财新
 >
 
 > [!example] 科技 / AI
@@ -60,37 +60,37 @@
 > <small>MIT Technology Review · 国际 · 02:00</small>
 > This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. OpenAI CEO Sam Altman’s oft-discussed promise that Americans will share in the wealth AI creates was…
 >
-> **3. [30亿美元！全球视频大模型公司融资纪录诞生！ - 证券时报](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9SUXNZOVNxdGdNS3JMQ0JhNHg4SS1LeDZBQkwyamZfZ2hiQjUtNWhNQXpXbDZUcm8zOER3a2hxX0xocDFoQUxKUTR6dDFQXzZqU0FCaHpMVWJQZnZz?oc=5)**
-> <small>证券时报 · 国内 · 12:32</small>
-> 30亿美元！全球视频大模型公司融资纪录诞生！ 证券时报
+> **3. [深圳，诞生一个半导体IPO！ - 证券时报](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9WRzJPR0NDU3hwbDlGZFlDOEVIVjRqZHA2cVJrU1U0U1pPUFptczgwbVNDWkFqZjFFdnh3Mk9FRWh2YWNlcDRfcjdZRTZ1OWZBYTZYelduV2o2bjZE?oc=5)**
+> <small>证券时报 · 国内 · 07:37</small>
+> 深圳，诞生一个半导体IPO！ 证券时报
 >
-> **4. [美国2026上半年并购总额创历史新高，达到1.45万亿美元同比增长75%](https://36kr.com/newsflashes/3885418030887172?f=rss)**
-> <small>36氪 · 国内</small>
-> 伦敦证券交易所集团（LSEG）的数据显示，2026年1～6月以美国企业为对象的并购交易（截至6月24日，含部分出资）总额达1万4467亿美元，同比增长75%，刷新了2002年可追溯数据以来的上半年并购规模最高纪录。2026年上半年美国已公布的并购（M&A）交易总额创下同期历史新高。随着人工智能（AI）普及，科技及能源行业的企业整合不断推进。美国特朗普政府的监管放宽也助推了并购热潮。（财联社）
+> **4. [Big Tech data centers are driving up power bills at America's Rust Belt factories - Reuters](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSGJ2UXRHVGctUTJ6VTJfbGV6djVUaUZFZjVONlZPZ0EyY01XZFh6dFdRRGxDQnRzSnF6UG1mOXBNR2k5eTBXeEtyV1VIdzdlUjk4N1lrTFVqdFRFRjNBMHNsMmFRWmpxX2I5dzdQMlZnZmsteUU0bGZXMFNRM29Vb2JGeFRScWw5S3ZPZlV3ZTA0dkdxTTI4a05waTR1ZU9aZVVCcWV5bVVfOUFtMUxQRzJ4aVQyQWV5MEFaODlrUjFSWXpDVGE5dQ?oc=5)**
+> <small>Reuters · 国际 · 00:17</small>
+> Big Tech data centers are driving up power bills at America's Rust Belt factories Reuters
 >
 > **5. [全球芯片股大跌，摩根士丹利：人工智能投资周期发生转变 - 证券时报](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9RRjd0VXNJOFdGa21keVpjbkZCUng3UHJlaGhjazFYMjgwTURTNU5qZlA5d2dOTE9XbEp3ZVh6ZktkRmhIN0FMSWEwSEc2MnpxZHJhUEd2eEI0Zjda?oc=5)**
 > <small>证券时报 · 国内 · 11:46</small>
 > 全球芯片股大跌，摩根士丹利：人工智能投资周期发生转变 证券时报
 >
-> **6. [US investors will soon get access to SK Hynix, another memory maker riding the AI boom](https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/)**
-> <small>TechCrunch · 国际 · 07:21</small>
-> SK Hynix is experiencing a boom credited to AI. It will ride that to a multibillion-dollar U.S. IPO, expected to take place on Friday.
+> **6. [Hot French startup ZML releases free product to speed inference across lots of AI chips](https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/)**
+> <small>TechCrunch · 国际 · 16:00</small>
+> ZML, a hot French AI startup endorsed by Turing Award winner Yann LeCun, has now released ZML/LLMD, software that could make running AI less costly.
 >
-> **7. [TeraWulf jumps on $19 billion data center lease deal with Anthropic - Reuters](https://news.google.com/rss/articles/CBMirAFBVV95cUxOVDl4N3FZenJYeGFlSUY2QkVFMlV3eHNxTWlHdzVJTlFoN0FMejNyVjZXMHZ2ek1Tai1rMHF5LU9ZdFgtVHd3ZnU4N2FFY3hlazNnUUxGTE9tRnNxSnhIVmlVYjJUZ2w1N2gxcVhtcVozamxkX2JqYTJvVzliNGtOejlURDZXZTBBQTRoa05PZzB5MmNHX25UTV9KNF9KYVRKbFFTSjRhUlBUcm5u?oc=5)**
-> <small>Reuters · 国际 · 22:03</small>
-> TeraWulf jumps on $19 billion data center lease deal with Anthropic Reuters
->
-> **8. [北斗人创业，要建太空数据中心，「星际原点」连续完成两轮数千万元融资｜36氪首发](https://36kr.com/p/3885413484163074?f=rss)**
+> **7. [地产AI进入落地战，深度智联又甩出一张牌](https://36kr.com/p/3886709249241349?f=rss)**
 > <small>36氪 · 国内</small>
-> 文 | 阿至 太空算力赛道又有新玩家入场。 36氪获悉，太空算力卫星系统解决方案提供商星际原点航天科技（上海）有限公司（以下简称“星际原点”） 已于近期连续完成种子轮、天使轮两轮融资，累计规模为数千万元。 种子轮投资方为九合创投。天使轮由老股东九合创投、梅花创投和上海国投旗下上海科创集团策源基金联合领投，上海天使会以联合投资形式参与。一苇资本担任独家财务顾问。 星际原点成立于2025年，业务聚焦太空算力卫星。核心团队由中科院北斗三号核心骨干、哈工大专家联合组建，拥有北斗三号…
+> 7月7日，易居（中国）控股有限公司董事局主席、总裁周忻再一次来到台前，给公司的AI产品站台，推出其核心战略产品“地产模数通——企业专属大模型一体机”。同时，克而瑞地产AI分析师“小瑞”正式上岗。 不到两个月前，易居旗下的深度智联刚刚发布了全球首个房地产经纪人智能体“易居·小新”，用中立无佣模式替代传统中介。迹象显示，深度智联在加速AI产品落地。 周忻说，地产模数通“是第一个开箱即用的硬软件结合的AI应用，我把它称之为DEEPLINK IN-HOUSE MODEL，它是一台机…
 >
-> **9. [To Reduce Electrical Grid Strain Amid Heat Wave, Data Centers Are Ordered to Use Backup Power](https://www.nytimes.com/2026/07/02/business/energy-environment/electric-grid-data-centers-pjm.html)**
+> **8. [To Reduce Electrical Grid Strain Amid Heat Wave, Data Centers Are Ordered to Use Backup Power](https://www.nytimes.com/2026/07/02/business/energy-environment/electric-grid-data-centers-pjm.html)**
 > <small>NYTimes Technology · 国际 · 13:36 · `可能需订阅`</small>
 > As triple-digit temperatures engulf much of the United States, the Trump administration wants grid managers to require the use of backup power that often goes unused.
 >
-> **10. [In San Francisco’s A.I. Era, Even $180,000 Tech Salaries Are No Longer Enough](https://www.nytimes.com/2026/06/29/technology/san-francisco-tech-salaries.html)**
-> <small>NYTimes Technology · 国际 · 10:47 · `可能需订阅`</small>
-> As OpenAI and Anthropic prepare to go public, tech workers making six figures are grousing that they cannot compete with the new A.I. elite. Some doubt they can afford to stay.
+> **9. [UK regulator warns of ‘arms race’ to keep up with AI use in financial services - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxPaDFPQ29URVRhbU0wRFVBdDNUSTdXTy1Nd1Q3WWtGbEZYeW1tV0NBRnJ2aFhTT1lHTk42dG90ZTZ5bmRJZkRnWnFpRFE5V09EXzhGRTduSzZDb3RIUWd0VjViYjduem50LThRcXlST3loSWpwLUE5Vmx1ZDFILWV2S1JQOXg?oc=5)**
+> <small>Financial Times · 国际 · 05:00 · `可能需订阅`</small>
+> UK regulator warns of ‘arms race’ to keep up with AI use in financial services Financial Times
+>
+> **10. [36氪首发 | 五粮液基金领投，国产高端机床企业获数亿元融资，加速海外市场布局](https://36kr.com/p/3886400975040520?f=rss)**
+> <small>36氪 · 国内</small>
+> 作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，高端机床企业上海星合近日完成数亿元融资。本轮融资由五粮液基金领投，上市公司麦格米特跟投，深蓝资本担任长期独家财务顾问。融资资金将主要用于高端磨齿机、磨床、铣床等产品的研发投入，并推动新产品及海外市场的商业化。 成立于2009年的星合机电长期聚焦高端机床研发制造，目前产品覆盖高端磨齿机、磨床、铣床等精密加工设备，主要应用于汽车制造、机器人、航空航天、精密减速机等领域。 公司早期业务以齿轮刀具研发和技术服务为主，开发了滚刀、剃齿刀设…
 >
 
 > [!tip] 私募股权 / 投资市场
@@ -102,35 +102,35 @@
 >
 > **2. [Denmark’s Novo Holdings eyes PE GPs, targets energy and Asia](https://www.privateequityinternational.com/denmarks-novo-holdings-eyes-pe-gps-targets-energy-and-asia/)**
 > <small>Private Equity International · 国际 · 11:04</small>
-> The manager of Novo Nordisk Foundation’s $36bn of investments is expanding its planetary health portfolio and mulling carving out an allocation for private equity GPs to run, while more offices in Asia may also be on the cards.
+> The manager of Novo Nordisk Foundation’s $36bn of investments is expanding its planetary health portfolio and mulling carving out an allocation for private equity GPs to run, according to partner Aleks Engel.
 >
-> **3. [BCI seeks ‘good returns’ from newly launched capital solutions strategy](https://www.buyoutsinsider.com/bci-seeks-good-returns-from-newly-launched-capital-solutions-strategy/)**
+> **3. [Renovus-backed TJP acquires life sciences commercial operations firm FX2 Virtual](https://www.pehub.com/renovus-backed-tjp-acquires-life-sciences-commercial-operations-firm-fx2-virtual/)**
+> <small>PE Hub · 国际 · 23:16</small>
+> TJP is a healthcare marketing communications firm. The post Renovus-backed TJP acquires life sciences commercial operations firm FX2 Virtual appeared first on PE Hub .
+>
+> **4. [From ‘status quo’ to ‘remain in place’ ILPA updates CV guidance for an evolving market](https://www.buyoutsinsider.com/from-status-quo-to-remain-in-place-ilpa-updates-cv-guidance-for-an-evolving-market/)**
+> <small>Buyouts · 国际 · 05:40</small>
+> The industry body's prior guidance was 'silent on a lot of things,’ chief executive Jennifer Choi tells affiliate title Secondaries Investor.
+>
+> **5. [BCI seeks ‘good returns’ from newly launched capital solutions strategy](https://www.buyoutsinsider.com/bci-seeks-good-returns-from-newly-launched-capital-solutions-strategy/)**
 > <small>Buyouts · 国际 · 04:04</small>
 > While more LPs are participating directly in CVs and secondaries transactions, such investors remain 'the exception, not the norm' in the market, according to BCI’s global head of PE.
 >
-> **4. [NMS-backed Surplus Solutions scoops up health tech firm DCM BioServices](https://www.pehub.com/nms-backed-surplus-solutions-scoops-up-health-tech-firm-dcm-bioservices/)**
-> <small>PE Hub · 国际 · 02:58</small>
-> Headquartered in Woonsocket, Rhode Island, Surplus Solutions is a provider of equipment lifecycle management solutions for the life sciences industry. The post NMS-backed Surplus Solutions scoops up health tech firm DCM BioServices appeare…
->
-> **5. [Argosy takes a controlling stake in logistics firm K&L Freight Management](https://www.pehub.com/argosy-takes-a-controlling-stake-in-logistics-firm-kl-freight-management/)**
-> <small>PE Hub · 国际 · 00:49</small>
-> K&L specializes in time-sensitive, mission-critical freight services for the food & beverage, life sciences, energy, and other industries. The post Argosy takes a controlling stake in logistics firm K&L Freight Management appeared first on…
->
-> **6. [Arcline’s ‘compounding’ performance](https://www.buyoutsinsider.com/arclines-compounding-performance/)**
-> <small>Buyouts · 国际 · 05:15</small>
-> The industrial tech investor landed its latest fund by balancing its long-term plans for compounding growth with exits in the here and now.
+> **6. [Unity Partners acquires Meaden & Moore, as PE’s appetite for accounting firms grows; Capital Meridian scoops up Westway Enterprises](https://www.pehub.com/unity-partners-acquires-meaden-capital-meridian-scoops-up-westway-enterprises/)**
+> <small>PE Hub · 国际 · 21:52</small>
+> Peter Cozzi, an investment team lead at Unity Partners, provides insights on his firm's acquisition of Meaden & Moore Advisors, a professional services firm that provides forensic and accounting services; Capitol Meridian Partners acquires…
 >
 > **7. [Deal Roundup: GTCR agrees Corza Biosurgery sale to EQT, Lone Star agrees €4bn ContiTech buyout](https://www.altassets.net/private-equity-news/by-region/global-by-region/deal-roundup-gtcr-agrees-corza-biosurgery-sale-to-eqt-lone-star-agrees-e4bn-contitech-buyout.html)**
 > <small>AltAssets · 国际 · 16:43</small>
 > GTCR has agreed to sell the Biosurgery business of Corza Medical, including the TachoSil product portfolio, to EQT, six years after forming the company. The post Deal Roundup: GTCR agrees Corza Biosurgery sale to EQT, Lone Star agrees €4bn…
 >
-> **8. [辰显光电完成数亿元B轮融资，加速Micro-LED产业化进程 - 投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Va19ZZVk1dFlyN0pRR3hLT19lQkpFZkdVTl9BbWozNURGY0EzV3M5QUFfVUxRQ0lMQmYwOFNXeVFVUzQ1Y3JxRWZfQmpMUFBiY1hkN2VR?oc=5)**
-> <small>投资界 · 国内 · 14:31</small>
-> 辰显光电完成数亿元B轮融资，加速Micro-LED产业化进程 投资界
->
-> **9. [聚焦先进固态锂电池研发、生产与销售，「合源锂创」完成数亿元A轮融资 - 投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBZYmd3MlVkQmd1MjhsLXN4VVRWQXhxYXZySG9MbE9RbTZxeE5xeXdqMnhyYWhVMXhlUHRsQUVaWl90a1QwaEJsMU9qeUtLY3N6QkZQR2p3?oc=5)**
+> **8. [聚焦先进固态锂电池研发、生产与销售，「合源锂创」完成数亿元A轮融资 - 投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBZYmd3MlVkQmd1MjhsLXN4VVRWQXhxYXZySG9MbE9RbTZxeE5xeXdqMnhyYWhVMXhlUHRsQUVaWl90a1QwaEJsMU9qeUtLY3N6QkZQR2p3?oc=5)**
 > <small>投资界 · 国内 · 17:37</small>
 > 聚焦先进固态锂电池研发、生产与销售，「合源锂创」完成数亿元A轮融资 投资界
+>
+> **9. [今年过半，诞生154个IPO - 投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1EeTU5UVBZRXRxc3NibndhWkcyNTVhMXJyeXVZOEVJWXhBem40d0FHOGNfX1FRN0tQa2NFVVc2VERweEtNNWx0dUloWUIwMnRwakFNcjdn?oc=5)**
+> <small>投资界 · 国内 · 07:17</small>
+> 今年过半，诞生154个IPO 投资界
 >
 > **10. [融资丨「CAYE咖爷科技」完成近4亿元B轮融资，系商用全自动咖啡机赛道单笔最大规模融资 - 创业邦](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9RUl94QThxTnpDTGRPcjdvdS1VYUlnZDUzMEYzZzBhdE9GR2FEa1hXYk80dzZ6dm01Z0R2NUN5UkVsdW9uMWxsNHRMWThNVGZRWmZn?oc=5)**
 > <small>创业邦 · 国内 · 11:17</small>
