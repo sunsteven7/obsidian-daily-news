@@ -12,45 +12,45 @@
 > <small>财新 · 国内 · 20:42</small>
 > 证监会同意燧原科技科创板IPO注册申请 半导体板块表现强劲 财新
 >
-> **2. [智谱IPO禁售期满反升13% 如何看待港股解禁潮？ - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE44NjNHU2s5TXJQaXJvRlVIOHZCNENQX0NrUWZ4T3gxNWJYbGtHMklkU3dNSnpZS3VyM1JIZURsaEswQ0NkQlRZNkVBbG14NDhZMVlMMExrVDB3SlFSQlk3dmJB?oc=5)**
-> <small>财新 · 国内 · 20:22</small>
-> 智谱IPO禁售期满反升13% 如何看待港股解禁潮？ 财新
+> **2. [Breakingviews - Sandwich-shop IPO depends on hero worship - Reuters](https://news.google.com/rss/articles/CBMioAFBVV95cUxOX3ZOSEFwRDZsSFpiNTktTXRoQUEyOERXR3VQaGcyc0RRVFlBRGxWVkRrWVVzalpKZTZndF9jX2cxUm02T1Nyb0FBeEFxQ2F2LVltdVUtOGQ4NUo4dGk0SENwaWs4THItc3Y1VzRyUjF2SHBhamxGbl93WGJvT2hKelJzWWd5a3lndXhnMzhDamxmNjNBZk13NzlnNi1hSlJq?oc=5)**
+> <small>Reuters · 国际 · 23:24</small>
+> Breakingviews - Sandwich-shop IPO depends on hero worship Reuters
 >
-> **3. [Why investors may want to prioritize bond markets outside the U.S.](https://www.cnbc.com/2026/06/27/inflation-as-major-reason-to-invest-in-global-bond-markets.html)**
-> <small>CNBC Finance · 国际 · 23:00</small>
-> Allspring Global Investments is pushing clients toward countries with central banks that are raising interest rates or have different inflation dynamics.
->
-> **4. [MGM Resorts Engaged in Deal Talks With Diller, WSJ Says - Bloomberg.com](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWjBwdzBweXlocDhGMHIxZHhvWlk4NHNpVU9HYm1iTmdVYnBaVDZORjJDc0JKY3NnMWhqSW5qN1hpVDNIMnQ1ZEtDdHhGN1JCbFpQTF9GM3VaczFQbkNUTHhqbmp3dFVTV0pjYUlaMmNqREpGTFFDWGtibF9HS3d5U0s1Z090Tm1kRnBkb2c5SDEwSjVLTUtubldEWGhRVk5FMk5pbUI1djc?oc=5)**
+> **3. [MGM Resorts Engaged in Deal Talks With Diller, WSJ Says - Bloomberg.com](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWjBwdzBweXlocDhGMHIxZHhvWlk4NHNpVU9HYm1iTmdVYnBaVDZORjJDc0JKY3NnMWhqSW5qN1hpVDNIMnQ1ZEtDdHhGN1JCbFpQTF9GM3VaczFQbkNUTHhqbmp3dFVTV0pjYUlaMmNqREpGTFFDWGtibF9HS3d5U0s1Z090Tm1kRnBkb2c5SDEwSjVLTUtubldEWGhRVk5FMk5pbUI1djc?oc=5)**
 > <small>Bloomberg.com · 国际 · 07:02 · `可能需订阅`</small>
 > MGM Resorts Engaged in Deal Talks With Diller, WSJ Says Bloomberg.com
+>
+> **4. [SpaceX listing ‘lays groundwork’ to attract UK retail investors to IPOs - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxPU2xleElUZHhEZkpkaEcyLVVOOEVtbEczUjdOdWVydEt1NWMwcXNzb3M0NVl2NTZiR2lZWm1KNnZocTNISTJpLUluSEN3MnVwbHZnOE1VZ1NmTzNfVEFyYnVMbFc3QVRtTnYydnZTUEsybUVqWHdlUUZKRFVqcHN2X1RPS1I?oc=5)**
+> <small>Financial Times · 国际 · 23:02 · `可能需订阅`</small>
+> SpaceX listing ‘lays groundwork’ to attract UK retail investors to IPOs Financial Times
 >
 > **5. [A.I. Has Rewarded Investors. It May Now Pose Their Greatest Risk.](https://www.nytimes.com/2026/07/10/business/ai-stocks-bonds-investing-markets.html)**
 > <small>NYTimes Business · 国际 · 22:27 · `可能需订阅`</small>
 > Near the midpoint of the year, stocks and bonds both report good returns. But the global stock market has become highly concentrated, our columnist says.
 >
-> **6. [At Warsh’s First Fed Meeting, Some Officials Signaled Support for Raising Interest Rates](https://www.nytimes.com/2026/07/08/business/fed-meeting-minutes-warsh-interest-rates.html)**
+> **6. [三类情形将被金融监管部门纳入严重失信名单 有何影响？ - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1HaDFJMEhrV2U2d2drOURSRG9FUk5TRFhTbGJ3UWZJSGpMaDlFS2tyVUExMWFlRV9reHRDblRvVGNYUnhiQmI4RG93aGJ3cTVKZzkzZ1d0YXc3aGpqYlRyZzZR?oc=5)**
+> <small>财新 · 国内 · 21:49</small>
+> 三类情形将被金融监管部门纳入严重失信名单 有何影响？ 财新
+>
+> **7. [At Warsh’s First Fed Meeting, Some Officials Signaled Support for Raising Interest Rates](https://www.nytimes.com/2026/07/08/business/fed-meeting-minutes-warsh-interest-rates.html)**
 > <small>NYTimes Business · 国际 · 22:21 · `可能需订阅`</small>
 > Minutes from Kevin M. Warsh’s first meeting as chairman showed heightened unease about inflation, which is running at a three-year high.
 >
-> **7. [通胀压力压倒增长担忧，欧洲央行近三年来首次加息 - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1zMTJNOGVCemd3ZnhBazZHeHNxeFVWU0VBdTZ4UGE1anYzRVBuUEh1Q3dVVkpkVC1jaHZjUkw5TTBMaHpUTkE4SHFEbE1aQlhBS05V?oc=5)**
-> <small>第一财经 · 国内 · 07:42</small>
-> 通胀压力压倒增长担忧，欧洲央行近三年来首次加息 第一财经
+> **8. [三星电子中国业务陷重组传闻，重心转向半导体 - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTE04OXkwMTFxd3JpRGRxWUs3TlAtd0FWRFVleXQxN2c4TXlZOEgyaXRWbmJHOHVqcWJZMkFjUXVET25FamJQWmdHNDhiNDFnYk1jUTJN?oc=5)**
+> <small>第一财经 · 国内 · 17:29</small>
+> 三星电子中国业务陷重组传闻，重心转向半导体 第一财经
 >
-> **8. [Shein wins Chinese approval for long-awaited IPO - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxONFNnWGVTbERmY0xYc1hPa2t6ZlJ0Yl85aGRDMDR0c1h0VE1UTFpqcUx6alR2bzROY01QRzMydFZxdkNSS3YwaXNSZ1FPNENxTG1QQldwOFhrTWxIcHBXM1A4SUs5N3VsalIyTWE2bWNoWk1fbzJtdE9mTE0zVzhsbV9WNFU?oc=5)**
-> <small>Financial Times · 国际 · 21:53 · `可能需订阅`</small>
-> Shein wins Chinese approval for long-awaited IPO Financial Times
+> **9. [Prepare for a perilous summer in markets - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxQODNUOEg4Z1JOUFkzTzdqSW5ZazBFZE1SSFFFVURUUlpJRWxCa09uQ3d1VUZnSS1DelBDNUNaUEd3Y2hnVnhBWThWdHNtSVFSeEFyaldMRkNpVVBCQnZ3RUYzTkRleFdhQ3hTSXl5Y2NlR1FybzNVQThBSk1fMmNYd05Kd0w?oc=5)**
+> <small>Financial Times · 国际 · 12:01 · `可能需订阅`</small>
+> Prepare for a perilous summer in markets Financial Times
 >
-> **9. [Shein Is Said to Move Ahead With Preparations for HK IPO - Bloomberg.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxPWklSQUN3N1FvN1BlM2FUY2R3ZmxIR0NDNFRCQjdtUEViRDZuNVF3b19Hb2pKZjhVb21JTTlFbU40MWR2OUpUVElOZmxQS0J2VHNZMFRoSDBucDcxSkZreG9rWG9YUzQ4endfN3RXOWlWOHVwRWxmcVI3R2Q1N1pFaUV1a1R3YnBvOUwyRnFYanZTZUc2QVUwM1pwazNiMW5UVEVwT05WZHViejA0ZGkycnl1OTk?oc=5)**
-> <small>Bloomberg.com · 国际 · 18:15 · `可能需订阅`</small>
-> Shein Is Said to Move Ahead With Preparations for HK IPO Bloomberg.com
->
-> **10. [港股智驾物理AI第一股！Momenta与上汽深度合作新模型较前代已有3倍以上提升｜港股直通车 - 第一财经](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9TNkc4Z1FnOUZQRktJVWJ5V1R0T0U4SGVuaGpWT0k1cUpIN3pWOVkzS1NyM0VRZTNSdnF3b0N4V2hYWWF2Y0NvajJHa3haTEdFekNWdg?oc=5)**
-> <small>第一财经 · 国内 · 10:33</small>
-> 港股智驾物理AI第一股！Momenta与上汽深度合作新模型较前代已有3倍以上提升｜港股直通车 第一财经
+> **10. [国产第三大晶圆代工厂实现A+H 晶合集成港股首日高开回落业内：稀缺先进制程更具优势︱港股直通车 - 第一财经](https://news.google.com/rss/articles/CBMiVEFVX3lxTE43d2NaZVVZRVE0akRINVcwRWFReUk3dnB0V2ZHR1VBSUk1b2hZdnVwRGEtNWJLX0xtVTI1Z1AyYU9oakRfLW9ZM2llZklxWkExNUtmTA?oc=5)**
+> <small>第一财经 · 国内 · 13:07</small>
+> 国产第三大晶圆代工厂实现A+H 晶合集成港股首日高开回落业内：稀缺先进制程更具优势︱港股直通车 第一财经
 >
 
 > [!example] 科技 / AI
-> 10/10 · 国内 2 / 国际 8
+> 10/10 · 国内 4 / 国际 6
 >
 > **1. [Why worms (and microbes) are catching on as a manure pollution solution](https://www.technologyreview.com/2026/07/07/1140142/why-worms-and-microbes-are-catching-on-as-a-manure-pollution-solution/)**
 > <small>MIT Technology Review · 国际 · 18:00</small>
@@ -60,41 +60,41 @@
 > <small>MIT Technology Review · 国际 · 04:22</small>
 > The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry out tasks. What they found ranges from the mundane to the u…
 >
-> **3. [Nvidia’s biggest RAM supplier just had a trillion-dollar debut on Wall Street](https://www.theverge.com/tech/964121/sk-hynix-nvidia-ram-stock-market-debut)**
-> <small>The Verge · 国际 · 02:54</small>
-> As the AI boom boosts demand for RAM, SK Hynix - one of the world's biggest suppliers of memory chips - launched on Wall Street Friday. The South Korean chipmaker opened at $170 per share and raised $26.5 billion, surpassing Alibaba's reco…
+> **3. [腾讯新模型Hy3调用量激增 混元调度算力扩容 - 财新](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBMc1VuWnBUbmpLLXhiV2ZHeFNBaW1xM3dHZkphZ2FfYmE1TmRTT1ZwWDVDWWNxTWxIUmhrUGtRc3pWTmFqS3hBa1BBYWNOR1otOGdiaElPNjBpb2FJcURjYl9sRkE?oc=5)**
+> <small>财新 · 国内 · 18:58</small>
+> 腾讯新模型Hy3调用量激增 混元调度算力扩容 财新
 >
-> **4. [Fidji Simo steps down from OpenAI’s No. 2 role](https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/)**
-> <small>TechCrunch · 国际 · 07:38</small>
-> OpenAI's No. 2 executive, Fidji Simo, is stepping down from her full-time role after her medical leave proved longer than expected — a leadership vacuum that comes at a tricky time as the company eyes a possible IPO and races to catch Anth…
+> **4. [分析：SK海力士在美融资265亿美元，有望缓解韩汇市压力](https://36kr.com/newsflashes/3892129094679049?f=rss)**
+> <small>36氪 · 国内</small>
+> 韩国芯片巨头SK海力士10日通过在美国发行存托凭证（ADR）共筹资约265亿美元。在公开募股程序全部结束之后，募股资金将于14日支付给SK海力士。公司计划利用该资金投建龙仁半导体集群一期晶圆厂、清州P&T7先进封装工厂，并购置包括极紫外（EUV）光刻机在内的生产设备，鉴于此，大规模美元将被兑换为韩元，这意味着韩国外汇市场将迎来大规模“美元供应”。市场方面认为，通过ADR流入的大规模美元有望缓解韩元长期走弱势头。此次流入的美元规模被评价为“货币互换级别”。（新浪财经）
 >
 > **5. [Tencent in talks to become AI startup Manus' largest shareholder, sources say - Reuters](https://news.google.com/rss/articles/CBMitwFBVV95cUxPbFpzUmJDMlREcGZWUUdDdlJybWdBY0Q5NXcxUFdiT0NrV3V2OUtyZjVHUmFROHB5c2ZHNjN5QkNmNU0wT2dSdm1YaEJKRklfNFZSWmpEdHVYa2VDNXhEX3FpLUhyZFZCZHlndjhJbE1pQUtRRlpyT0ZOdWdFYVc1S3Z4VC1FamNUdlpXNUxQcjZOa1FBSFlHV044NHFKSlNNWjZwVGFQeU9WZUVCYWZqUDF6cXVRQXc?oc=5)**
 > <small>Reuters · 国际 · 11:07</small>
 > Tencent in talks to become AI startup Manus' largest shareholder, sources say Reuters
 >
-> **6. [Apple sues OpenAI for allegedly stealing hardware secrets](https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets)**
-> <small>The Verge · 国际 · 06:33</small>
-> Apple has sued OpenAI, alleging that engineers stole Apple secrets to advance the AI startup's hardware plans. In its complaint, Apple says it uncovered "a pattern of theft of Apple's trade secrets by OpenAI employees who were formerly at…
+> **6. [AI周报 | DeepSeek-V4发布，国产芯片加持；谷歌将投资Anthropic至多400亿美元 - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTE4xVWU2d21wOVoxaWhFTFJOcmpEMEZIZWNNV0ZibHdlcGZCQTZSTzR1dE1BcGI5MlhSZ0tsVGxYQ1lOTlNtYzZ0aFl5a3ZwOEZWN29V?oc=5)**
+> <small>第一财经 · 国内 · 20:06</small>
+> AI周报 | DeepSeek-V4发布，国产芯片加持；谷歌将投资Anthropic至多400亿美元 第一财经
 >
-> **7. [Apple sues OpenAI over alleged trade secret theft](https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/)**
+> **7. [OpenAI bets on families as ChatGPT goes deeper into households](https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/)**
+> <small>TechCrunch · 国际 · 22:13</small>
+> ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.
+>
+> **8. [Apple sues OpenAI over alleged trade secret theft](https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/)**
 > <small>TechCrunch · 国际 · 05:00</small>
 > Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee.
 >
-> **8. [NEWSLETTER: Rising bills and emissions from data centers - Reuters](https://news.google.com/rss/articles/CBMijwFBVV95cUxNdG9nUHFyYURsQ2Nra2RzZFQxS3NKWTdfZVY3eXBGb2tJTnl6SmdXd2otVVFOZDRGUDRKRkNmNm5hcmdSQVdNWW8wb3FYN0NnSk00eUsxVDZSSDVLQURCdktCdFVJWnVSRjBSRG1xbEJIQ29OQVhGVUdCbm56ZHh2WUVha1U0ZUxMcGx0TVlVUQ?oc=5)**
-> <small>Reuters · 国际 · 22:00</small>
-> NEWSLETTER: Rising bills and emissions from data centers Reuters
->
-> **9. [9点1氪丨“国产存储第一股”长鑫科技公布承销团阵容；SK海力士登陆美股，上市首日大涨近13%；OpenAI推出ChatGPT智能体](https://36kr.com/p/3890553690192384?f=rss)**
+> **9. [独家 | 智谱创始人唐杰发内部信：「GLM 时刻」之后，什么是更重要的事](https://36kr.com/p/3891132709206784?f=rss)**
 > <small>36氪 · 国内</small>
-> 今日热点导览 “全球首款智能体手机”已备货8万至10万台？知情人士：假的 百亿私募数量达142家，再次刷新历史纪录 三星李在镕拟于7月底赴美会晤英伟达黄仁勋 德国大众拟大裁员，最高或裁减12万个岗位 OpenAI高管层再现变动，首席运营官因病离职 TOP3大新闻 长鑫科技，承销团阵容公布 长鑫科技IPO进入发行倒计时，这家“国产存储第一股”背后的承销团阵容也随之浮出水面。最新披露的招股意向书显示，长鑫科技预计7月16日发行。本次IPO中，中金公司、中信建投担任联席保荐机构及…
+> 文 | 周鑫雨 编辑 | 张雨忻 《智能涌现》独家获悉，2026 年 7 月 11 日，智谱创始人唐杰，在智谱发布了主题为《巨浪已来》的内部信。 过去半年来，智谱收获了创立以来的高光时刻：市值较半年前上市初期涨了 10 倍，并在 2026 年 6 月，跻身“万亿港元俱乐部”——这个数字，是百度市值的近 3 倍，并且超过了小米。7 月 8 日，首批股票解禁后，智谱依然稳住了股价。 这也是当下 AI 大模型赛道，最性感的故事：押注对的技术方向，换来斐然市场口碑和商业化成绩。 抽…
 >
-> **10. [36氪首发 | 三个月融三轮，上交大00后博士让具身智能仿生扑翼机器人理解并驾驭流体](https://36kr.com/p/3889516712065799?f=rss)**
-> <small>36氪 · 国内</small>
-> 图源/企业 本文约 2400 字，建议阅读 6 分钟 作者丨欧雪 编辑丨袁斯来 硬氪获悉，具身智能仿生扑翼飞行机器人公司「鹰瞰智翼」已于近期完成数千万元A轮融资。本轮融资是公司在三个月内完成的第三轮融资，由元禾璞华领投，孚腾资本、厚雪资本跟投。资金将主要用于首款消费级产品的量产备货、市场拓展，团队扩充以及下一代具身智能扑翼机器人与流体仿真引擎的研发。 「鹰瞰智翼」2025年3月成立于深圳，是全球较早专注于具身智能扑翼机器人的公司之一。创始人陈昊为上海交通大学机械工程直博生，…
+> **10. [Apple Sues OpenAI, Accusing It of Stealing Company Secrets](https://www.nytimes.com/2026/07/10/technology/apple-openai-lawsuit.html)**
+> <small>NYTimes Technology · 国际 · 02:00 · `可能需订阅`</small>
+> The two companies struck a deal in 2024 to offer A.I. services on Apple devices, but their partnership has soured.
 >
 
 > [!tip] 私募股权 / 投资市场
-> 10/10 · 国内 3 / 国际 7
+> 10/10 · 国内 4 / 国际 6
 >
 > **1. [Side Letter: Hedging against tradition](https://www.privateequityinternational.com/side-letter-hedging-against-tradition/)**
 > <small>Private Equity International · 国际 · 18:22</small>
@@ -120,16 +120,16 @@
 > <small>Reuters · 国际 · 01:35</small>
 > Warburg Pincus nears $7 billion deal for PANTHERx Rare, WSJ reports Reuters
 >
-> **7. [PE backs primary care digitalization push: 6 deals](https://www.pehub.com/pe-examines-market-for-primary-care-investments-6-deals/)**
-> <small>PE Hub · 国际 · 19:00</small>
-> Apollo, Arsenal, Kain Capital and OMERS Private Equity are among the PE firms that have invested in primary care. The post PE backs primary care digitalization push: 6 deals appeared first on PE Hub .
+> **7. [消费医药新基金快速建仓 洼地资产成为资金“新欢” - 证券时报](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Bb2kyWjJUc05ueDR0RlZVc2pFOGNwVmVLTkRVdi1LMGVvLVhXX2l4R3NrVXd6bWVoTFk2RWJaWllQdl9Hd2ZGSHd2UnpFMHlVY20tYjdUYWpTZnFY?oc=5)**
+> <small>证券时报 · 国内 · 06:53</small>
+> 消费医药新基金快速建仓 洼地资产成为资金“新欢” 证券时报
 >
 > **8. [五个月连融三轮，西湖机器人完成数亿元新一轮融资 - 投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RRG9yS3N1TW9XRndUVF8wLVJhME5jNzVjMDFQX1dFQUJKNlpvbWZ2ZkxFQW5ldkVNTW1vTU1fbmpWWUdXN09jcWtQX0RsTXJMcVY1cXdB?oc=5)**
 > <small>投资界 · 国内 · 13:37</small>
 > 五个月连融三轮，西湖机器人完成数亿元新一轮融资 投资界
 >
 > **9. [聆思科技完成近5亿元B轮融资，加速端侧大模型芯片落地 - 投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1HUTdCaFoxUmhyU3BERWpKWXRXOUxDcnlZQ0RwbFV1b01vTXZJVTZZVUxnYkY2YlpPUWE2dkhsTGFld2JBcVNXTURZTVNINmVmaG4yUll3?oc=5)**
-> <small>投资界 · 国内 · 10:04</small>
+> <small>投资界 · 国内 · 10:12</small>
 > 聆思科技完成近5亿元B轮融资，加速端侧大模型芯片落地 投资界
 >
 > **10. [融资丨中科新松完成数亿元A+轮融资 - 创业邦](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBWRnR4RmpIMUZnbWx4QW02OHhKaEk1T3pnVWp1UkUyR184N2JvWTFHbDgyWHl5ejNwV2NMOVJJMWxoemtCQl9oU2g1TG1HMzg5?oc=5)**
