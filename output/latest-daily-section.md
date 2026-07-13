@@ -8,13 +8,13 @@
 > [!quote] 财经 / 金融
 > 10/10 · 国内 4 / 国际 6
 >
-> **1. [证监会同意燧原科技科创板IPO注册申请 半导体板块表现强劲 - 财新](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkZEFMcmc1WlpiLW5yMmFVTm9xUTNuMDZ3WlpaakRUZ2RGcV9GTlZFOUVxUXp0a0xoa0lUTGtVMmhaYi1tR0JCZWZNT0ZRNjZVS2cxd1VtQWNxcjZJYnJDTHN3ZkE2amc?oc=5)**
-> <small>财新 · 国内 · 20:42</small>
-> 证监会同意燧原科技科创板IPO注册申请 半导体板块表现强劲 财新
+> **1. [港交所铜锣不够用了！六家公司和一只ETF同日上市香港证监会：高质量与诚信标准是金字招牌︱港股直通车 - 第一财经](https://news.google.com/rss/articles/CBMiVEFVX3lxTE1nOGc3eDZWdVAwSGNZdHZiRWhlNHVsb0xOMU1GNGRRem1Yc0UzcXUxdmFfRjdpWjQxdmQzOEtMYmVmNUY0c3ZWdElrYXZUMHB2eGZDYw?oc=5)**
+> <small>第一财经 · 国内 · 04:35</small>
+> 港交所铜锣不够用了！六家公司和一只ETF同日上市香港证监会：高质量与诚信标准是金字招牌︱港股直通车 第一财经
 >
-> **2. [Breakingviews - Sandwich-shop IPO depends on hero worship - Reuters](https://news.google.com/rss/articles/CBMioAFBVV95cUxOX3ZOSEFwRDZsSFpiNTktTXRoQUEyOERXR3VQaGcyc0RRVFlBRGxWVkRrWVVzalpKZTZndF9jX2cxUm02T1Nyb0FBeEFxQ2F2LVltdVUtOGQ4NUo4dGk0SENwaWs4THItc3Y1VzRyUjF2SHBhamxGbl93WGJvT2hKelJzWWd5a3lndXhnMzhDamxmNjNBZk13NzlnNi1hSlJq?oc=5)**
-> <small>Reuters · 国际 · 23:24</small>
-> Breakingviews - Sandwich-shop IPO depends on hero worship Reuters
+> **2. [避免网络安全风险向金融风险演变 监管拟出台分级分类管理规则 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1hMlY3RkJyVGZiLTBnTlViQ0tDa1pKZ1Q4VmFWbUZzSXdJeEpOdFdTQ3VLSnFEZ0htUTBaZ0dNVXU2QmU2WWNfT0tYOV9tNTJwdUdQMkhpLWt4ZWVkYzBJeS13?oc=5)**
+> <small>财新 · 国内 · 21:29</small>
+> 避免网络安全风险向金融风险演变 监管拟出台分级分类管理规则 财新
 >
 > **3. [MGM Resorts Engaged in Deal Talks With Diller, WSJ Says - Bloomberg.com](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWjBwdzBweXlocDhGMHIxZHhvWlk4NHNpVU9HYm1iTmdVYnBaVDZORjJDc0JKY3NnMWhqSW5qN1hpVDNIMnQ1ZEtDdHhGN1JCbFpQTF9GM3VaczFQbkNUTHhqbmp3dFVTV0pjYUlaMmNqREpGTFFDWGtibF9HS3d5U0s1Z090Tm1kRnBkb2c5SDEwSjVLTUtubldEWGhRVk5FMk5pbUI1djc?oc=5)**
 > <small>Bloomberg.com · 国际 · 07:02 · `可能需订阅`</small>
@@ -36,17 +36,17 @@
 > <small>NYTimes Business · 国际 · 22:21 · `可能需订阅`</small>
 > Minutes from Kevin M. Warsh’s first meeting as chairman showed heightened unease about inflation, which is running at a three-year high.
 >
-> **8. [三星电子中国业务陷重组传闻，重心转向半导体 - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTE04OXkwMTFxd3JpRGRxWUs3TlAtd0FWRFVleXQxN2c4TXlZOEgyaXRWbmJHOHVqcWJZMkFjUXVET25FamJQWmdHNDhiNDFnYk1jUTJN?oc=5)**
+> **8. [Will Kevin Warsh offer any clues on Fed rates outlook? - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxOdzI3WGEzeHAwaHI0LUduMGd4N2ZXTDV6OUFXUTVsXy1SZ2ZYQ2J1VHdRYk9vQ291SkhITXhWX05GYlNtZlZWS0FTN2hQaWZTai1VSnVHelhIQ1hVeml2VTgxOHJoU1pIX1N3dklBM0ViZmI5dmtFNEc3elQ2Njk2SlpMNDc?oc=5)**
+> <small>Financial Times · 国际 · 19:00 · `可能需订阅`</small>
+> Will Kevin Warsh offer any clues on Fed rates outlook? Financial Times
+>
+> **9. [三星电子中国业务陷重组传闻，重心转向半导体 - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTE04OXkwMTFxd3JpRGRxWUs3TlAtd0FWRFVleXQxN2c4TXlZOEgyaXRWbmJHOHVqcWJZMkFjUXVET25FamJQWmdHNDhiNDFnYk1jUTJN?oc=5)**
 > <small>第一财经 · 国内 · 17:29</small>
 > 三星电子中国业务陷重组传闻，重心转向半导体 第一财经
 >
-> **9. [Prepare for a perilous summer in markets - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxQODNUOEg4Z1JOUFkzTzdqSW5ZazBFZE1SSFFFVURUUlpJRWxCa09uQ3d1VUZnSS1DelBDNUNaUEd3Y2hnVnhBWThWdHNtSVFSeEFyaldMRkNpVVBCQnZ3RUYzTkRleFdhQ3hTSXl5Y2NlR1FybzNVQThBSk1fMmNYd05Kd0w?oc=5)**
-> <small>Financial Times · 国际 · 12:01 · `可能需订阅`</small>
-> Prepare for a perilous summer in markets Financial Times
->
-> **10. [国产第三大晶圆代工厂实现A+H 晶合集成港股首日高开回落业内：稀缺先进制程更具优势︱港股直通车 - 第一财经](https://news.google.com/rss/articles/CBMiVEFVX3lxTE43d2NaZVVZRVE0akRINVcwRWFReUk3dnB0V2ZHR1VBSUk1b2hZdnVwRGEtNWJLX0xtVTI1Z1AyYU9oakRfLW9ZM2llZklxWkExNUtmTA?oc=5)**
-> <small>第一财经 · 国内 · 13:07</small>
-> 国产第三大晶圆代工厂实现A+H 晶合集成港股首日高开回落业内：稀缺先进制程更具优势︱港股直通车 第一财经
+> **10. [Shein Is Said to Move Ahead With Preparations for Hong Kong IPO - Bloomberg.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxPWklSQUN3N1FvN1BlM2FUY2R3ZmxIR0NDNFRCQjdtUEViRDZuNVF3b19Hb2pKZjhVb21JTTlFbU40MWR2OUpUVElOZmxQS0J2VHNZMFRoSDBucDcxSkZreG9rWG9YUzQ4endfN3RXOWlWOHVwRWxmcVI3R2Q1N1pFaUV1a1R3YnBvOUwyRnFYanZTZUc2QVUwM1pwazNiMW5UVEVwT05WZHViejA0ZGkycnl1OTk?oc=5)**
+> <small>Bloomberg.com · 国际 · 18:15 · `可能需订阅`</small>
+> Shein Is Said to Move Ahead With Preparations for Hong Kong IPO Bloomberg.com
 >
 
 > [!example] 科技 / AI
@@ -60,41 +60,41 @@
 > <small>MIT Technology Review · 国际 · 04:22</small>
 > The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry out tasks. What they found ranges from the mundane to the u…
 >
-> **3. [腾讯新模型Hy3调用量激增 混元调度算力扩容 - 财新](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBMc1VuWnBUbmpLLXhiV2ZHeFNBaW1xM3dHZkphZ2FfYmE1TmRTT1ZwWDVDWWNxTWxIUmhrUGtRc3pWTmFqS3hBa1BBYWNOR1otOGdiaElPNjBpb2FJcURjYl9sRkE?oc=5)**
+> **3. [腾讯新模型Hy3调用量激增 混元调度算力扩容 - 财新](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9CQ19oMmtqQVg1aEFBNlZudVFWaWZ6THFTNE5lWnhhbndBbWNMSFdZV2JhRjViS3VOVmZtRkdYZlQyNEhTQXdGemcydW1kc3JUcFJVNU5pY0lHcnM1?oc=5)**
 > <small>财新 · 国内 · 18:58</small>
 > 腾讯新模型Hy3调用量激增 混元调度算力扩容 财新
 >
-> **4. [分析：SK海力士在美融资265亿美元，有望缓解韩汇市压力](https://36kr.com/newsflashes/3892129094679049?f=rss)**
+> **4. [腾讯重仓一个IPO](https://36kr.com/p/3892352153942530?f=rss)**
 > <small>36氪 · 国内</small>
-> 韩国芯片巨头SK海力士10日通过在美国发行存托凭证（ADR）共筹资约265亿美元。在公开募股程序全部结束之后，募股资金将于14日支付给SK海力士。公司计划利用该资金投建龙仁半导体集群一期晶圆厂、清州P&T7先进封装工厂，并购置包括极紫外（EUV）光刻机在内的生产设备，鉴于此，大规模美元将被兑换为韩元，这意味着韩国外汇市场将迎来大规模“美元供应”。市场方面认为，通过ADR流入的大规模美元有望缓解韩元长期走弱势头。此次流入的美元规模被评价为“货币互换级别”。（新浪财经）
+> 图片来源：视觉中国 作者/杨继云 报道/投资界PEdaily 深圳超级IPO来了。 日前，深圳云豹智能股份有限公司（简称“云豹智能”）创业板IPO申请正式获深交所受理，成为又一家选用创业板第四套上市标准申报上市的企业，冲刺“国产DPU第一股”。 回想6年前，斯坦福博士萧启阳在深圳创办云豹智能，专注于DPU赛道。这个团队启航两个月后，千亿DPU赛道开始爆发。至今，他背后站着腾讯等一支长长的投资人队伍。 腾讯无疑最为重仓，已成为云豹智能最大股东。与广东国资押注的粤芯半导体一起，…
 >
-> **5. [Tencent in talks to become AI startup Manus' largest shareholder, sources say - Reuters](https://news.google.com/rss/articles/CBMitwFBVV95cUxPbFpzUmJDMlREcGZWUUdDdlJybWdBY0Q5NXcxUFdiT0NrV3V2OUtyZjVHUmFROHB5c2ZHNjN5QkNmNU0wT2dSdm1YaEJKRklfNFZSWmpEdHVYa2VDNXhEX3FpLUhyZFZCZHlndjhJbE1pQUtRRlpyT0ZOdWdFYVc1S3Z4VC1FamNUdlpXNUxQcjZOa1FBSFlHV044NHFKSlNNWjZwVGFQeU9WZUVCYWZqUDF6cXVRQXc?oc=5)**
+> **5. [高盛：AI或引爆美国通胀，存储暴涨是核心推手](https://36kr.com/newsflashes/3893440881621760?f=rss)**
+> <small>36氪 · 国内</small>
+> 高盛最新研究表明，美国很可能将首当其冲地受到由人工智能（AI）引发的全球通胀浪潮的冲击。这家华尔街巨头对AI热潮如何推高全球消费者价格进行了分析。由于供应受限，内存芯片和半导体等关键零部件的价格被推高。高盛经济学家Megan Peters撰文指出，美国可能会遭受最严重的通胀冲击。根据高盛的估计，AI每年使美国核心个人消费支出（PCE）通胀率（美联储偏好的通胀指标）上升约20个基点。到今年年底，预计这股通胀压力将增加一倍以上，对核心PCE的推升幅度将达到50个基点。（财联社）
+>
+> **6. [Tencent in talks to become AI startup Manus' largest shareholder, sources say - Reuters](https://news.google.com/rss/articles/CBMitwFBVV95cUxPbFpzUmJDMlREcGZWUUdDdlJybWdBY0Q5NXcxUFdiT0NrV3V2OUtyZjVHUmFROHB5c2ZHNjN5QkNmNU0wT2dSdm1YaEJKRklfNFZSWmpEdHVYa2VDNXhEX3FpLUhyZFZCZHlndjhJbE1pQUtRRlpyT0ZOdWdFYVc1S3Z4VC1FamNUdlpXNUxQcjZOa1FBSFlHV044NHFKSlNNWjZwVGFQeU9WZUVCYWZqUDF6cXVRQXc?oc=5)**
 > <small>Reuters · 国际 · 11:07</small>
 > Tencent in talks to become AI startup Manus' largest shareholder, sources say Reuters
 >
-> **6. [AI周报 | DeepSeek-V4发布，国产芯片加持；谷歌将投资Anthropic至多400亿美元 - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTE4xVWU2d21wOVoxaWhFTFJOcmpEMEZIZWNNV0ZibHdlcGZCQTZSTzR1dE1BcGI5MlhSZ0tsVGxYQ1lOTlNtYzZ0aFl5a3ZwOEZWN29V?oc=5)**
+> **7. [AI周报 | DeepSeek-V4发布，国产芯片加持；谷歌将投资Anthropic至多400亿美元 - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTE4xVWU2d21wOVoxaWhFTFJOcmpEMEZIZWNNV0ZibHdlcGZCQTZSTzR1dE1BcGI5MlhSZ0tsVGxYQ1lOTlNtYzZ0aFl5a3ZwOEZWN29V?oc=5)**
 > <small>第一财经 · 国内 · 20:06</small>
 > AI周报 | DeepSeek-V4发布，国产芯片加持；谷歌将投资Anthropic至多400亿美元 第一财经
 >
-> **7. [OpenAI bets on families as ChatGPT goes deeper into households](https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/)**
+> **8. [Apple’s failed self-driving car program left a legacy of powerful AI chips](https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra)**
+> <small>The Verge · 国际 · 00:27</small>
+> Apple's self-driving car program never really got off the ground, but it may have been what made the company's chips the powerful AI performers they are. Early in the development of the self-driving platform, Apple realized that it would n…
+>
+> **9. [OpenAI bets on families as ChatGPT goes deeper into households](https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/)**
 > <small>TechCrunch · 国际 · 22:13</small>
 > ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.
 >
-> **8. [Apple sues OpenAI over alleged trade secret theft](https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/)**
+> **10. [Apple sues OpenAI over alleged trade secret theft](https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/)**
 > <small>TechCrunch · 国际 · 05:00</small>
 > Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee.
 >
-> **9. [独家 | 智谱创始人唐杰发内部信：「GLM 时刻」之后，什么是更重要的事](https://36kr.com/p/3891132709206784?f=rss)**
-> <small>36氪 · 国内</small>
-> 文 | 周鑫雨 编辑 | 张雨忻 《智能涌现》独家获悉，2026 年 7 月 11 日，智谱创始人唐杰，在智谱发布了主题为《巨浪已来》的内部信。 过去半年来，智谱收获了创立以来的高光时刻：市值较半年前上市初期涨了 10 倍，并在 2026 年 6 月，跻身“万亿港元俱乐部”——这个数字，是百度市值的近 3 倍，并且超过了小米。7 月 8 日，首批股票解禁后，智谱依然稳住了股价。 这也是当下 AI 大模型赛道，最性感的故事：押注对的技术方向，换来斐然市场口碑和商业化成绩。 抽…
->
-> **10. [Apple Sues OpenAI, Accusing It of Stealing Company Secrets](https://www.nytimes.com/2026/07/10/technology/apple-openai-lawsuit.html)**
-> <small>NYTimes Technology · 国际 · 02:00 · `可能需订阅`</small>
-> The two companies struck a deal in 2024 to offer A.I. services on Apple devices, but their partnership has soured.
->
 
 > [!tip] 私募股权 / 投资市场
-> 10/10 · 国内 4 / 国际 6
+> 10/10 · 国内 3 / 国际 7
 >
 > **1. [Side Letter: Hedging against tradition](https://www.privateequityinternational.com/side-letter-hedging-against-tradition/)**
 > <small>Private Equity International · 国际 · 18:22</small>
@@ -120,21 +120,21 @@
 > <small>Reuters · 国际 · 01:35</small>
 > Warburg Pincus nears $7 billion deal for PANTHERx Rare, WSJ reports Reuters
 >
-> **7. [消费医药新基金快速建仓 洼地资产成为资金“新欢” - 证券时报](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Bb2kyWjJUc05ueDR0RlZVc2pFOGNwVmVLTkRVdi1LMGVvLVhXX2l4R3NrVXd6bWVoTFk2RWJaWllQdl9Hd2ZGSHd2UnpFMHlVY20tYjdUYWpTZnFY?oc=5)**
+> **7. [PE backs primary care digitalization push: 6 deals](https://www.pehub.com/pe-examines-market-for-primary-care-investments-6-deals/)**
+> <small>PE Hub · 国际 · 19:00</small>
+> Apollo, Arsenal, Kain Capital and OMERS Private Equity are among the PE firms that have invested in primary care. The post PE backs primary care digitalization push: 6 deals appeared first on PE Hub .
+>
+> **8. [消费医药新基金快速建仓 洼地资产成为资金“新欢” - 证券时报](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Bb2kyWjJUc05ueDR0RlZVc2pFOGNwVmVLTkRVdi1LMGVvLVhXX2l4R3NrVXd6bWVoTFk2RWJaWllQdl9Hd2ZGSHd2UnpFMHlVY20tYjdUYWpTZnFY?oc=5)**
 > <small>证券时报 · 国内 · 06:53</small>
 > 消费医药新基金快速建仓 洼地资产成为资金“新欢” 证券时报
 >
-> **8. [五个月连融三轮，西湖机器人完成数亿元新一轮融资 - 投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RRG9yS3N1TW9XRndUVF8wLVJhME5jNzVjMDFQX1dFQUJKNlpvbWZ2ZkxFQW5ldkVNTW1vTU1fbmpWWUdXN09jcWtQX0RsTXJMcVY1cXdB?oc=5)**
-> <small>投资界 · 国内 · 13:37</small>
-> 五个月连融三轮，西湖机器人完成数亿元新一轮融资 投资界
+> **9. [投资界24h | 传海纳亚洲创投龚挺将离职，曾参与投出字节天使轮；SHEIN香港IPO终获批；长鑫科技周四打新 - 投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTE14VnJDYkpQVHV5T1QzU3JmYjBQN2k3N25zbElTWlUyTzIzM2JVOTFMOTBkVmkxcmhiZTlKMUlNOUkxRjV5TzA5S3VaNnNtd19pbExFenRB?oc=5)**
+> <small>投资界 · 国内 · 08:31</small>
+> 投资界24h | 传海纳亚洲创投龚挺将离职，曾参与投出字节天使轮；SHEIN香港IPO终获批；长鑫科技周四打新 投资界
 >
-> **9. [聆思科技完成近5亿元B轮融资，加速端侧大模型芯片落地 - 投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1HUTdCaFoxUmhyU3BERWpKWXRXOUxDcnlZQ0RwbFV1b01vTXZJVTZZVUxnYkY2YlpPUWE2dkhsTGFld2JBcVNXTURZTVNINmVmaG4yUll3?oc=5)**
+> **10. [聆思科技完成近5亿元B轮融资，加速端侧大模型芯片落地 - 投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1HUTdCaFoxUmhyU3BERWpKWXRXOUxDcnlZQ0RwbFV1b01vTXZJVTZZVUxnYkY2YlpPUWE2dkhsTGFld2JBcVNXTURZTVNINmVmaG4yUll3?oc=5)**
 > <small>投资界 · 国内 · 10:12</small>
 > 聆思科技完成近5亿元B轮融资，加速端侧大模型芯片落地 投资界
->
-> **10. [融资丨中科新松完成数亿元A+轮融资 - 创业邦](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBWRnR4RmpIMUZnbWx4QW02OHhKaEk1T3pnVWp1UkUyR184N2JvWTFHbDgyWHl5ejNwV2NMOVJJMWxoemtCQl9oU2g1TG1HMzg5?oc=5)**
-> <small>创业邦 · 国内 · 12:16</small>
-> 融资丨中科新松完成数亿元A+轮融资 创业邦
 >
 
 #daily-news
