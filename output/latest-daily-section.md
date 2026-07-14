@@ -8,105 +8,105 @@
 > [!quote] 财经 / 金融
 > 10/10 · 国内 4 / 国际 6
 >
-> **1. [港交所铜锣不够用了！六家公司和一只ETF同日上市香港证监会：高质量与诚信标准是金字招牌︱港股直通车 - 第一财经](https://news.google.com/rss/articles/CBMiVEFVX3lxTE1nOGc3eDZWdVAwSGNZdHZiRWhlNHVsb0xOMU1GNGRRem1Yc0UzcXUxdmFfRjdpWjQxdmQzOEtMYmVmNUY0c3ZWdElrYXZUMHB2eGZDYw?oc=5)**
-> <small>第一财经 · 国内 · 04:35</small>
-> 港交所铜锣不够用了！六家公司和一只ETF同日上市香港证监会：高质量与诚信标准是金字招牌︱港股直通车 第一财经
+> **1. [Waller says Fed shouldn't 'fight the last war' on inflation but warns hikes still possible](https://www.cnbc.com/2026/07/13/waller-says-fed-shouldnt-fight-the-last-war-on-inflation-but-warns-hikes-still-possible.html)**
+> <small>CNBC Finance · 国际 · 03:15</small>
+> The Fed governor said inflation has expanded beyond the often-cited drivers such as the energy price spike in tariffs.
 >
-> **2. [避免网络安全风险向金融风险演变 监管拟出台分级分类管理规则 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1hMlY3RkJyVGZiLTBnTlViQ0tDa1pKZ1Q4VmFWbUZzSXdJeEpOdFdTQ3VLSnFEZ0htUTBaZ0dNVXU2QmU2WWNfT0tYOV9tNTJwdUdQMkhpLWt4ZWVkYzBJeS13?oc=5)**
-> <small>财新 · 国内 · 21:29</small>
-> 避免网络安全风险向金融风险演变 监管拟出台分级分类管理规则 财新
+> **2. [SBI Funds IPO Anchor Book Draws Capital Group, BlackRock, Goldman, GIC - Bloomberg.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxOczM0UUxhaDFJNmdub3A3NHRHUFBnTTRGTFZlS3Eza1lyYmhVY2FGNmRIUDg1UXU5YWt6NUlMeUF2SktfVUJ2aU14X1k3VDg2UEJkNmNYVzZiTEJNbnNmYk9saVNoSzllOW4xUlVodmlGUFRnZ0xQV2dUNElmZmlpcE5BaEJ4T002elVpQlkyYkVfcnR4OWtOcUY1YXNRcUs3NGhtc3pwVmFiVTNBaW0ya0RPbw?oc=5)**
+> <small>Bloomberg.com · 国际 · 02:45 · `可能需订阅`</small>
+> SBI Funds IPO Anchor Book Draws Capital Group, BlackRock, Goldman, GIC Bloomberg.com
 >
-> **3. [MGM Resorts Engaged in Deal Talks With Diller, WSJ Says - Bloomberg.com](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWjBwdzBweXlocDhGMHIxZHhvWlk4NHNpVU9HYm1iTmdVYnBaVDZORjJDc0JKY3NnMWhqSW5qN1hpVDNIMnQ1ZEtDdHhGN1JCbFpQTF9GM3VaczFQbkNUTHhqbmp3dFVTV0pjYUlaMmNqREpGTFFDWGtibF9HS3d5U0s1Z090Tm1kRnBkb2c5SDEwSjVLTUtubldEWGhRVk5FMk5pbUI1djc?oc=5)**
-> <small>Bloomberg.com · 国际 · 07:02 · `可能需订阅`</small>
-> MGM Resorts Engaged in Deal Talks With Diller, WSJ Says Bloomberg.com
+> **3. [The Fed’s Christopher Waller Warns of Higher Rates Soon if Inflation Stays High](https://www.nytimes.com/2026/07/13/business/federal-reserve-inflation-data-rates.html)**
+> <small>NYTimes Business · 国际 · 01:52 · `可能需订阅`</small>
+> Christopher J. Waller, a governor at the Federal Reserve, said he needed to see several months of lower inflation data to feel confident about the outlook.
 >
-> **4. [SpaceX listing ‘lays groundwork’ to attract UK retail investors to IPOs - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxPU2xleElUZHhEZkpkaEcyLVVOOEVtbEczUjdOdWVydEt1NWMwcXNzb3M0NVl2NTZiR2lZWm1KNnZocTNISTJpLUluSEN3MnVwbHZnOE1VZ1NmTzNfVEFyYnVMbFc3QVRtTnYydnZTUEsybUVqWHdlUUZKRFVqcHN2X1RPS1I?oc=5)**
-> <small>Financial Times · 国际 · 23:02 · `可能需订阅`</small>
-> SpaceX listing ‘lays groundwork’ to attract UK retail investors to IPOs Financial Times
+> **4. [Stocks and bonds drop as mounting US-Iran tensions spook investors - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxPNHpIUHhUcndlOFprRHpnWV8tdktaZGU2TTFiRmNNdFdubENmWFltU0lJVDlHdFU0amlPRDhPdUZHZHRNakFIX05qRGJqWFkzWThPdFdFMlk1bTJMWS0xMUMxUmVJRWlwRERTUWIyNF85MmtBVTJLdnkyVzEtbGU5WjIwWUk?oc=5)**
+> <small>Financial Times · 国际 · 13:14 · `可能需订阅`</small>
+> Stocks and bonds drop as mounting US-Iran tensions spook investors Financial Times
 >
 > **5. [A.I. Has Rewarded Investors. It May Now Pose Their Greatest Risk.](https://www.nytimes.com/2026/07/10/business/ai-stocks-bonds-investing-markets.html)**
 > <small>NYTimes Business · 国际 · 22:27 · `可能需订阅`</small>
 > Near the midpoint of the year, stocks and bonds both report good returns. But the global stock market has become highly concentrated, our columnist says.
 >
-> **6. [三类情形将被金融监管部门纳入严重失信名单 有何影响？ - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1HaDFJMEhrV2U2d2drOURSRG9FUk5TRFhTbGJ3UWZJSGpMaDlFS2tyVUExMWFlRV9reHRDblRvVGNYUnhiQmI4RG93aGJ3cTVKZzkzZ1d0YXc3aGpqYlRyZzZR?oc=5)**
-> <small>财新 · 国内 · 21:49</small>
-> 三类情形将被金融监管部门纳入严重失信名单 有何影响？ 财新
+> **6. ['Listing is a must': Chinese humanoid startups are rushing to launch IPOs](https://www.cnbc.com/2026/07/13/chinese-humanoid-startups-ipo-limx-unitree.html)**
+> <small>CNBC Finance · 国际 · 08:31</small>
+> Shenzhen-based LimX Dynamics is the latest humanoid company in China to raise capital in recent weeks as investors eye IPO exits.
 >
-> **7. [At Warsh’s First Fed Meeting, Some Officials Signaled Support for Raising Interest Rates](https://www.nytimes.com/2026/07/08/business/fed-meeting-minutes-warsh-interest-rates.html)**
-> <small>NYTimes Business · 国际 · 22:21 · `可能需订阅`</small>
-> Minutes from Kevin M. Warsh’s first meeting as chairman showed heightened unease about inflation, which is running at a three-year high.
+> **7. [《证券法》等三部金融核心大法的起草牵头人王连洲去世，享年87岁｜讣闻 - 财新](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9SU3AxZjRiNGpFT1ZUVF9tYXpkSXB6ZXB2Tk1pYUVidUZ2TERpX2l1SXBNeVVLRXBjdW9RQml1WktsZl9TSWUyYXhOVW9rYWp5ZlE5V2pyRDRGZmst?oc=5)**
+> <small>财新 · 国内 · 17:18</small>
+> 《证券法》等三部金融核心大法的起草牵头人王连洲去世，享年87岁｜讣闻 财新
 >
-> **8. [Will Kevin Warsh offer any clues on Fed rates outlook? - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxOdzI3WGEzeHAwaHI0LUduMGd4N2ZXTDV6OUFXUTVsXy1SZ2ZYQ2J1VHdRYk9vQ291SkhITXhWX05GYlNtZlZWS0FTN2hQaWZTai1VSnVHelhIQ1hVeml2VTgxOHJoU1pIX1N3dklBM0ViZmI5dmtFNEc3elQ2Njk2SlpMNDc?oc=5)**
-> <small>Financial Times · 国际 · 19:00 · `可能需订阅`</small>
-> Will Kevin Warsh offer any clues on Fed rates outlook? Financial Times
+> **8. [全球支付创新进入批发支付新阶段 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1FTWc0aE1UN1M1OW1sWHctMUYwR1RTdjZ3cmJVRVgwMjFrYS10Qm9TR1RfYzBMejNuMm1feEgxMjY2dzg1aEJZU20yMi1qNllCY2RLcXhJVkpBVW9YMGR0U3VR?oc=5)**
+> <small>财新 · 国内 · 17:03</small>
+> 全球支付创新进入批发支付新阶段 财新
 >
-> **9. [三星电子中国业务陷重组传闻，重心转向半导体 - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTE04OXkwMTFxd3JpRGRxWUs3TlAtd0FWRFVleXQxN2c4TXlZOEgyaXRWbmJHOHVqcWJZMkFjUXVET25FamJQWmdHNDhiNDFnYk1jUTJN?oc=5)**
-> <small>第一财经 · 国内 · 17:29</small>
-> 三星电子中国业务陷重组传闻，重心转向半导体 第一财经
+> **9. [下周外盘看点丨美联储领衔央行超级周，沃什首秀会说什么 - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTE44ZTFHd0Y1empaQWk2SG5rdnF4SkJsYjNPd3VoN1RrMVk2dU1QV0c0TWVxcjA2c1F2S1ZkdjJxOHZ0QkVmQnNZNGVubG4xVENJZHNV?oc=5)**
+> <small>第一财经 · 国内 · 04:32</small>
+> 下周外盘看点丨美联储领衔央行超级周，沃什首秀会说什么 第一财经
 >
-> **10. [Shein Is Said to Move Ahead With Preparations for Hong Kong IPO - Bloomberg.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxPWklSQUN3N1FvN1BlM2FUY2R3ZmxIR0NDNFRCQjdtUEViRDZuNVF3b19Hb2pKZjhVb21JTTlFbU40MWR2OUpUVElOZmxQS0J2VHNZMFRoSDBucDcxSkZreG9rWG9YUzQ4endfN3RXOWlWOHVwRWxmcVI3R2Q1N1pFaUV1a1R3YnBvOUwyRnFYanZTZUc2QVUwM1pwazNiMW5UVEVwT05WZHViejA0ZGkycnl1OTk?oc=5)**
-> <small>Bloomberg.com · 国际 · 18:15 · `可能需订阅`</small>
-> Shein Is Said to Move Ahead With Preparations for Hong Kong IPO Bloomberg.com
+> **10. [陆家嘴金融沙龙：聚焦全球资本流动新格局下的金融开放 - 第一财经](https://news.google.com/rss/articles/CBMiVEFVX3lxTFBGd01DWS1EaDdnSC1ERmJhUDNZSTYycm9QVUxVZU9jalp5ZHJ4eGt0VWQ3dmhUTElsUldkcDVsTGF1UG03V0JVZDlxWk9NZ1MtVzNRaQ?oc=5)**
+> <small>第一财经 · 国内 · 21:37</small>
+> 陆家嘴金融沙龙：聚焦全球资本流动新格局下的金融开放 第一财经
 >
 
 > [!example] 科技 / AI
-> 10/10 · 国内 4 / 国际 6
+> 10/10 · 国内 3 / 国际 7
 >
-> **1. [Why worms (and microbes) are catching on as a manure pollution solution](https://www.technologyreview.com/2026/07/07/1140142/why-worms-and-microbes-are-catching-on-as-a-manure-pollution-solution/)**
-> <small>MIT Technology Review · 国际 · 18:00</small>
-> Anthony Agueda, a third-generation California dairy farmer, pulls a rake through a bed of dark, wet wood chips on his family’s land in Hickman, a tiny town in the state’s agricultural heartland. He reaches down with both hands and pulls up…
+> **1. [What Anthropic’s latest AI discovery does—and doesn’t—show](https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/)**
+> <small>MIT Technology Review · 国际 · 02:00</small>
+> This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Anthropic—currently the world’s most valuable AI company, with a nearly $1 trillion valuation—has a r…
 >
 > **2. [Anthropic found a hidden space where Claude puzzles over concepts](https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/)**
 > <small>MIT Technology Review · 国际 · 04:22</small>
 > The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry out tasks. What they found ranges from the mundane to the u…
 >
-> **3. [腾讯新模型Hy3调用量激增 混元调度算力扩容 - 财新](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9CQ19oMmtqQVg1aEFBNlZudVFWaWZ6THFTNE5lWnhhbndBbWNMSFdZV2JhRjViS3VOVmZtRkdYZlQyNEhTQXdGemcydW1kc3JUcFJVNU5pY0lHcnM1?oc=5)**
-> <small>财新 · 国内 · 18:58</small>
-> 腾讯新模型Hy3调用量激增 混元调度算力扩容 财新
->
-> **4. [腾讯重仓一个IPO](https://36kr.com/p/3892352153942530?f=rss)**
+> **3. [36氪首发 | 前博世自动驾驶算法工程师创业，用合成数据做触觉大模型](https://36kr.com/p/3894821059918855?f=rss)**
 > <small>36氪 · 国内</small>
-> 图片来源：视觉中国 作者/杨继云 报道/投资界PEdaily 深圳超级IPO来了。 日前，深圳云豹智能股份有限公司（简称“云豹智能”）创业板IPO申请正式获深交所受理，成为又一家选用创业板第四套上市标准申报上市的企业，冲刺“国产DPU第一股”。 回想6年前，斯坦福博士萧启阳在深圳创办云豹智能，专注于DPU赛道。这个团队启航两个月后，千亿DPU赛道开始爆发。至今，他背后站着腾讯等一支长长的投资人队伍。 腾讯无疑最为重仓，已成为云豹智能最大股东。与广东国资押注的粤芯半导体一起，…
+> 触觉手套（图源/企业） 本文约 2400 字，建议阅读 6 分钟 作者丨欧雪 编辑丨袁斯来 硬氪获悉，空间智能公司「大衍科技」近期完成数千万元天使轮融资，由松禾资本领投，浙江省省金控与广州番禺创新基金等国资背景机构参与。资金将主要用于触觉大模型研发、机器人数据产线建设及团队扩张。 「大衍科技」2025年5月成立于浙江桐乡，是一家专注于4D世界重建、世界模型及可控扩散模型技术的空间智能公司。 创始人兼CEO杨林是新加坡国立大学计算机博士，曾在速腾、酷睿程、比亚迪、苏州博世等企…
 >
-> **5. [高盛：AI或引爆美国通胀，存储暴涨是核心推手](https://36kr.com/newsflashes/3893440881621760?f=rss)**
+> **4. [“大衍科技”完成数千万元天使轮融资](https://36kr.com/newsflashes/3894858386324738?f=rss)**
 > <small>36氪 · 国内</small>
-> 高盛最新研究表明，美国很可能将首当其冲地受到由人工智能（AI）引发的全球通胀浪潮的冲击。这家华尔街巨头对AI热潮如何推高全球消费者价格进行了分析。由于供应受限，内存芯片和半导体等关键零部件的价格被推高。高盛经济学家Megan Peters撰文指出，美国可能会遭受最严重的通胀冲击。根据高盛的估计，AI每年使美国核心个人消费支出（PCE）通胀率（美联储偏好的通胀指标）上升约20个基点。到今年年底，预计这股通胀压力将增加一倍以上，对核心PCE的推升幅度将达到50个基点。（财联社）
+> 36氪获悉，空间智能公司“大衍科技”近期完成数千万元天使轮融资，由松禾资本领投，浙江省省金控与广州番禺创新基金等国资背景机构参与。资金将主要用于触觉大模型研发、机器人数据产线建设及团队扩张。
 >
-> **6. [Tencent in talks to become AI startup Manus' largest shareholder, sources say - Reuters](https://news.google.com/rss/articles/CBMitwFBVV95cUxPbFpzUmJDMlREcGZWUUdDdlJybWdBY0Q5NXcxUFdiT0NrV3V2OUtyZjVHUmFROHB5c2ZHNjN5QkNmNU0wT2dSdm1YaEJKRklfNFZSWmpEdHVYa2VDNXhEX3FpLUhyZFZCZHlndjhJbE1pQUtRRlpyT0ZOdWdFYVc1S3Z4VC1FamNUdlpXNUxQcjZOa1FBSFlHV044NHFKSlNNWjZwVGFQeU9WZUVCYWZqUDF6cXVRQXc?oc=5)**
-> <small>Reuters · 国际 · 11:07</small>
-> Tencent in talks to become AI startup Manus' largest shareholder, sources say Reuters
->
-> **7. [AI周报 | DeepSeek-V4发布，国产芯片加持；谷歌将投资Anthropic至多400亿美元 - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTE4xVWU2d21wOVoxaWhFTFJOcmpEMEZIZWNNV0ZibHdlcGZCQTZSTzR1dE1BcGI5MlhSZ0tsVGxYQ1lOTlNtYzZ0aFl5a3ZwOEZWN29V?oc=5)**
+> **5. [AI周报 | DeepSeek-V4发布，国产芯片加持；谷歌将投资Anthropic至多400亿美元 - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTE4xVWU2d21wOVoxaWhFTFJOcmpEMEZIZWNNV0ZibHdlcGZCQTZSTzR1dE1BcGI5MlhSZ0tsVGxYQ1lOTlNtYzZ0aFl5a3ZwOEZWN29V?oc=5)**
 > <small>第一财经 · 国内 · 20:06</small>
 > AI周报 | DeepSeek-V4发布，国产芯片加持；谷歌将投资Anthropic至多400亿美元 第一财经
 >
-> **8. [Apple’s failed self-driving car program left a legacy of powerful AI chips](https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra)**
-> <small>The Verge · 国际 · 00:27</small>
-> Apple's self-driving car program never really got off the ground, but it may have been what made the company's chips the powerful AI performers they are. Early in the development of the self-driving platform, Apple realized that it would n…
+> **6. [Apple says former employee exploited ‘rare’ bug to download confidential files after leaving for OpenAI](https://techcrunch.com/2026/07/13/apple-says-former-employee-exploited-rare-bug-to-download-confidential-files-after-leaving-for-openai/)**
+> <small>TechCrunch · 国际 · 04:00</small>
+> Apple would not comment on the "security breach," which allegedly allowed a former employee to download sensitive files from Apple's network long after he departed the company for rival OpenAI.
 >
-> **9. [OpenAI bets on families as ChatGPT goes deeper into households](https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/)**
-> <small>TechCrunch · 国际 · 22:13</small>
-> ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.
+> **7. [The wildest allegations in Apple’s trade secrets lawsuit against OpenAI](https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/)**
+> <small>TechCrunch · 国际 · 02:22</small>
+> Apple’s trade secrets lawsuit against OpenAI contains allegations that range from employees joking about unauthorized access to Apple’s systems to claims that job candidates were asked to bring Apple hardware to interviews. Here are the co…
 >
-> **10. [Apple sues OpenAI over alleged trade secret theft](https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/)**
-> <small>TechCrunch · 国际 · 05:00</small>
-> Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee.
+> **8. [Apple Sues OpenAI, Accusing It of Stealing Company Secrets](https://www.nytimes.com/2026/07/10/technology/apple-openai-lawsuit.html)**
+> <small>NYTimes Technology · 国际 · 02:00 · `可能需订阅`</small>
+> The two companies struck a deal in 2024 to offer A.I. services on Apple devices, but their partnership has soured.
+>
+> **9. [New York Times and Other Publishers Ask Court to Penalize OpenAI](https://www.nytimes.com/2026/07/09/technology/new-york-times-openai.html)**
+> <small>NYTimes Technology · 国际 · 03:48 · `可能需订阅`</small>
+> The Times, The New York Daily News and other media organizations accused OpenAI of withholding evidence in a lawsuit.
+>
+> **10. [Apple’s public betas for iOS 27 and more are out now](https://www.theverge.com/tech/964307/apple-public-betas-ios-27-siri-ai)**
+> <small>The Verge · 国际 · 04:47</small>
+> Apple has just released public betas for iOS 27 and other major OS updates that are set to publicly launch this fall. The big new feature this year is Siri AI, the delayed AI-powered revamp to Siri. It actually works - which is big praise!…
 >
 
 > [!tip] 私募股权 / 投资市场
 > 10/10 · 国内 3 / 国际 7
 >
-> **1. [Side Letter: Hedging against tradition](https://www.privateequityinternational.com/side-letter-hedging-against-tradition/)**
-> <small>Private Equity International · 国际 · 18:22</small>
-> In today's edition, LPs without VC allocations could be overexposed to the past, says LGT; KKR's Arctos capitalises on GP illiquidity; An IPO bonanza could spell good news for VC exits.
+> **1. [‘Self-liquidating’ helps Arctos make a $6.2bn GP financing debut](https://www.privateequityinternational.com/self-liquidating-helps-arctos-make-a-6-2bn-gp-financing-debut/)**
+> <small>Private Equity International · 国际 · 21:49</small>
+> The Keystone strategy is expected to remain relevant across fundraising cycles, managing partner Ian Charles and partner Charlie Tingue tell PEI.
 >
 > **2. [AI is making its mark on PE fundraising](https://www.privateequityinternational.com/ai-is-making-its-mark-on-pe-fundraising/)**
 > <small>Private Equity International · 国际 · 00:00</small>
 > MGX’s $49bn fundraise underscores AI’s disproportionate influence on LP allocations.
 >
-> **3. [Carlyle exits solar and energy storage developer Copia to EQT for $2.6bn](https://www.pehub.com/carlyle-exits-solar-and-energy-storage-developer-copia-to-eqt-for-2-6bn/)**
-> <small>PE Hub · 国际 · 23:02</small>
-> The acquisition builds on EQT's broader AI infrastructure portfolio, including EdgeConneX, Zayo, Zelestra, OX2, Madison Energy, Cypress Creek Energy and Scale Microgrid The post Carlyle exits solar and energy storage developer Copia to EQT…
+> **3. [Mill Point closes deal for Littlejohn-backed Total Safety Supplies & Solutions; Lower mid-market firm Comvest Private Equity rebrands as Vesterra](https://www.pehub.com/mill-point-closes-deal-for-littlejohn-backed-total-safety-supplies-lower-mid-market-firm-comvest-private-equity-rebrands-as-vesterra/)**
+> <small>PE Hub · 国际 · 21:40</small>
+> Mill Point Capital has completes acquisition of Total Safety Supplies & Solutions from Littlejohn & Co. portfolio company Total Safety US; Comvest Private Equity rebrands as Vesterra Capital Partners. The post Mill Point closes deal for Li…
 >
 > **4. [SBCERA expects to hold PE pacing despite board skepticism](https://www.buyoutsinsider.com/sbcera-expects-to-hold-pe-pacing-despite-board-skepticism/)**
 > <small>Buyouts · 国际 · 04:19</small>
@@ -116,25 +116,25 @@
 > <small>Buyouts · 国际 · 03:31</small>
 > The California pension with about a $4bn portfolio frets about potential costs, mixed results in making a governance transition, even as one board member finds such a change inevitable.
 >
-> **6. [Warburg Pincus nears $7 billion deal for PANTHERx Rare, WSJ reports - Reuters](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRE9tQW5paHdXNFRKZHR0ay1DSXRSMVNtT0UtZG9iTllOc1h5NmUybUM2RWxVTTJRZm9QOS1TcVZHN1RYUnIxbVM3amhhS3p1bkYtT0JrN2g5eVBtWVBPY1V0TDVZZElBOGV1dEQxUVhRWUtMZW4zMTNvb3RNa3NRaVBydkwtcDVUSlZvOUpUQTRRQXdkQmFpZnZ6blVYUktyZ2swb3kyel9jS0lYa0VYYTN6Q0RzczB0?oc=5)**
+> **6. [AE Industrial acquires powder spray producer Powder Alloy](https://www.pehub.com/ae-industrial-acquires-power-spray-producer-powder-alloy/)**
+> <small>PE Hub · 国际 · 01:26</small>
+> With the PAC acquisition, AE Industrial has established a specialty materials platform The post AE Industrial acquires powder spray producer Powder Alloy appeared first on PE Hub .
+>
+> **7. [Warburg Pincus nears $7 billion deal for PANTHERx Rare, WSJ reports - Reuters](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRE9tQW5paHdXNFRKZHR0ay1DSXRSMVNtT0UtZG9iTllOc1h5NmUybUM2RWxVTTJRZm9QOS1TcVZHN1RYUnIxbVM3amhhS3p1bkYtT0JrN2g5eVBtWVBPY1V0TDVZZElBOGV1dEQxUVhRWUtMZW4zMTNvb3RNa3NRaVBydkwtcDVUSlZvOUpUQTRRQXdkQmFpZnZ6blVYUktyZ2swb3kyel9jS0lYa0VYYTN6Q0RzczB0?oc=5)**
 > <small>Reuters · 国际 · 01:35</small>
 > Warburg Pincus nears $7 billion deal for PANTHERx Rare, WSJ reports Reuters
->
-> **7. [PE backs primary care digitalization push: 6 deals](https://www.pehub.com/pe-examines-market-for-primary-care-investments-6-deals/)**
-> <small>PE Hub · 国际 · 19:00</small>
-> Apollo, Arsenal, Kain Capital and OMERS Private Equity are among the PE firms that have invested in primary care. The post PE backs primary care digitalization push: 6 deals appeared first on PE Hub .
 >
 > **8. [消费医药新基金快速建仓 洼地资产成为资金“新欢” - 证券时报](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Bb2kyWjJUc05ueDR0RlZVc2pFOGNwVmVLTkRVdi1LMGVvLVhXX2l4R3NrVXd6bWVoTFk2RWJaWllQdl9Hd2ZGSHd2UnpFMHlVY20tYjdUYWpTZnFY?oc=5)**
 > <small>证券时报 · 国内 · 06:53</small>
 > 消费医药新基金快速建仓 洼地资产成为资金“新欢” 证券时报
 >
-> **9. [投资界24h | 传海纳亚洲创投龚挺将离职，曾参与投出字节天使轮；SHEIN香港IPO终获批；长鑫科技周四打新 - 投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTE14VnJDYkpQVHV5T1QzU3JmYjBQN2k3N25zbElTWlUyTzIzM2JVOTFMOTBkVmkxcmhiZTlKMUlNOUkxRjV5TzA5S3VaNnNtd19pbExFenRB?oc=5)**
-> <small>投资界 · 国内 · 08:31</small>
-> 投资界24h | 传海纳亚洲创投龚挺将离职，曾参与投出字节天使轮；SHEIN香港IPO终获批；长鑫科技周四打新 投资界
+> **9. [投资界24h | 韩国股民至暗一天：SK海力士暴跌15%；长鑫近2万员工有望人均百万；浙江50亿母基金开启二轮遴选 - 投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5UN1liRHpZeXhyTTBNUkZEckZnU19lMTFFck5MVm5JMl9QNEtLTFRQdkJ1UkR1NHRaOHFTaHc2N295RGtfaVJmYW14U2ZaR0ZKTjFibUFn?oc=5)**
+> <small>投资界 · 国内 · 08:23</small>
+> 投资界24h | 韩国股民至暗一天：SK海力士暴跌15%；长鑫近2万员工有望人均百万；浙江50亿母基金开启二轮遴选 投资界
 >
-> **10. [聆思科技完成近5亿元B轮融资，加速端侧大模型芯片落地 - 投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1HUTdCaFoxUmhyU3BERWpKWXRXOUxDcnlZQ0RwbFV1b01vTXZJVTZZVUxnYkY2YlpPUWE2dkhsTGFld2JBcVNXTURZTVNINmVmaG4yUll3?oc=5)**
-> <small>投资界 · 国内 · 10:12</small>
-> 聆思科技完成近5亿元B轮融资，加速端侧大模型芯片落地 投资界
+> **10. [北极芯微完成亿元A+轮融资，中青恒辉基金领投 - 投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5BWGpNalY1YUQ4QVBseDB0Mmg1U21xZm1Rbkg3Mk5SVVhOZXA3Y001UzMzOVhfdFJ2QmVONkU5ZjVsdFF2a3pyU3M3c0ljVi1LX2pzbUFB?oc=5)**
+> <small>投资界 · 国内 · 09:59</small>
+> 北极芯微完成亿元A+轮融资，中青恒辉基金领投 投资界
 >
 
 #daily-news
