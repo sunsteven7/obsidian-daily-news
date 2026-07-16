@@ -6,83 +6,83 @@
 > 摘要来自 RSS/新闻源描述，保留原文语言；`可能需订阅` 表示该来源可能有付费墙。
 
 > [!quote] 财经 / 金融
-> 10/10 · 国内 2 / 国际 8
+> 10/10 · 国内 4 / 国际 6
 >
-> **1. [逐际动力完成近2亿美元Pre-IPO融资 估值150亿元人民币 - 财新](https://news.google.com/rss/articles/CBMiZEFVX3lxTE96UVBReDBucnNWUG9WVnJoOWZoWXFYZk4zQXBtdlVUWmZvSXRaODdzbmlTYU44SHVHLUpKR0dpZVpyVnNxMy1fZmhQdU5SZ2YwazZXbTJHMlhaaWtqV0JnamgzOWk?oc=5)**
+> **1. [Anthropic moves closer to mega-IPO as bankers line up investor meetings](https://www.cnbc.com/2026/07/15/anthropic-ipo-banks-investor-meetings.html)**
+> <small>CNBC Finance · 国际 · 01:22</small>
+> Anthropic is lining up investor meetings ahead of a potential IPO as soon as October as the AI startup behind looks to beat rival OpenAI to the public markets.
+>
+> **2. [China's DeepSeek to raise fresh capital at $74 billion valuation ahead of onshore IPO, sources say - Reuters](https://news.google.com/rss/articles/CBMiygFBVV95cUxPVDlhV1Zhbi1ieWRUeEJIa3ZIbTh3SF9HanFHeWEwYU05aU9hbUlDTUlCVDlPTjY2TnNtWE0zRGZWX2l6NGhQZnpOZTdGY2dlaWFyN1NFWVJfbTZ1QXdhcUp5ajhEaTZ6SlFwZVlFY2VlS25lb011dHpUQkVHd2lITGg4NlNxMTZNY3NfbVJkYzVrY1puTlRBSkNuNlREYldEVjFQMEUwZjRVSHNsRFRNZ0ozRklGdzZRQ2VnQmtDQi1KNTdzc1NWWWlR?oc=5)**
+> <small>Reuters · 国际 · 17:59</small>
+> China's DeepSeek to raise fresh capital at $74 billion valuation ahead of onshore IPO, sources say Reuters
+>
+> **3. [逐际动力完成近2亿美元Pre-IPO融资 估值150亿元人民币 - 财新](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE80ZDI1R2VfYlAzNVBPU2ZnWk9CbmVJLVhCMGc1MjJjQVNfUE9tX1EtWk5NcDZaZE1XOFAybkItY3l0QkcwbEZhX3B6cDVVaWRLUlFuNXpyMjFjbExjRFIxTUdrb1NHcU0?oc=5)**
 > <small>财新 · 国内 · 14:13</small>
 > 逐际动力完成近2亿美元Pre-IPO融资 估值150亿元人民币 财新
 >
-> **2. [Waller says Fed shouldn't 'fight the last war' on inflation but warns hikes still possible](https://www.cnbc.com/2026/07/13/waller-says-fed-shouldnt-fight-the-last-war-on-inflation-but-warns-hikes-still-possible.html)**
-> <small>CNBC Finance · 国际 · 03:15</small>
-> The Fed governor said inflation has expanded beyond the often-cited drivers such as the energy price spike in tariffs.
+> **4. [Fed Chairman Kevin Warsh's testimony to Senate banking committee hits on economy, interest rates](https://www.cnbc.com/2026/07/15/watch-fed-chairman-kevin-warsh-testify-live-before-senate-banking-committee.html)**
+> <small>CNBC Finance · 国际 · 06:05</small>
+> As part of congressionally mandated Capitol Hill appearances for the central bank leader, Warsh spoke Tuesday to the House financial services committee.
 >
-> **3. [Warsh Reiterates Fed’s Pledge to Get Inflation Down but Doesn’t Specify How](https://www.nytimes.com/2026/07/14/business/economy/warsh-fed-cpi-inflation.html)**
+> **5. [央行邹澜：隔夜逆回购看重的不是利率，而是超短期流动性调节 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBVd3ZmR1Q5TDlZSGxBcjdyY0lNTDlRQmpUU0hJaGt3MTJadkk1Y0MwazlKUkN3Y1dxb2ZJUXd1UFdNd2ZXUWF6MVRwNF90WmpIaDJ3MVdScno2NHBOTlBEWjBR?oc=5)**
+> <small>财新 · 国内 · 16:52</small>
+> 央行邹澜：隔夜逆回购看重的不是利率，而是超短期流动性调节 财新
+>
+> **6. [中国人民银行：将根据宏观经济运行、物价走势和宏观调控需要，引导调控好利率水平 - 证券时报](https://news.google.com/rss/articles/CBMiXkFVX3lxTE56Q0JwMzFlR3pqdGRkd0tUUHBHbm8zdlA1RzMyRFMxSnA1SVpuNkM4dzgtMEFrUENoYkFvUlh0RUpENFQyVnRyY3pkNHFrZElJRlg0U0xWTEZubm5yREE?oc=5)**
+> <small>证券时报 · 国内 · 16:44</small>
+> 中国人民银行：将根据宏观经济运行、物价走势和宏观调控需要，引导调控好利率水平 证券时报
+>
+> **7. [Airtel Africa taps more bankers for rare London IPO of mobile money business - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxQTlJMeHN0S2xqd0I4OG8wei11c29LWTZ0NUcyVmJKNlJRc1owenppUUphQklnTmVPa3J5QlJKLS14UnJXSzkybHF5dWFUYWtFd1FpelVHYXp1X2ZmVFN0WV82Y2VZbDlsaWowdE0yRUwzalhrT0N2Vi1SUEZvNUVDMVowUjU?oc=5)**
+> <small>Financial Times · 国际 · 12:00 · `可能需订阅`</small>
+> Airtel Africa taps more bankers for rare London IPO of mobile money business Financial Times
+>
+> **8. [一季度货币政策报告“点名”隔夜利率，紧盯输入型通胀 - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBRNFRrYWc3Z2JqYjFkOHpZVEk4RHR1RXRxLUhjNXRaZi1ta1BsdEw5YmxZckF3ajZaRXZHNVZRVU14NDNSakd3d29zeDBocHdPVHpz?oc=5)**
+> <small>第一财经 · 国内 · 07:55</small>
+> 一季度货币政策报告“点名”隔夜利率，紧盯输入型通胀 第一财经
+>
+> **9. [Warsh Reiterates Fed’s Pledge to Get Inflation Down but Doesn’t Specify How](https://www.nytimes.com/2026/07/14/business/economy/warsh-fed-cpi-inflation.html)**
 > <small>NYTimes Business · 国际 · 06:51 · `可能需订阅`</small>
 > Kevin M. Warsh, in his first testimony to Congress as chairman of the Federal Reserve, did not shed light on whether he supported higher interest rates to tame price pressures.
 >
-> **4. [Oil touches $87 as battle for Strait of Hormuz alarms energy markets - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNbGFESFlWMnNUb0E1V2JOSTFCU2VWb1lkS1V2R28yWEdFQS1pUkxxaTUyUkQ5WWs4d0hZazF1bXpsc0lnUmpYemZVUUdsMGhCMGgyMGpiN2NSMGc0TDliQjl4bl9DM3BEQTlnWkUwbjBPZXJCZmxzLThrVXFjcE1pQktiT3k?oc=5)**
-> <small>Financial Times · 国际 · 14:58 · `可能需订阅`</small>
+> **10. [Oil touches $87 as battle for Strait of Hormuz alarms energy markets - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNbGFESFlWMnNUb0E1V2JOSTFCU2VWb1lkS1V2R28yWEdFQS1pUkxxaTUyUkQ5WWs4d0hZazF1bXpsc0lnUmpYemZVUUdsMGhCMGgyMGpiN2NSMGc0TDliQjl4bl9DM3BEQTlnWkUwbjBPZXJCZmxzLThrVXFjcE1pQktiT3k?oc=5)**
+> <small>Financial Times · 国际 · 18:28 · `可能需订阅`</small>
 > Oil touches $87 as battle for Strait of Hormuz alarms energy markets Financial Times
->
-> **5. [SBI Funds IPO Anchor Book Draws Capital Group, BlackRock, Goldman, GIC - Bloomberg.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxOczM0UUxhaDFJNmdub3A3NHRHUFBnTTRGTFZlS3Eza1lyYmhVY2FGNmRIUDg1UXU5YWt6NUlMeUF2SktfVUJ2aU14X1k3VDg2UEJkNmNYVzZiTEJNbnNmYk9saVNoSzllOW4xUlVodmlGUFRnZ0xQV2dUNElmZmlpcE5BaEJ4T002elVpQlkyYkVfcnR4OWtOcUY1YXNRcUs3NGhtc3pwVmFiVTNBaW0ya0RPbw?oc=5)**
-> <small>Bloomberg.com · 国际 · 02:45 · `可能需订阅`</small>
-> SBI Funds IPO Anchor Book Draws Capital Group, BlackRock, Goldman, GIC Bloomberg.com
->
-> **6. [The Fed’s Christopher Waller Warns of Higher Rates Soon if Inflation Stays High](https://www.nytimes.com/2026/07/13/business/federal-reserve-inflation-data-rates.html)**
-> <small>NYTimes Business · 国际 · 01:52 · `可能需订阅`</small>
-> Christopher J. Waller, a governor at the Federal Reserve, said he needed to see several months of lower inflation data to feel confident about the outlook.
->
-> **7. [Stocks and bonds drop as mounting US-Iran tensions spook investors - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxPNHpIUHhUcndlOFprRHpnWV8tdktaZGU2TTFiRmNNdFdubENmWFltU0lJVDlHdFU0amlPRDhPdUZHZHRNakFIX05qRGJqWFkzWThPdFdFMlk1bTJMWS0xMUMxUmVJRWlwRERTUWIyNF85MmtBVTJLdnkyVzEtbGU5WjIwWUk?oc=5)**
-> <small>Financial Times · 国际 · 13:14 · `可能需订阅`</small>
-> Stocks and bonds drop as mounting US-Iran tensions spook investors Financial Times
->
-> **8. [避免网络安全风险向金融风险演变 监管拟出台分级分类管理规则 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1hMlY3RkJyVGZiLTBnTlViQ0tDa1pKZ1Q4VmFWbUZzSXdJeEpOdFdTQ3VLSnFEZ0htUTBaZ0dNVXU2QmU2WWNfT0tYOV9tNTJwdUdQMkhpLWt4ZWVkYzBJeS13?oc=5)**
-> <small>财新 · 国内 · 21:29</small>
-> 避免网络安全风险向金融风险演变 监管拟出台分级分类管理规则 财新
->
-> **9. [Warsh pledges Fed policy 'regime change' to rid inflation 'tax' on American people](https://www.cnbc.com/2026/07/14/warsh-promises-inflation-will-be-a-thing-of-the-past-cites-benefits-of-ai-investment-boom.html)**
-> <small>CNBC Finance · 国际 · 01:29</small>
-> Warsh pledged Tuesday to "get monetary policy right" and defeat the inflation that has bedeviled the central bank for the past five years.
->
-> **10. [War Leaves Economy With More Stubborn Inflation, Economists Project - WSJ](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVV9kUmNMZUhsQTE3ZC1rZGpvNVV5QlRVcUo2Q0Q3QXRrUEFDYjRRdWt6YnhRLUpRMlZmVEE1MlhhTHZtYmRzOGlLRzVQcV9WMTV5VnNIWHYtaVZEeXlMUS1zTld6cFM5RHM5S1REUlFXNzNmS2Z5ajNLM2F5MUlzMHNINTZsa1lSeENlZWlmbTJKSHR6Ynd6MHpKWm1Zb0RNYUlqck5wWjdzdWZsaE82OGU0M1BZS1NSaEVR?oc=5)**
-> <small>WSJ · 国际 · 17:30 · `可能需订阅`</small>
-> War Leaves Economy With More Stubborn Inflation, Economists Project WSJ
 >
 
 > [!example] 科技 / AI
-> 10/10 · 国内 2 / 国际 8
+> 10/10 · 国内 3 / 国际 7
 >
-> **1. [PsiQuantum has a plan to make a massive quantum computer out of light](https://www.technologyreview.com/2026/07/14/1140356/psiquantum-plan-massive-quantum-computer-out-of-light/)**
+> **1. [Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer](https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/)**
+> <small>MIT Technology Review · 国际 · 01:09</small>
+> OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest version of its flagship LLM, GPT-5.6. Open…
+>
+> **2. [PsiQuantum has a plan to make a massive quantum computer out of light](https://www.technologyreview.com/2026/07/14/1140356/psiquantum-plan-massive-quantum-computer-out-of-light/)**
 > <small>MIT Technology Review · 国际 · 16:00</small>
 > The machine that could change the world will be housed in a room that looks like a data center crossed with an ice cream factory. Inside will be some 100 stainless-steel cabinets, each about six feet tall and connected to a supply of liqui…
 >
-> **2. [OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B](https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/)**
-> <small>TechCrunch · 国际 · 08:27</small>
-> The funding discussions point to investor interest in applying AI to make breakthroughs in life sciences.
+> **3. [xAI sues a man for using Grok to generate CSAM ‘deepfakes’](https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam)**
+> <small>The Verge · 国际 · 05:33</small>
+> The Elon Musk-owned xAI is suing a South Carolina man who allegedly used the company's Grok AI chatbot to generate child sexual abuse material (CSAM). In a lawsuit reported earlier by Reuters, xAI claims Terry Wayne Harwood "knowingly and…
 >
-> **3. [OpenAI’s first hardware device is reportedly a screenless speaker that can move](https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/)**
-> <small>TechCrunch · 国际 · 06:22</small>
-> The device is weirdly described as involving "mechanical elements that can move on their own" and the Bloomberg report includes the detail that the device is designed to "feel like a companion and become a physical manifestation of OpenAI’…
->
-> **4. [OpenAI may announce a ChatGPT smart speaker this year](https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device)**
-> <small>The Verge · 国际 · 05:26</small>
-> OpenAI's first device is set to be a smart speaker that lets you talk with ChatGPT, according to a report from Bloomberg. The device apparently won't have a screen, but will use a camera and additional sensors to "understand" your environm…
->
-> **5. [What Anthropic’s latest AI discovery does—and doesn’t—show](https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/)**
-> <small>MIT Technology Review · 国际 · 02:00</small>
-> This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Anthropic—currently the world’s most valuable AI company, with a nearly $1 trillion valuation—has a r…
->
-> **6. [36氪首发 | 前博世自动驾驶算法工程师创业，用合成数据做触觉大模型](https://36kr.com/p/3894821059918855?f=rss)**
+> **4. [独家｜面壁智能端侧大模型将搭载三星手机上市](https://36kr.com/p/3896830362601351?f=rss)**
 > <small>36氪 · 国内</small>
-> 触觉手套（图源/企业） 本文约 2400 字，建议阅读 6 分钟 作者丨欧雪 编辑丨袁斯来 硬氪获悉，空间智能公司「大衍科技」近期完成数千万元天使轮融资，由松禾清湛领投，浙江省省金控与广州番禺创新基金等国资背景机构参与。资金将主要用于触觉大模型研发、机器人数据产线建设及团队扩张。 「大衍科技」2025年5月成立于浙江桐乡，是一家专注于4D世界重建、世界模型及可控扩散模型技术的空间智能公司。 创始人兼CEO杨林是新加坡国立大学计算机博士，曾在速腾、酷睿程、比亚迪、苏州博世等企…
+> 文｜邓咏仪 编辑｜张雨忻 杨轩 《智能涌现》独家获悉，端侧大模型公司面壁智能已与三星手机达成合作，其自主研发的MiniCPM系列端侧模型将搭载于三星手机上市，覆盖数款旗舰机型。 就在同一日，网信部门发布公告，包括“Apple智能”等7款提供手机端侧生成式人工智能服务完成备案。 公告显示，Apple智能、华为小艺AI大模型、OPPO Andes GPT、vivo蓝心端侧大模型、小米澎湃AI、三星盖乐世AI以及努比亚豆包手机大模型共7款服务完成备案。 大模型浪潮来临后，端侧AI…
 >
-> **7. [Meta accused of using biased AI targeting for mass layoffs](https://www.theverge.com/tech/965486/meta-lawsuit-former-employees-ai-layoffs)**
-> <small>The Verge · 国际 · 01:18</small>
-> A group of 26 former Meta employees is suing the company over claims that it used AI tools to unfairly target workers on leave with layoffs, as reported earlier by Reuters. In the lawsuit, the employees allege Meta determined which workers…
+> **5. [中东资本首次“落子”国产视频生成大模型 兰五资本夏本佳：前沿技术迎出海机遇｜投资人说 - 第一财经](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9wdE9FQnRWWkxaXzJDeHIzM1I3T29Qcmo1cUg5R3ZOcXJaa2szS2ZlcFhTSWJnZXNBQVctQ1lkakhEQWNVcE9QMVY4QUtxR3hXamZiZA?oc=5)**
+> <small>第一财经 · 国内 · 01:19</small>
+> 中东资本首次“落子”国产视频生成大模型 兰五资本夏本佳：前沿技术迎出海机遇｜投资人说 第一财经
 >
-> **8. [人形机器人公司逐际动力完成2亿美元Pre-IPO轮融资，投后估值达150亿元｜最前线](https://36kr.com/p/3893976502287618?f=rss)**
+> **6. [Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic](https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/)**
+> <small>TechCrunch · 国际 · 07:59</small>
+> Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models.
+>
+> **7. [Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex](https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/)**
+> <small>TechCrunch · 国际 · 03:41</small>
+> OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with its agentic coding app.
+>
+> **8. [斯年智驾获3亿元C轮融资，自动驾驶重卡赛道再升温｜36氪独家](https://36kr.com/p/3895721094842249?f=rss)**
 > <small>36氪 · 国内</small>
-> 作者｜黄楠 编辑｜袁斯来 硬氪获悉，通用人形机器人公司逐际动力LimX Dynamics宣布完成Pre-IPO轮融资，融资金额近2亿美元，投资方包括IDG资本、蓝思科技、GGG Group与Redstone VC、华山资本、合肥滨湖产发集团等。此外，阿联酋磊石资本（Stone Venture）连续多轮追投，绿洲资本、基石资本、南山战新投、尚颀资本、蔚来资本等多家老股东超额加注。 融资资金将重点用于大小脑融合技术的突破和产品化，推动数千台全自主人形机器人的规模化部署，加强全球…
+> 自动驾驶重卡赛道，今年显著升温。 36氪独家获悉，斯年智驾近日已完成 3 亿元 C 轮融资，由兴证资本、颐道资本联合投资，资金将主要用于新一代车规级自动驾驶方案研发。 2026年1-6月，该赛道公开披露的融资已达5起，累计金额近70亿人民币，IPO动作也非常密集。资本热的背后，自动驾驶重卡在商业化层面逐渐拥有清晰的落地答案。港口、矿山、钢铁等封闭场景逐渐对无人重卡形成稳定需求，干线物流等开放场景也伴随政策开始逐渐落地，进入规模化前夜。 斯年智驾成立于2020年4月，是一家专…
 >
 > **9. [Apple Sues OpenAI, Accusing It of Stealing Company Secrets](https://www.nytimes.com/2026/07/10/technology/apple-openai-lawsuit.html)**
 > <small>NYTimes Technology · 国际 · 02:00 · `可能需订阅`</small>
@@ -108,33 +108,33 @@
 > <small>Buyouts · 国际 · 05:32</small>
 > The pension plan is hoping to reduce its allocation to buyout assets, increase its liquidity and cull “inactive” GP relationships.
 >
-> **4. [KKR takes majority stake in Thomson Reuters print unit; Apollo, Clearlake among those buying other private markets firms as industry consolidates](https://www.pehub.com/kkr-takes-majority-stake-in-thomson-reuters-print-unit-apollo-clearlake-among-those-buying-other-private-markets-firms-as-industry-consolidates/)**
-> <small>PE Hub · 国际 · 21:50</small>
-> Exploring recent deals involving consolidation, with Apollo, Clearlake and KKR among the buyers; KKR agrees to acquire a 51 percent stake in Thomson Reuters’ global print business; Odyssey Investment Partners has made a majority investment…
+> **4. [HighVista taps Ramit Malhotra as principal for GP-led secondaries team](https://www.pehub.com/highvista-taps-ramit-malhotra-as-principal-for-gp-led-secondaries-team/)**
+> <small>PE Hub · 国际 · 21:24</small>
+> HighVista launched its GP-led secondaries strategy earlier this year as an extension of the firm's lower middle market private equity investing. The post HighVista taps Ramit Malhotra as principal for GP-led secondaries team appeared first…
 >
 > **5. [SBCERA expects to hold PE pacing despite board skepticism](https://www.buyoutsinsider.com/sbcera-expects-to-hold-pe-pacing-despite-board-skepticism/)**
 > <small>Buyouts · 国际 · 04:19</small>
 > The pension fund aims to invest more in firms that are insulated from artificial intelligence’s expansion, while also scrutinizing firms that make acquisitions with higher leverage.
 >
-> **6. [Banyan promotes Simon Gélinas to managing director and investments head](https://www.pehub.com/banyan-promotes-simon-gelinas-to-managing-director-and-investments-head/)**
-> <small>PE Hub · 国际 · 01:04</small>
-> In this role, Gélinas will assume day-to-day leadership of Banyan’s investment function, including pipeline management, investment selection and execution and asset management across the firm’s portfolio. The post Banyan promotes Simon Gél…
+> **6. [Mutares sells Finnish remediation firm Redo to Invex Group](https://www.pehub.com/mutares-sells-finnish-remediation-firm-redo-to-invex-group/)**
+> <small>PE Hub · 国际 · 00:28</small>
+> Redo, which has been part of Mutares' portfolio since 2023, operates more than 20 locations across Finland. The post Mutares sells Finnish remediation firm Redo to Invex Group appeared first on PE Hub .
 >
-> **7. [爱诗科技C轮融资29.8亿元 AI视频模型加注实时交互 - 财新](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfQUFDNGV2Y2hheC0xRHVpUXFhMV9vTlR5YnpWUVVkNmtYQXdzUE1Wc2YwV1NLa2FTeFdraTRVZVZNOG44WXMwYkx4M21jejdXNGFsWExRc29jdmRnQzdZNTJKek0?oc=5)**
+> **7. [爱诗科技C轮融资29.8亿元 AI视频模型加注实时交互 - 财新](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBfY3NzblcwNWtlY0Q0RXJydy04NUY0d1QyZTE3dzloUVFBUTcwSjVRN0ZWb0dhUVZ4UTRKWTkyOTlQVDhCZmtEb2VJdzlCR1Y4dVZvaG5pV3hvSlVjcW5RdnVjT2JNWWM?oc=5)**
 > <small>财新 · 国内 · 18:24</small>
 > 爱诗科技C轮融资29.8亿元 AI视频模型加注实时交互 财新
 >
-> **8. [逐际动力完成近2亿美元Pre-IPO融资 估值150亿元人民币 - 财新](https://news.google.com/rss/articles/CBMiZEFVX3lxTE96UVBReDBucnNWUG9WVnJoOWZoWXFYZk4zQXBtdlVUWmZvSXRaODdzbmlTYU44SHVHLUpKR0dpZVpyVnNxMy1fZmhQdU5SZ2YwazZXbTJHMlhaaWtqV0JnamgzOWk?oc=5)**
+> **8. [逐际动力完成近2亿美元Pre-IPO融资 估值150亿元人民币 - 财新](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE80ZDI1R2VfYlAzNVBPU2ZnWk9CbmVJLVhCMGc1MjJjQVNfUE9tX1EtWk5NcDZaZE1XOFAybkItY3l0QkcwbEZhX3B6cDVVaWRLUlFuNXpyMjFjbExjRFIxTUdrb1NHcU0?oc=5)**
 > <small>财新 · 国内 · 14:13</small>
 > 逐际动力完成近2亿美元Pre-IPO融资 估值150亿元人民币 财新
 >
-> **9. [「昇视唯盛」完成数亿元B轮融资，两个月获两轮融资 - 投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5aSXFUTHNsMVlYTDZVa1Q3RkVURm9jVEZRNmI3ZXhMR0p1OFlYbUQ1MnFabzZrZmxVc1ZmbDFESmx1eGN5T3AwaHV0ZW91Nk9qNnBPb0Nn?oc=5)**
+> **9. [消费医药新基金快速建仓 洼地资产成为资金“新欢” - 证券时报](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Bb2kyWjJUc05ueDR0RlZVc2pFOGNwVmVLTkRVdi1LMGVvLVhXX2l4R3NrVXd6bWVoTFk2RWJaWllQdl9Hd2ZGSHd2UnpFMHlVY20tYjdUYWpTZnFY?oc=5)**
+> <small>证券时报 · 国内 · 06:53</small>
+> 消费医药新基金快速建仓 洼地资产成为资金“新欢” 证券时报
+>
+> **10. [「昇视唯盛」完成数亿元B轮融资，两个月获两轮融资 - 投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5aSXFUTHNsMVlYTDZVa1Q3RkVURm9jVEZRNmI3ZXhMR0p1OFlYbUQ1MnFabzZrZmxVc1ZmbDFESmx1eGN5T3AwaHV0ZW91Nk9qNnBPb0Nn?oc=5)**
 > <small>投资界 · 国内 · 16:21</small>
 > 「昇视唯盛」完成数亿元B轮融资，两个月获两轮融资 投资界
->
-> **10. [华夏英泰完成超2亿元C轮融资，正心谷资本领投 - 投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5lbU44ejBqdUZQNUpaNWpXZmZyZzJtNjZvSTZFcjB6ckNMWGxtZ0tqcVVZX2NMYmlQZFZzWVphd01kRnA2czBkSzZvbThDVkQ1S0FhSVFB?oc=5)**
-> <small>投资界 · 国内 · 14:22</small>
-> 华夏英泰完成超2亿元C轮融资，正心谷资本领投 投资界
 >
 
 #daily-news
