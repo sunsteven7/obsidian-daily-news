@@ -24,33 +24,33 @@
 > <small>Reuters · 国际 · 19:48</small>
 > CXMT'S $8.6 billion Shanghai IPO draws less frenzied demand amid China tech selloff Reuters
 >
-> **5. [Fed Chairman Kevin Warsh's testimony to Senate banking committee hits on economy, interest rates](https://www.cnbc.com/2026/07/15/watch-fed-chairman-kevin-warsh-testify-live-before-senate-banking-committee.html)**
+> **5. [The London IPO market isn’t as bad as it looks - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxOMm9EZGY3ajItSldLZmVTYVpGbEFBd3plaWxEX1NHQWwxTzFQRnJrWHY4OFFBRS1jWXBXZVl1WHNJVGFfX19IZ0FNaE43cVRQQktHRVdsUU8wZTV1czkwTG55ZGRpRi1PaTJ6eG5HaEdJaEtpaVlzT0RRQ09oVWFveFFwd3Q?oc=5)**
+> <small>Financial Times · 国际 · 12:00 · `可能需订阅`</small>
+> The London IPO market isn’t as bad as it looks Financial Times
+>
+> **6. [Fed Chairman Kevin Warsh's testimony to Senate banking committee hits on economy, interest rates](https://www.cnbc.com/2026/07/15/watch-fed-chairman-kevin-warsh-testify-live-before-senate-banking-committee.html)**
 > <small>CNBC Finance · 国际 · 06:05</small>
 > As part of congressionally mandated Capitol Hill appearances for the central bank leader, Warsh spoke Tuesday to the House financial services committee.
 >
-> **6. [央行邹澜：隔夜逆回购看重的不是利率，而是超短期流动性调节 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBVd3ZmR1Q5TDlZSGxBcjdyY0lNTDlRQmpUU0hJaGt3MTJadkk1Y0MwazlKUkN3Y1dxb2ZJUXd1UFdNd2ZXUWF6MVRwNF90WmpIaDJ3MVdScno2NHBOTlBEWjBR?oc=5)**
-> <small>财新 · 国内 · 16:52</small>
-> 央行邹澜：隔夜逆回购看重的不是利率，而是超短期流动性调节 财新
->
-> **7. [China’s CXMT Eyes $85.5 Billion Market Cap Ahead of Blockbuster IPO - WSJ](https://news.google.com/rss/articles/CBMioAFBVV95cUxNRmxSOUJqNGxQTXkwNG9URWpZWkVHVl9zUTk0ZlZIdWFPcmh5bzhETFZVZTFkSFhUWUxyMnhFUTl6UV9LX0NZQ2RicnNsLTFpT2FRZEFHRXF5Xy1pY2JDTUI5akFoRnYxVjJpRV9KZzkzMDQwakxQRGtqb3lnd3NuQTRjY1A5UUpJV05BaS0wcWtrQnhhSnk0Zkh6ZE5jZ0tx?oc=5)**
-> <small>WSJ · 国际 · 15:13 · `可能需订阅`</small>
-> China’s CXMT Eyes $85.5 Billion Market Cap Ahead of Blockbuster IPO WSJ
->
-> **8. [本周A股最牛：退市股1亿元成交额拉出260%涨幅 北交所连续两日暂停部分账户买入 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1hNklPVGQ4eV8tZjBESUk4YjRmUmtpalM5MG5KcEZITHJOZ1E5b3NEdENSNFNzQ1lKTVpNdjU0bWxJbWE0b1ozdGY0LU9VcWJLT01PemhNVjgyZHpWZkZDMTJR?oc=5)**
+> **7. [本周A股最牛：退市股1亿元成交额拉出260%涨幅 北交所连续两日暂停部分账户买入 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1hNklPVGQ4eV8tZjBESUk4YjRmUmtpalM5MG5KcEZITHJOZ1E5b3NEdENSNFNzQ1lKTVpNdjU0bWxJbWE0b1ozdGY0LU9VcWJLT01PemhNVjgyZHpWZkZDMTJR?oc=5)**
 > <small>财新 · 国内 · 22:02</small>
 > 本周A股最牛：退市股1亿元成交额拉出260%涨幅 北交所连续两日暂停部分账户买入 财新
 >
-> **9. [中国人民银行：将根据宏观经济运行、物价走势和宏观调控需要，引导调控好利率水平 - 证券时报](https://news.google.com/rss/articles/CBMiXkFVX3lxTE56Q0JwMzFlR3pqdGRkd0tUUHBHbm8zdlA1RzMyRFMxSnA1SVpuNkM4dzgtMEFrUENoYkFvUlh0RUpENFQyVnRyY3pkNHFrZElJRlg0U0xWTEZubm5yREE?oc=5)**
-> <small>证券时报 · 国内 · 16:44</small>
-> 中国人民银行：将根据宏观经济运行、物价走势和宏观调控需要，引导调控好利率水平 证券时报
+> **8. [英国将微软、谷歌等四大云服务商纳入金融监管 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1yZnh5cERTZE9JSVA3V2VKOWxWblFsdXBSM1F6UUhiOFdZTWQ2aVJhWlczR04xdk1DcjZWRkhuTTJ6TzdrMDBxdUhCeEdnZDFwODRUU3BVOWNFV0N0RWpTU1JB?oc=5)**
+> <small>财新 · 国内 · 11:51</small>
+> 英国将微软、谷歌等四大云服务商纳入金融监管 财新
 >
-> **10. [翼菲科技上市首日涨超90% 刷新纪录成港股“超购王” 业内：营收增长率超行业均值︱港股直通车 - 第一财经](https://news.google.com/rss/articles/CBMiVEFVX3lxTE1VSmNma2pVVlZ3eGNYRHp4QUtSR2ZlV1k1VGRpMlJ0X19TaDA2ek1CcThWYzFOSXZwZnFCSGRtaXdIR284Z2NlOHhXZjRGbUo0OXNCOA?oc=5)**
-> <small>第一财经 · 国内 · 23:35</small>
-> 翼菲科技上市首日涨超90% 刷新纪录成港股“超购王” 业内：营收增长率超行业均值︱港股直通车 第一财经
+> **9. [日本央行如期加息+暂停缩债！磷化铟全球供需缺口超七成？高通CEO预言“AI智能体取代App”丨20260617从华尔街到陆家嘴 - 第一财经](https://news.google.com/rss/articles/CBMiVEFVX3lxTE5kOERjV19BNENodFNOZURlcGtNejNsYVlmZklJVlk2S3F2Rm8yYl9MUk1aOFpBMnpLNnVUbjV4LW12M3NqODRpaEdsdHRrRUYwSUR1SQ?oc=5)**
+> <small>第一财经 · 国内 · 18:35</small>
+> 日本央行如期加息+暂停缩债！磷化铟全球供需缺口超七成？高通CEO预言“AI智能体取代App”丨20260617从华尔街到陆家嘴 第一财经
+>
+> **10. [货币政策、汇率、金融开放、人民币国际化，潘功胜释放四大重磅信号 - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBUQld1bkxkdGg4M012b2JsUnpjdW15ZHE1dXJoN0ZxQ0lsVjMwUlJKOUNXNG5Yb01VeEFqNjlzVXJTY1VEMFFyUWtMektqS3lRYmNN?oc=5)**
+> <small>第一财经 · 国内 · 23:43</small>
+> 货币政策、汇率、金融开放、人民币国际化，潘功胜释放四大重磅信号 第一财经
 >
 
 > [!example] 科技 / AI
-> 10/10 · 国内 3 / 国际 7
+> 10/10 · 国内 4 / 国际 6
 >
 > **1. [Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer](https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/)**
 > <small>MIT Technology Review · 国际 · 01:09</small>
@@ -68,25 +68,25 @@
 > <small>TechCrunch · 国际 · 01:45</small>
 > Apple filed a trade secrets lawsuit against OpenAI last Friday, and it’s not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI’s chief hardware officer and claims more than 400 former Apple emp…
 >
-> **5. [Apple’s plot to crush OpenAI](https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast)**
-> <small>The Verge · 国际 · 01:41</small>
-> Apple is suing OpenAI. The complaint is readable and intense, as these things often are, though many experts seem to think many of the allegations are just the ways things are done. So what does Apple really want here, and why is it pickin…
+> **5. [世界人工智能合作组织在上海成立 29个创始成员国签署协定 - 财新](https://news.google.com/rss/articles/CBMiakFVX3lxTE50UzdvWlJ5NlpZVlJfaUw5eV9aLW94SElNcFZvSlhSUkloMkZRckZPRGxCR3RxRlFkWHdFQTlzNGtWRUEyZ1hmQXA4andtUWZvS3RmN0JYU0RGemJBUDBMcVUyNmlBSDJ1bGc?oc=5)**
+> <small>财新 · 国内 · 17:17</small>
+> 世界人工智能合作组织在上海成立 29个创始成员国签署协定 财新
 >
-> **6. [Patreon stops asking AI bots not to scrape — and starts blocking them](https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/)**
+> **6. [Dave Eggers told OpenAI staff that ChatGPT was ‘silencing an entire generation’](https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation)**
+> <small>The Verge · 国际 · 04:54</small>
+> Last year, Sam Altman invited author Dave Eggers to give a talk to around 200 OpenAI staffers. The man has written countless novels, screenplays, pieces of journalism, started McSweeney's, and founded multiple schools and nonprofits that s…
+>
+> **7. [Patreon stops asking AI bots not to scrape — and starts blocking them](https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/)**
 > <small>TechCrunch · 国际 · 23:21</small>
 > Patreon is strengthening its defenses against AI scraping by working with Cloudflare to block bots that train AI models on creators’ content without permission. The move marks a shift away from relying on websites using robots.txt alone to…
 >
-> **7. [36氪首发 | 港科大博士创业做机器人全身触觉系统，红杉、瓴智、智元共同押注](https://36kr.com/p/3899128277452681?f=rss)**
+> **8. [Energy IPOs surge as investors hunt for ways to play AI boom - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxPNHc4VFFyWGxJczdpbmZKTFRkQV84TUFXT1BvNkF1YzlrSXp5d0NwTXE2VDFadEhydlNNdmlmZTF1RUp1NEJxSXBQekpxU2xvcm5OSXBpZzMzXzVTUGhtTkRmeUs3a0M1Z3pEbnNjU09JalZYb1NyT1JrT2ZyejJCNjdTZlU?oc=5)**
+> <small>Financial Times · 国际 · 12:00 · `可能需订阅`</small>
+> Energy IPOs surge as investors hunt for ways to play AI boom Financial Times
+>
+> **9. [36氪首发 | 港科大博士创业做机器人全身触觉系统，红杉、瓴智、智元共同押注](https://36kr.com/p/3899128277452681?f=rss)**
 > <small>36氪 · 国内</small>
 > 作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，全身多模态融合触觉解决方案公司模感科技（MoSense）近日完成数千万元天使轮融资，投资方包括红杉中国、高瓴创投及智元机器人。本轮融资资金将主要用于加速研发、团队扩充、算力投入及量产测试体系建设。 模感科技成立于2026年5月，总部注册于上海，在深圳前海设有研发中心，聚焦机器人全身多模态触觉感知系统研发。公司正式成立仅一个月便获得头部美元基金及人形厂商的共同押注。 随着人形机器人逐步从展示场景走向工业制造、物流搬运及家庭服务等真…
->
-> **8. [Apple Sues OpenAI, Accusing It of Stealing Company Secrets](https://www.nytimes.com/2026/07/10/technology/apple-openai-lawsuit.html)**
-> <small>NYTimes Technology · 国际 · 02:00 · `可能需订阅`</small>
-> The two companies struck a deal in 2024 to offer A.I. services on Apple devices, but their partnership has soured.
->
-> **9. [China’s Moonshot AI Unveils Kimi Model, Threatening America’s Lead](https://www.nytimes.com/2026/07/17/business/china-ai-moonshot-kimi.html)**
-> <small>NYTimes Technology · 国际 · 04:04 · `可能需订阅`</small>
-> China’s Moonshot AI unveiled a freely available artificial intelligence model that seemed to narrow the gap with cutting-edge offerings from U.S. tech companies.
 >
 > **10. [重磅IPO：中国最大存储芯片制造商长鑫存储即将上市 - 纽约时报中文网](https://news.google.com/rss/articles/CBMib0FVX3lxTE9TVzdsTmVjb3VXbXVPdXZSOXpSbUgxX3pibWI3eUpUSl85QWF5NmxuWVd3TmNnTl9IN2U1T0JDYWc5bzVGZWJPSEpHWnItZ1BZOExQaGhibW50OGlmbmZ2UGkyLUNCVHYyWkZHTU54WQ?oc=5)**
 > <small>纽约时报中文网 · 国内 · 10:41 · `可能需订阅`</small>
@@ -124,17 +124,17 @@
 > <small>财新 · 国内 · 18:24</small>
 > 爱诗科技C轮融资29.8亿元 AI视频模型加注实时交互 财新
 >
-> **8. [消费医药新基金快速建仓 洼地资产成为资金“新欢” - 证券时报](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Bb2kyWjJUc05ueDR0RlZVc2pFOGNwVmVLTkRVdi1LMGVvLVhXX2l4R3NrVXd6bWVoTFk2RWJaWllQdl9Hd2ZGSHd2UnpFMHlVY20tYjdUYWpTZnFY?oc=5)**
+> **8. [逐际动力完成近2亿美元Pre-IPO融资 估值150亿元人民币 - 财新](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE80ZDI1R2VfYlAzNVBPU2ZnWk9CbmVJLVhCMGc1MjJjQVNfUE9tX1EtWk5NcDZaZE1XOFAybkItY3l0QkcwbEZhX3B6cDVVaWRLUlFuNXpyMjFjbExjRFIxTUdrb1NHcU0?oc=5)**
+> <small>财新 · 国内 · 14:13</small>
+> 逐际动力完成近2亿美元Pre-IPO融资 估值150亿元人民币 财新
+>
+> **9. [消费医药新基金快速建仓 洼地资产成为资金“新欢” - 证券时报](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Bb2kyWjJUc05ueDR0RlZVc2pFOGNwVmVLTkRVdi1LMGVvLVhXX2l4R3NrVXd6bWVoTFk2RWJaWllQdl9Hd2ZGSHd2UnpFMHlVY20tYjdUYWpTZnFY?oc=5)**
 > <small>证券时报 · 国内 · 06:53</small>
 > 消费医药新基金快速建仓 洼地资产成为资金“新欢” 证券时报
 >
-> **9. [「昇视唯盛」完成数亿元B轮融资，两个月获两轮融资 - 投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5aSXFUTHNsMVlYTDZVa1Q3RkVURm9jVEZRNmI3ZXhMR0p1OFlYbUQ1MnFabzZrZmxVc1ZmbDFESmx1eGN5T3AwaHV0ZW91Nk9qNnBPb0Nn?oc=5)**
+> **10. [「昇视唯盛」完成数亿元B轮融资，两个月获两轮融资 - 投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5aSXFUTHNsMVlYTDZVa1Q3RkVURm9jVEZRNmI3ZXhMR0p1OFlYbUQ1MnFabzZrZmxVc1ZmbDFESmx1eGN5T3AwaHV0ZW91Nk9qNnBPb0Nn?oc=5)**
 > <small>投资界 · 国内 · 16:21</small>
 > 「昇视唯盛」完成数亿元B轮融资，两个月获两轮融资 投资界
->
-> **10. [「八匹马超导」完成A+轮超亿元融资，毅达资本领投 - 投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBIMGVsTlo2S2VYbnV3UlRxbzdZT0Z2cFFwT1RyQy1nWTJHSHBfSS1ySklOdEhwWXlEbDJfbU1ZTnB6T2pQZlZCREQxUkRGVEgzRFBQMFZR?oc=5)**
-> <small>投资界 · 国内 · 10:21</small>
-> 「八匹马超导」完成A+轮超亿元融资，毅达资本领投 投资界
 >
 
 #daily-news
