@@ -16,33 +16,33 @@
 > <small>CNBC Finance · 国际 · 01:22</small>
 > Anthropic is lining up investor meetings ahead of a potential IPO as soon as October as the AI startup behind looks to beat rival OpenAI to the public markets.
 >
-> **3. [India eyes market comeback with $1bn IPO for SBI Funds Management - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxObHVPeEZHemhHZm13TnFZVzZqOFVDTGZpalhzM2dzSWkxNjNGd1NyenlaZkJ0NnhKaDR4U2RpMEdwSjExdUU2cC1yTWdpOXp2b0dGLTJlT2J2WlFES1RBTlkybHMxd19VOG1DWjkwdFVzSUlZWFBNT29PaWc1R3ZPMU1lR3E?oc=5)**
-> <small>Financial Times · 国际 · 09:31 · `可能需订阅`</small>
-> India eyes market comeback with $1bn IPO for SBI Funds Management Financial Times
+> **3. [Institutional demand for CXMT's $8.6 bln Shanghai IPO dented by chip stock selloff - Reuters](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSzlsR09iZW45b0NFWWhmTEpad3RlX1hUdmdxRlRBTG1WRk84T1Y1NnotTkUzMWRMZm9FNERUaU5hbUtUNGt4WkZScHEwS2Z5RE43MWxENkxxM3BWbzJtOXVWa0ZiOWQtcmZDemk0dWVaUnAwa0VXQThPSkxLV0wzeFQ2MlBEVjhzNmJXejREYS1YSWdNMXUwN1p3VjN2M3ZrWmVIX3B3ZzNSaWxJeG8wZl9qUVBwczhMbG14MDVURW0?oc=5)**
+> <small>Reuters · 国际 · 17:12</small>
+> Institutional demand for CXMT's $8.6 bln Shanghai IPO dented by chip stock selloff Reuters
 >
-> **4. [CXMT'S $8.6 billion Shanghai IPO draws less frenzied demand amid China tech selloff - Reuters](https://news.google.com/rss/articles/CBMixwFBVV95cUxOUkpNc3Y0cVhzamxRY3NvS3ZlNUp2SzcxNFVxUTNrV1AtTElyblNwSHo3Nmc5SUZVb3dGWk1wbGg0Tm1TZXpLRlRVMFpYaUNfb2tiTEZDbjhTcVNpaTNCby1yU1NGQnVNcktGYXAtd3ltblBGR21vYkVYWVRLVFRuTnh1cWw2SmNISWRFZ2VxdHVXcUtNNjF1R18yOVJxUEFYQmR5a0Z2ZFhSalpFc1FMWmRnYk9NQ3hEM2pyTV9ERVBWdzAtM0xz?oc=5)**
-> <small>Reuters · 国际 · 19:48</small>
-> CXMT'S $8.6 billion Shanghai IPO draws less frenzied demand amid China tech selloff Reuters
->
-> **5. [The London IPO market isn’t as bad as it looks - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxOMm9EZGY3ajItSldLZmVTYVpGbEFBd3plaWxEX1NHQWwxTzFQRnJrWHY4OFFBRS1jWXBXZVl1WHNJVGFfX19IZ0FNaE43cVRQQktHRVdsUU8wZTV1czkwTG55ZGRpRi1PaTJ6eG5HaEdJaEtpaVlzT0RRQ09oVWFveFFwd3Q?oc=5)**
-> <small>Financial Times · 国际 · 12:00 · `可能需订阅`</small>
+> **4. [The London IPO market isn’t as bad as it looks - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxOMm9EZGY3ajItSldLZmVTYVpGbEFBd3plaWxEX1NHQWwxTzFQRnJrWHY4OFFBRS1jWXBXZVl1WHNJVGFfX19IZ0FNaE43cVRQQktHRVdsUU8wZTV1czkwTG55ZGRpRi1PaTJ6eG5HaEdJaEtpaVlzT0RRQ09oVWFveFFwd3Q?oc=5)**
+> <small>Financial Times · 国际 · 12:01 · `可能需订阅`</small>
 > The London IPO market isn’t as bad as it looks Financial Times
 >
-> **6. [Fed Chairman Kevin Warsh's testimony to Senate banking committee hits on economy, interest rates](https://www.cnbc.com/2026/07/15/watch-fed-chairman-kevin-warsh-testify-live-before-senate-banking-committee.html)**
+> **5. [Fed Chairman Kevin Warsh's testimony to Senate banking committee hits on economy, interest rates](https://www.cnbc.com/2026/07/15/watch-fed-chairman-kevin-warsh-testify-live-before-senate-banking-committee.html)**
 > <small>CNBC Finance · 国际 · 06:05</small>
 > As part of congressionally mandated Capitol Hill appearances for the central bank leader, Warsh spoke Tuesday to the House financial services committee.
 >
-> **7. [本周A股最牛：退市股1亿元成交额拉出260%涨幅 北交所连续两日暂停部分账户买入 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1hNklPVGQ4eV8tZjBESUk4YjRmUmtpalM5MG5KcEZITHJOZ1E5b3NEdENSNFNzQ1lKTVpNdjU0bWxJbWE0b1ozdGY0LU9VcWJLT01PemhNVjgyZHpWZkZDMTJR?oc=5)**
+> **6. [“国家队”高调进场 证监会召开机构座谈会 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1mV2syX2IzVEkzQTlFQ3NUdk9sWnB6V1l5Qm5MTGpSZ0JUcWxRQVRmeDg5YmItLWswaWZLWll3bnVVRTBFRHdyTzYxQlh3TF9ZOXhVaVlYS0hwRnRzTnZ5ZVV3?oc=5)**
+> <small>财新 · 国内 · 10:43</small>
+> “国家队”高调进场 证监会召开机构座谈会 财新
+>
+> **7. [通胀压力压倒增长担忧，欧洲央行近三年来首次加息 - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1zMTJNOGVCemd3ZnhBazZHeHNxeFVWU0VBdTZ4UGE1anYzRVBuUEh1Q3dVVkpkVC1jaHZjUkw5TTBMaHpUTkE4SHFEbE1aQlhBS05V?oc=5)**
+> <small>第一财经 · 国内 · 11:52</small>
+> 通胀压力压倒增长担忧，欧洲央行近三年来首次加息 第一财经
+>
+> **8. [Traders are increasingly betting against SpaceX just weeks after IPO - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxQNG5lT2VTTFhLTWFQQUN5N2p0NlpDMUNZdm9FN0kzbGJ6VDF6bGI4ZndoVjFFRmI2MUhGOGFZOE1zcGZ1Q1ZSWDVVOEFxdkNTMUg4ZUFWeU1yMmhlN01ja2hPalA2dmJJei1VcXczLXFLT0JDZ3QxTVk5elowYTB1U2lPVl8?oc=5)**
+> <small>Financial Times · 国际 · 19:00 · `可能需订阅`</small>
+> Traders are increasingly betting against SpaceX just weeks after IPO Financial Times
+>
+> **9. [本周A股最牛：退市股1亿元成交额拉出260%涨幅 北交所连续两日暂停部分账户买入 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1hNklPVGQ4eV8tZjBESUk4YjRmUmtpalM5MG5KcEZITHJOZ1E5b3NEdENSNFNzQ1lKTVpNdjU0bWxJbWE0b1ozdGY0LU9VcWJLT01PemhNVjgyZHpWZkZDMTJR?oc=5)**
 > <small>财新 · 国内 · 22:02</small>
 > 本周A股最牛：退市股1亿元成交额拉出260%涨幅 北交所连续两日暂停部分账户买入 财新
->
-> **8. [英国将微软、谷歌等四大云服务商纳入金融监管 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1yZnh5cERTZE9JSVA3V2VKOWxWblFsdXBSM1F6UUhiOFdZTWQ2aVJhWlczR04xdk1DcjZWRkhuTTJ6TzdrMDBxdUhCeEdnZDFwODRUU3BVOWNFV0N0RWpTU1JB?oc=5)**
-> <small>财新 · 国内 · 11:51</small>
-> 英国将微软、谷歌等四大云服务商纳入金融监管 财新
->
-> **9. [日本央行如期加息+暂停缩债！磷化铟全球供需缺口超七成？高通CEO预言“AI智能体取代App”丨20260617从华尔街到陆家嘴 - 第一财经](https://news.google.com/rss/articles/CBMiVEFVX3lxTE5kOERjV19BNENodFNOZURlcGtNejNsYVlmZklJVlk2S3F2Rm8yYl9MUk1aOFpBMnpLNnVUbjV4LW12M3NqODRpaEdsdHRrRUYwSUR1SQ?oc=5)**
-> <small>第一财经 · 国内 · 18:35</small>
-> 日本央行如期加息+暂停缩债！磷化铟全球供需缺口超七成？高通CEO预言“AI智能体取代App”丨20260617从华尔街到陆家嘴 第一财经
 >
 > **10. [货币政策、汇率、金融开放、人民币国际化，潘功胜释放四大重磅信号 - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBUQld1bkxkdGg4M012b2JsUnpjdW15ZHE1dXJoN0ZxQ0lsVjMwUlJKOUNXNG5Yb01VeEFqNjlzVXJTY1VEMFFyUWtMektqS3lRYmNN?oc=5)**
 > <small>第一财经 · 国内 · 23:43</small>
@@ -60,33 +60,33 @@
 > <small>MIT Technology Review · 国际 · 16:00</small>
 > The machine that could change the world will be housed in a room that looks like a data center crossed with an ice cream factory. Inside will be some 100 stainless-steel cabinets, each about six feet tall and connected to a supply of liqui…
 >
-> **3. [2026最受投资人关注人工智能/具身智能企业50揭晓](https://36kr.com/p/3899597215745664?f=rss)**
+> **3. [红熊AI完成数亿元A+轮融资，基于AI“记忆科学”从To B服务延伸至To C应用｜36氪首发](https://36kr.com/p/3899612612494976?f=rss)**
 > <small>36氪 · 国内</small>
-> 人工智能正在进入一个新的产业周期。 过去一年，大模型能力持续演进，生成式AI、多模态交互、智能体等技术方向快速推进；而具身智能也从早期的技术探索阶段，逐渐步入产业验证的深水区，机器人开始成为人工智能与现实世界的重要载体。 市场率先给出了回应。据36氪研究院测算，中国具身智能市场规模已从2018年的2133亿元增长至2025年的9150亿元，2026年有望突破万亿关口。IT桔子数据显示，2026上半年具身智能融资总金额达到935亿元，较2025上半年提升近5倍，投融资事件达到…
+> 36氪获悉，红熊AI今日宣布完成数亿元人民币A+轮融资，投后估值接近30亿元人民币。本轮融资由浙江九纬私募基金、嘉兴彰元创业投资与老股东格睿丰联合投资。这是红熊AI在短短15个月内完成的第6轮融资。 据了解，本轮融资资金将主要用于持续深化AI记忆科学的类人大脑基础研究、加速OpenBear通用大模型与MemoryBear记忆科学系统的深度融合，以及扩大智能客服、智能营销、ChatBI与智能教育四大核心应用场景的市场覆盖。 在经历了大模型参数量与算力的早期竞赛后，行业正逐步步…
 >
-> **4. [How Apple’s big lawsuit could disrupt OpenAI’s IPO plans](https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/)**
-> <small>TechCrunch · 国际 · 01:45</small>
-> Apple filed a trade secrets lawsuit against OpenAI last Friday, and it’s not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI’s chief hardware officer and claims more than 400 former Apple emp…
+> **4. [谁还在卷参数？WAIC2026全是能干活的实体AI！](https://36kr.com/p/3903383663478403?f=rss)**
+> <small>36氪 · 国内</small>
+> 7月17日-20日，一起在WAIC2026现场，看见人工智能真正进入产业深处。 过去一年，围绕AI行业的讨论正在变得更具体。大模型能力仍在持续迭代，但外界关注的重点，已经不再只停留在模型参数、模型发布和单点能力展示上。随着智能体、具身智能、空间智能、AI基础设施等方向不断演进，行业开始更频繁地追问：AI如何进入真实流程，如何完成复杂任务，又如何在产业场景中形成可持续价值。 这种变化背后，是AI竞争维度的继续扩展：模型能力仍是基础，但企业真正要面对的，已经包括数据质量、工程系…
 >
 > **5. [世界人工智能合作组织在上海成立 29个创始成员国签署协定 - 财新](https://news.google.com/rss/articles/CBMiakFVX3lxTE50UzdvWlJ5NlpZVlJfaUw5eV9aLW94SElNcFZvSlhSUkloMkZRckZPRGxCR3RxRlFkWHdFQTlzNGtWRUEyZ1hmQXA4andtUWZvS3RmN0JYU0RGemJBUDBMcVUyNmlBSDJ1bGc?oc=5)**
 > <small>财新 · 国内 · 17:17</small>
 > 世界人工智能合作组织在上海成立 29个创始成员国签署协定 财新
 >
-> **6. [Dave Eggers told OpenAI staff that ChatGPT was ‘silencing an entire generation’](https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation)**
-> <small>The Verge · 国际 · 04:54</small>
-> Last year, Sam Altman invited author Dave Eggers to give a talk to around 200 OpenAI staffers. The man has written countless novels, screenplays, pieces of journalism, started McSweeney's, and founded multiple schools and nonprofits that s…
+> **6. [Can an Apple lawsuit derail OpenAI’s hardware plans?](https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/)**
+> <small>TechCrunch · 国际 · 03:24</small>
+> On the latest episode of Equity, we debate whether Apple's lawsuit will cast over OpenAi's much-discussed plans to get into hardware and go public.
 >
-> **7. [Patreon stops asking AI bots not to scrape — and starts blocking them](https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/)**
-> <small>TechCrunch · 国际 · 23:21</small>
-> Patreon is strengthening its defenses against AI scraping by working with Cloudflare to block bots that train AI models on creators’ content without permission. The move marks a shift away from relying on websites using robots.txt alone to…
+> **7. [Netflix paid $587M for Ben Affleck’s AI filmmaking startup](https://techcrunch.com/2026/07/19/netflix-paid-587m-for-ben-afflecks-ai-filmmaking-startup/)**
+> <small>TechCrunch · 国际 · 05:45</small>
+> Netflix revealed that it paid $587 million in cash for InterPositive, a startup co-founded by Ben Affleck.
 >
-> **8. [Energy IPOs surge as investors hunt for ways to play AI boom - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxPNHc4VFFyWGxJczdpbmZKTFRkQV84TUFXT1BvNkF1YzlrSXp5d0NwTXE2VDFadEhydlNNdmlmZTF1RUp1NEJxSXBQekpxU2xvcm5OSXBpZzMzXzVTUGhtTkRmeUs3a0M1Z3pEbnNjU09JalZYb1NyT1JrT2ZyejJCNjdTZlU?oc=5)**
-> <small>Financial Times · 国际 · 12:00 · `可能需订阅`</small>
-> Energy IPOs surge as investors hunt for ways to play AI boom Financial Times
+> **8. [I hate that I don’t hate this song made with Suno](https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music)**
+> <small>The Verge · 国际 · 02:20</small>
+> I would never go so far as to say there's no place for AI in music (I'm a fan of Holly Herndon, after all). But I generally find music made with generative AI to be offensively boring, especially the outputs of Suno. So I'm having a bit of…
 >
-> **9. [36氪首发 | 港科大博士创业做机器人全身触觉系统，红杉、瓴智、智元共同押注](https://36kr.com/p/3899128277452681?f=rss)**
-> <small>36氪 · 国内</small>
-> 作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，全身多模态融合触觉解决方案公司模感科技（MoSense）近日完成数千万元天使轮融资，投资方包括红杉中国、高瓴创投及智元机器人。本轮融资资金将主要用于加速研发、团队扩充、算力投入及量产测试体系建设。 模感科技成立于2026年5月，总部注册于上海，在深圳前海设有研发中心，聚焦机器人全身多模态触觉感知系统研发。公司正式成立仅一个月便获得头部美元基金及人形厂商的共同押注。 随着人形机器人逐步从展示场景走向工业制造、物流搬运及家庭服务等真…
+> **9. [Birdfy’s solar-powered smart feeder is down to one of its best prices](https://www.theverge.com/gadgets/967336/birdfy-feeder-ai-powered-smart-bird-feeder-with-camera-deal-sale)**
+> <small>The Verge · 国际 · 02:04</small>
+> Birdfy has kicked off a midyear sale, taking up to 40 percent off a range of its smart bird feeders. One of the best deals is on Netvue’s Birdfy Feeder AI-Powered Smart Bird Feeder with Camera, which has dropped to $149.99 at Birdfy and is…
 >
 > **10. [重磅IPO：中国最大存储芯片制造商长鑫存储即将上市 - 纽约时报中文网](https://news.google.com/rss/articles/CBMib0FVX3lxTE9TVzdsTmVjb3VXbXVPdXZSOXpSbUgxX3pibWI3eUpUSl85QWF5NmxuWVd3TmNnTl9IN2U1T0JDYWc5bzVGZWJPSEpHWnItZ1BZOExQaGhibW50OGlmbmZ2UGkyLUNCVHYyWkZHTU54WQ?oc=5)**
 > <small>纽约时报中文网 · 国内 · 10:41 · `可能需订阅`</small>
@@ -120,7 +120,7 @@
 > <small>PE Hub · 国际 · 23:43</small>
 > In this role, Pacelli will help lead agribusiness activities as the firm expands investment focus on agriculture value chain. The post Granite Creek promotes Pete Pacelli to managing director appeared first on PE Hub .
 >
-> **7. [爱诗科技C轮融资29.8亿元 AI视频模型加注实时交互 - 财新](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfQUFDNGV2Y2hheC0xRHVpUXFhMV9vTlR5YnpWUVVkNmtYQXdzUE1Wc2YwV1NLa2FTeFdraTRVZVZNOG44WXMwYkx4M21jejdXNGFsWExRc29jdmRnQzdZNTJKek0?oc=5)**
+> **7. [爱诗科技C轮融资29.8亿元 AI视频模型加注实时交互 - 财新](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBfY3NzblcwNWtlY0Q0RXJydy04NUY0d1QyZTE3dzloUVFBUTcwSjVRN0ZWb0dhUVZ4UTRKWTkyOTlQVDhCZmtEb2VJdzlCR1Y4dVZvaG5pV3hvSlVjcW5RdnVjT2JNWWM?oc=5)**
 > <small>财新 · 国内 · 18:24</small>
 > 爱诗科技C轮融资29.8亿元 AI视频模型加注实时交互 财新
 >
@@ -128,13 +128,13 @@
 > <small>财新 · 国内 · 14:13</small>
 > 逐际动力完成近2亿美元Pre-IPO融资 估值150亿元人民币 财新
 >
-> **9. [消费医药新基金快速建仓 洼地资产成为资金“新欢” - 证券时报](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Bb2kyWjJUc05ueDR0RlZVc2pFOGNwVmVLTkRVdi1LMGVvLVhXX2l4R3NrVXd6bWVoTFk2RWJaWllQdl9Hd2ZGSHd2UnpFMHlVY20tYjdUYWpTZnFY?oc=5)**
-> <small>证券时报 · 国内 · 06:53</small>
-> 消费医药新基金快速建仓 洼地资产成为资金“新欢” 证券时报
->
-> **10. [「昇视唯盛」完成数亿元B轮融资，两个月获两轮融资 - 投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5aSXFUTHNsMVlYTDZVa1Q3RkVURm9jVEZRNmI3ZXhMR0p1OFlYbUQ1MnFabzZrZmxVc1ZmbDFESmx1eGN5T3AwaHV0ZW91Nk9qNnBPb0Nn?oc=5)**
+> **9. [「昇视唯盛」完成数亿元B轮融资，两个月获两轮融资 - 投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5aSXFUTHNsMVlYTDZVa1Q3RkVURm9jVEZRNmI3ZXhMR0p1OFlYbUQ1MnFabzZrZmxVc1ZmbDFESmx1eGN5T3AwaHV0ZW91Nk9qNnBPb0Nn?oc=5)**
 > <small>投资界 · 国内 · 16:21</small>
 > 「昇视唯盛」完成数亿元B轮融资，两个月获两轮融资 投资界
+>
+> **10. [「中科新松」完成数亿元A+轮融资，加注工业具身智能赛道 - 投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTE8wT3Rzbm5nT0YzSVR0YUFzbzZMb3RXZUdDOTkxTzBlaGpfN19EWnRZaGx6YXk4WE05dm1QQ1NaZFZNLUR6enA3NnFvQ1V0emR5T1hSNEhn?oc=5)**
+> <small>投资界 · 国内 · 14:13</small>
+> 「中科新松」完成数亿元A+轮融资，加注工业具身智能赛道 投资界
 >
 
 #daily-news
