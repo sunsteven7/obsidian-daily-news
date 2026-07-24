@@ -20,9 +20,9 @@
 > <small>财新 · 国内 · 13:25</small>
 > 市场化并购：破解A股“进出失衡”困局 财新
 >
-> **4. [特稿｜前员工举报导致小红书上市受阻？小红书称目前IPO相关信息均不属实 - 财新](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5CVHluelBhcnVUcXg2SWJSN0NVUGxEWnJNM0NOem5DbUF5QkhFUUxyMTdsVDdXUnBSNnphSkJXMWVINHhxeXN2Q3pIZ1htbG54enVKMWVybV9NejhlTjEtWlNuQlU?oc=5)**
+> **4. [独家｜前员工举报导致小红书上市受阻？小红书称目前IPO相关信息均不属实(含视频) - 财新](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1yQ0hIR3pzckJwUnNOcFdGSmliQm11N1c3ZkNweTN1UmJ0ZWZDdmszUG5UbEp1UGdfcjFUYjFFZk1QRmFWVm5lcmJrMm00VkczSjdWNDdfZWlxVnM2MHJoMFQ5RlJJM1k?oc=5)**
 > <small>财新 · 国内 · 10:53</small>
-> 特稿｜前员工举报导致小红书上市受阻？小红书称目前IPO相关信息均不属实 财新
+> 独家｜前员工举报导致小红书上市受阻？小红书称目前IPO相关信息均不属实(含视频) 财新
 >
 > **5. [Indian asset manager’s debut revives hopes for local IPO market - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNblZNNlBXTlNDVHJYWk4zRlZSOGdCeFdyVTVrWEQ4SU0xYm9zU2tueXgyQkE4MjBGWDJoLV96TExjNVFTeHdScDM2TEpxNzM4Vkc4d2xMS3JrRnRHNVRqdEVLa08zOW1Uc0hReFN5R3dQWXhMY25tYW82UGJQcWdGOGNkRG0?oc=5)**
 > <small>Financial Times · 国际 · 14:49 · `可能需订阅`</small>
@@ -36,17 +36,17 @@
 > <small>证券时报 · 国内 · 17:40</small>
 > 证监会：坚决维护资本市场平稳健康运行，欢迎国际机构投资者扩大对华投资 证券时报
 >
-> **8. [Private capital misses out as IPO and deal boom lifts Wall Street banks - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxQTzBZb1BnRkJYSGx3elNpSnhsejRxSl9OZHIwUy0yZTExaXpaZ095WVFiUE9OSm1rd3F0WW5ZRVVmYTJ3VmZRRWw2bGtsTnRtZUc1Qk9wa1hheGtQT2pCM2tVTTBkQVIybkdvdEJQemdSQjg4Q0UzOWxFVnExY2JKN0JxY18?oc=5)**
-> <small>Financial Times · 国际 · 12:00 · `可能需订阅`</small>
-> Private capital misses out as IPO and deal boom lifts Wall Street banks Financial Times
->
-> **9. [Oil Markets on Edge as Houthi Rebels Threaten Shipping in the Middle East](https://www.nytimes.com/2026/07/19/business/oil-prices-stocks-gas.html)**
+> **8. [Oil Markets on Edge as Houthi Rebels Threaten Shipping in the Middle East](https://www.nytimes.com/2026/07/19/business/oil-prices-stocks-gas.html)**
 > <small>NYTimes Business · 国际 · 04:28 · `可能需订阅`</small>
 > The global oil price went above $90 but pulled back on signs of hope for a reduction in tensions.
 >
-> **10. [三星电子中国业务陷重组传闻，重心转向半导体 - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTE04OXkwMTFxd3JpRGRxWUs3TlAtd0FWRFVleXQxN2c4TXlZOEgyaXRWbmJHOHVqcWJZMkFjUXVET25FamJQWmdHNDhiNDFnYk1jUTJN?oc=5)**
-> <small>第一财经 · 国内 · 01:55</small>
-> 三星电子中国业务陷重组传闻，重心转向半导体 第一财经
+> **9. [Morgan Stanley’s $100 Million SpaceX IPO Payday Was Only a Start - Bloomberg.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxQaHVQY09SeTljc3RYblpFMjRGOGdhZklGNnJ5Z0czbWhvcC0wLU4tNjFxSU1Rckx3Z3FrRzNjczV3RklTbm1MU1dQZ1Mzb2pxWjl6d1hjRTVTTFdydVFvaWE5VWZ4d3ZMdW9yZnhUNkdGWi15M3NRdlZyMUZfTmZFdkl5bjhKUkNPcXpGazVzTEZ5ZDZodVBmMXhGNXZ1ZS10Qmw0RHBGUUlkSWlJM3RsNHpBc1E?oc=5)**
+> <small>Bloomberg.com · 国际 · 23:00 · `可能需订阅`</small>
+> Morgan Stanley’s $100 Million SpaceX IPO Payday Was Only a Start Bloomberg.com
+>
+> **10. [货币政策、汇率、金融开放、人民币国际化，潘功胜释放四大重磅信号 - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBUQld1bkxkdGg4M012b2JsUnpjdW15ZHE1dXJoN0ZxQ0lsVjMwUlJKOUNXNG5Yb01VeEFqNjlzVXJTY1VEMFFyUWtMektqS3lRYmNN?oc=5)**
+> <small>第一财经 · 国内 · 11:38</small>
+> 货币政策、汇率、金融开放、人民币国际化，潘功胜释放四大重磅信号 第一财经
 >
 
 > [!example] 科技 / AI
@@ -56,41 +56,41 @@
 > <small>MIT Technology Review · 国际 · 18:37</small>
 > The conversation about AI often centers on algorithms, computing power, or huge investments in new semiconductor fabrication plants and hyperscale data centers. But beneath each of these advances is another layer of innovation that makes t…
 >
-> **2. [China’s AI models have Trump’s AI world at war with itself](https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/)**
-> <small>MIT Technology Review · 国际 · 02:00</small>
-> This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Over the weekend, several current and former advisors to President Donald Trump on AI publicly lobbed…
+> **2. [How AI helps scientists design the next generation of medicines](https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/)**
+> <small>MIT Technology Review · 国际 · 20:00</small>
+> Designing and developing a new medicine is an expensive, failure-prone scientific challenge. A new drug can take many years to develop, at the cost of a significant investment. And even then, most possible candidates never reach the patien…
 >
-> **3. [36氪首发 | 同济博士做几何、物理AI重构设计制造，累计获超3亿元融资](https://36kr.com/p/3907532622648453?f=rss)**
-> <small>36氪 · 国内</small>
-> 图源/企业 本文约 1400 字，建议阅读 3 分钟 作者丨欧雪 编辑丨袁斯来 硬氪获悉，工业AI设计研发解决方案供应商「设序科技」于近日正式完成B轮超亿元融资，累计获超3亿元融资，投资方包括深产投、合鼎共及老股东涌铧投资等。融资将用于市场开拓（含出海）及核心模型技术研发。 设序科技成立于2020年，旗下产品“则形AI”是基于自研工业世界模型与自然语言大模型封装的面向硬件工程的设计研发智能体平台，提供云架构下的3D设计方案与2D工程图纸智能生成功能。创始人兼CEO吴泳荣为同…
->
-> **4. [Science Corporation’s vision-restoring chip wins EU approval](https://techcrunch.com/2026/07/22/science-corporations-vision-restoring-chip-wins-eu-approval/)**
-> <small>TechCrunch · 国际 · 02:18</small>
-> "The thing that the space needs is a company making $100 million a year of revenue," Science Corp. CEO Max Hodak said.
->
-> **5. [China considers tighter export controls on AI models and chips, FT reports - Reuters](https://news.google.com/rss/articles/CBMivgFBVV95cUxQMnQtRVFFNl9xQzJhYWtqMjlrVEx5NW9FYmp4UzM3QlNHdjYwaDhfT3BTdkdaX0QwUHF2X0Z3a3pEMnl0b0RqN0VVMFZ2NndBT1YtWDhjbE85dGZKT2lpWmtFYTJaY1E5UHljUmVvcXhvV0FTTUFyck5GZHBYRU1Nc1hTNDg4aUxoeFFNZmhKOVVKcDNLQVo3SFBYcnZ0VFFhVlBhNndHOWtuMVZpaDhmVE9JY051NmVzQUx4QUln?oc=5)**
-> <small>Reuters · 国际 · 12:11</small>
-> China considers tighter export controls on AI models and chips, FT reports Reuters
->
-> **6. [监管如何影响AI发展：Robotaxi的案例 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBGd0NKdkhtendNNEx5WkV2YjlmbWw2T2lpbkpudEpaQjNEQ2xxTVhGdHZJU08tbVAtN29wUXNGd2hRX2ROelo0YUV4SkMwN1lEZzZZOWRqa05tWHZJSXZ4bU1B?oc=5)**
+> **3. [监管如何影响AI发展：Robotaxi的案例 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBGd0NKdkhtendNNEx5WkV2YjlmbWw2T2lpbkpudEpaQjNEQ2xxTVhGdHZJU08tbVAtN29wUXNGd2hRX2ROelo0YUV4SkMwN1lEZzZZOWRqa05tWHZJSXZ4bU1B?oc=5)**
 > <small>财新 · 国内 · 14:09</small>
 > 监管如何影响AI发展：Robotaxi的案例 财新
 >
-> **7. [Google justifies its massive AI spending with a booming cloud business](https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/)**
-> <small>TechCrunch · 国际 · 06:01</small>
-> Google's cloud business is thriving, as companies adopting its AI and AI infrastructure services help the tech giant to report record profits.
+> **4. [How AI guardrails are impeding the work of offensive cybersecurity researchers](https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/)**
+> <small>TechCrunch · 国际 · 09:00</small>
+> We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work.
 >
-> **8. [“智象未来”完成C轮融资](https://36kr.com/newsflashes/3907615630546306?f=rss)**
-> <small>36氪 · 国内</small>
-> 36氪获悉，近日，“智象未来”（HiDream.ai）宣布完成15亿元人民币的C轮融资。本轮融资由社保基金四川振兴科创基金、工银资本、弘颐资管、敦鸿资本联合领投，厦门国贸资本、上影新视野基金、湖北长江产业投资集团、华策影视、航源资本、创云海资本、华福投资、余杭金控股份、交银资本、若松基金等多家机构跟投。老股东合肥产投、东方富海、金浦投资、金华金投、中哲创、财鑫资本持续加注。至此，智象近三个月内已完成三轮融资，累计融资超过21亿元人民币。
+> **5. [AMD takes on Nvidia with its Helios AI rack-scale system](https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/)**
+> <small>TechCrunch · 国际 · 04:33</small>
+> AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year.
 >
-> **9. [OpenAI Says Its A.I. Models Hacked Into Hugging Face, a Digital Library](https://www.nytimes.com/2026/07/21/technology/openai-attack-hugging-face.html)**
+> **6. [OpenAI is making big claims as it rolls out ChatGPT Health to everyone](https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims)**
+> <small>The Verge · 国际 · 01:10</small>
+> OpenAI is rolling out ChatGPT Health to everyone in the US on Thursday, allowing more people to connect their medical records and health-tracking information to the chatbot. During a briefing, Ashley Alexander, OpenAI's vice president of h…
+>
+> **7. [OpenAI Says Its A.I. Models Hacked Into Hugging Face, a Digital Library](https://www.nytimes.com/2026/07/21/technology/openai-attack-hugging-face.html)**
 > <small>NYTimes Technology · 国际 · 01:00 · `可能需订阅`</small>
 > The incident, which targeted the computer systems of another company called Hugging Face, happened while OpenAI was testing the systems.
 >
-> **10. [Google Releases Three New Gemini A.I. Models](https://www.nytimes.com/2026/07/21/technology/google-ai-cybersecurity-gemini.html)**
+> **8. [Google Releases Three New Gemini A.I. Models](https://www.nytimes.com/2026/07/21/technology/google-ai-cybersecurity-gemini.html)**
 > <small>NYTimes Technology · 国际 · 03:38 · `可能需订阅`</small>
 > The models include one that is the company’s most powerful and another that is fine-tuned for cybersecurity, as Google competes with rivals like OpenAI and Anthropic.
+>
+> **9. [网格智算：“不堆算力”的AI大脑如何填补林下场景空白 | 水下项目](https://36kr.com/p/3908027308823684?f=rss)**
+> <small>36氪 · 国内</small>
+> 从消费市场到工业赛道，一片“红海”的无人机市场早已挤满各路玩家，但仍有一块细分领域，即便行业头部厂商也鲜有布局——林下场景。 林下场景蕴藏的产业需求体量惊人：根据国家林草局数据，2025年我国森林蓄积量达209.88亿立方米，全国木材产量达1.4亿立方米；联合国粮农组织数据显示，全球圆木年采伐量约40亿立方米，这背后是伐区蓄积量核算、树木胸径测量等大量工作。 林下环境复杂，传统人工作业模式成本大、效率低且危险重重。虽然行业对自动化替代方案的呼声已久，但林下环境作为经典的拒止…
+>
+> **10. [独家｜混元多模态理解负责人胡瀚离职创业，原团队或将聚焦世界模型](https://36kr.com/p/3907934819521670?f=rss)**
+> <small>36氪 · 国内</small>
+> 文 | 周鑫雨 编辑 | 张雨忻 《智能涌现》独家获悉，近期，腾讯混元多模态理解负责人胡瀚提出了离职。 此前，他曾担任微软亚洲研究院视觉计算组首席研究员。2025 年初加入腾讯后，负责视觉大模型的研究。在后续的调整中，他加入大语言模型部旗下的“Frontier”前沿技术研究组，负责多模态理解的相关研究，汇报给姚顺雨。 据了解，胡瀚还曾承担世界模型的研发工作。 与此同时，腾讯大语言模型部负责人姚顺雨近期正在密集梳理旗下团队， 胡瀚此前所在的研究组或将聚焦世界模型的前沿研究 。…
 >
 
 > [!tip] 私募股权 / 投资市场
@@ -100,41 +100,41 @@
 > <small>Private Equity International · 国际 · 21:00</small>
 > How rainmakers have fared across private markets in H1 2026; redemption-gate exposes a structural weakness in evergreens; a $29bn pension is cutting back on buyouts.
 >
-> **2. [Allianz GI PE head departs for 26North](https://www.buyoutsinsider.com/allianz-gi-pe-head-departs-for-26north/)**
+> **2. [When stratospheric net worth meets LP-GP alignment](https://www.privateequityinternational.com/when-stratospheric-net-worth-meets-lp-gp-alignment/)**
+> <small>Private Equity International · 国际 · 03:08</small>
+> What happens to incentivisation structures when a potential carry payout represents a mere drop in the ocean of an investment executive's net worth?
+>
+> **3. [Allianz GI PE head departs for 26North](https://www.buyoutsinsider.com/allianz-gi-pe-head-departs-for-26north/)**
 > <small>Buyouts · 国际 · 04:30</small>
 > Andrew Roth’s departure follows the exit of his co-head, who left shortly after it was reported that the LP would cut back on its private equity allocation.
 >
-> **3. [Mendocino County frets over liquidity risk as it considers PE allocation](https://www.buyoutsinsider.com/mendocino-county-frets-over-liquidity-risk-as-it-considers-pe-allocation/)**
+> **4. [Mendocino County frets over liquidity risk as it considers PE allocation](https://www.buyoutsinsider.com/mendocino-county-frets-over-liquidity-risk-as-it-considers-pe-allocation/)**
 > <small>Buyouts · 国际 · 04:36</small>
 > California pension with just shy of $1bn portfolio previously cited high fees and unimpressive risk-adjusted returns as reasons to skip private equity, but hears rationale for revisiting. decision from Callan
 >
-> **4. [Side Letter: Tech trepidation](https://www.privateequityinternational.com/side-letter-tech-trepidation/)**
-> <small>Private Equity International · 国际 · 23:24</small>
-> LPs are less bullish on tech following the 'Saaspocalypse'; EQT is behind on its goal to deliver €20 billion of exits; CVC bolsters its APAC business.
+> **5. [Blackstone to sell battery storage developer Aypa Power to Brookfield in $7bn deal](https://www.pehub.com/blackstone-to-sell-battery-storage-developer-aypa-power-to-brookfield-in-7bn-deal/)**
+> <small>PE Hub · 国际 · 03:43</small>
+> According to the terms of the deal, Brookfield will acquire Aypa's operating, under-construction and contracted project portfolio, together with its development platform. The post Blackstone to sell battery storage developer Aypa Power to…
 >
-> **5. [Goldman Sachs Alternatives to acquire fintech firm Aegis Hedging Solutions](https://www.pehub.com/goldman-sachs-alternatives-to-acquire-fintech-firm-aegis-hedging-solutions/)**
-> <small>PE Hub · 国际 · 20:49</small>
-> Greenbelt Capital Partners and Baird Capital are exiting Aegis following the transaction. The post Goldman Sachs Alternatives to acquire fintech firm Aegis Hedging Solutions appeared first on PE Hub .
+> **6. [Matador Resources Company to acquire EnCap-backed Paloma Permian for nearly $1.3bn](https://www.pehub.com/matador-resources-company-to-acquire-encap-backed-paloma-permian-for-nearly-1-3bn/)**
+> <small>PE Hub · 国际 · 01:58</small>
+> Matador has also agreed to acquire primarily undeveloped acreage in what it believes to be the heart of the Woodford play in West Texas and Southeast New Mexico from Ridge Runner Resources, another portfolio company of EnCap. The post Mata…
 >
-> **6. [特稿｜前员工举报导致小红书上市受阻？小红书称目前IPO相关信息均不属实 - 财新](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5CVHluelBhcnVUcXg2SWJSN0NVUGxEWnJNM0NOem5DbUF5QkhFUUxyMTdsVDdXUnBSNnphSkJXMWVINHhxeXN2Q3pIZ1htbG54enVKMWVybV9NejhlTjEtWlNuQlU?oc=5)**
+> **7. [独家｜前员工举报导致小红书上市受阻？小红书称目前IPO相关信息均不属实(含视频) - 财新](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1yQ0hIR3pzckJwUnNOcFdGSmliQm11N1c3ZkNweTN1UmJ0ZWZDdmszUG5UbEp1UGdfcjFUYjFFZk1QRmFWVm5lcmJrMm00VkczSjdWNDdfZWlxVnM2MHJoMFQ5RlJJM1k?oc=5)**
 > <small>财新 · 国内 · 10:53</small>
-> 特稿｜前员工举报导致小红书上市受阻？小红书称目前IPO相关信息均不属实 财新
+> 独家｜前员工举报导致小红书上市受阻？小红书称目前IPO相关信息均不属实(含视频) 财新
 >
-> **7. [TJC to acquire electrical power firm Sunbelt Solomon from Trilantic North America](https://www.pehub.com/tjc-to-acquire-electrical-power-firm-sunbelt-solomon-from-trilantic-north-america/)**
-> <small>PE Hub · 国际 · 01:49</small>
-> Sunbelt Solomon operates 42 locations across the US, Canada, and Chile, and employs more than 1,600 team members. The post TJC to acquire electrical power firm Sunbelt Solomon from Trilantic North America appeared first on PE Hub .
->
-> **8. [蚂蚁国际完成约12亿美元A轮融资 蚂蚁集团、阿里集团等参与 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9relZlTWE4WW1ubFRWQ2VqNG10QWlFcE15MEc3UFg1MG1DMmVDSFJVUldYTzc5enB0RlJ1dkViTVhOU0FEY1BhUVFiRmhsVmVkQUx3ZjlBdW1aZzk2M1N3bDNB?oc=5)**
+> **8. [蚂蚁国际完成约12亿美元A轮融资 蚂蚁集团、阿里集团等参与 - 财新](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBpUTFQd0czU0Y0WGFZVzZienFRNUlMMXktemNEWmdHMDRfQmdxdGs5cFZ6Ymg4UzY1RktuQWlQcEFtM0JHVU0zNV8xUENGRjFvS21ITXUyNk5uOEktUzJMOTZSUmw?oc=5)**
 > <small>财新 · 国内 · 13:04</small>
 > 蚂蚁国际完成约12亿美元A轮融资 蚂蚁集团、阿里集团等参与 财新
 >
-> **9. [史河机器人完成C轮数亿元融资，中际控股领投 - 投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTFB5NlNiVmRPZlFFbHBCYWM0TkYxRkMtOUItWVV4WXlyeVp6dXdjWi1PNzhvRHRYWlpGTlRETTZtYTc3TTd0LWo4NkhOaFZkUVVSR0dYSVRn?oc=5)**
+> **9. [今年排队IPO - 清科研究](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9hRVBEejhqRW9Yb1d5RmFJbk1nNFljQldJV0VCZF8zc3hQNVRDZEtJVmFhMUo4TkVBTGNWb2xsS0RaZWxoSzVhcWg0MVdKalZjcW5xclpjdV9JSUk?oc=5)**
+> <small>清科研究 · 国内 · 08:37</small>
+> 今年排队IPO 清科研究
+>
+> **10. [史河机器人完成C轮数亿元融资，中际控股领投 - 投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTFB5NlNiVmRPZlFFbHBCYWM0TkYxRkMtOUItWVV4WXlyeVp6dXdjWi1PNzhvRHRYWlpGTlRETTZtYTc3TTd0LWo4NkhOaFZkUVVSR0dYSVRn?oc=5)**
 > <small>投资界 · 国内 · 10:10</small>
 > 史河机器人完成C轮数亿元融资，中际控股领投 投资界
->
-> **10. [【首发】南京清普生物完成约6亿元C轮融资，加速创新镇痛药物临床转化与商业化 - 动脉网](https://news.google.com/rss/articles/CBMiR0FVX3lxTE5UQkhfbnBSV3pEQTd2OFR1LV91UllvZ1VnbFlGUHhTdW5EUVZRdnNRWGdkWXBCck1iWTZxZ1VhQWd5UWRRUmtn?oc=5)**
-> <small>动脉网 · 国内 · 08:00</small>
-> 【首发】南京清普生物完成约6亿元C轮融资，加速创新镇痛药物临床转化与商业化 动脉网
 >
 
 #daily-news
