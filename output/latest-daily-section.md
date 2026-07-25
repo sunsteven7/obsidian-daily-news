@@ -16,37 +16,37 @@
 > <small>CNBC Finance · 国际 · 01:22</small>
 > Anthropic is lining up investor meetings ahead of a potential IPO as soon as October as the AI startup behind looks to beat rival OpenAI to the public markets.
 >
-> **3. [市场化并购：破解A股“进出失衡”困局 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE40TmVSOFJNLWl5dnZ0eUNJOGhKSjRGUXRndklBb3pvaGxXSGstYUR2VkhXekZGU3owVDVlR3lsYWtDQTFFUk9rdmVBWUJEQTFqUkV2MGZ0cjRkQW9nWC1LenNn?oc=5)**
+> **3. [Chinese robot maker AgiBot starts Hong Kong IPO process, Securities Times reports - Reuters](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSjQ0Zk8tUndkOW9EZTRxNXJINEZudEJKVU9oZ25oM2M4LUQwVDNkWXdfNTZ5M3hUSWVHdjVXWlZHeEgydWFPdDJDWnFla0ZJS1BnQmhua3pyaFAtbzNuZFluWTBBYXNuX0d6ZVVRdllUeWdxaWpmN2xGXy1oMGFXOVI2dmlLN1JsdnF1Q1RCSjd1VUNrZmh1X2hmZmttaU9aS0dORDRnOXhoTUlKM2RaM3RpcDg4RGVRdURVODlCNEhlcGxrWEZ3bjRaaU1icnAw?oc=5)**
+> <small>Reuters · 国际 · 18:27</small>
+> Chinese robot maker AgiBot starts Hong Kong IPO process, Securities Times reports Reuters
+>
+> **4. [市场化并购：破解A股“进出失衡”困局 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE40TmVSOFJNLWl5dnZ0eUNJOGhKSjRGUXRndklBb3pvaGxXSGstYUR2VkhXekZGU3owVDVlR3lsYWtDQTFFUk9rdmVBWUJEQTFqUkV2MGZ0cjRkQW9nWC1LenNn?oc=5)**
 > <small>财新 · 国内 · 13:25</small>
 > 市场化并购：破解A股“进出失衡”困局 财新
 >
-> **4. [独家｜前员工举报导致小红书上市受阻？小红书称目前IPO相关信息均不属实(含视频) - 财新](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1yQ0hIR3pzckJwUnNOcFdGSmliQm11N1c3ZkNweTN1UmJ0ZWZDdmszUG5UbEp1UGdfcjFUYjFFZk1QRmFWVm5lcmJrMm00VkczSjdWNDdfZWlxVnM2MHJoMFQ5RlJJM1k?oc=5)**
+> **5. [独家｜前员工举报导致小红书上市受阻？小红书称目前IPO相关信息均不属实(含视频) - 财新](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5mY2kzcDRBR2c3bnpqS1lKT2FIREdDQXRUN1dxam85dzk4QXlrS0dhaVJtc3hwaUFKM0FuNEFFazN5Z2Q1dzdOeHBGekR4cEtoX1NHSmR6NmNRLVln?oc=5)**
 > <small>财新 · 国内 · 10:53</small>
 > 独家｜前员工举报导致小红书上市受阻？小红书称目前IPO相关信息均不属实(含视频) 财新
 >
-> **5. [Indian asset manager’s debut revives hopes for local IPO market - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNblZNNlBXTlNDVHJYWk4zRlZSOGdCeFdyVTVrWEQ4SU0xYm9zU2tueXgyQkE4MjBGWDJoLV96TExjNVFTeHdScDM2TEpxNzM4Vkc4d2xMS3JrRnRHNVRqdEVLa08zOW1Uc0hReFN5R3dQWXhMY25tYW82UGJQcWdGOGNkRG0?oc=5)**
-> <small>Financial Times · 国际 · 14:49 · `可能需订阅`</small>
-> Indian asset manager’s debut revives hopes for local IPO market Financial Times
+> **6. [Brent Crude Oil Prices Top $100 as Conflict With Iran Drags On](https://www.nytimes.com/2026/07/24/business/oil-prices-global-stocks-shipping.html)**
+> <small>NYTimes Business · 国际 · 04:03 · `可能需订阅`</small>
+> Stocks in Asia were down following a sell-off in the U.S. markets over soaring oil prices, rising borrowing costs and worries about the technology industry.
 >
-> **6. [Stocks and the Economy Are Increasingly Relying on the A.I. Boom](https://www.nytimes.com/2026/07/22/business/economy/stocks-economy-ai.html)**
+> **7. [Hedge funds grow at fastest rate in history as AI boom lifts markets - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNb2NOWGx4dVZTYUNheHF3a1hWSU4wZVRLR0VKUXNieHo4RkxkZDEyaXZoSk9DcnREVkdVdmNldWFCNVdEVl9TbXhkTzJaSHpRakV6RmVfaTNiOWlkX3V4LThnU1J3enFNdHY4WnliT1ZTQmpLY1Z5Z1lpMTM3OUV6Wk5OR0I?oc=5)**
+> <small>Financial Times · 国际 · 23:44 · `可能需订阅`</small>
+> Hedge funds grow at fastest rate in history as AI boom lifts markets Financial Times
+>
+> **8. [Stocks and the Economy Are Increasingly Relying on the A.I. Boom](https://www.nytimes.com/2026/07/22/business/economy/stocks-economy-ai.html)**
 > <small>NYTimes Business · 国际 · 23:46 · `可能需订阅`</small>
 > Investment in artificial intelligence and related companies is lifting the stock market and spending across the economy.
 >
-> **7. [证监会：坚决维护资本市场平稳健康运行，欢迎国际机构投资者扩大对华投资 - 证券时报](https://news.google.com/rss/articles/CBMiXkFVX3lxTE8tYjc3bnRXd0JCT0pyb0kwSzNaXzlXYUg4cVFxc1dycXRVNHRXS1o5eHJFTVptTnFyVHNTZnA2b0NDRGRwVzRPUWM5YzdtY2R2ZDUtdkZyOUNfUjRfc3c?oc=5)**
+> **9. [证监会：坚决维护资本市场平稳健康运行，欢迎国际机构投资者扩大对华投资 - 证券时报](https://news.google.com/rss/articles/CBMiXkFVX3lxTE8tYjc3bnRXd0JCT0pyb0kwSzNaXzlXYUg4cVFxc1dycXRVNHRXS1o5eHJFTVptTnFyVHNTZnA2b0NDRGRwVzRPUWM5YzdtY2R2ZDUtdkZyOUNfUjRfc3c?oc=5)**
 > <small>证券时报 · 国内 · 17:40</small>
 > 证监会：坚决维护资本市场平稳健康运行，欢迎国际机构投资者扩大对华投资 证券时报
 >
-> **8. [Oil Markets on Edge as Houthi Rebels Threaten Shipping in the Middle East](https://www.nytimes.com/2026/07/19/business/oil-prices-stocks-gas.html)**
-> <small>NYTimes Business · 国际 · 04:28 · `可能需订阅`</small>
-> The global oil price went above $90 but pulled back on signs of hope for a reduction in tensions.
->
-> **9. [Morgan Stanley’s $100 Million SpaceX IPO Payday Was Only a Start - Bloomberg.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxQaHVQY09SeTljc3RYblpFMjRGOGdhZklGNnJ5Z0czbWhvcC0wLU4tNjFxSU1Rckx3Z3FrRzNjczV3RklTbm1MU1dQZ1Mzb2pxWjl6d1hjRTVTTFdydVFvaWE5VWZ4d3ZMdW9yZnhUNkdGWi15M3NRdlZyMUZfTmZFdkl5bjhKUkNPcXpGazVzTEZ5ZDZodVBmMXhGNXZ1ZS10Qmw0RHBGUUlkSWlJM3RsNHpBc1E?oc=5)**
-> <small>Bloomberg.com · 国际 · 23:00 · `可能需订阅`</small>
-> Morgan Stanley’s $100 Million SpaceX IPO Payday Was Only a Start Bloomberg.com
->
-> **10. [货币政策、汇率、金融开放、人民币国际化，潘功胜释放四大重磅信号 - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBUQld1bkxkdGg4M012b2JsUnpjdW15ZHE1dXJoN0ZxQ0lsVjMwUlJKOUNXNG5Yb01VeEFqNjlzVXJTY1VEMFFyUWtMektqS3lRYmNN?oc=5)**
-> <small>第一财经 · 国内 · 11:38</small>
-> 货币政策、汇率、金融开放、人民币国际化，潘功胜释放四大重磅信号 第一财经
+> **10. [央行将在7月末8月初开展多次隔夜逆回购操作 - 证券时报](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1aMGhadElqbThjdG8wblM0c2g5RnA1eTNZQk1zXzVreE1yT0lNZDExU24wUjdHQVhJclNfYzBSRU54VE9QREU5Tlh0aTlSbnc3Z01pYkE5OGk2OFhQ?oc=5)**
+> <small>证券时报 · 国内 · 19:22</small>
+> 央行将在7月末8月初开展多次隔夜逆回购操作 证券时报
 >
 
 > [!example] 科技 / AI
@@ -60,37 +60,37 @@
 > <small>MIT Technology Review · 国际 · 20:00</small>
 > Designing and developing a new medicine is an expensive, failure-prone scientific challenge. A new drug can take many years to develop, at the cost of a significant investment. And even then, most possible candidates never reach the patien…
 >
-> **3. [监管如何影响AI发展：Robotaxi的案例 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBGd0NKdkhtendNNEx5WkV2YjlmbWw2T2lpbkpudEpaQjNEQ2xxTVhGdHZJU08tbVAtN29wUXNGd2hRX2ROelo0YUV4SkMwN1lEZzZZOWRqa05tWHZJSXZ4bU1B?oc=5)**
+> **3. [OpenAI Models Go Rogue + Kimi K3 Freakout + A.I. Superforecasting](https://www.nytimes.com/2026/07/24/podcasts/hardfork-hugging-face-openai.html)**
+> <small>NYTimes Technology · 国际 · 19:00 · `可能需订阅`</small>
+> “The story that we’re talking about in this segment was science fiction until Tuesday, OK?”
+>
+> **4. [监管如何影响AI发展：Robotaxi的案例 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBGd0NKdkhtendNNEx5WkV2YjlmbWw2T2lpbkpudEpaQjNEQ2xxTVhGdHZJU08tbVAtN29wUXNGd2hRX2ROelo0YUV4SkMwN1lEZzZZOWRqa05tWHZJSXZ4bU1B?oc=5)**
 > <small>财新 · 国内 · 14:09</small>
 > 监管如何影响AI发展：Robotaxi的案例 财新
 >
-> **4. [How AI guardrails are impeding the work of offensive cybersecurity researchers](https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/)**
-> <small>TechCrunch · 国际 · 09:00</small>
-> We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work.
->
-> **5. [AMD takes on Nvidia with its Helios AI rack-scale system](https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/)**
-> <small>TechCrunch · 国际 · 04:33</small>
-> AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year.
->
-> **6. [OpenAI is making big claims as it rolls out ChatGPT Health to everyone](https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims)**
-> <small>The Verge · 国际 · 01:10</small>
-> OpenAI is rolling out ChatGPT Health to everyone in the US on Thursday, allowing more people to connect their medical records and health-tracking information to the chatbot. During a briefing, Ashley Alexander, OpenAI's vice president of h…
->
-> **7. [OpenAI Says Its A.I. Models Hacked Into Hugging Face, a Digital Library](https://www.nytimes.com/2026/07/21/technology/openai-attack-hugging-face.html)**
-> <small>NYTimes Technology · 国际 · 01:00 · `可能需订阅`</small>
-> The incident, which targeted the computer systems of another company called Hugging Face, happened while OpenAI was testing the systems.
->
-> **8. [Google Releases Three New Gemini A.I. Models](https://www.nytimes.com/2026/07/21/technology/google-ai-cybersecurity-gemini.html)**
-> <small>NYTimes Technology · 国际 · 03:38 · `可能需订阅`</small>
-> The models include one that is the company’s most powerful and another that is fine-tuned for cybersecurity, as Google competes with rivals like OpenAI and Anthropic.
->
-> **9. [网格智算：“不堆算力”的AI大脑如何填补林下场景空白 | 水下项目](https://36kr.com/p/3908027308823684?f=rss)**
+> **5. [报道称英伟达与SK集团共同推出价值超过5000亿美元的AI计划](https://36kr.com/newsflashes/3910374290707844?f=rss)**
 > <small>36氪 · 国内</small>
-> 从消费市场到工业赛道，一片“红海”的无人机市场早已挤满各路玩家，但仍有一块细分领域，即便行业头部厂商也鲜有布局——林下场景。 林下场景蕴藏的产业需求体量惊人：根据国家林草局数据，2025年我国森林蓄积量达209.88亿立方米，全国木材产量达1.4亿立方米；联合国粮农组织数据显示，全球圆木年采伐量约40亿立方米，这背后是伐区蓄积量核算、树木胸径测量等大量工作。 林下环境复杂，传统人工作业模式成本大、效率低且危险重重。虽然行业对自动化替代方案的呼声已久，但林下环境作为经典的拒止…
+> 据报道，英伟达表示，将协助海力士设计未来的高带宽内存芯片，此举将有助于确保内存供应。英伟达还表示，与SK集团合作的“人工智能计划”总价值将超过5000亿美元。黄仁勋在采访中表示，这个数字包括英伟达购买内存芯片的资金，以及SK集团购买英伟达超级计算机的资金。SK电讯计划使用英伟达Vera Rubin芯片和SK海力士HBM4内存构建2吉瓦AI数据中心。这大约相当于150万户家庭的用电量。（财联社）
 >
-> **10. [独家｜混元多模态理解负责人胡瀚离职创业，原团队或将聚焦世界模型](https://36kr.com/p/3907934819521670?f=rss)**
+> **6. [I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else](https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/)**
+> <small>TechCrunch · 国际 · 08:23</small>
+> OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it.
+>
+> **7. [Trump pledge on data center power supplies draws skepticism - Reuters](https://news.google.com/rss/articles/CBMirgFBVV95cUxQVkNCak9zQU9VZUdpN2FXOGJKUlFDSnFucV9vUjBwNl90Z1M3UU1ucFRQNVhTZ3pwS250ZHpETUdrM3JOcks3T2lYelM0NWFxaXRkNGxKOEpmYUNfTko0NnR2ZHNyeDI4djFWS1VUb2pFc05qLVI3V3dKOExzSjE4d3FFQVFsaEdqbVhXdjRiaUlQcHVjZDZpYU1sYnRIc2JtcEQwUXNjWUgxUWtleHc?oc=5)**
+> <small>Reuters · 国际 · 02:38</small>
+> Trump pledge on data center power supplies draws skepticism Reuters
+>
+> **8. [OpenAI’s own model went rogue before Kimi had Wall Street sweating](https://techcrunch.com/video/openais-own-model-went-rogue-before-kimi-had-wall-street-sweating/)**
+> <small>TechCrunch · 国际 · 00:50</small>
+> Chinese AI lab Moonshot’s open model Kimi went viral this week for reasons that had less to do with the model itself and more to do with how the U.S. AI industry reacted to it. Meanwhile, an unreleased OpenAI model wandered outside its tes…
+>
+> **9. [Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities](https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release)**
+> <small>The Verge · 国际 · 02:33</small>
+> Weeks after Anthropic's latest toe-to-toe with the US government, and days after an OpenAI security incident that dominated tech industry discussions, Anthropic on Thursday released its newest model, Claude Opus 5. The company said in a re…
+>
+> **10. [9点1氪｜宇树科技CEO王兴兴登上《时代》杂志封面；国家反诈中心App可一键检测AI生成痕迹；Claude Opus 5正式发布](https://36kr.com/p/3910351337821318?f=rss)**
 > <small>36氪 · 国内</small>
-> 文 | 周鑫雨 编辑 | 张雨忻 《智能涌现》独家获悉，近期，腾讯混元多模态理解负责人胡瀚提出了离职。 此前，他曾担任微软亚洲研究院视觉计算组首席研究员。2025 年初加入腾讯后，负责视觉大模型的研究。在后续的调整中，他加入大语言模型部旗下的“Frontier”前沿技术研究组，负责多模态理解的相关研究，汇报给姚顺雨。 据了解，胡瀚还曾承担世界模型的研发工作。 与此同时，腾讯大语言模型部负责人姚顺雨近期正在密集梳理旗下团队， 胡瀚此前所在的研究组或将聚焦世界模型的前沿研究 。…
+> 今日热点导览 小鹏主动召回3.35万辆X9，涉及前空气弹簧安全隐患 微信撤回消息后可删除提示字 怡颗莓莓果线下仍在售，公司称针对近期舆论正准备维权 菲尔兹奖得主雅各布·齐默曼将加入OpenAI 欧盟对谷歌处以8.9亿欧元罚款 TOP3大新闻 宇树科技CEO王兴兴登上《时代》杂志封面 当地时间7月23日，宇树科技创始人兼CEO王兴兴与其载人机甲产品GD01共同登上《时代》杂志封面，标题为《机器人时代来临》。 据悉，距上次中国企业家登上该刊物封面，已过去整整8年。 《时代》杂志…
 >
 
 > [!tip] 私募股权 / 投资市场
@@ -112,17 +112,17 @@
 > <small>Buyouts · 国际 · 04:36</small>
 > California pension with just shy of $1bn portfolio previously cited high fees and unimpressive risk-adjusted returns as reasons to skip private equity, but hears rationale for revisiting. decision from Callan
 >
-> **5. [Blackstone to sell battery storage developer Aypa Power to Brookfield in $7bn deal](https://www.pehub.com/blackstone-to-sell-battery-storage-developer-aypa-power-to-brookfield-in-7bn-deal/)**
-> <small>PE Hub · 国际 · 03:43</small>
-> According to the terms of the deal, Brookfield will acquire Aypa's operating, under-construction and contracted project portfolio, together with its development platform. The post Blackstone to sell battery storage developer Aypa Power to…
->
-> **6. [Matador Resources Company to acquire EnCap-backed Paloma Permian for nearly $1.3bn](https://www.pehub.com/matador-resources-company-to-acquire-encap-backed-paloma-permian-for-nearly-1-3bn/)**
-> <small>PE Hub · 国际 · 01:58</small>
-> Matador has also agreed to acquire primarily undeveloped acreage in what it believes to be the heart of the Woodford play in West Texas and Southeast New Mexico from Ridge Runner Resources, another portfolio company of EnCap. The post Mata…
->
-> **7. [独家｜前员工举报导致小红书上市受阻？小红书称目前IPO相关信息均不属实(含视频) - 财新](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1yQ0hIR3pzckJwUnNOcFdGSmliQm11N1c3ZkNweTN1UmJ0ZWZDdmszUG5UbEp1UGdfcjFUYjFFZk1QRmFWVm5lcmJrMm00VkczSjdWNDdfZWlxVnM2MHJoMFQ5RlJJM1k?oc=5)**
+> **5. [独家｜前员工举报导致小红书上市受阻？小红书称目前IPO相关信息均不属实(含视频) - 财新](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5mY2kzcDRBR2c3bnpqS1lKT2FIREdDQXRUN1dxam85dzk4QXlrS0dhaVJtc3hwaUFKM0FuNEFFazN5Z2Q1dzdOeHBGekR4cEtoX1NHSmR6NmNRLVln?oc=5)**
 > <small>财新 · 国内 · 10:53</small>
 > 独家｜前员工举报导致小红书上市受阻？小红书称目前IPO相关信息均不属实(含视频) 财新
+>
+> **6. [Harbinger takes minority ownership stake in MLB’s Athletics](https://www.pehub.com/harbinger-takes-minority-ownership-stake-in-mlbs-athletics/)**
+> <small>PE Hub · 国际 · 22:04</small>
+> The transaction is part of the club’s completed equity financing for construction of its new ballpark on the Las Vegas Strip. The post Harbinger takes minority ownership stake in MLB’s Athletics appeared first on PE Hub .
+>
+> **7. [Warburg, Great Point, Axcel bet on vet care; Knox Lane targets medical workforce tech amid staffing challenges in the sector](https://www.pehub.com/warburg-great-point-axcel-bet-on-vet-care-knox-lane-targets-medical-workforce-tech-amid-staffing-challenges-in-the-sector/)**
+> <small>PE Hub · 国际 · 21:56</small>
+> With pets living longer, age-related diseases are driving demand for veterinary care services – and private equity investors have taken note; a look at Knox Lane’s $400 million+ deal involving a medical workforce technology company. The po…
 >
 > **8. [蚂蚁国际完成约12亿美元A轮融资 蚂蚁集团、阿里集团等参与 - 财新](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBpUTFQd0czU0Y0WGFZVzZienFRNUlMMXktemNEWmdHMDRfQmdxdGs5cFZ6Ymg4UzY1RktuQWlQcEFtM0JHVU0zNV8xUENGRjFvS21ITXUyNk5uOEktUzJMOTZSUmw?oc=5)**
 > <small>财新 · 国内 · 13:04</small>
@@ -132,9 +132,9 @@
 > <small>清科研究 · 国内 · 08:37</small>
 > 今年排队IPO 清科研究
 >
-> **10. [史河机器人完成C轮数亿元融资，中际控股领投 - 投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTFB5NlNiVmRPZlFFbHBCYWM0TkYxRkMtOUItWVV4WXlyeVp6dXdjWi1PNzhvRHRYWlpGTlRETTZtYTc3TTd0LWo4NkhOaFZkUVVSR0dYSVRn?oc=5)**
-> <small>投资界 · 国内 · 10:10</small>
-> 史河机器人完成C轮数亿元融资，中际控股领投 投资界
+> **10. [「天鹜科技」完成数亿元A++轮融资，推进AI驱动蛋白质研发平台建设 - 投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9NcWttcEYxVEtEWlNkQ0RBc3ppeUllcHcyUUhlU0VBVE9yUUotVEFQb0h6X19DdUtxQzVqTVdQUU8yYkJqd0l6R2RUTTAyYjdZUGkyNFd3?oc=5)**
+> <small>投资界 · 国内 · 15:00</small>
+> 「天鹜科技」完成数亿元A++轮融资，推进AI驱动蛋白质研发平台建设 投资界
 >
 
 #daily-news
