@@ -20,29 +20,29 @@
 > <small>Reuters · 国际 · 18:27</small>
 > Chinese robot maker AgiBot starts Hong Kong IPO process, Securities Times reports Reuters
 >
-> **4. [市场化并购：破解A股“进出失衡”困局 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE40TmVSOFJNLWl5dnZ0eUNJOGhKSjRGUXRndklBb3pvaGxXSGstYUR2VkhXekZGU3owVDVlR3lsYWtDQTFFUk9rdmVBWUJEQTFqUkV2MGZ0cjRkQW9nWC1LenNn?oc=5)**
-> <small>财新 · 国内 · 13:25</small>
-> 市场化并购：破解A股“进出失衡”困局 财新
+> **4. [搭建多方对话平台 共探创业板改革发展新机遇——证券时报创业板IPO实务座谈会在深举办 - 证券时报](https://news.google.com/rss/articles/CBMiXEFVX3lxTE14WW5rSkNGTW1iUTg2LXVlMVE1MDZSM0ZzM0ZKci1Wam1OWFZrbVFzSGdVcHVSZWlaajljR3NndFlCbkpUU0h3NFoxYnMwTHZ1eFF0VU5DTTZRLXlF?oc=5)**
+> <small>证券时报 · 国内 · 23:27</small>
+> 搭建多方对话平台 共探创业板改革发展新机遇——证券时报创业板IPO实务座谈会在深举办 证券时报
 >
-> **5. [独家｜前员工举报导致小红书上市受阻？小红书称目前IPO相关信息均不属实(含视频) - 财新](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5mY2kzcDRBR2c3bnpqS1lKT2FIREdDQXRUN1dxam85dzk4QXlrS0dhaVJtc3hwaUFKM0FuNEFFazN5Z2Q1dzdOeHBGekR4cEtoX1NHSmR6NmNRLVln?oc=5)**
-> <small>财新 · 国内 · 10:53</small>
-> 独家｜前员工举报导致小红书上市受阻？小红书称目前IPO相关信息均不属实(含视频) 财新
+> **5. [前证监会副主席再落马 海归高官方星海其人其事 - 财新](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1XSW5Ib1QwNnBoS1kxQTI1YnJkcGJ4QlhqNkJQRFhjS2VaVnVHT284V2NHdEt5UkxUVWRDSHh2VXQ2MTMtSURSdFpVOGdGM3VNQ3lTcGQwVWkyQ3ZtSmptWQ?oc=5)**
+> <small>财新 · 国内 · 11:15</small>
+> 前证监会副主席再落马 海归高官方星海其人其事 财新
 >
 > **6. [Brent Crude Oil Prices Top $100 as Conflict With Iran Drags On](https://www.nytimes.com/2026/07/24/business/oil-prices-global-stocks-shipping.html)**
 > <small>NYTimes Business · 国际 · 04:03 · `可能需订阅`</small>
 > Stocks in Asia were down following a sell-off in the U.S. markets over soaring oil prices, rising borrowing costs and worries about the technology industry.
 >
-> **7. [Hedge funds grow at fastest rate in history as AI boom lifts markets - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNb2NOWGx4dVZTYUNheHF3a1hWSU4wZVRLR0VKUXNieHo4RkxkZDEyaXZoSk9DcnREVkdVdmNldWFCNVdEVl9TbXhkTzJaSHpRakV6RmVfaTNiOWlkX3V4LThnU1J3enFNdHY4WnliT1ZTQmpLY1Z5Z1lpMTM3OUV6Wk5OR0I?oc=5)**
+> **7. [长鑫科技“敲锣”前日 A股连续三日缩量 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE05aFdXNzlWdTloR20xRUlMM0xqTFZ4ME5fMTUzTndXQlpKbU5oclMwTXRtWjNoUm9HZmlfN3lMOVVSOVdWMVpONVpONlctVThGbG9RMDBpczYtSGlabWdsUnBn?oc=5)**
+> <small>财新 · 国内 · 20:43</small>
+> 长鑫科技“敲锣”前日 A股连续三日缩量 财新
+>
+> **8. [Hedge funds grow at fastest rate in history as AI boom lifts markets - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNb2NOWGx4dVZTYUNheHF3a1hWSU4wZVRLR0VKUXNieHo4RkxkZDEyaXZoSk9DcnREVkdVdmNldWFCNVdEVl9TbXhkTzJaSHpRakV6RmVfaTNiOWlkX3V4LThnU1J3enFNdHY4WnliT1ZTQmpLY1Z5Z1lpMTM3OUV6Wk5OR0I?oc=5)**
 > <small>Financial Times · 国际 · 23:44 · `可能需订阅`</small>
 > Hedge funds grow at fastest rate in history as AI boom lifts markets Financial Times
 >
-> **8. [Stocks and the Economy Are Increasingly Relying on the A.I. Boom](https://www.nytimes.com/2026/07/22/business/economy/stocks-economy-ai.html)**
+> **9. [Stocks and the Economy Are Increasingly Relying on the A.I. Boom](https://www.nytimes.com/2026/07/22/business/economy/stocks-economy-ai.html)**
 > <small>NYTimes Business · 国际 · 23:46 · `可能需订阅`</small>
 > Investment in artificial intelligence and related companies is lifting the stock market and spending across the economy.
->
-> **9. [证监会：坚决维护资本市场平稳健康运行，欢迎国际机构投资者扩大对华投资 - 证券时报](https://news.google.com/rss/articles/CBMiXkFVX3lxTE8tYjc3bnRXd0JCT0pyb0kwSzNaXzlXYUg4cVFxc1dycXRVNHRXS1o5eHJFTVptTnFyVHNTZnA2b0NDRGRwVzRPUWM5YzdtY2R2ZDUtdkZyOUNfUjRfc3c?oc=5)**
-> <small>证券时报 · 国内 · 17:40</small>
-> 证监会：坚决维护资本市场平稳健康运行，欢迎国际机构投资者扩大对华投资 证券时报
 >
 > **10. [央行将在7月末8月初开展多次隔夜逆回购操作 - 证券时报](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1aMGhadElqbThjdG8wblM0c2g5RnA1eTNZQk1zXzVreE1yT0lNZDExU24wUjdHQVhJclNfYzBSRU54VE9QREU5Tlh0aTlSbnc3Z01pYkE5OGk2OFhQ?oc=5)**
 > <small>证券时报 · 国内 · 19:22</small>
@@ -50,7 +50,7 @@
 >
 
 > [!example] 科技 / AI
-> 10/10 · 国内 3 / 国际 7
+> 10/10 · 国内 4 / 国际 6
 >
 > **1. [Advancing next-gen AI with materials science innovation](https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/)**
 > <small>MIT Technology Review · 国际 · 18:37</small>
@@ -64,33 +64,33 @@
 > <small>NYTimes Technology · 国际 · 19:00 · `可能需订阅`</small>
 > “The story that we’re talking about in this segment was science fiction until Tuesday, OK?”
 >
-> **4. [监管如何影响AI发展：Robotaxi的案例 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBGd0NKdkhtendNNEx5WkV2YjlmbWw2T2lpbkpudEpaQjNEQ2xxTVhGdHZJU08tbVAtN29wUXNGd2hRX2ROelo0YUV4SkMwN1lEZzZZOWRqa05tWHZJSXZ4bU1B?oc=5)**
+> **4. [印尼向中企推介数据中心投资机遇 东南亚算力扩容提速｜出海·投资 - 财新](https://news.google.com/rss/articles/CBMiZEFVX3lxTFA3NHpwcGNJOUJLQUJSN0NQbGw2QzFldy1SVjRCTnBrTjlJcjBrcnFwWEJnODRzNy1xMXBYRG9fTWxFbHlqdmt1U1JrZ0Zwdlg0OEdXa1k4STFVdWtPUG9VVUxnOFo?oc=5)**
+> <small>财新 · 国内 · 21:30</small>
+> 印尼向中企推介数据中心投资机遇 东南亚算力扩容提速｜出海·投资 财新
+>
+> **5. [监管如何影响AI发展：Robotaxi的案例 - 财新](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9vODJWb3c5emRuNlhrX0Y0OWJFNWVQS3Y4eWpmbjZ3RHVwSXdQc3FJQXRMX25UTlpjLUtzVFpCUDRxc1lPQmpVbnlZbklKX1hmRW1pTENOQ1JnRFRIWFF6Y3RXank?oc=5)**
 > <small>财新 · 国内 · 14:09</small>
 > 监管如何影响AI发展：Robotaxi的案例 财新
 >
-> **5. [报道称英伟达与SK集团共同推出价值超过5000亿美元的AI计划](https://36kr.com/newsflashes/3910374290707844?f=rss)**
-> <small>36氪 · 国内</small>
-> 据报道，英伟达表示，将协助海力士设计未来的高带宽内存芯片，此举将有助于确保内存供应。英伟达还表示，与SK集团合作的“人工智能计划”总价值将超过5000亿美元。黄仁勋在采访中表示，这个数字包括英伟达购买内存芯片的资金，以及SK集团购买英伟达超级计算机的资金。SK电讯计划使用英伟达Vera Rubin芯片和SK海力士HBM4内存构建2吉瓦AI数据中心。这大约相当于150万户家庭的用电量。（财联社）
+> **6. [Nvidia and Palantir urge US not to ban ‘open’ AI models after China scare - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxOU2FyWGg1ZUJWeDUxVHUwQThYaWdrRng5M2poTEU0a2tfSGdJd0NwTnROQWFuTTNtTk5qcmNkbFB4NjJMYzhRR1NKWkd3aHh0blRIVFhibk1yN1VBenAxMVI0WjcxZDNEVDMzSDFuUmt2c2JqY0RQbjBZM3AxZDVMeEwxRG0?oc=5)**
+> <small>Financial Times · 国际 · 23:20 · `可能需订阅`</small>
+> Nvidia and Palantir urge US not to ban ‘open’ AI models after China scare Financial Times
 >
-> **6. [I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else](https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/)**
+> **7. [One fallen power line exposed a growing AI data center problem. Here’s how to fix it.](https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/)**
+> <small>TechCrunch · 国际 · 21:05</small>
+> A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem.
+>
+> **8. [I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else](https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/)**
 > <small>TechCrunch · 国际 · 08:23</small>
 > OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it.
 >
-> **7. [Trump pledge on data center power supplies draws skepticism - Reuters](https://news.google.com/rss/articles/CBMirgFBVV95cUxQVkNCak9zQU9VZUdpN2FXOGJKUlFDSnFucV9vUjBwNl90Z1M3UU1ucFRQNVhTZ3pwS250ZHpETUdrM3JOcks3T2lYelM0NWFxaXRkNGxKOEpmYUNfTko0NnR2ZHNyeDI4djFWS1VUb2pFc05qLVI3V3dKOExzSjE4d3FFQVFsaEdqbVhXdjRiaUlQcHVjZDZpYU1sYnRIc2JtcEQwUXNjWUgxUWtleHc?oc=5)**
-> <small>Reuters · 国际 · 02:38</small>
-> Trump pledge on data center power supplies draws skepticism Reuters
->
-> **8. [OpenAI’s own model went rogue before Kimi had Wall Street sweating](https://techcrunch.com/video/openais-own-model-went-rogue-before-kimi-had-wall-street-sweating/)**
-> <small>TechCrunch · 国际 · 00:50</small>
-> Chinese AI lab Moonshot’s open model Kimi went viral this week for reasons that had less to do with the model itself and more to do with how the U.S. AI industry reacted to it. Meanwhile, an unreleased OpenAI model wandered outside its tes…
->
-> **9. [Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities](https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release)**
-> <small>The Verge · 国际 · 02:33</small>
-> Weeks after Anthropic's latest toe-to-toe with the US government, and days after an OpenAI security incident that dominated tech industry discussions, Anthropic on Thursday released its newest model, Claude Opus 5. The company said in a re…
->
-> **10. [9点1氪｜宇树科技CEO王兴兴登上《时代》杂志封面；国家反诈中心App可一键检测AI生成痕迹；Claude Opus 5正式发布](https://36kr.com/p/3910351337821318?f=rss)**
+> **9. [9点1氪｜宇树科技CEO王兴兴登上《时代》杂志封面；国家反诈中心App可一键检测AI生成痕迹；Claude Opus 5正式发布](https://36kr.com/p/3910351337821318?f=rss)**
 > <small>36氪 · 国内</small>
 > 今日热点导览 小鹏主动召回3.35万辆X9，涉及前空气弹簧安全隐患 微信撤回消息后可删除提示字 怡颗莓莓果线下仍在售，公司称针对近期舆论正准备维权 菲尔兹奖得主雅各布·齐默曼将加入OpenAI 欧盟对谷歌处以8.9亿欧元罚款 TOP3大新闻 宇树科技CEO王兴兴登上《时代》杂志封面 当地时间7月23日，宇树科技创始人兼CEO王兴兴与其载人机甲产品GD01共同登上《时代》杂志封面，标题为《机器人时代来临》。 据悉，距上次中国企业家登上该刊物封面，已过去整整8年。 《时代》杂志…
+>
+> **10. [DeepSeek不是理想主义公司，它只是把现实服务于理想](https://36kr.com/p/3909084356433025?f=rss)**
+> <small>36氪 · 国内</small>
+> DeepSeek的答案，不是只仰望星空，也不是只脚踏实地，而是用现实问题去支撑一个足够远的目标。 撰文 | 李嘉星 刘辰艺 编辑 | 张薇 头图来源 | DeepSeek 封面来源 | DeepSeek DeepSeek又一次被推到聚光灯下。 这家公司一度几乎是AI圈最神秘的存在：工程师文化、低调，创始人很少公开露面，团队也不像典型互联网公司那样频繁讲故事、做传播。但过去一年，它几乎每隔一段时间就会成为中文科技圈的中心。模型发布时，它因为低成本和开源刷屏；融资消息传出时，它…
 >
 
 > [!tip] 私募股权 / 投资市场
@@ -128,13 +128,13 @@
 > <small>财新 · 国内 · 13:04</small>
 > 蚂蚁国际完成约12亿美元A轮融资 蚂蚁集团、阿里集团等参与 财新
 >
-> **9. [今年排队IPO - 清科研究](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9hRVBEejhqRW9Yb1d5RmFJbk1nNFljQldJV0VCZF8zc3hQNVRDZEtJVmFhMUo4TkVBTGNWb2xsS0RaZWxoSzVhcWg0MVdKalZjcW5xclpjdV9JSUk?oc=5)**
-> <small>清科研究 · 国内 · 08:37</small>
-> 今年排队IPO 清科研究
+> **9. [黑蚁资本美元二期基金完成最终募集，规模达2.25亿美元；多家上市公司联袂出手，砺思资本4.23亿新基金落子数字科技丨07.13-07.19 - 创业邦](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5TdFhzdVQwRldRcWRjam1vSm5jNmluWmRCamZwSFNzMnZYOVBDZUJUS3NMZGR4WmNNa2Jkb0xXdDBuM1FPc0xMdTg2TlZlTXpQ?oc=5)**
+> <small>创业邦 · 国内 · 06:06</small>
+> 黑蚁资本美元二期基金完成最终募集，规模达2.25亿美元；多家上市公司联袂出手，砺思资本4.23亿新基金落子数字科技丨07.13-07.19 创业邦
 >
-> **10. [「天鹜科技」完成数亿元A++轮融资，推进AI驱动蛋白质研发平台建设 - 投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9NcWttcEYxVEtEWlNkQ0RBc3ppeUllcHcyUUhlU0VBVE9yUUotVEFQb0h6X19DdUtxQzVqTVdQUU8yYkJqd0l6R2RUTTAyYjdZUGkyNFd3?oc=5)**
-> <small>投资界 · 国内 · 15:00</small>
-> 「天鹜科技」完成数亿元A++轮融资，推进AI驱动蛋白质研发平台建设 投资界
+> **10. [今年排队IPO - 投资界](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9hRVBEejhqRW9Yb1d5RmFJbk1nNFljQldJV0VCZF8zc3hQNVRDZEtJVmFhMUo4TkVBTGNWb2xsS0RaZWxoSzVhcWg0MVdKalZjcW5xclpjdV9JSUk?oc=5)**
+> <small>投资界 · 国内 · 08:37</small>
+> 今年排队IPO 投资界
 >
 
 #daily-news
