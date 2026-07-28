@@ -20,15 +20,15 @@
 > <small>CNBC Finance · 国际 · 01:22</small>
 > Anthropic is lining up investor meetings ahead of a potential IPO as soon as October as the AI startup behind looks to beat rival OpenAI to the public markets.
 >
-> **4. [Chinese robot maker AgiBot starts Hong Kong IPO process, Securities Times reports - Reuters](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSjQ0Zk8tUndkOW9EZTRxNXJINEZudEJKVU9oZ25oM2M4LUQwVDNkWXdfNTZ5M3hUSWVHdjVXWlZHeEgydWFPdDJDWnFla0ZJS1BnQmhua3pyaFAtbzNuZFluWTBBYXNuX0d6ZVVRdllUeWdxaWpmN2xGXy1oMGFXOVI2dmlLN1JsdnF1Q1RCSjd1VUNrZmh1X2hmZmttaU9aS0dORDRnOXhoTUlKM2RaM3RpcDg4RGVRdURVODlCNEhlcGxrWEZ3bjRaaU1icnAw?oc=5)**
-> <small>Reuters · 国际 · 18:27</small>
-> Chinese robot maker AgiBot starts Hong Kong IPO process, Securities Times reports Reuters
+> **4. [能源内参｜宁德时代抛出A股史上最大单次回购注销方案上限400亿元；工信部现场检查埃安和小鹏汽车行业监督检查或将常态化 - 财新](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5FLXpwSnNlVHRDeGZ1dklDdXpHTGVYU1NQMFFSdUI1Nmc5N2JEUUlLU0RSX2U1ZmtEYWpudldmaGdQVmRIRmhSd2EyTVpRUHZEQ0JleWdNQVFENlRKYmQ2UTV5eEVOcDQ?oc=5)**
+> <small>财新 · 国内 · 10:11</small>
+> 能源内参｜宁德时代抛出A股史上最大单次回购注销方案上限400亿元；工信部现场检查埃安和小鹏汽车行业监督检查或将常态化 财新
 >
 > **5. [Will the Fed raise interest rates at Kevin Warsh’s second meeting? - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxQRnJNNkc3d1Y0WURBNWxORl95eVRjVkpxcmJ3MzZpZlMzR29oVjBCby1XQndiTVpXbDl3VFVBVmQwOElHR19XOG12aF82OWpfRUlOLUVHQWUzZ1l4NDlhMmtEVnVwVWJGM0c4c2MwaEhlVjNiRDB6UEFaNmQyWG5GM3NBRnU?oc=5)**
 > <small>Financial Times · 国际 · 19:00 · `可能需订阅`</small>
 > Will the Fed raise interest rates at Kevin Warsh’s second meeting? Financial Times
 >
-> **6. [宁德时代抛出A股史上最大单次回购注销方案 上限400亿元 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5fd082T2FzdWhHX1lWbmE4N1B3SzhzZ2pXcTdyd1RHTEgzdkloVndlSlpER1N0Smw1VUkxRXFlNjdQcjdwTklTWFJPdWF0dEIzVWZWS1VNajZRazdiR1NKZjFR?oc=5)**
+> **6. [宁德时代抛出A股史上最大单次回购注销方案 上限400亿元 - 财新](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBKS3BZbGVyeVVpMWN5ZlFEZ1dLQUVRdVc4Qmh3ZV80aktYbkxIbzdrYjkxOEVKWDMxMjlFYmppNF92NG5vMGhYQkU4ZnlGMjlocnltT0JYMkhEazRXS3ZpdDJCbkY?oc=5)**
 > <small>财新 · 国内 · 11:41</small>
 > 宁德时代抛出A股史上最大单次回购注销方案 上限400亿元 财新
 >
@@ -36,61 +36,61 @@
 > <small>财新周刊 · 国内 · 23:07 · `可能需订阅`</small>
 > {{最新周刊导播｜机器人扎堆IPO、免费旅游骗走109亿元、24元化疗药炒到千元 财新周刊
 >
-> **8. [证监会前副主席再落马 海归高官方星海其人其事 - 财新](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1XSW5Ib1QwNnBoS1kxQTI1YnJkcGJ4QlhqNkJQRFhjS2VaVnVHT284V2NHdEt5UkxUVWRDSHh2VXQ2MTMtSURSdFpVOGdGM3VNQ3lTcGQwVWkyQ3ZtSmptWQ?oc=5)**
-> <small>财新 · 国内 · 11:15</small>
-> 证监会前副主席再落马 海归高官方星海其人其事 财新
->
-> **9. [Brent Crude Oil Prices Top $100 as Conflict With Iran Drags On](https://www.nytimes.com/2026/07/24/business/oil-prices-global-stocks-shipping.html)**
+> **8. [Brent Crude Oil Prices Top $100 as Conflict With Iran Drags On](https://www.nytimes.com/2026/07/24/business/oil-prices-global-stocks-shipping.html)**
 > <small>NYTimes Business · 国际 · 04:03 · `可能需订阅`</small>
 > Stocks in Asia were down following a sell-off in the U.S. markets over soaring oil prices, rising borrowing costs and worries about the technology industry.
 >
-> **10. [欧英央行按兵不动，中东局势逆转降息预期 - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9uSWIyVjhOVUQtenRVdW0wSF9TS183NE45UWZCaUU3RGRJbmVOdVRfMzV6Qk9Ea3JfX0hQYjkybDRZOC1SM1A3anRqRDJablZVYWJF?oc=5)**
-> <small>第一财经 · 国内 · 11:27</small>
-> 欧英央行按兵不动，中东局势逆转降息预期 第一财经
+> **9. [CXMT’s roaring IPO isn’t the bubble signal it might appear - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxPUVdhcFBVWUR0NjRkbHZTc05xSVBWMHNmM0dJSnJpenpvMUVpWUFocFZJUE1mSzB1UTF0S3NjaHVxTllmbVhRR1Z0UnA4VUNQN1ZBajY1SXpiRnFFckRZOUVJOV8xS2FJYWdxSkg4WG1vVE9SMnBwVU5GTVRsR3JjTGkyZlg?oc=5)**
+> <small>Financial Times · 国际 · 02:19 · `可能需订阅`</small>
+> CXMT’s roaring IPO isn’t the bubble signal it might appear Financial Times
+>
+> **10. [2.1万亿隔夜逆回购护航跨月，央行“给量不给价”释放清晰信号 - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9hQ1NTLXA2S1ZwX3hDTWFPNGIwUTkxdHJWbThWcFM2S0hNT1FFLThXYm5mLVQ3Y3djNXRwRzZTYTllWjhDZGRJTzJuQ2xNbHlqdzJv?oc=5)**
+> <small>第一财经 · 国内 · 21:14</small>
+> 2.1万亿隔夜逆回购护航跨月，央行“给量不给价”释放清晰信号 第一财经
 >
 
 > [!example] 科技 / AI
-> 10/10 · 国内 5 / 国际 5
+> 10/10 · 国内 4 / 国际 6
 >
-> **1. [Advancing next-gen AI with materials science innovation](https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/)**
-> <small>MIT Technology Review · 国际 · 18:37</small>
-> The conversation about AI often centers on algorithms, computing power, or huge investments in new semiconductor fabrication plants and hyperscale data centers. But beneath each of these advances is another layer of innovation that makes t…
+> **1. [OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.](https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/)**
+> <small>MIT Technology Review · 国际 · 02:00</small>
+> This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Reading OpenAI’s account last week of how some of its models broke their containment and hacked into…
 >
-> **2. [How AI helps scientists design the next generation of medicines](https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/)**
+> **2. [The path to artificial superintelligence](https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/)**
 > <small>MIT Technology Review · 国际 · 20:00</small>
-> Designing and developing a new medicine is an expensive, failure-prone scientific challenge. A new drug can take many years to develop, at the cost of a significant investment. And even then, most possible candidates never reach the patien…
+> Imagine a healthcare system made up of multiple AI agents: one that manages symptom assessment, another scheduling, a third insurance, and a fourth pharmacy. Each is an expert in its domain. But they all have their own distinct knowledge a…
 >
 > **3. [OpenAI Models Go Rogue + Kimi K3 Freakout + A.I. Superforecasting](https://www.nytimes.com/2026/07/24/podcasts/hardfork-hugging-face-openai.html)**
 > <small>NYTimes Technology · 国际 · 19:00 · `可能需订阅`</small>
 > “The story that we’re talking about in this segment was science fiction until Tuesday, OK?”
 >
-> **4. [印尼向中企推介数据中心投资机遇 东南亚算力扩容提速｜出海·投资 - 财新](https://news.google.com/rss/articles/CBMiZEFVX3lxTFA3NHpwcGNJOUJLQUJSN0NQbGw2QzFldy1SVjRCTnBrTjlJcjBrcnFwWEJnODRzNy1xMXBYRG9fTWxFbHlqdmt1U1JrZ0Zwdlg0OEdXa1k4STFVdWtPUG9VVUxnOFo?oc=5)**
-> <small>财新 · 国内 · 21:30</small>
-> 印尼向中企推介数据中心投资机遇 东南亚算力扩容提速｜出海·投资 财新
+> **4. [OpenAI Close to Landing $500 Billion Data Center With Backing From Nvidia](https://www.nytimes.com/2026/07/27/technology/openai-data-center-nvidia.html)**
+> <small>NYTimes Technology · 国际 · 09:38 · `可能需订阅`</small>
+> The chipmaking giant is in talks with OpenAI to provide a $250 billion financial backstop for the project, which would be among the largest of the A.I. boom.
 >
-> **5. [监管如何影响AI发展：Robotaxi的案例 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBGd0NKdkhtendNNEx5WkV2YjlmbWw2T2lpbkpudEpaQjNEQ2xxTVhGdHZJU08tbVAtN29wUXNGd2hRX2ROelo0YUV4SkMwN1lEZzZZOWRqa05tWHZJSXZ4bU1B?oc=5)**
-> <small>财新 · 国内 · 14:09</small>
-> 监管如何影响AI发展：Robotaxi的案例 财新
->
-> **6. [“智谷天厨”获招商局创投领投近亿元融资](https://36kr.com/newsflashes/3913265576891783?f=rss)**
+> **5. [阿里云真武超节点适配Kimi K3](https://36kr.com/newsflashes/3914601205011587?f=rss)**
 > <small>36氪 · 国内</small>
-> 近日，智能烹饪机器人企业“智谷天厨”官宣完成新一轮近亿元战略融资。本轮融资由招商局创投领投，跃迁资本跟投，云启资本、啟赋资本等老股东超额追投。融资完成后，公司将持续推进物理 AI 研发，并加速中式及泛亚洲餐饮的全球化落地。
+> 36氪获悉，据阿里云消息，阿里云真武M890超节点实例已Day0适配Kimi K3，这是国内首个跑通近3万亿参数模型的超节点。双方将进一步展开国产算力合作，千问AI平台和阿里云百炼也将提供Kimi K3的模型API。
 >
-> **7. [Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack](https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/)**
-> <small>TechCrunch · 国际 · 00:33</small>
-> "The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!"
+> **6. [凯文·凯利对话中国科学家：中国真正的挑战，不是人工智能，是原创性 - 财新](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9oaWpxU0JvdkZhN2t3MFdDOXNfdWFlR1BVamtRUFNqbUlTZndobnVhSnJuX0RhNEtPeTQ1YnVwZHhPVzVWMlF3VFpXa3VaTm0tQjM5dmxsWGJnWWRlRzJDcw?oc=5)**
+> <small>财新 · 国内 · 08:33</small>
+> 凯文·凯利对话中国科学家：中国真正的挑战，不是人工智能，是原创性 财新
 >
-> **8. [One fallen power line exposed a growing AI data center problem. Here’s how to fix it.](https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/)**
-> <small>TechCrunch · 国际 · 21:05</small>
-> A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem.
+> **7. [Anthropic发新模型Opus 5 性能接近Fable 5价格砍半 - 财新](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB0LXhqam9tNjdFYl9TSnJkWURGVktzcVFCTWJsWERVVmZpTnowSFR0MFhqQ19sQmNjZTJqY1RMVFFabTBDVVRPMEhxRUZ1SkZqaDd1bDlVWml5d1plM1Y1MWpZdFc5MWs?oc=5)**
+> <small>财新 · 国内 · 16:04</small>
+> Anthropic发新模型Opus 5 性能接近Fable 5价格砍半 财新
 >
-> **9. [9点1氪｜宇树科技CEO王兴兴登上《时代》杂志封面；国家反诈中心App可一键检测AI生成痕迹；Claude Opus 5正式发布](https://36kr.com/p/3910351337821318?f=rss)**
+> **8. [OpenAI’s Hugging Face breach has reignited the debate over alignment and control](https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/)**
+> <small>TechCrunch · 国际 · 01:28</small>
+> OpenAI's Hugging Face breach has reignited debate over AI alignment and control, exposing competing views on whether increasingly capable AI should be better aligned, better contained, or both.
+>
+> **9. [Ilya Sutskever’s Safe Superintelligence partners with Nvidia to scale its AI research](https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/)**
+> <small>TechCrunch · 国际 · 23:01</small>
+> After two years in stealth, Safe Superintelligence has announced a long-term partnership with Nvidia as it prepares to scale to its next phase.
+>
+> **10. [“德塔智能”完成近5亿元天使++轮融资](https://36kr.com/newsflashes/3914610310927746?f=rss)**
 > <small>36氪 · 国内</small>
-> 今日热点导览 小鹏主动召回3.35万辆X9，涉及前空气弹簧安全隐患 微信撤回消息后可删除提示字 怡颗莓莓果线下仍在售，公司称针对近期舆论正准备维权 菲尔兹奖得主雅各布·齐默曼将加入OpenAI 欧盟对谷歌处以8.9亿欧元罚款 TOP3大新闻 宇树科技CEO王兴兴登上《时代》杂志封面 当地时间7月23日，宇树科技创始人兼CEO王兴兴与其载人机甲产品GD01共同登上《时代》杂志封面，标题为《机器人时代来临》。 据悉，距上次中国企业家登上该刊物封面，已过去整整8年。 《时代》杂志…
->
-> **10. [财新观察｜完善人工智能规则 - 财新周刊](https://news.google.com/rss/articles/CBMiYEFVX3lxTE4wbEpwaFRMVnFHLUxzVFZOU2FsbGlVWXhlczNPMlJKWTN5SjBXWWs5VGZYbHk4YjIxRmJHeGNjU29rYzJjZXdKY0dfSVc1R1EwV3BSSFcxZllnd2J2bDlzeQ?oc=5)**
-> <small>财新周刊 · 国内 · 12:09 · `可能需订阅`</small>
-> 财新观察｜完善人工智能规则 财新周刊
+> 36氪获悉，人形机器人基础模型公司“德塔智能”近日完成近5亿元天使++轮融资，本轮投资方包括多家上市公司产业方和财务投资机构。资金将主要用于人形机器人基础模型持续迭代，加快自研数采设备的量产与数据闭环建设，扩充核心研发团队，以推动技术在真实工业场景中的工程化落地与验证。
 >
 
 > [!tip] 私募股权 / 投资市场
@@ -100,9 +100,9 @@
 > <small>Private Equity International · 国际 · 21:00</small>
 > How rainmakers have fared across private markets in H1 2026; redemption-gate exposes a structural weakness in evergreens; a $29bn pension is cutting back on buyouts.
 >
-> **2. [When stratospheric net worth meets LP-GP alignment](https://www.privateequityinternational.com/when-stratospheric-net-worth-meets-lp-gp-alignment/)**
-> <small>Private Equity International · 国际 · 03:08</small>
-> What happens to incentivisation structures when a potential carry payout represents a mere drop in the ocean of an investment executive's net worth?
+> **2. [Side Letter: The cost of ‘democratisation’](https://www.privateequityinternational.com/side-letter-the-cost-of-democratisation/)**
+> <small>Private Equity International · 国际 · 19:13</small>
+> In today's edition, GPs seeking new sources of LP capital could face a cost conundrum; What GTCR's fundraise tells us about the state of DPI; Blackstone hits $14 billion for its latest secondaries flagship.
 >
 > **3. [Allianz GI PE head departs for 26North](https://www.buyoutsinsider.com/allianz-gi-pe-head-departs-for-26north/)**
 > <small>Buyouts · 国际 · 04:30</small>
@@ -112,29 +112,29 @@
 > <small>Buyouts · 国际 · 04:36</small>
 > California pension with just shy of $1bn portfolio previously cited high fees and unimpressive risk-adjusted returns as reasons to skip private equity, but hears rationale for revisiting. decision from Callan
 >
-> **5. [Harbinger takes minority ownership stake in MLB’s Athletics](https://www.pehub.com/harbinger-takes-minority-ownership-stake-in-mlbs-athletics/)**
-> <small>PE Hub · 国际 · 22:04</small>
-> The transaction is part of the club’s completed equity financing for construction of its new ballpark on the Las Vegas Strip. The post Harbinger takes minority ownership stake in MLB’s Athletics appeared first on PE Hub .
+> **5. [Arlington exits medical equipment company Riverpoint to Novanta in $1.45bn deal; Capitol Meridian and Industrial Growth among latest aerospace dealmakers](https://www.pehub.com/arlington-exits-medical-equipment-company-riverpoint-to-novanta-in-1-45bn-deal-capitol-meridian-and-industrial-growth-among-latest-aerospace-dealmakers/)**
+> <small>PE Hub · 国际 · 21:43</small>
+> A medical equipment deal exclusive from healthcare reporter John R Fischer, who caught wind of an Arlington Capital portfolio company being sold to a public company; highlighting Blackstone Energy Transition Partners’ $7 billion exit of an…
 >
-> **6. [Warburg, Great Point, Axcel bet on vet care; Knox Lane targets medical workforce tech amid staffing challenges in the sector](https://www.pehub.com/warburg-great-point-axcel-bet-on-vet-care-knox-lane-targets-medical-workforce-tech-amid-staffing-challenges-in-the-sector/)**
-> <small>PE Hub · 国际 · 21:56</small>
-> With pets living longer, age-related diseases are driving demand for veterinary care services – and private equity investors have taken note; a look at Knox Lane’s $400 million+ deal involving a medical workforce technology company. The po…
+> **6. [独家｜前员工举报导致小红书上市受阻？小红书称目前IPO相关信息均不属实(含视频) - 财新](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1yQ0hIR3pzckJwUnNOcFdGSmliQm11N1c3ZkNweTN1UmJ0ZWZDdmszUG5UbEp1UGdfcjFUYjFFZk1QRmFWVm5lcmJrMm00VkczSjdWNDdfZWlxVnM2MHJoMFQ5RlJJM1k?oc=5)**
+> <small>财新 · 国内 · 10:53</small>
+> 独家｜前员工举报导致小红书上市受阻？小红书称目前IPO相关信息均不属实(含视频) 财新
 >
-> **7. [蚂蚁国际完成约12亿美元A轮融资 蚂蚁集团、阿里集团等参与 - 财新](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBpUTFQd0czU0Y0WGFZVzZienFRNUlMMXktemNEWmdHMDRfQmdxdGs5cFZ6Ymg4UzY1RktuQWlQcEFtM0JHVU0zNV8xUENGRjFvS21ITXUyNk5uOEktUzJMOTZSUmw?oc=5)**
+> **7. [SVP to acquire minority stake in power plant South Field Energy](https://www.pehub.com/svp-to-acquire-minority-stake-in-power-plant-south-field-energy/)**
+> <small>PE Hub · 国际 · 02:37</small>
+> South Field began commercial operations in 2021. The post SVP to acquire minority stake in power plant South Field Energy appeared first on PE Hub .
+>
+> **8. [蚂蚁国际完成约12亿美元A轮融资 蚂蚁集团、阿里集团等参与 - 财新](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBpUTFQd0czU0Y0WGFZVzZienFRNUlMMXktemNEWmdHMDRfQmdxdGs5cFZ6Ymg4UzY1RktuQWlQcEFtM0JHVU0zNV8xUENGRjFvS21ITXUyNk5uOEktUzJMOTZSUmw?oc=5)**
 > <small>财新 · 国内 · 13:04</small>
 > 蚂蚁国际完成约12亿美元A轮融资 蚂蚁集团、阿里集团等参与 财新
 >
-> **8. [Nestle nears sale of water business stake at close to €5 billion valuation, FT reports - Reuters](https://news.google.com/rss/articles/CBMiywFBVV95cUxQVDEzYm5aRzR6Ulk2bDVGV29lbnFXcmx0QTFDVk5QeUtUdzNNa1VDcmVFcVdFOHdTeXFVR1ZrUnJoc1hUM0stV3dWdy1ZUDFfQUJsWnplTGxiN3YxSlhfMVlwam94THlVeTRaM0h1UE11VW90N1BMSng2RWkzODhmdVdiM1cwVlZuS3dURDNOYnZEbk5Sb213OVNteFNVbWU1WWhTNDZneUszRjl4WU5TZHlIYkVnLU9yNWNwTUhQaGozbGhHR1ItWHVuRQ?oc=5)**
-> <small>Reuters · 国际 · 23:49</small>
-> Nestle nears sale of water business stake at close to €5 billion valuation, FT reports Reuters
+> **9. [TeamSystem’s private equity owners discuss stake sale at €8bn valuation - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxQVUxzTVhEcXhTaDFDNGhENTc1UUVfT1pPNmJJTWFGS25UeU5KdWtyWkRHNDhVdUs0RXBFOUVmNkNnUFdrbm5aajF5dkptZE42Y1hXMmR1b3VRdVBsci1rRzJHYlFNc3AxbWNucGptSnpQVmhacWdTRHhIR1V2VHFNcHM5Tlo?oc=5)**
+> <small>Financial Times · 国际 · 12:00 · `可能需订阅`</small>
+> TeamSystem’s private equity owners discuss stake sale at €8bn valuation Financial Times
 >
-> **9. [黑蚁资本美元二期基金完成最终募集，规模达2.25亿美元；多家上市公司联袂出手，砺思资本4.23亿新基金落子数字科技丨07.13-07.19 - 创业邦](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5TdFhzdVQwRldRcWRjam1vSm5jNmluWmRCamZwSFNzMnZYOVBDZUJUS3NMZGR4WmNNa2Jkb0xXdDBuM1FPc0xMdTg2TlZlTXpQ?oc=5)**
+> **10. [黑蚁资本美元二期基金完成最终募集，规模达2.25亿美元；多家上市公司联袂出手，砺思资本4.23亿新基金落子数字科技丨07.13-07.19 - 创业邦](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5TdFhzdVQwRldRcWRjam1vSm5jNmluWmRCamZwSFNzMnZYOVBDZUJUS3NMZGR4WmNNa2Jkb0xXdDBuM1FPc0xMdTg2TlZlTXpQ?oc=5)**
 > <small>创业邦 · 国内 · 06:06</small>
 > 黑蚁资本美元二期基金完成最终募集，规模达2.25亿美元；多家上市公司联袂出手，砺思资本4.23亿新基金落子数字科技丨07.13-07.19 创业邦
->
-> **10. [「天鹜科技」完成数亿元A++轮融资，推进AI驱动蛋白质研发平台建设 - 投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9NcWttcEYxVEtEWlNkQ0RBc3ppeUllcHcyUUhlU0VBVE9yUUotVEFQb0h6X19DdUtxQzVqTVdQUU8yYkJqd0l6R2RUTTAyYjdZUGkyNFd3?oc=5)**
-> <small>投资界 · 国内 · 15:00</small>
-> 「天鹜科技」完成数亿元A++轮融资，推进AI驱动蛋白质研发平台建设 投资界
 >
 
 #daily-news
