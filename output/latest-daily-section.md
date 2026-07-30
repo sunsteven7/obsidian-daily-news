@@ -6,47 +6,47 @@
 > 摘要来自 RSS/新闻源描述，保留原文语言；`可能需订阅` 表示该来源可能有付费墙。
 
 > [!quote] 财经 / 金融
-> 10/10 · 国内 4 / 国际 6
+> 10/10 · 国内 3 / 国际 7
 >
-> **1. [Nvidia in talks with OpenAI to guarantee $250 billion financing for data center, WSJ reports - Reuters](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQemxoQlhRcXdJWU9ITnV3LVJxNV9kYzVBanFYWUdVTE9oTVYwcnJCakp6aU9GWHJaeTM2eEdhdzFXVjRPT0J4cUZ1VmtOSnZ3WWQ4TkdmVnY0VnQ2R29LUUV5c1VoMnNiSFZ4enhhR2pEVFNvLVhLejFjN01tOEZpcGdWQ1RWbGNUUXdWeWNZN0s4N3RKcEMxeE9TdnZHYXVaQ3VYNHRPc1JyX1FSUHRkc0xjbkdCcTA4ZGFTdVZjU1M1akxSMEJxc1VnMW1ic1RFbEx1QTlB?oc=5)**
-> <small>Reuters · 国际 · 07:42</small>
-> Nvidia in talks with OpenAI to guarantee $250 billion financing for data center, WSJ reports Reuters
->
-> **2. [Jamie Dimon says markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices](https://www.cnbc.com/2026/07/21/jpmorgan-chase-ceo-jamie-dimon-market-risk.html)**
+> **1. [Jamie Dimon says markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices](https://www.cnbc.com/2026/07/21/jpmorgan-chase-ceo-jamie-dimon-market-risk.html)**
 > <small>CNBC Finance · 国际 · 18:24</small>
 > Comments from JPMorgan Chase CEO Jamie Dimon contrast with investors' recent willingness to look past wars, tariffs and other shocks.
 >
-> **3. [Anthropic moves closer to mega-IPO as bankers line up investor meetings](https://www.cnbc.com/2026/07/15/anthropic-ipo-banks-investor-meetings.html)**
-> <small>CNBC Finance · 国际 · 01:22</small>
-> Anthropic is lining up investor meetings ahead of a potential IPO as soon as October as the AI startup behind looks to beat rival OpenAI to the public markets.
+> **2. [Jeffrey Gundlach says the bond market is telling Warsh the Fed has to start acting on inflation](https://www.cnbc.com/2026/07/29/gundlach-says-the-bond-market-is-signaling-the-fed-has-to-act-on-inflation.html)**
+> <small>CNBC Finance · 国际 · 06:20</small>
+> Gundlach said the divergent moves across the Treasury curve showed investors' skepticism that the Fed will ultimately follow through.
 >
-> **4. [能源内参｜宁德时代抛出A股史上最大单次回购注销方案上限400亿元；工信部现场检查埃安和小鹏汽车行业监督检查或将常态化 - 财新](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5FLXpwSnNlVHRDeGZ1dklDdXpHTGVYU1NQMFFSdUI1Nmc5N2JEUUlLU0RSX2U1ZmtEYWpudldmaGdQVmRIRmhSd2EyTVpRUHZEQ0JleWdNQVFENlRKYmQ2UTV5eEVOcDQ?oc=5)**
-> <small>财新 · 国内 · 10:11</small>
-> 能源内参｜宁德时代抛出A股史上最大单次回购注销方案上限400亿元；工信部现场检查埃安和小鹏汽车行业监督检查或将常态化 财新
+> **3. [Hike or Hold? Fed’s Warsh Has Markets Unsure: Decision-Day Guide - Bloomberg.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxNdzVRT09kemJmY3Vxcko0b2VlWGVBRmxaM1dRWXgxbk10aTdlVGNrSHVmYm9vTEpSLWNlbjhqMTVCV2k3MnZUbG0xbGplcmlvMDVMZ21RanhuM2NlNnVZS2ZqUFlSa0FFZHVIODlNRXFyNjlhZWhVNThwSjF3VXhkRHdFVGk3azVsdTBLYVFmX09CTTVzZUVVNU1DeWtkM0dfemF2UndPcE95Qk0xVk5SdFBscw?oc=5)**
+> <small>Bloomberg.com · 国际 · 07:00 · `可能需订阅`</small>
+> Hike or Hold? Fed’s Warsh Has Markets Unsure: Decision-Day Guide Bloomberg.com
 >
-> **5. [宁德时代抛出A股史上最大单次回购注销方案 上限400亿元 - 财新](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBKS3BZbGVyeVVpMWN5ZlFEZ1dLQUVRdVc4Qmh3ZV80aktYbkxIbzdrYjkxOEVKWDMxMjlFYmppNF92NG5vMGhYQkU4ZnlGMjlocnltT0JYMkhEazRXS3ZpdDJCbkY?oc=5)**
-> <small>财新 · 国内 · 11:41</small>
-> 宁德时代抛出A股史上最大单次回购注销方案 上限400亿元 财新
+> **4. [深圳金融监管发力“反内卷”：整治高息揽储、房贷车贷隐形返利 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1fWVlfSndxT1pRaUsxVnBLcWhWWjVaSEpaYnczYzYxVkRwWUJPYTN2LWdrc21QRG9aTG00LWpGZTM3Z3VKUEZOd3laVjRad2ZldExBRDl3S0Z5U1pkOHRNendR?oc=5)**
+> <small>财新 · 国内 · 09:43</small>
+> 深圳金融监管发力“反内卷”：整治高息揽储、房贷车贷隐形返利 财新
 >
-> **6. [Family-owned companies have big appetites for US snack M&A - Reuters](https://news.google.com/rss/articles/CBMirgFBVV95cUxNLWUzR1paTFVrYkpQb0dsTndBZVE3R0hFRllXVC1kNVp0XzdRTi00VW5JX0FmS2kxVEVTcTVYdnVINUxld043VUc0WklkNHFndEl4bXBTWnlhY3pCeWgzVWViZ2xNYzEweTh2dTFRWG93TGFTX0VkVWwxQnJWazRuRjU2Ym5oeHBla0F0NlZWMmVBZVVTYUczUzZjTTJDMXNxRDFsUDVtenFWUjBCQmc?oc=5)**
+> **5. [4 Takeaways From the Federal Reserve Meeting](https://www.nytimes.com/2026/07/29/business/economy/fed-meeting-interest-rates-takeaways.html)**
+> <small>NYTimes Business · 国际 · 03:41 · `可能需订阅`</small>
+> Fed officials held interest rates steady, but they have splintered over how to fight inflation.
+>
+> **6. [中际旭创披露大额回购计划 港股暗盘交易破发行价 - 财新](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Fb3BtODJaLVdtR2w0ejA1SUI2eWY5SGJvSW52UkZyZmdsSlpISlpsQ2FTNUNtbGtrQ3JxcUR3T3JkTXpVTWZjeXNxemVxckVOV3dnSXBaaTNrLWE1OVY5NkdEa1k?oc=5)**
+> <small>财新 · 国内 · 19:22</small>
+> 中际旭创披露大额回购计划 港股暗盘交易破发行价 财新
+>
+> **7. [What to Watch at the Federal Reserve’s July Meeting](https://www.nytimes.com/2026/07/29/business/federal-reserve-july-meeting.html)**
+> <small>NYTimes Business · 国际 · 17:02 · `可能需订阅`</small>
+> Kevin M. Warsh, who will preside over his second meeting as chairman of the central bank, faces pressure to raise interest rates as inflation remains elevated.
+>
+> **8. [Tech rout roils markets after SK Hynix profits disappoint - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNclJma2pldTJUYWJxWkY4aDdZRWJCamNsWUM2a2lLQThOMTFPU1V2N1E0dG9RVDg0Z0M3T2xpY0l4SDhLb25lTlB6VDNqRGF1eWVpZkZDLWhzeldOYWNPbEZEZ3FzbkxoMFNMUk83WHN3SGVHd2hJUHJ0Qnp2UHd1ZmRaOHQ?oc=5)**
+> <small>Financial Times · 国际 · 18:10 · `可能需订阅`</small>
+> Tech rout roils markets after SK Hynix profits disappoint Financial Times
+>
+> **9. [Family-owned companies have big appetites for US snack M&A - Reuters](https://news.google.com/rss/articles/CBMirgFBVV95cUxNLWUzR1paTFVrYkpQb0dsTndBZVE3R0hFRllXVC1kNVp0XzdRTi00VW5JX0FmS2kxVEVTcTVYdnVINUxld043VUc0WklkNHFndEl4bXBTWnlhY3pCeWgzVWViZ2xNYzEweTh2dTFRWG93TGFTX0VkVWwxQnJWazRuRjU2Ym5oeHBla0F0NlZWMmVBZVVTYUczUzZjTTJDMXNxRDFsUDVtenFWUjBCQmc?oc=5)**
 > <small>Reuters · 国际 · 17:51</small>
 > Family-owned companies have big appetites for US snack M&A Reuters
 >
-> **7. [CXMT’s blockbuster IPO delivers windfall for its home city - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNRFZfVTU5OHQxbjZWNzFjM1FrWWc5bnlORzFocHhPd0FtWmNkYUs0V0pDMjczM3YzUldwM1p6bXFpQktQTWVNSFJpZGZiZW5oWExLSVpmVVVzRXhoQ0JKZ1RIZUlXUlkzQzlWdnpURXdDaGtIcTEtRU8tbGhBV29PSWZVeWo?oc=5)**
-> <small>Financial Times · 国际 · 13:35 · `可能需订阅`</small>
-> CXMT’s blockbuster IPO delivers windfall for its home city Financial Times
->
-> **8. [CXMT’s roaring IPO isn’t the bubble signal it might appear - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxPUVdhcFBVWUR0NjRkbHZTc05xSVBWMHNmM0dJSnJpenpvMUVpWUFocFZJUE1mSzB1UTF0S3NjaHVxTllmbVhRR1Z0UnA4VUNQN1ZBajY1SXpiRnFFckRZOUVJOV8xS2FJYWdxSkg4WG1vVE9SMnBwVU5GTVRsR3JjTGkyZlg?oc=5)**
-> <small>Financial Times · 国际 · 02:19 · `可能需订阅`</small>
-> CXMT’s roaring IPO isn’t the bubble signal it might appear Financial Times
->
-> **9. [2.1万亿隔夜逆回购护航跨月，央行“给量不给价”释放清晰信号 - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9hQ1NTLXA2S1ZwX3hDTWFPNGIwUTkxdHJWbThWcFM2S0hNT1FFLThXYm5mLVQ3Y3djNXRwRzZTYTllWjhDZGRJTzJuQ2xNbHlqdzJv?oc=5)**
-> <small>第一财经 · 国内 · 21:14</small>
-> 2.1万亿隔夜逆回购护航跨月，央行“给量不给价”释放清晰信号 第一财经
->
-> **10. [欧英央行按兵不动，中东局势逆转降息预期 - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9uSWIyVjhOVUQtenRVdW0wSF9TS183NE45UWZCaUU3RGRJbmVOdVRfMzV6Qk9Ea3JfX0hQYjkybDRZOC1SM1A3anRqRDJablZVYWJF?oc=5)**
-> <small>第一财经 · 国内 · 11:27</small>
-> 欧英央行按兵不动，中东局势逆转降息预期 第一财经
+> **10. [日本央行如期加息+暂停缩债！磷化铟全球供需缺口超七成？高通CEO预言“AI智能体取代App”丨20260617从华尔街到陆家嘴 - 第一财经](https://news.google.com/rss/articles/CBMiVEFVX3lxTE5kOERjV19BNENodFNOZURlcGtNejNsYVlmZklJVlk2S3F2Rm8yYl9MUk1aOFpBMnpLNnVUbjV4LW12M3NqODRpaEdsdHRrRUYwSUR1SQ?oc=5)**
+> <small>第一财经 · 国内 · 12:18</small>
+> 日本央行如期加息+暂停缩债！磷化铟全球供需缺口超七成？高通CEO预言“AI智能体取代App”丨20260617从华尔街到陆家嘴 第一财经
 >
 
 > [!example] 科技 / AI
@@ -60,33 +60,33 @@
 > <small>MIT Technology Review · 国际 · 02:00</small>
 > This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Reading OpenAI’s account last week of how some of its models broke their containment and hacked into…
 >
-> **3. [36氪研究院 | 2026年中国智能硬件行业发展研究报告](https://36kr.com/p/3915066350327176?f=rss)**
-> <small>36氪 · 国内</small>
-> 当前，AI技术正加速向实体经济各领域渗透深化，智能硬件作为AI能力落地实体场景的核心载体，已进入产品能力升级与产业价值提升的关键发展阶段。腾讯研究院2026年3月的调研数据显示，国内已有80.8%的消费者购买或使用过至少一类AI相关硬件产品，其中32.0%的用户表示将在未来三个月增加相关消费支出，消费端市场需求具备稳步向上的支撑基础。与此同时，端侧AI芯片、轻量化大模型、多传感融合等底层技术不断取得突破，推动智能硬件逐步降低对云端算力的依赖，本地自主感知、分析决策与功能迭代…
->
-> **4. [OpenAI Models Go Rogue + Kimi K3 Freakout + A.I. Superforecasting](https://www.nytimes.com/2026/07/24/podcasts/hardfork-hugging-face-openai.html)**
+> **3. [OpenAI Models Go Rogue + Kimi K3 Freakout + A.I. Superforecasting](https://www.nytimes.com/2026/07/24/podcasts/hardfork-hugging-face-openai.html)**
 > <small>NYTimes Technology · 国际 · 19:00 · `可能需订阅`</small>
 > “The story that we’re talking about in this segment was science fiction until Tuesday, OK?”
 >
-> **5. [These App Store hidden gems prove there’s still room for great software in the AI era](https://techcrunch.com/2026/07/28/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/)**
-> <small>TechCrunch · 国际 · 02:16</small>
-> Despite predictions that AI agents could make traditional apps obsolete, developers are shipping new software faster than ever. From smarter bookmarking tools and neighborhood marketplaces to digital pen pals and nature journals, here are…
->
-> **6. [OpenAI Close to Landing $500 Billion Data Center With Backing From Nvidia](https://www.nytimes.com/2026/07/27/technology/openai-data-center-nvidia.html)**
+> **4. [OpenAI Close to Landing $500 Billion Data Center With Backing From Nvidia](https://www.nytimes.com/2026/07/27/technology/openai-data-center-nvidia.html)**
 > <small>NYTimes Technology · 国际 · 11:08 · `可能需订阅`</small>
 > The chipmaking giant is in talks with OpenAI to provide a $250 billion financial backstop for the project, which would be among the largest of the A.I. boom.
 >
-> **7. [The US is banning foreign robots](https://www.theverge.com/tech/972259/us-foreign-robots-power-inverter-ban)**
-> <small>The Verge · 国际 · 06:49</small>
-> The US government is targeting China with a new import ban on "advanced robotic devices" and power inverters made in foreign countries, as reported earlier by Reuters. In an announcement on Tuesday, the Federal Communications Commission sa…
+> **5. [Nvidia behind $50 billion lease on Texas data center, FT reports - Reuters](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPN3hhTXBGOGJuOHRPd29ITFU3Y29ndDNjNWU4LTNNRzA2cE0wcm96dEFnNmcyM2xqUnQyb3hyT2sxQjNMUVQzTWF0b3Z5Njd5eXNxY2pnanRYWmxrQXAtY3RXcHVOSDNWRTRzOWZmQ0huSmFYa3Y1TFNwWElvdVI0a1RUajY0aXhqUGQ2R0lKRmtLdTlXUzZBUnZIM3duWG9DM1NJVDBkVkRvZw?oc=5)**
+> <small>Reuters · 国际 · 12:13</small>
+> Nvidia behind $50 billion lease on Texas data center, FT reports Reuters
 >
-> **8. [AI leaders sign a statement asking the government to do something about automated AI](https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta)**
-> <small>The Verge · 国际 · 07:14</small>
-> Employees of OpenAI and Anthropic, as well as Google, Meta, Thinking Machines, Microsoft, Mistral, and other leading AI labs, have written a statement to the US government supporting a potential slowdown of sorts for frontier AI developmen…
->
-> **9. [柔性触觉感知企业获新一轮融资，预计2026年公司营收翻10倍｜硬氪首发](https://36kr.com/p/3915175290901889?f=rss)**
+> **6. [微软新增数据中心租约超1300亿美元](https://36kr.com/newsflashes/3917435911007621?f=rss)**
 > <small>36氪 · 国内</small>
-> 作者｜黄楠 编辑｜袁斯来 硬氪获悉，柔性触觉感知企业「尧乐科技」近日完成Pre-A+新一轮融资，本轮融资由鼎和高达领投，上市公司常熟汽饰、祖龙娱乐跟投，云道资本担任长期独家财务顾问。资金将主要用于柔性织物传感技术研发、产品性能迭代升级，加快数据手套产能拓展和批量交付，并完善数据采集、标定与接口能力，加速面向具身智能、世界模型与智能座舱等场景落地。 尧乐科技以柔性织物传感为硬件入口，面向具身智能与世界模型所需的真实物理交互数据采集与预处理。创始人兼CEO吕莉蕴曾任国际汽车电子…
+> 当地时间7月29日，微软在一份监管文件中披露，第四财季新增尚未开始执行的数据中心租约承诺超过1300亿美元，显示其AI算力扩张仍在加速。截至6月30日，微软尚未开始履行的租赁总承诺达到3291亿美元，较前一季度的1966亿美元大幅上升。（界面）
+>
+> **7. [耐心资本密集落子，央企系基金加速布局硬科技](https://36kr.com/newsflashes/3917413432225160?f=rss)**
+> <small>36氪 · 国内</small>
+> 近一个月来，央企系基金在硬科技赛道的出手节奏明显加快：具身智能“独角兽”星动纪元获诚通基金10亿元领投，物理AI企业清研精准获国机产业基金战略投资，山西中电科获国新基金领投。在具身智能、半导体装备、量子计算等多个战略性新兴产业赛道，央企“耐心资本”正在加速落子。一个重要趋势是，央企资本正向更早期的技术前沿倾斜，在多个长周期赛道上敢于先手布局，并以“耐心资本”的定力推动未来产业从实验室走向产业化，同时以资本为纽带，支撑产业链供应链的自主可控。（上证报）
+>
+> **8. [Microsoft is openly competing with OpenAI, Anthropic more than ever](https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/)**
+> <small>TechCrunch · 国际 · 08:21</small>
+> Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth.
+>
+> **9. [Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag](https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/)**
+> <small>TechCrunch · 国际 · 06:46</small>
+> When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its investments in the two biggest, and competing, AI labs are doing.
 >
 > **10. [财新观察｜完善人工智能规则 - 财新周刊](https://news.google.com/rss/articles/CBMiYEFVX3lxTE4wbEpwaFRMVnFHLUxzVFZOU2FsbGlVWXhlczNPMlJKWTN5SjBXWWs5VGZYbHk4YjIxRmJHeGNjU29rYzJjZXdKY0dfSVc1R1EwV3BSSFcxZllnd2J2bDlzeQ?oc=5)**
 > <small>财新周刊 · 国内 · 11:00 · `可能需订阅`</small>
@@ -94,17 +94,17 @@
 >
 
 > [!tip] 私募股权 / 投资市场
-> 10/10 · 国内 2 / 国际 8
+> 10/10 · 国内 3 / 国际 7
 >
 > **1. [Side Letter: The cost of ‘democratisation’](https://www.privateequityinternational.com/side-letter-the-cost-of-democratisation/)**
 > <small>Private Equity International · 国际 · 19:13</small>
 > In today's edition, GPs seeking new sources of LP capital could face a cost conundrum; What GTCR's fundraise tells us about the state of DPI; Blackstone hits $14 billion for its latest secondaries flagship.
 >
-> **2. [When stratospheric net worth meets LP-GP alignment](https://www.privateequityinternational.com/when-stratospheric-net-worth-meets-lp-gp-alignment/)**
-> <small>Private Equity International · 国际 · 03:08</small>
-> What happens to incentivisation structures when a potential carry payout represents a mere drop in the ocean of an investment executive's net worth?
+> **2. [Side Letter: Keeping an AI out](https://www.privateequityinternational.com/side-letter-keeping-an-ai-out/)**
+> <small>Private Equity International · 国际 · 18:22</small>
+> In today's edition, Why the AI label alone won't sway LPs; 'Gating-gate' is hitting appetites for evergreens, says one platform; Spanish PE enjoys an exit bounce.
 >
-> **3. [Allianz GI PE head departs for 26North](https://www.buyoutsinsider.com/allianz-gi-pe-head-departs-for-26north/)**
+> **3. [AllianzGI PE head departs for 26North](https://www.buyoutsinsider.com/allianz-gi-pe-head-departs-for-26north/)**
 > <small>Buyouts · 国际 · 04:30</small>
 > Andrew Roth’s departure follows the exit of his co-head, who left shortly after it was reported that the LP would cut back on its private equity allocation.
 >
@@ -112,29 +112,29 @@
 > <small>Buyouts · 国际 · 04:36</small>
 > California pension with just shy of $1bn portfolio previously cited high fees and unimpressive risk-adjusted returns as reasons to skip private equity, but hears rationale for revisiting. decision from Callan
 >
-> **5. [FEP acquires Australian Planet Fitness franchisee Bravo Fit](https://www.pehub.com/fep-acquires-australian-planet-fitness-franchisee-bravo-fit/)**
-> <small>PE Hub · 国际 · 19:20</small>
-> The sellers include Planet Fitness, which has exited its minority ownership position as a result of the transaction. The post FEP acquires Australian Planet Fitness franchisee Bravo Fit appeared first on PE Hub .
+> **5. [AIP completes take-private buyout of medical tech firm Avanos Medical](https://www.pehub.com/aip-completes-take-private-buyout-of-medical-tech-firm-avanos-medical/)**
+> <small>PE Hub · 国际 · 03:29</small>
+> According to the terms of the deal, Avanos stockholders will receive $25 per share in cash for each share of common stock they own. The post AIP completes take-private buyout of medical tech firm Avanos Medical appeared first on PE Hub .
 >
-> **6. [独家｜前员工举报导致小红书上市受阻？小红书称目前IPO相关信息均不属实(含视频) - 财新](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1yQ0hIR3pzckJwUnNOcFdGSmliQm11N1c3ZkNweTN1UmJ0ZWZDdmszUG5UbEp1UGdfcjFUYjFFZk1QRmFWVm5lcmJrMm00VkczSjdWNDdfZWlxVnM2MHJoMFQ5RlJJM1k?oc=5)**
-> <small>财新 · 国内 · 10:53</small>
-> 独家｜前员工举报导致小红书上市受阻？小红书称目前IPO相关信息均不属实(含视频) 财新
+> **6. [Vista Equity Partners to acquire software firm Quantios from Hg](https://www.pehub.com/vista-equity-partners-to-acquire-software-firm-quantios-from-hg/)**
+> <small>PE Hub · 国际 · 00:39</small>
+> Hg first invested in the business in 2022, then TrustQuay, and in 2023, merged it with ViewPoint, which was owned by EQT, to create Quantios. The post Vista Equity Partners to acquire software firm Quantios from Hg appeared first on PE Hub…
 >
-> **7. [Golub Capital backs fast-food chain Church’s Texas Chicken](https://www.pehub.com/golub-capital-backs-fast-food-chain-churchs-texas-chicken/)**
-> <small>PE Hub · 国际 · 01:03</small>
-> In 2021, Church’s was acquired by High Bluff Capital Partners and Future Standard. The post Golub Capital backs fast-food chain Church’s Texas Chicken appeared first on PE Hub .
->
-> **8. [Deal Roundup: Great American Holdings acquires Trampe Settles, Micross to snap up AEMtec](https://www.altassets.net/premium/deal-roundup-great-american-holdings-acquires-trampe-settles-micross-to-snap-up-aemtec.html)**
+> **7. [Deal Roundup: Great American Holdings acquires Trampe Settles, Micross to snap up AEMtec](https://www.altassets.net/premium/deal-roundup-great-american-holdings-acquires-trampe-settles-micross-to-snap-up-aemtec.html)**
 > <small>AltAssets · 国际 · 19:00</small>
 > Great American Holdings, a provider of financial advisory, valuation, asset disposition, and investment banking services and majority-owned by funds managed by Oaktree Capital Management, has announced the acquisition of Trampe Settles, a…
 >
-> **9. [蚂蚁国际完成约12亿美元A轮融资 蚂蚁集团、阿里集团等参与 - 财新](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBpUTFQd0czU0Y0WGFZVzZienFRNUlMMXktemNEWmdHMDRfQmdxdGs5cFZ6Ymg4UzY1RktuQWlQcEFtM0JHVU0zNV8xUENGRjFvS21ITXUyNk5uOEktUzJMOTZSUmw?oc=5)**
-> <small>财新 · 国内 · 13:04</small>
-> 蚂蚁国际完成约12亿美元A轮融资 蚂蚁集团、阿里集团等参与 财新
+> **8. [中国公司全球化周报：蚂蚁国际完成12亿美元A轮融资 智象未来获15亿元C轮融资 - 36氪](https://news.google.com/rss/articles/CBMiU0FVX3lxTE13RFRsZzhwTnNUREtiZXhTZlp4ZDg0N21mbmI3WkZzR1MxTEJtOF83NmkwYlBzMEtuTjBfanpRNGV5ZDF2bW1zdmFWWjlndUxzalR3?oc=5)**
+> <small>36氪 · 国内 · 20:20</small>
+> 中国公司全球化周报：蚂蚁国际完成12亿美元A轮融资 智象未来获15亿元C轮融资 36氪
 >
-> **10. [TeamSystem’s private equity owners discuss stake sale at €8bn valuation - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxQVUxzTVhEcXhTaDFDNGhENTc1UUVfT1pPNmJJTWFGS25UeU5KdWtyWkRHNDhVdUs0RXBFOUVmNkNnUFdrbm5aajF5dkptZE42Y1hXMmR1b3VRdVBsci1rRzJHYlFNc3AxbWNucGptSnpQVmhacWdTRHhIR1V2VHFNcHM5Tlo?oc=5)**
-> <small>Financial Times · 国际 · 12:01 · `可能需订阅`</small>
-> TeamSystem’s private equity owners discuss stake sale at €8bn valuation Financial Times
+> **9. [震业新材超亿元A轮融资落地 招商致远玉柴股份海富产业基金领投 36氪首发 - 36氪](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5lSlNHSFVPSlZ4Vlg0eUJYVnFEOEFJRHF2YW1NY0FlZ1JOaWhuVEd2V0hlcUVqOE1JYndFbUdDNnd5Y0JpMUNCa1JfendoSkNDNEo4?oc=5)**
+> <small>36氪 · 国内 · 22:41</small>
+> 震业新材超亿元A轮融资落地 招商致远玉柴股份海富产业基金领投 36氪首发 36氪
+>
+> **10. [「励楷科技」完成近5亿元D轮融资，持续深耕神经介入领域 - 投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5KSFR2WHlGNVQwNUZnRHhyVzJmb3ZnQ2NEZGFHMlZSenNFMi1vR0NTSmEwZm90UzBwRmFScVlzR3dJTzVHSWRlY01YODBPb2FVWjg1bmZB?oc=5)**
+> <small>投资界 · 国内 · 10:24</small>
+> 「励楷科技」完成近5亿元D轮融资，持续深耕神经介入领域 投资界
 >
 
 #daily-news
