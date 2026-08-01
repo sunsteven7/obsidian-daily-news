@@ -8,45 +8,45 @@
 > [!quote] 财经 / 金融
 > 10/10 · 国内 4 / 国际 6
 >
-> **1. [Jamie Dimon says markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices](https://www.cnbc.com/2026/07/21/jpmorgan-chase-ceo-jamie-dimon-market-risk.html)**
-> <small>CNBC Finance · 国际 · 18:24</small>
-> Comments from JPMorgan Chase CEO Jamie Dimon contrast with investors' recent willingness to look past wars, tariffs and other shocks.
+> **1. [Fintech broker Clear Street offers investors pre-IPO access to $188 billion AI giant Databricks](https://www.cnbc.com/2026/07/31/clear-street-pre-ipo-platform-databricks.html)**
+> <small>CNBC Finance · 国际 · 05:49</small>
+> Fintech brokerage Clear Street is launching a private markets platform, beginning with Databricks stakes, to give investors more access to late-stage startups.
 >
-> **2. [港证监下令富途冻结客户1.25亿港元资产 涉IPO申购分配 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1mNWhfZThPTU9lT2xCMFFVdkotWWt2TU5MZjNOY21sazQxeXhNWHg1b0lSSWR1TlROb0VRWlVIdGV1dXNKWWxvdHFYdHFLaFUzclNSTEZBVkdwMUlNSjJQR3VB?oc=5)**
-> <small>财新 · 国内 · 07:37</small>
-> 港证监下令富途冻结客户1.25亿港元资产 涉IPO申购分配 财新
+> **2. [More consumer companies are staying private for longer, avoiding the IPO road](https://www.cnbc.com/2026/07/31/private-consumer-companies-ipo.html)**
+> <small>CNBC Finance · 国际 · 19:30</small>
+> With the rise of secondary markets and a stronger liquidity environment, more companies are choosing to stay private for longer, according to experts.
 >
-> **3. [Markets Challenge Warsh’s Approach to Taming Inflation](https://www.nytimes.com/2026/07/30/business/warshs-performance-falls-flat-with-markets-as-fed-holds-rates-steady.html)**
+> **3. [India's Manipal Health IPO oversubscribed as institutional demand outweighs retail caution - Reuters](https://news.google.com/rss/articles/CBMixAFBVV95cUxPUXVwejFaV2RNdEk1ZkVkVlUxY0JSeTRRMDRzMnowWmtyUm1uU1ZmQUpnV09maHl6NW0tTmhKZ3pFTnFnNUxGdmQyUWdUcUJXS05aQTNtNXlQU29udlQtNTZXVkd6c2tHSmsxWkhaRTFEOWczMm95aWxTdjVGNUNnYktOdlNNa29LRU9jNWp0MUJaa1k3WUdlQldaRDI1dlNKcER0dWFZWlVzNlp1WXBoQmpiWkhKVXpVak5na3J0VU1yOUcw?oc=5)**
+> <small>Reuters · 国际 · 23:28</small>
+> India's Manipal Health IPO oversubscribed as institutional demand outweighs retail caution Reuters
+>
+> **4. [宇树IPO员工认购2.7亿元 来自美国的收入占13.30% - 财新](https://news.google.com/rss/articles/CBMiZEFVX3lxTE95VU8yNnBpMENIdnN1cXY0eGxXWk9MZFcybUdGNXprSWNsRFVjY1k5NUUtTzQzZGZtVFFuaVlNNC1wbEhuX0QySjlKeDk0YzhrM2FZb252WTRJbnJqNGU1M1JFOGQ?oc=5)**
+> <small>财新 · 国内 · 15:33</small>
+> 宇树IPO员工认购2.7亿元 来自美国的收入占13.30% 财新
+>
+> **5. [科创板IPO在即，宇树科技发布公告 - 财新](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9FdVR2MS1lN0lJeFFQOUFKNFl1bklrdkZwZVVBYUtTcWJMYkpocFotLXRmaC1UbDNMbVh6Uk03dW4tYlVEZExKMGRZUmd3T3pfcjlWRGRNZkx0cW9Fd0E?oc=5)**
+> <small>财新 · 国内 · 09:47</small>
+> 科创板IPO在即，宇树科技发布公告 财新
+>
+> **6. [Markets Challenge Warsh’s Approach to Taming Inflation](https://www.nytimes.com/2026/07/30/business/warshs-performance-falls-flat-with-markets-as-fed-holds-rates-steady.html)**
 > <small>NYTimes Business · 国际 · 23:10 · `可能需订阅`</small>
 > Kevin M. Warsh has made controlling inflation the top priority of his tenure as Federal Reserve chairman. But his hesitancy to embrace the possibility of higher borrowing costs has sparked a backlash.
 >
-> **4. [A ‘Credibility Shock’ Looms Over the Fed](https://www.nytimes.com/2026/07/30/business/dealbook/fed-warsh-credibility-shock.html)**
+> **7. [A ‘Credibility Shock’ Looms Over the Fed](https://www.nytimes.com/2026/07/30/business/dealbook/fed-warsh-credibility-shock.html)**
 > <small>NYTimes Business · 国际 · 20:22 · `可能需订阅`</small>
 > Bonds sold off sharply after the Federal Reserve’s latest rate decision, signaling growing turmoil between the markets and the central bank.
 >
-> **5. [Jeffrey Gundlach says the bond market is telling Warsh the Fed has to start acting on inflation](https://www.cnbc.com/2026/07/29/gundlach-says-the-bond-market-is-signaling-the-fed-has-to-act-on-inflation.html)**
-> <small>CNBC Finance · 国际 · 06:20</small>
-> Gundlach said the divergent moves across the Treasury curve showed investors' skepticism that the Fed will ultimately follow through.
+> **8. [History of Japan's intervention in currency markets - Reuters](https://news.google.com/rss/articles/CBMioAFBVV95cUxPb2hlMFAzRDdITTRfcVJHNDRzUjQ0dWJ1VmhGbnNYenZTcDBIcWoxQnAxZV9HZXFENXlObGJOSEQ5SmluQ1poU0hmd1l6V1RiTndGWldaSGQxbjBfdGVPZlFUQ1M2QjFMeVNzeEF4SVN1ZzhFYUpYU3dlQUlGaDRqTndUbEM2SjBfZERzTkdGcGFXQV95ZThhVTd0R3QzT2h1?oc=5)**
+> <small>Reuters · 国际 · 11:21</small>
+> History of Japan's intervention in currency markets Reuters
 >
-> **6. [深圳金融监管发力“反内卷”：整治高息揽储、房贷车贷隐形返利 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1fWVlfSndxT1pRaUsxVnBLcWhWWjVaSEpaYnczYzYxVkRwWUJPYTN2LWdrc21QRG9aTG00LWpGZTM3Z3VKUEZOd3laVjRad2ZldExBRDl3S0Z5U1pkOHRNendR?oc=5)**
-> <small>财新 · 国内 · 09:43</small>
-> 深圳金融监管发力“反内卷”：整治高息揽储、房贷车贷隐形返利 财新
+> **9. [通胀压力压倒增长担忧，欧洲央行近三年来首次加息 - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1zMTJNOGVCemd3ZnhBazZHeHNxeFVWU0VBdTZ4UGE1anYzRVBuUEh1Q3dVVkpkVC1jaHZjUkw5TTBMaHpUTkE4SHFEbE1aQlhBS05V?oc=5)**
+> <small>第一财经 · 国内 · 00:50</small>
+> 通胀压力压倒增长担忧，欧洲央行近三年来首次加息 第一财经
 >
-> **7. [短期降准降息必要性减弱，央行调控锚定隔夜利率 - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1jWG5iZ04zb0loUlhUc1ZWNG5iWHFISC00aHM4ekxRZmdPNnE4bURlRnR1NkRXVVZwTWR3QjlVbXJpeHAzNEowMVpGdElIc2JOVDFz?oc=5)**
+> **10. [短期降准降息必要性减弱，央行调控锚定隔夜利率 - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1jWG5iZ04zb0loUlhUc1ZWNG5iWHFISC00aHM4ekxRZmdPNnE4bURlRnR1NkRXVVZwTWR3QjlVbXJpeHAzNEowMVpGdElIc2JOVDFz?oc=5)**
 > <small>第一财经 · 国内 · 05:36</small>
 > 短期降准降息必要性减弱，央行调控锚定隔夜利率 第一财经
->
-> **8. [Kevin Warsh is confusing markets - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNTnlUT3YybEtkcU10RHJYbTNJTFdPWG56RlJzMjh2T2ktMlJrT3dEMXRfSFAxWjlDSWNRTWJxS1gtdlgzQ2MwUjdjQXoxR0NfdEhBSURoUU1wZnpKbE0zQVJNU3NKYjZueWF5UlNRMFR6S1Vrb3JwQzJHMk1ER3U3Z1VLS1A?oc=5)**
-> <small>Financial Times · 国际 · 13:30 · `可能需订阅`</small>
-> Kevin Warsh is confusing markets Financial Times
->
-> **9. [Tech rout roils markets after SK Hynix profits disappoint - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNclJma2pldTJUYWJxWkY4aDdZRWJCamNsWUM2a2lLQThOMTFPU1V2N1E0dG9RVDg0Z0M3T2xpY0l4SDhLb25lTlB6VDNqRGF1eWVpZkZDLWhzeldOYWNPbEZEZ3FzbkxoMFNMUk83WHN3SGVHd2hJUHJ0Qnp2UHd1ZmRaOHQ?oc=5)**
-> <small>Financial Times · 国际 · 08:34 · `可能需订阅`</small>
-> Tech rout roils markets after SK Hynix profits disappoint Financial Times
->
-> **10. [日本央行如期加息+暂停缩债！磷化铟全球供需缺口超七成？高通CEO预言“AI智能体取代App”丨20260617从华尔街到陆家嘴 - 第一财经](https://news.google.com/rss/articles/CBMiVEFVX3lxTE5kOERjV19BNENodFNOZURlcGtNejNsYVlmZklJVlk2S3F2Rm8yYl9MUk1aOFpBMnpLNnVUbjV4LW12M3NqODRpaEdsdHRrRUYwSUR1SQ?oc=5)**
-> <small>第一财经 · 国内 · 12:18</small>
-> 日本央行如期加息+暂停缩债！磷化铟全球供需缺口超七成？高通CEO预言“AI智能体取代App”丨20260617从华尔街到陆家嘴 第一财经
 >
 
 > [!example] 科技 / AI
@@ -56,45 +56,45 @@
 > <small>MIT Technology Review · 国际 · 17:18</small>
 > Lee, an engineer at Samsung’s semiconductor division, clocks out when his shift ends. He used to work longer hours, going the extra mile to excel at his projects. But lately, he’s been coming straight home to work on his job application fo…
 >
-> **2. [OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.](https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/)**
-> <small>MIT Technology Review · 国际 · 02:00</small>
-> This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Reading OpenAI’s account last week of how some of its models broke their containment and hacked into…
+> **2. [A fundamental flaw leaves LLMs strikingly vulnerable to attack](https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/)**
+> <small>MIT Technology Review · 国际 · 18:15</small>
+> It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conference on Machine Learning, a top AI confer…
 >
-> **3. [扩建算力数据中心后，智谱GLM Coding Plan开放订阅](https://36kr.com/newsflashes/3918863627988358?f=rss)**
+> **3. [9点1氪丨马斯克回应特斯拉剥离中国业务；国内航线燃油附加费将再次下调；中国最高薪本科专业易主](https://36kr.com/p/3920241240419720?f=rss)**
 > <small>36氪 · 国内</small>
-> 7月31日，智谱宣布，随着基础设施持续扩容，面向开发者群体的付费订阅服务GLM Coding Plan开放订阅。此前因AI Coding需求爆发，用户需求增长，阶段性限制订阅名额。另据了解，智谱已落地1GW级国产AI算力数据中心建设，全部采用国产AI芯片，并持续投入算力基础设施建设。（第一财经）
+> 今日热点导览 字节跳动发布视频创作模型Seedance 2.5 长鑫科技市值突破4万亿 人形机器人现“电量焦虑”，行业正在积极探索换电等不同路线 韩国KOSPI指数上涨18% Anthropic称AI模型在测试期间误侵三家真实机构系统 TOP3大新闻 马斯克回应特斯拉剥离中国业务 7月31日，对于特斯拉正考虑拆分中国业务的消息，特斯拉CEO马斯克在回应第三方转发评论时回复：“这是假新闻。”对于特斯拉正考虑出售或剥离其中国业务的消息，特斯拉中国内部人士也向第一财经记者表示：“…
 >
-> **4. [OpenAI Models Go Rogue + Kimi K3 Freakout + A.I. Superforecasting](https://www.nytimes.com/2026/07/24/podcasts/hardfork-hugging-face-openai.html)**
-> <small>NYTimes Technology · 国际 · 19:00 · `可能需订阅`</small>
-> “The story that we’re talking about in this segment was science fiction until Tuesday, OK?”
->
-> **5. [OpenAI Close to Landing $500 Billion Data Center With Backing From Nvidia](https://www.nytimes.com/2026/07/27/technology/openai-data-center-nvidia.html)**
+> **4. [OpenAI Close to Landing $500 Billion Data Center With Backing From Nvidia](https://www.nytimes.com/2026/07/27/technology/openai-data-center-nvidia.html)**
 > <small>NYTimes Technology · 国际 · 11:08 · `可能需订阅`</small>
 > The chipmaking giant is in talks with OpenAI to provide a $250 billion financial backstop for the project, which would be among the largest of the A.I. boom.
 >
-> **6. [Investors love AI, as long as you’re a cloud host](https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/)**
-> <small>TechCrunch · 国际 · 06:41</small>
-> Amazon isn't slowing down on data center spending — but investors don't seem to mind.
+> **5. [OpenAI reportedly finds evidence that more of its agents ran amok](https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/)**
+> <small>TechCrunch · 国际 · 06:47</small>
+> OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.
 >
-> **7. [Nscale buys Anyscale as it seeks to own more of the AI compute stack](https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/)**
-> <small>TechCrunch · 国际 · 23:19</small>
-> British AI neocloud Nscale is buying software startup Anyscale, which helps companies scale their AI workloads across data centers and servers.
+> **6. [Sam Altman isn’t the only one who wants to pump the brakes on AI](https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/)**
+> <small>TechCrunch · 国际 · 01:26</small>
+> After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself. The comments came just days after one of OpenAI’s own models broke out of its test environment and got tangled…
 >
-> **8. [Tim Cook hints at iCloud Plus tier for AI power users](https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai)**
-> <small>The Verge · 国际 · 06:31</small>
-> Apple may allow users to pay to increase their AI usage limits. During an earnings call on Thursday, Apple CEO Tim Cook said that he believes people will want to use Apple Intelligence and the upcoming Siri AI "a lot," adding that "we will…
+> **7. [创业这件事，你最关心的问题是什么？36氪想跟你聊一聊](https://36kr.com/p/3919112515956355?f=rss)**
+> <small>36氪 · 国内</small>
+> 你的创业想法，值得被看见 有人在寻找新的增长机会，有人在重新思考商业模式；有人开始尝试新工具提升效率，也有人还在为融资、获客、团队管理等问题发愁。 我们发现，每位创业者关注的重点都不一样，但大家都在面对同一个问题： 未来，企业该如何更好地发展？ 为了更真实地了解创业者当下最关心的话题，36氪发起了一份 创业者需求调研 。这份问卷没有标准答案，也不是产品推广，而是希望听到创业者最真实的声音。 当然，我们也会关注一个绕不开的话题—— 人工智能正在如何影响创业。 但相比讨论"AI…
+>
+> **8. [Five Takeaways From the Times Investigation Into Larry Ellison’s A.I. Gamble](https://www.nytimes.com/2026/07/31/magazine/takeaways-larry-ellison-oracle-ai.html)**
+> <small>NYTimes Technology · 国际 · 17:05 · `可能需订阅`</small>
+> The billionaire’s company took on ominous loads of debt to build data centers around the world. The implications go far beyond Oracle.
 >
 > **9. [LinkedIn Won’t Be Expanding Its Data Centers in the Next Year - WIRED](https://news.google.com/rss/articles/CBMihAFBVV95cUxQdnpuMHROYTZYcjM4Wm1STGtHZnlOWkZneWI3VFFhQi1Mb0Z2eGlETllFblBkaWxySjFzdTgzNURfNEFWOG1HTFZ2NkZpT2dwdHYwVURBQVFSYW5mQzdFT25vazY1WU9hTnp3OXRTWDgwZGpsUkc0OTh6T0JwTlc5dWV2bW4?oc=5)**
 > <small>WIRED · 国际 · 18:15</small>
 > LinkedIn Won’t Be Expanding Its Data Centers in the Next Year WIRED
 >
-> **10. [中层消失，Token狂热退潮，硅谷工程师眼里的「AI创业下半场」](https://36kr.com/p/3918250549931394?f=rss)**
-> <small>36氪 · 国内</small>
-> 所有人都在尝试建立关于AI的判断，但所有共识都在迅速过期。 访谈 | 巴芮 海风 文 | 海风 刘思洁 编辑 | 刘思洁 封面图源 | 受访者拍摄 “野蛮生长的阶段已经过去了。” 这是身处硅谷AI创业一线的马培元最近最深的感受。 2021年12月，本科毕业后，他进入号称“美版知乎”的Quora，后来转到AI聊天机器人聚合平台Poe，担任资深AI工程师。2个月前，他又加入硅谷最热门的AI Agent创业公司之一Cognition。 2026年5月，这家成立不到三年的公司宣布完…
+> **10. [The ban on robot vacuums won’t make them safer, only worse](https://www.theverge.com/tech/973738/robot-vacuum-ban-fewer-choices-higher-prices)**
+> <small>The Verge · 国际 · 02:40</small>
+> No other gadget knows as much about your home as a robot vacuum. They map your space, learn your routines, and many now carry a camera and microphone into every room in your house. As AI gives them a better understanding of what they see,…
 >
 
 > [!tip] 私募股权 / 投资市场
-> 10/10 · 国内 3 / 国际 7
+> 10/10 · 国内 4 / 国际 6
 >
 > **1. [Side Letter: Keeping an AI out](https://www.privateequityinternational.com/side-letter-keeping-an-ai-out/)**
 > <small>Private Equity International · 国际 · 18:22</small>
@@ -104,37 +104,37 @@
 > <small>Buyouts · 国际 · 04:30</small>
 > Andrew Roth’s departure follows the exit of his co-head, who left shortly after it was reported that the LP would cut back on its private equity allocation.
 >
-> **3. [Blue Owl reaches $10.6bn for latest GP stakes fund](https://www.privateequityinternational.com/blue-owl-reaches-10-6bn-for-latest-gp-stakes-fund/)**
+> **3. [Fresh signs of bifurcation in private equity fundraising](https://www.buyoutsinsider.com/fresh-signs-of-bifurcation-in-private-equity-fundraising/)**
+> <small>Buyouts · 国际 · 23:15</small>
+> Capital raised by North America-based PE funds in H1 2026 was the highest for a first half in three years, while fund closings fell to their lowest level since pandemic-roiled H1 2020. What gives?
+>
+> **4. [Blue Owl reaches $10.6bn for latest GP stakes fund](https://www.privateequityinternational.com/blue-owl-reaches-10-6bn-for-latest-gp-stakes-fund/)**
 > <small>Private Equity International · 国际 · 00:14</small>
 > The vehicle ‘will wrap up this year’ after multiple extensions to its projected timeline, CFO Alan Kirshenbaum says on the firm’s latest earnings call.
 >
-> **4. [GTCR closes debut capital solutions fund as GPs seize on hybrid strategies](https://www.buyoutsinsider.com/gtcr-closes-debut-capital-solutions-fund-as-gps-seize-on-hybrid-strategies/)**
-> <small>Buyouts · 国际 · 16:00</small>
-> GTCR wants to use its capital solutions strategy to be 'a problem solver,' co-CEO Collin Roche tells Buyouts, including for other private equity firms facing major liquidity issues.
->
-> **5. [Exclusive: Blackstone to acquire DarkVision from Koch](https://www.pehub.com/exclusive-blackstone-to-carve-out-darkvision-from-koch/)**
-> <small>PE Hub · 国际 · 20:00</small>
-> 'DarkVision’s asset integrity services play a vital role in helping customers meet increasing environmental and safety standards, while improving efficiency and utilization of aging existing critical energy infrastructure,' Blackstone's Se…
->
-> **6. [独家｜前员工举报导致小红书上市受阻？小红书称目前IPO相关信息均不属实(含视频) - 财新](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5CVHluelBhcnVUcXg2SWJSN0NVUGxEWnJNM0NOem5DbUF5QkhFUUxyMTdsVDdXUnBSNnphSkJXMWVINHhxeXN2Q3pIZ1htbG54enVKMWVybV9NejhlTjEtWlNuQlU?oc=5)**
+> **5. [独家｜前员工举报导致小红书上市受阻？小红书称目前IPO相关信息均不属实(含视频) - 财新](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5mY2kzcDRBR2c3bnpqS1lKT2FIREdDQXRUN1dxam85dzk4QXlrS0dhaVJtc3hwaUFKM0FuNEFFazN5Z2Q1dzdOeHBGekR4cEtoX1NHSmR6NmNRLVln?oc=5)**
 > <small>财新 · 国内 · 10:53</small>
 > 独家｜前员工举报导致小红书上市受阻？小红书称目前IPO相关信息均不属实(含视频) 财新
 >
-> **7. [HIG Capital to sell industrial services firm JT Thorpe to Truelink Capital](https://www.pehub.com/hig-capital-to-sell-industrial-services-firm-jt-thorpe-to-truelink-capital/)**
-> <small>PE Hub · 国际 · 23:57</small>
-> HIG acquired JT Thorpe in 2022. The post HIG Capital to sell industrial services firm JT Thorpe to Truelink Capital appeared first on PE Hub .
+> **6. [KKR nearing deal to buy medical device firm Integer, WSJ reports - Reuters](https://news.google.com/rss/articles/CBMirgFBVV95cUxNclF6YndzZlZKUzl4MVVqWFA0c3dVY3pzQngyOGx2MnlvQkl4LU9vUjk4QWR5UXQ2MDl0c2x3Z3c0Qjl0Vk1XZGRqdlV0aUk3Y3hWWFhiRGtRR2p5cVJ1MnBqZVUwNFVGU05BRlVhTWduU1Jxckx2bHBsbUtOQjhuV2pYa05wLUY1MkZOdHpFbV93QXZVdk56ZzhmZERsUlJmckNwSGcxSkh4dFQtU1E?oc=5)**
+> <small>Reuters · 国际 · 04:41</small>
+> KKR nearing deal to buy medical device firm Integer, WSJ reports Reuters
 >
-> **8. [Deal Roundup: Hg agrees the majority sale of Quantios, Bloomberg set to acquire Canoe Intelligence](https://www.altassets.net/premium/deal-roundup-hg-agrees-the-majority-sale-of-quantios-bloomberg-set-to-acquire-canoe-intelligence.html)**
-> <small>AltAssets · 国际 · 19:46</small>
-> Hg, the leading investor in European and transatlantic software and services businesses, today announced that it has agreed the sale of its majority shareholding in Quantios, a leading provider of SaaS solutions to the global trust and cor…
+> **7. [AEA Enterprise-backed Meritus acquires industrial gases distributor Metroplex Welding Supply](https://www.pehub.com/aea-enterprise-backed-meritus-acquires-industrial-gases-distributor-metroplex-welding-supply/)**
+> <small>PE Hub · 国际 · 00:09</small>
+> Headquartered in New York City, Meritus is a network of distributors of industrial, medical, and specialty gases and welding and safety supplies. The post AEA Enterprise-backed Meritus acquires industrial gases distributor Metroplex Weldin…
 >
-> **9. [贝联珠贯完成A轮超亿元融资，阿里云领投 - 投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1GeGtOOXZ6RlZHdUNUNzNxaUVYb1RvT2pFMW9QbzNPaktBNTFnckJXUktQcUpDNDhXWkZlQ1JENGRfbm0xeGFmRDdFMTk2VktyT0pqanVR?oc=5)**
-> <small>投资界 · 国内 · 10:33</small>
-> 贝联珠贯完成A轮超亿元融资，阿里云领投 投资界
+> **8. [中际旭创港股上市首日破发 A股H股同步下挫 - 财新](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4zZEp6NEZVV0lJNkJhUHZVYnpvT205VXlzVWt0RTcyOXJ6RE1KVE41TVJxX2UwQlFOVGxkTTF6MTlqZUlySUhNUFpOLWtsQ01pc2M3bmxyaVFYbjVNV3BDZklKc0hyVGc?oc=5)**
+> <small>财新 · 国内 · 19:56</small>
+> 中际旭创港股上市首日破发 A股H股同步下挫 财新
 >
-> **10. [华辰芯光完成新一轮超亿元融资，同创伟业领投 - 投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTE93a0VqYTc5RVVLSzV3VndHS2h0elJmQWlVRXVqRlFaZDlwbnNYV0NEc1JacUZ4YUV0eUpKeTJPTjBwUzJReVd1NEpEd3Y1ak5tTHM5SUpB?oc=5)**
-> <small>投资界 · 国内 · 16:07</small>
-> 华辰芯光完成新一轮超亿元融资，同创伟业领投 投资界
+> **9. [港股IPO七年之最！中际旭创发行规模刷新纪录 业内：市占率高 有向上空间︱港股直通车 - 第一财经](https://news.google.com/rss/articles/CBMiVEFVX3lxTE1nMGVtUk5MT3RhUGNhOTVrdzNMa19TWDJfRjgxVjdZWk42ZDNwYm5hSENZbEVnM01vNkh3cXlNV1FsclZBTDNzOFBkalB4MDhmTV9Mag?oc=5)**
+> <small>第一财经 · 国内 · 15:43</small>
+> 港股IPO七年之最！中际旭创发行规模刷新纪录 业内：市占率高 有向上空间︱港股直通车 第一财经
+>
+> **10. [【首发】健达九州完成数亿元人民币A轮融资，推进脑疾病的精准疗法加速上市 - 动脉网](https://news.google.com/rss/articles/CBMiR0FVX3lxTE9iLVppZ2VYdWpIbnNCSEx2b0Jkb1NZWXlkWkdmWFhQSTBYWnJMZmRFeUI3OVktdEt3cWZMdmQ3UmhaVGl5ZlQ0?oc=5)**
+> <small>动脉网 · 国内 · 08:00</small>
+> 【首发】健达九州完成数亿元人民币A轮融资，推进脑疾病的精准疗法加速上市 动脉网
 >
 
 #daily-news
