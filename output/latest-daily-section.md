@@ -6,7 +6,7 @@
 > 摘要来自 RSS/新闻源描述，保留原文语言；`可能需订阅` 表示该来源可能有付费墙。
 
 > [!quote] 财经 / 金融
-> 10/10 · 国内 4 / 国际 6
+> 10/10 · 国内 2 / 国际 8
 >
 > **1. [Fintech broker Clear Street offers investors pre-IPO access to $188 billion AI giant Databricks](https://www.cnbc.com/2026/07/31/clear-street-pre-ipo-platform-databricks.html)**
 > <small>CNBC Finance · 国际 · 05:49</small>
@@ -20,9 +20,9 @@
 > <small>Reuters · 国际 · 23:28</small>
 > India's Manipal Health IPO oversubscribed as institutional demand outweighs retail caution Reuters
 >
-> **4. [宇树IPO员工认购2.7亿元 来自美国的收入占13.30% - 财新](https://news.google.com/rss/articles/CBMiZEFVX3lxTE95VU8yNnBpMENIdnN1cXY0eGxXWk9MZFcybUdGNXprSWNsRFVjY1k5NUUtTzQzZGZtVFFuaVlNNC1wbEhuX0QySjlKeDk0YzhrM2FZb252WTRJbnJqNGU1M1JFOGQ?oc=5)**
+> **4. [宇树IPO员工认购2.7亿元 来自美国的收入占13.30%(含视频) - 财新](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE42dnJtTFlfNUg2MmQ0NnJTa29McWo3a1lTRnJjZVhiWlVnSXpSaVYyOEVnN04yS1IyWVFZVFZDWDBjcjZvY1JNTEN2YnJEeUhTc2N2anBlZFV2OHBZZG5laFhUcF9jeGc?oc=5)**
 > <small>财新 · 国内 · 15:33</small>
-> 宇树IPO员工认购2.7亿元 来自美国的收入占13.30% 财新
+> 宇树IPO员工认购2.7亿元 来自美国的收入占13.30%(含视频) 财新
 >
 > **5. [科创板IPO在即，宇树科技发布公告 - 财新](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9FdVR2MS1lN0lJeFFQOUFKNFl1bklrdkZwZVVBYUtTcWJMYkpocFotLXRmaC1UbDNMbVh6Uk03dW4tYlVEZExKMGRZUmd3T3pfcjlWRGRNZkx0cW9Fd0E?oc=5)**
 > <small>财新 · 国内 · 09:47</small>
@@ -40,13 +40,13 @@
 > <small>Reuters · 国际 · 11:21</small>
 > History of Japan's intervention in currency markets Reuters
 >
-> **9. [通胀压力压倒增长担忧，欧洲央行近三年来首次加息 - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1zMTJNOGVCemd3ZnhBazZHeHNxeFVWU0VBdTZ4UGE1anYzRVBuUEh1Q3dVVkpkVC1jaHZjUkw5TTBMaHpUTkE4SHFEbE1aQlhBS05V?oc=5)**
-> <small>第一财经 · 国内 · 00:50</small>
-> 通胀压力压倒增长担忧，欧洲央行近三年来首次加息 第一财经
+> **9. [US borrowing costs hit 19-year high as Federal Reserve defies inflation fears - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxQNWlwWE1SVGJMZDJtQ2d4emRtWmtPdExyZnRtWGI5cWdfT2d2NXFmenRpWGFEdE9UTTVTVGRfMmFnX044YTk0Uk5oMlloV3NVUGljd0tueHVFbkhoMVhXT3p0dHFlZkk4VXREaHVnSm5IbDJNcTZYb0hGQ09JZXRBTEdWWDI?oc=5)**
+> <small>Financial Times · 国际 · 17:03 · `可能需订阅`</small>
+> US borrowing costs hit 19-year high as Federal Reserve defies inflation fears Financial Times
 >
-> **10. [短期降准降息必要性减弱，央行调控锚定隔夜利率 - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1jWG5iZ04zb0loUlhUc1ZWNG5iWHFISC00aHM4ekxRZmdPNnE4bURlRnR1NkRXVVZwTWR3QjlVbXJpeHAzNEowMVpGdElIc2JOVDFz?oc=5)**
-> <small>第一财经 · 国内 · 05:36</small>
-> 短期降准降息必要性减弱，央行调控锚定隔夜利率 第一财经
+> **10. [Humbling times for markets - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxOMWdzUHM3M3NlQlhvNVFub2FWN0pJRnBSeWV5cGlUY21SMHRXTGRaS2I5ZlVSdjJteUdvdU1rU0RpTzFWRWhhMWZnNDBtMzJkMk95a19peUJUVElfWDNlYzFKUFNNcGNJZjhoT3dlUXB2cWt4VUtJaFRIcElPZjJSX0FycGM?oc=5)**
+> <small>Financial Times · 国际 · 12:00 · `可能需订阅`</small>
+> Humbling times for markets Financial Times
 >
 
 > [!example] 科技 / AI
@@ -68,29 +68,29 @@
 > <small>NYTimes Technology · 国际 · 11:08 · `可能需订阅`</small>
 > The chipmaking giant is in talks with OpenAI to provide a $250 billion financial backstop for the project, which would be among the largest of the A.I. boom.
 >
-> **5. [OpenAI reportedly finds evidence that more of its agents ran amok](https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/)**
+> **5. [部分美国企业换上中国大模型以降低成本](https://36kr.com/newsflashes/3920583026929281?f=rss)**
+> <small>36氪 · 国内</small>
+> 从AlphaGo称霸围棋界到ChatGPT面世，美国在算法大模型领域积累了显著的先发优势。但近年中国大模型的崛起对AI格局有所冲击。美国《华尔街日报》等多家媒体提到，中国大模型独角兽月之暗面新一代开源大模型Kimi K3撼动资本市场，并称其与DeepSeek在2025年发布时引发的市场恐慌如出一辙，连马斯克都赞其“令人印象深刻”。一些大型美国公司也开始转向中国大模型。据美联社消息，加密货币交易所Coinbase表示，正在转向使用中国人工智能模型以降低成本。爱彼迎采用了阿里巴…
+>
+> **6. [EXCLUSIVE: Chinese military researchers tap US AI models to train defence systems - Reuters](https://news.google.com/rss/articles/CBMivwFBVV95cUxQRlZKM1E4OTlVQnVjUUs0ZEVFY2hxZHNvd2VHb0dabWZnbFZKTjJzemRrUkJsNS14blJPcDlmREZMbzdXekNqcWdSVnpQSG82YndnMUJ5TElaNlRBYkRWMlVfU2dWTWdDY1kxa2ZjNnhtQko1Nnd3QkZ1eUhIMVI1MU1wVjFTZ1N4WHE2UnBzVHp0QzBjMzI4RWlnVkVWMmVvTkxWeExNZUlFeE52WHhsdFZJSXlfNld4RFdjMVNNQQ?oc=5)**
+> <small>Reuters · 国际 · 23:11</small>
+> EXCLUSIVE: Chinese military researchers tap US AI models to train defence systems Reuters
+>
+> **7. [OpenAI reportedly finds evidence that more of its agents ran amok](https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/)**
 > <small>TechCrunch · 国际 · 06:47</small>
 > OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.
 >
-> **6. [Sam Altman isn’t the only one who wants to pump the brakes on AI](https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/)**
+> **8. [Sam Altman isn’t the only one who wants to pump the brakes on AI](https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/)**
 > <small>TechCrunch · 国际 · 01:26</small>
 > After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself. The comments came just days after one of OpenAI’s own models broke out of its test environment and got tangled…
 >
-> **7. [创业这件事，你最关心的问题是什么？36氪想跟你聊一聊](https://36kr.com/p/3919112515956355?f=rss)**
-> <small>36氪 · 国内</small>
-> 你的创业想法，值得被看见 有人在寻找新的增长机会，有人在重新思考商业模式；有人开始尝试新工具提升效率，也有人还在为融资、获客、团队管理等问题发愁。 我们发现，每位创业者关注的重点都不一样，但大家都在面对同一个问题： 未来，企业该如何更好地发展？ 为了更真实地了解创业者当下最关心的话题，36氪发起了一份 创业者需求调研 。这份问卷没有标准答案，也不是产品推广，而是希望听到创业者最真实的声音。 当然，我们也会关注一个绕不开的话题—— 人工智能正在如何影响创业。 但相比讨论"AI…
->
-> **8. [Five Takeaways From the Times Investigation Into Larry Ellison’s A.I. Gamble](https://www.nytimes.com/2026/07/31/magazine/takeaways-larry-ellison-oracle-ai.html)**
+> **9. [Five Takeaways From the Times Investigation Into Larry Ellison’s A.I. Gamble](https://www.nytimes.com/2026/07/31/magazine/takeaways-larry-ellison-oracle-ai.html)**
 > <small>NYTimes Technology · 国际 · 17:05 · `可能需订阅`</small>
 > The billionaire’s company took on ominous loads of debt to build data centers around the world. The implications go far beyond Oracle.
 >
-> **9. [LinkedIn Won’t Be Expanding Its Data Centers in the Next Year - WIRED](https://news.google.com/rss/articles/CBMihAFBVV95cUxQdnpuMHROYTZYcjM4Wm1STGtHZnlOWkZneWI3VFFhQi1Mb0Z2eGlETllFblBkaWxySjFzdTgzNURfNEFWOG1HTFZ2NkZpT2dwdHYwVURBQVFSYW5mQzdFT25vazY1WU9hTnp3OXRTWDgwZGpsUkc0OTh6T0JwTlc5dWV2bW4?oc=5)**
-> <small>WIRED · 国际 · 18:15</small>
-> LinkedIn Won’t Be Expanding Its Data Centers in the Next Year WIRED
->
-> **10. [The ban on robot vacuums won’t make them safer, only worse](https://www.theverge.com/tech/973738/robot-vacuum-ban-fewer-choices-higher-prices)**
-> <small>The Verge · 国际 · 02:40</small>
-> No other gadget knows as much about your home as a robot vacuum. They map your space, learn your routines, and many now carry a camera and microphone into every room in your house. As AI gives them a better understanding of what they see,…
+> **10. [Texas Data Center Operators Must Watch Out for Compliance Risks - Bloomberg Law News](https://news.google.com/rss/articles/CBMizAFBVV95cUxPNXdTMDJ6Tk8zeGRhZzJNZUtreXVGdlRrRUxGeG9ReWdfc3pnM2dmdXNqam5Bblh2LW40X3Zoa3RlU2RlcWR5WmdhelVBWmtmN1FjVTllZGNPazg4QkpSaEtOZldnY1N5ZHRBcmhXd3NMUU9FZjUySlI0THR4S1lKcG0tRnpXTTZZOU9yVkE0QjBNeU5lNEh5aE1XelJMVzgzZHo4ZUZONHVjMlYtejFXbHU5UDVGQVJBdUhoaXdoQm5tdDFCRDFBeW9Xa3Q?oc=5)**
+> <small>Bloomberg Law News · 国际 · 16:30 · `可能需订阅`</small>
+> Texas Data Center Operators Must Watch Out for Compliance Risks Bloomberg Law News
 >
 
 > [!tip] 私募股权 / 投资市场
@@ -128,13 +128,13 @@
 > <small>财新 · 国内 · 19:56</small>
 > 中际旭创港股上市首日破发 A股H股同步下挫 财新
 >
-> **9. [港股IPO七年之最！中际旭创发行规模刷新纪录 业内：市占率高 有向上空间︱港股直通车 - 第一财经](https://news.google.com/rss/articles/CBMiVEFVX3lxTE1nMGVtUk5MT3RhUGNhOTVrdzNMa19TWDJfRjgxVjdZWk42ZDNwYm5hSENZbEVnM01vNkh3cXlNV1FsclZBTDNzOFBkalB4MDhmTV9Mag?oc=5)**
-> <small>第一财经 · 国内 · 15:43</small>
-> 港股IPO七年之最！中际旭创发行规模刷新纪录 业内：市占率高 有向上空间︱港股直通车 第一财经
+> **9. [贝联珠贯完成A轮超亿元融资，阿里云领投 - 投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1GeGtOOXZ6RlZHdUNUNzNxaUVYb1RvT2pFMW9QbzNPaktBNTFnckJXUktQcUpDNDhXWkZlQ1JENGRfbm0xeGFmRDdFMTk2VktyT0pqanVR?oc=5)**
+> <small>投资界 · 国内 · 10:33</small>
+> 贝联珠贯完成A轮超亿元融资，阿里云领投 投资界
 >
-> **10. [【首发】健达九州完成数亿元人民币A轮融资，推进脑疾病的精准疗法加速上市 - 动脉网](https://news.google.com/rss/articles/CBMiR0FVX3lxTE9iLVppZ2VYdWpIbnNCSEx2b0Jkb1NZWXlkWkdmWFhQSTBYWnJMZmRFeUI3OVktdEt3cWZMdmQ3UmhaVGl5ZlQ0?oc=5)**
-> <small>动脉网 · 国内 · 08:00</small>
-> 【首发】健达九州完成数亿元人民币A轮融资，推进脑疾病的精准疗法加速上市 动脉网
+> **10. [原粒半导体完成超7亿元A轮融资，三个月累计融资超12亿 - 投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTE91UjU3eVJqTjJvVmlRZU44cmtSY0dWZHUwaXUtSDF1a1VtV1A0d2tIdURmaHBRZEs4aUZMYXhZRFVxVjVsX01lVHlPZ292cXl3a043TDdn?oc=5)**
+> <small>投资界 · 国内 · 10:19</small>
+> 原粒半导体完成超7亿元A轮融资，三个月累计融资超12亿 投资界
 >
 
 #daily-news
