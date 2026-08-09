@@ -6,7 +6,7 @@
 > 摘要来自 RSS/新闻源描述，保留原文语言；`可能需订阅` 表示该来源可能有付费墙。
 
 > [!quote] 财经 / 金融
-> 10/10 · 国内 3 / 国际 7
+> 10/10 · 国内 4 / 国际 6
 >
 > **1. [Fintech broker Clear Street offers investors pre-IPO access to $188 billion AI giant Databricks](https://www.cnbc.com/2026/07/31/clear-street-pre-ipo-platform-databricks.html)**
 > <small>CNBC Finance · 国际 · 05:49</small>
@@ -20,17 +20,17 @@
 > <small>财新 · 国内 · 22:10</small>
 > 宇树科技IPO估值600亿元 DeepSeek参与战略配售 财新
 >
-> **4. [光通信等硬件板块遇冷 美股A股港股软件板块集体暴涨 - 财新](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCMm5sc2xBMTY5T2VTSzNqYnRaeENQU2ZCZERSUVNqUlVHai1jVFpQcUc5ZnJEeURDcVMyLXpucE5FbnZQZHM3cGU2b09BNGhfdFRxODBWNmh0bW9ldElyMXh3SXc1c1U?oc=5)**
-> <small>财新 · 国内 · 16:25</small>
-> 光通信等硬件板块遇冷 美股A股港股软件板块集体暴涨 财新
->
-> **5. [Chinese humanoid robot maker Unitree prices IPO at $9 billion valuation - Reuters](https://news.google.com/rss/articles/CBMipAFBVV95cUxNWGNISE45RzhZZ0wySkR0VE5KeG9QbnhYNFRLTWhVSTNrX0FhLWlDX0d4enJpRWVKZmdoYzRyOUZabl9MQTF2ZVNybDdxb2UxYjJnUnRscW12dU13WWNhUmRhaE5vM2k0MnZLMWN1QVNSYlZBa0twTWdlSUpDeHdIRTVLODRBbVFGNUxHbHFxQjBqU2g1cnJMdzVZQWxhVmlfcEJ1ZA?oc=5)**
+> **4. [Chinese humanoid robot maker Unitree prices IPO at $9 billion valuation - Reuters](https://news.google.com/rss/articles/CBMipAFBVV95cUxNWGNISE45RzhZZ0wySkR0VE5KeG9QbnhYNFRLTWhVSTNrX0FhLWlDX0d4enJpRWVKZmdoYzRyOUZabl9MQTF2ZVNybDdxb2UxYjJnUnRscW12dU13WWNhUmRhaE5vM2k0MnZLMWN1QVNSYlZBa0twTWdlSUpDeHdIRTVLODRBbVFGNUxHbHFxQjBqU2g1cnJMdzVZQWxhVmlfcEJ1ZA?oc=5)**
 > <small>Reuters · 国际 · 03:33</small>
 > Chinese humanoid robot maker Unitree prices IPO at $9 billion valuation Reuters
 >
-> **6. [The Bond Market Is Signaling Rising Risks. Investors Should Listen.](https://www.nytimes.com/2026/08/07/business/bonds-stocks-federal-reserve-interest-rates.html)**
+> **5. [The Bond Market Is Signaling Rising Risks. Investors Should Listen.](https://www.nytimes.com/2026/08/07/business/bonds-stocks-federal-reserve-interest-rates.html)**
 > <small>NYTimes Business · 国际 · 00:58 · `可能需订阅`</small>
 > While the Fed didn’t raise rates, the bond market did. That means hardship for home buyers and higher hurdles for A.I. data centers and the stock market. But it’s also a boon for retirees.
+>
+> **6. [财新调查｜7月金融数据季节性承压 新增社融或取决于政府债券 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1zd0V2US1YRGdvMzFPSU0yRzF4eFptVGtVUmp4WEdEckxZYkY1dWJLUVYwMDVrTzJ3eFVuU1oxX21xcmYzQUJFa0ZKc3NSRl9lb1Y1OE0zTFNJa2M1WUF1NVdB?oc=5)**
+> <small>财新 · 国内 · 16:46</small>
+> 财新调查｜7月金融数据季节性承压 新增社融或取决于政府债券 财新
 >
 > **7. [China’s Unitree Prices IPO in Bet Investors Are Ready for Humanoid Robots](https://www.nytimes.com/2026/08/06/business/china-unitree-ipo-robot.html)**
 > <small>NYTimes Business · 国际 · 16:10 · `可能需订阅`</small>
@@ -40,13 +40,13 @@
 > <small>Financial Times · 国际 · 19:00 · `可能需订阅`</small>
 > Kevin Warsh to stick with lean Fed messaging despite market backlash Financial Times
 >
-> **9. [Thomson Reuters Lifts Revenue Guidance After Growth - WSJ](https://news.google.com/rss/articles/CBMinwFBVV95cUxQRzhLM3ZLWF9wTVlOV1NBYTBaUG5aVEtZVzlYQVVTSi1oejNhT00zU21NVjZQMXF1YlVTTlp4X0VXLWZBYUtzSDFOZ3FjdFROamxwN1cybWxOdlM1cnNFZW9Sd1RNTjBJcDVaZHlvVklfTC1yc3NNY2dQWVlxUkU5RU1QcjZtRk9FUUNoaktqWmFUOUNJWmJwVzYyWWIwNGc?oc=5)**
-> <small>WSJ · 国际 · 19:43 · `可能需订阅`</small>
-> Thomson Reuters Lifts Revenue Guidance After Growth WSJ
+> **9. [股价跌去7成老铺黄金卖不动了？ 多渠道打折线下9折 线上更低 原价两万五折后两万三 二手店不回收“容易亏”｜一探 - 第一财经](https://news.google.com/rss/articles/CBMiUkFVX3lxTE84cHlVWnpUeTJDaDZmNFhGQ1g3NU1vdVFnVnlpNUxhLW5ZYlhIcy1TTE5zNGxhMy1FNjVob05vMFppZGxEWFFDWjczekoxU0ZKWHc?oc=5)**
+> <small>第一财经 · 国内 · 15:21</small>
+> 股价跌去7成老铺黄金卖不动了？ 多渠道打折线下9折 线上更低 原价两万五折后两万三 二手店不回收“容易亏”｜一探 第一财经
 >
-> **10. [日本央行如期加息+暂停缩债！磷化铟全球供需缺口超七成？高通CEO预言“AI智能体取代App”丨20260617从华尔街到陆家嘴 - 第一财经](https://news.google.com/rss/articles/CBMiVEFVX3lxTE5kOERjV19BNENodFNOZURlcGtNejNsYVlmZklJVlk2S3F2Rm8yYl9MUk1aOFpBMnpLNnVUbjV4LW12M3NqODRpaEdsdHRrRUYwSUR1SQ?oc=5)**
-> <small>第一财经 · 国内 · 19:48</small>
-> 日本央行如期加息+暂停缩债！磷化铟全球供需缺口超七成？高通CEO预言“AI智能体取代App”丨20260617从华尔街到陆家嘴 第一财经
+> **10. [中秋国庆出境长线游预订“抢跑” 欧洲、美加墨、澳新等成热门目的地平台：库存产品基本售罄| 一探 - 第一财经](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ZdEJWUFNoSFh5LUF4MHZ1UFZlWFhqR2UteWMzUVVWQlNnVWF1eDN6aTZ5WFhkZDVta3hkeVBBQ01DTjJlYVJ2SXZCSjBHczZleXY3Tg?oc=5)**
+> <small>第一财经 · 国内 · 14:34</small>
+> 中秋国庆出境长线游预订“抢跑” 欧洲、美加墨、澳新等成热门目的地平台：库存产品基本售罄| 一探 第一财经
 >
 
 > [!example] 科技 / AI
@@ -64,29 +64,29 @@
 > <small>TechCrunch · 国际 · 06:48</small>
 > OpenAI said this model, which is still in development, reached its "critical cybersecurity threshold," meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.
 >
-> **4. [OpenAI puts the brakes on a new model because it’s supposedly too powerful](https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities)**
-> <small>The Verge · 国际 · 02:40</small>
-> OpenAI says it is pausing "internal activities" around an in-development AI model, Astra, because it doesn't yet meet new security standards the company is putting in place. The announcement follows its recent disclosure that OpenAI models…
->
-> **5. [Cloudflare launches Kitesurf, a browser built for AI agents](https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/)**
+> **4. [Cloudflare launches Kitesurf, a browser built for AI agents](https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/)**
 > <small>TechCrunch · 国际 · 00:16</small>
 > Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.
 >
-> **6. ['Going rogue' draws critics amid widening AI hacks - Reuters](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOclBtWU8wMEpHVVBLMDJTNERGQ0xWTUpWQ3pQQ1hxcWpsQ1RxTFpVYTFWT2xvV3VEd2hhMUZSTURYZTNoOXdRQUFsZncwWFZTYTFENkxkZm1mSHNza3JwODEyUWg4WjZkajR3QXJ5eFZnWUxHY3VuUEc3S0ZFSjJNeF80bTI2bl96WFFwS2o5M1BqWnJOeFZVdnhLZVRIOVMtR3ZGVVA0cUVVRWxHajJSMXpoaDNPRk8yY1E4?oc=5)**
-> <small>Reuters · 国际 · 03:00</small>
-> 'Going rogue' draws critics amid widening AI hacks Reuters
->
-> **7. [China’s Unitree Prices IPO in Bet Investors Are Ready for Humanoid Robots](https://www.nytimes.com/2026/08/06/business/china-unitree-ipo-robot.html)**
+> **5. [China’s Unitree Prices IPO in Bet Investors Are Ready for Humanoid Robots](https://www.nytimes.com/2026/08/06/business/china-unitree-ipo-robot.html)**
 > <small>NYTimes Technology · 国际 · 16:10 · `可能需订阅`</small>
 > Unitree Robotics wants to raise about $900 million in an I.P.O. that tests market interest in humanoid robots, a technology that wows but has yet to prove its viability.
 >
-> **8. [Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore](https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo)**
-> <small>The Verge · 国际 · 04:01</small>
-> It took long enough, but now LA rapper Fenix Flexin appears to have admitted using AI for the 80s synth pop-themed song "Rubberz." His comments follow the producer Medasin's videos claiming that an AI tool called Treblo (formerly Sonauto)…
+> **6. [An Amazon data center could have the worst polluting power plant in the country](https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant)**
+> <small>The Verge · 国际 · 01:53</small>
+> To power its new West Texas data center, Amazon is investing in the construction of a new power plant that could be one of the largest single producers of greenhouse gases in the US, according to the New York Times. The new gas-burning pla…
 >
-> **9. [How China’s A.I. Is Surging Across Africa](https://www.nytimes.com/2026/08/05/technology/ai-china-africa.html)**
-> <small>NYTimes Technology · 国际 · 04:41 · `可能需订阅`</small>
-> In African tech hubs, developers are picking China’s cheap, freely available artificial intelligence models over more powerful U.S. ones.
+> **7. [Is this $450 laptop from an unknown brand too good to be true?](https://www.theverge.com/tech/977031/chuwi-unibook-laptop-intel-wildcat-lake-review)**
+> <small>The Verge · 国际 · 12:23</small>
+> Finding a good laptop under $500 was hard enough before RAMageddon. They nearly always had cheap hardware and underpowered, often outdated chips. That's what made the MacBook Neo so disruptive: It offered great build quality and good-enoug…
+>
+> **8. [New Amazon Data Center Stokes Worry It Would Be the Most Polluting Power Plant in the U.S.](https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html)**
+> <small>NYTimes Technology · 国际 · 02:17 · `可能需订阅`</small>
+> The tech giant is investing in the natural-gas-burning power plant as part of a huge data center in Texas, even as it pledges to honor climate commitments.
+>
+> **9. [Inside Intel: how America’s chip champion came back from the brink - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxPMjI4VEZ2ck9Qam9uWWw0OE1wTjJnVEprVmhmV1laS25BOHpwUTFiRTRYYzNqZWlJZnZiSk9vYU5uSUN0VFJBZ0JucEt5c1N4RnowWUx0eFowRjhCc3h0OGN1clJfNUJPV1JUOFhXbmg3MVhuVFhiRUY4azhySGdlenFoRGQ?oc=5)**
+> <small>Financial Times · 国际 · 16:32 · `可能需订阅`</small>
+> Inside Intel: how America’s chip champion came back from the brink Financial Times
 >
 > **10. [宇树科技IPO：会翻跟头的机器人能吸引投资者吗？ - 纽约时报中文网](https://news.google.com/rss/articles/CBMic0FVX3lxTE5YWVphWlpkMmt5dUZ6V1ZxVnN3aGNNRUNJSkROdFUxNWtiX1VxdmRrRnpLMVZzcWJKUEdJTWpHSGtGOVgyX3Jadk1aSm9RbFV5djhHX2FVclo2d2FsbDZkMjNSaWYyal9PZ2lDdTMyamJObTQ?oc=5)**
 > <small>纽约时报中文网 · 国内 · 10:33 · `可能需订阅`</small>
@@ -108,37 +108,37 @@
 > <small>Private Equity International · 国际 · 19:11</small>
 > Shoaib Khan, CIO and director of the New Jersey Division of Investment, says re-ups and new opportunities are being looked at on equal footing, despite being spared liquidity concerns.
 >
-> **4. [Europe’s IPO window is open – but PE firms face a shrinking pool of public market exits](https://www.altassets.net/featured/europes-ipo-window-is-open-but-pe-firms-face-a-shrinking-pool-of-public-market-exits.html)**
-> <small>AltAssets · 国际 · 18:03</small>
-> Europe’s IPO market has reopened after the 2022 correction, but the backlog of potential listings is rapidly narrowing, creating a more selective exit environment for private equity sponsors, PitchBook data suggests. The post Europe’s IPO…
->
-> **5. [DOWNLOAD: Nearly one-third of public pensions cut PE allocation in H1](https://www.buyoutsinsider.com/download-nearly-one-third-of-public-pensions-cut-pe-allocation-in-h1/)**
+> **4. [DOWNLOAD: Nearly one-third of public pensions cut PE allocation in H1](https://www.buyoutsinsider.com/download-nearly-one-third-of-public-pensions-cut-pe-allocation-in-h1/)**
 > <small>Buyouts · 国际 · 03:35</small>
 > Data from Buyouts’ Investor Report H1 2026 reveals that public pensions decreased their allocation to the asset class more than any other LP type.
 >
-> **6. [Wise Equity inks agreement to acquire E-Pharma Trento](https://www.pehub.com/wise-equity-inks-agreement-to-acquire-e-pharma-trento/)**
+> **5. [Wise Equity inks agreement to acquire E-Pharma Trento](https://www.pehub.com/wise-equity-inks-agreement-to-acquire-e-pharma-trento/)**
 > <small>PE Hub · 国际 · 05:08</small>
 > E-Pharma Trento will possibly explore bolt-on acquisitions to add new technologies or enhance its manufacturing capacity. The post Wise Equity inks agreement to acquire E-Pharma Trento appeared first on PE Hub .
 >
-> **7. [夜读精选｜ 贝恩资本宣布收购贡茶在中国大陆无法注册商标后退出市场 - 财新](https://news.google.com/rss/articles/CBMiXEFVX3lxTE96QzBqd3R0eE1HaHhUVHNCTzRha2RFM2tSYWc4c254RWZMWlZhX2lpVU9MaWE1OHpfZ3NGTk5mRTRWbElkZHNCM3ZaZkx2dHp1R2VOMWNtRXJhQ1JM?oc=5)**
-> <small>财新 · 国内 · 19:00</small>
-> 夜读精选｜ 贝恩资本宣布收购贡茶在中国大陆无法注册商标后退出市场 财新
+> **6. [UK IPO Slump Hurting Private Equity and Venture, PitchBook Says - Bloomberg.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxNZWdDX0NrRk1KSUJUbTZNMjVfakJtNVhFZ2UyZW5ReFdnQkNUMTVqMjRBQXYtMzJXbHk3ZHMwQ0x3UGh4OTdGbHRvUExwWnJJQmRDdFVxUklUcTBGa2dmTWlubEZ5ZGZoUmNyRlZDY2FKbi1zcmxEc3EwUTE2WVEzMnRHZmxPb29SM3FsZDR3cXhqUjFpLXFaSHpZMjBXcEVmaHNTemdmLW5CSWJBUUs3bFZjYw?oc=5)**
+> <small>Bloomberg.com · 国际 · 12:00 · `可能需订阅`</small>
+> UK IPO Slump Hurting Private Equity and Venture, PitchBook Says Bloomberg.com
 >
-> **8. [中际旭创港股上市首日破发 A股H股同步下挫 - 财新](https://news.google.com/rss/articles/CBMiZEFVX3lxTE85eWZ5NHZkM011M2ZzTS1LMWVHOU5oV3dYRlVBcFhDeEZ6TE1iemR4c0dGT18ybnh5dno0aHhGV3lENzNPMmpZenB4akdfdTIxQkZ0dmc4U1N5Tjd2M19YY3ZZYlk?oc=5)**
-> <small>财新 · 国内 · 19:56</small>
-> 中际旭创港股上市首日破发 A股H股同步下挫 财新
->
-> **9. [时隔5年，港股IPO规模再次突破3000亿港元！产业资本、知名外资频频出手 - 证券时报](https://news.google.com/rss/articles/CBMiXEFVX3lxTE4yQkx1MUhKRWx3Wlh3di16NkEwNV9GcEkyTXdXbVRndDJjd1hxUEdDNmtRNXVIN3Zuc2p3VFlzWk9tMEo2OEMxUWxmejJfbGtzYU5oTmgwbG9YYlFx?oc=5)**
+> **7. [时隔5年，港股IPO规模再次突破3000亿港元！产业资本、知名外资频频出手 - 证券时报](https://news.google.com/rss/articles/CBMiXEFVX3lxTE4yQkx1MUhKRWx3Wlh3di16NkEwNV9GcEkyTXdXbVRndDJjd1hxUEdDNmtRNXVIN3Zuc2p3VFlzWk9tMEo2OEMxUWxmejJfbGtzYU5oTmgwbG9YYlFx?oc=5)**
 > <small>证券时报 · 国内 · 20:38</small>
 > 时隔5年，港股IPO规模再次突破3000亿港元！产业资本、知名外资频频出手 证券时报
 >
-> **10. [投资界LP周报 | 广东千亿母基金开始了 - 投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ndVNVSnRIc2NvWVJfcE1tQ25nYi1peUJBVTU3U3c0Zlo5OFY0UWRRSFdPYklMSC1zV0NEaUhHREZKVDRVbnA0OTJPbmF0alMxTUxhcHFn?oc=5)**
+> **8. [港股IPO七年之最！中际旭创发行规模刷新纪录 业内：市占率高 有向上空间︱港股直通车 - 第一财经](https://news.google.com/rss/articles/CBMiVEFVX3lxTE1nMGVtUk5MT3RhUGNhOTVrdzNMa19TWDJfRjgxVjdZWk42ZDNwYm5hSENZbEVnM01vNkh3cXlNV1FsclZBTDNzOFBkalB4MDhmTV9Mag?oc=5)**
+> <small>第一财经 · 国内 · 15:43</small>
+> 港股IPO七年之最！中际旭创发行规模刷新纪录 业内：市占率高 有向上空间︱港股直通车 第一财经
+>
+> **9. [投资界LP周报 | 广东千亿母基金开始了 - 投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ndVNVSnRIc2NvWVJfcE1tQ25nYi1peUJBVTU3U3c0Zlo5OFY0UWRRSFdPYklMSC1zV0NEaUhHREZKVDRVbnA0OTJPbmF0alMxTUxhcHFn?oc=5)**
 > <small>投资界 · 国内 · 15:37</small>
 > 投资界LP周报 | 广东千亿母基金开始了 投资界
 >
+> **10. [恺望数据完成逾亿元新一轮战略融资，亦庄产业基金、华方资本、天际资本联合领投 - 投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1lUjlUdE4ySUtVMi1HX1FhM1R3UE9tYjRIcjl6d2N3SXV6VWlLQ0xCWkQxTDVlU3UzODFRNTRTYVN5SmQzT3FhTVd0ZUpyck1qZHRPbktn?oc=5)**
+> <small>投资界 · 国内 · 16:13</small>
+> 恺望数据完成逾亿元新一轮战略融资，亦庄产业基金、华方资本、天际资本联合领投 投资界
+>
 
 > [!warning] 抓取失败但不影响成稿的来源
-> 36氪 (ParseError)
+> 36氪 (ParseError)、AltAssets (HTTPError)
 
 #daily-news
 <!-- daily-news-digest:end -->
