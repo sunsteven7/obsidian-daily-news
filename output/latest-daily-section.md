@@ -16,41 +16,41 @@
 > <small>CNBC Finance · 国际 · 19:30</small>
 > With the rise of secondary markets and a stronger liquidity environment, more companies are choosing to stay private for longer, according to experts.
 >
-> **3. [宇树科技IPO估值600亿元 DeepSeek参与战略配售 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5oSUJ4dDJVM21ROTlCQjN4TDhLOHR4R0dsRmtPZ205Rml0R3R2UzRIUHIzWHlJZV90Z3VjRGVGem54MzFsOU1panJtajZwRFpHSHNYRUxlSm40T3FwRXh6akxR?oc=5)**
-> <small>财新 · 国内 · 22:10</small>
-> 宇树科技IPO估值600亿元 DeepSeek参与战略配售 财新
+> **3. [通胀压力压倒增长担忧，欧洲央行近三年来首次加息 - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1zMTJNOGVCemd3ZnhBazZHeHNxeFVWU0VBdTZ4UGE1anYzRVBuUEh1Q3dVVkpkVC1jaHZjUkw5TTBMaHpUTkE4SHFEbE1aQlhBS05V?oc=5)**
+> <small>第一财经 · 国内 · 08:02</small>
+> 通胀压力压倒增长担忧，欧洲央行近三年来首次加息 第一财经
 >
-> **4. [Chinese humanoid robot maker Unitree prices IPO at $9 billion valuation - Reuters](https://news.google.com/rss/articles/CBMipAFBVV95cUxNWGNISE45RzhZZ0wySkR0VE5KeG9QbnhYNFRLTWhVSTNrX0FhLWlDX0d4enJpRWVKZmdoYzRyOUZabl9MQTF2ZVNybDdxb2UxYjJnUnRscW12dU13WWNhUmRhaE5vM2k0MnZLMWN1QVNSYlZBa0twTWdlSUpDeHdIRTVLODRBbVFGNUxHbHFxQjBqU2g1cnJMdzVZQWxhVmlfcEJ1ZA?oc=5)**
-> <small>Reuters · 国际 · 03:33</small>
-> Chinese humanoid robot maker Unitree prices IPO at $9 billion valuation Reuters
->
-> **5. [The Bond Market Is Signaling Rising Risks. Investors Should Listen.](https://www.nytimes.com/2026/08/07/business/bonds-stocks-federal-reserve-interest-rates.html)**
+> **4. [The Bond Market Is Signaling Rising Risks. Investors Should Listen.](https://www.nytimes.com/2026/08/07/business/bonds-stocks-federal-reserve-interest-rates.html)**
 > <small>NYTimes Business · 国际 · 00:58 · `可能需订阅`</small>
 > While the Fed didn’t raise rates, the bond market did. That means hardship for home buyers and higher hurdles for A.I. data centers and the stock market. But it’s also a boon for retirees.
 >
-> **6. [财新调查｜7月金融数据季节性承压 新增社融或取决于政府债券 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1zd0V2US1YRGdvMzFPSU0yRzF4eFptVGtVUmp4WEdEckxZYkY1dWJLUVYwMDVrTzJ3eFVuU1oxX21xcmYzQUJFa0ZKc3NSRl9lb1Y1OE0zTFNJa2M1WUF1NVdB?oc=5)**
-> <small>财新 · 国内 · 16:46</small>
-> 财新调查｜7月金融数据季节性承压 新增社融或取决于政府债券 财新
->
-> **7. [China’s Unitree Prices IPO in Bet Investors Are Ready for Humanoid Robots](https://www.nytimes.com/2026/08/06/business/china-unitree-ipo-robot.html)**
+> **5. [China’s Unitree Prices IPO in Bet Investors Are Ready for Humanoid Robots](https://www.nytimes.com/2026/08/06/business/china-unitree-ipo-robot.html)**
 > <small>NYTimes Business · 国际 · 16:10 · `可能需订阅`</small>
 > Unitree Robotics wants to raise about $900 million in an I.P.O. that tests market interest in humanoid robots, a technology that wows but has yet to prove its viability.
 >
-> **8. [Kevin Warsh to stick with lean Fed messaging despite market backlash - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxPTFoyTFVDdW5XamU1QkN0b3doaHhuMm5USE1iUUhQT3d5cDhLanJwY0NJWHJpYUZaSXVnNnB2TGtJeVM2V2pZNWJycXkyUTU3OFhoZXBpbDV1MDVqS0lncnN6YzdCUmVLdFp6QkxvMk5mUENzLXFIYUFMek52alR2NEdQUmg?oc=5)**
+> **6. [Will US inflation be cool enough to trim bets on a September rate rise? - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNV1I1eXI5MzI3MUVrM2x6c1hmQjNBS1lTNGVrbi1ERWh2TGJiSzVxY3pZcU0xU3RkdjhxYmxfY2pkR05ULUlwN0U0S2YtU1hvMTB6Tkp0a0hGNC1TUEdvUU5YQjJLbTE5aGg5eks5UGpBU25jMFlnZFE0bEJqM21RTGdtX2w?oc=5)**
 > <small>Financial Times · 国际 · 19:00 · `可能需订阅`</small>
-> Kevin Warsh to stick with lean Fed messaging despite market backlash Financial Times
+> Will US inflation be cool enough to trim bets on a September rate rise? Financial Times
 >
-> **9. [股价跌去7成老铺黄金卖不动了？ 多渠道打折线下9折 线上更低 原价两万五折后两万三 二手店不回收“容易亏”｜一探 - 第一财经](https://news.google.com/rss/articles/CBMiUkFVX3lxTE84cHlVWnpUeTJDaDZmNFhGQ1g3NU1vdVFnVnlpNUxhLW5ZYlhIcy1TTE5zNGxhMy1FNjVob05vMFppZGxEWFFDWjczekoxU0ZKWHc?oc=5)**
-> <small>第一财经 · 国内 · 15:21</small>
-> 股价跌去7成老铺黄金卖不动了？ 多渠道打折线下9折 线上更低 原价两万五折后两万三 二手店不回收“容易亏”｜一探 第一财经
+> **7. [患癌后，财经作家叶檀如何与生命和解？｜带着问题去读书 - 财新](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBTYVczcHFaM3ZaNTV6SUY2dVBDTzlLaFRLZjRsbVVOV1NwR2IwNzV6dVNoSlUySnF4OUxpUUpZVVdTd1pSWU1VS2Y4dzZZVmFfMVd0X01hRFBJSl9SU0E?oc=5)**
+> <small>财新 · 国内 · 14:55</small>
+> 患癌后，财经作家叶檀如何与生命和解？｜带着问题去读书 财新
+>
+> **8. [Investors return to European stocks as strong earnings lift Iran war gloom - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNVGJMWGE4aUhFdU91NmlrREFnMnVPa2N1WlFHaE9VdV9nU0hzQXRKZjNmM1BHRVFRYjBhdXl0X2p3cG13QUhvS0pFQXZ1VnVaYnJKWUk2NU5uZFExU3BEd00tMUphaVcwTkNKMURaUjhwMFE4Z2k5OV9VRk9PRnc1VnVMck4?oc=5)**
+> <small>Financial Times · 国际 · 12:03 · `可能需订阅`</small>
+> Investors return to European stocks as strong earnings lift Iran war gloom Financial Times
+>
+> **9. [海外金融专才回流香港 外籍工作签证翻倍 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1HVHBBNEg0eldGYzJKcGpXbUpEeWZFNjRpcFA5MGdVTllMbEJIMGpjVmNjNzN6X050ejhnUDlER3daSFQtNHBXanVUSVo4UGc2M3hwWElyalRYR2FnUXRKUUlB?oc=5)**
+> <small>财新 · 国内 · 20:14</small>
+> 海外金融专才回流香港 外籍工作签证翻倍 财新
 >
 > **10. [中秋国庆出境长线游预订“抢跑” 欧洲、美加墨、澳新等成热门目的地平台：库存产品基本售罄| 一探 - 第一财经](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ZdEJWUFNoSFh5LUF4MHZ1UFZlWFhqR2UteWMzUVVWQlNnVWF1eDN6aTZ5WFhkZDVta3hkeVBBQ01DTjJlYVJ2SXZCSjBHczZleXY3Tg?oc=5)**
-> <small>第一财经 · 国内 · 14:34</small>
+> <small>第一财经 · 国内 · 04:45</small>
 > 中秋国庆出境长线游预订“抢跑” 欧洲、美加墨、澳新等成热门目的地平台：库存产品基本售罄| 一探 第一财经
 >
 
 > [!example] 科技 / AI
-> 10/10 · 国内 1 / 国际 9
+> 9/10 · 国内 1 / 国际 8
 >
 > **1. [Here’s why AI agents lie and cheat to reach their goals](https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/)**
 > <small>MIT Technology Review · 国际 · 16:30</small>
@@ -73,7 +73,7 @@
 > Unitree Robotics wants to raise about $900 million in an I.P.O. that tests market interest in humanoid robots, a technology that wows but has yet to prove its viability.
 >
 > **6. [An Amazon data center could have the worst polluting power plant in the country](https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant)**
-> <small>The Verge · 国际 · 01:53</small>
+> <small>The Verge · 国际 · 20:36</small>
 > To power its new West Texas data center, Amazon is investing in the construction of a new power plant that could be one of the largest single producers of greenhouse gases in the US, according to the New York Times. The new gas-burning pla…
 >
 > **7. [Is this $450 laptop from an unknown brand too good to be true?](https://www.theverge.com/tech/977031/chuwi-unibook-laptop-intel-wildcat-lake-review)**
@@ -84,11 +84,7 @@
 > <small>NYTimes Technology · 国际 · 02:17 · `可能需订阅`</small>
 > The tech giant is investing in the natural-gas-burning power plant as part of a huge data center in Texas, even as it pledges to honor climate commitments.
 >
-> **9. [Inside Intel: how America’s chip champion came back from the brink - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxPMjI4VEZ2ck9Qam9uWWw0OE1wTjJnVEprVmhmV1laS25BOHpwUTFiRTRYYzNqZWlJZnZiSk9vYU5uSUN0VFJBZ0JucEt5c1N4RnowWUx0eFowRjhCc3h0OGN1clJfNUJPV1JUOFhXbmg3MVhuVFhiRUY4azhySGdlenFoRGQ?oc=5)**
-> <small>Financial Times · 国际 · 16:32 · `可能需订阅`</small>
-> Inside Intel: how America’s chip champion came back from the brink Financial Times
->
-> **10. [宇树科技IPO：会翻跟头的机器人能吸引投资者吗？ - 纽约时报中文网](https://news.google.com/rss/articles/CBMic0FVX3lxTE5YWVphWlpkMmt5dUZ6V1ZxVnN3aGNNRUNJSkROdFUxNWtiX1VxdmRrRnpLMVZzcWJKUEdJTWpHSGtGOVgyX3Jadk1aSm9RbFV5djhHX2FVclo2d2FsbDZkMjNSaWYyal9PZ2lDdTMyamJObTQ?oc=5)**
+> **9. [宇树科技IPO：会翻跟头的机器人能吸引投资者吗？ - 纽约时报中文网](https://news.google.com/rss/articles/CBMic0FVX3lxTE5YWVphWlpkMmt5dUZ6V1ZxVnN3aGNNRUNJSkROdFUxNWtiX1VxdmRrRnpLMVZzcWJKUEdJTWpHSGtGOVgyX3Jadk1aSm9RbFV5djhHX2FVclo2d2FsbDZkMjNSaWYyal9PZ2lDdTMyamJObTQ?oc=5)**
 > <small>纽约时报中文网 · 国内 · 10:33 · `可能需订阅`</small>
 > 宇树科技IPO：会翻跟头的机器人能吸引投资者吗？ 纽约时报中文网
 >
@@ -108,17 +104,17 @@
 > <small>Private Equity International · 国际 · 19:11</small>
 > Shoaib Khan, CIO and director of the New Jersey Division of Investment, says re-ups and new opportunities are being looked at on equal footing, despite being spared liquidity concerns.
 >
-> **4. [DOWNLOAD: Nearly one-third of public pensions cut PE allocation in H1](https://www.buyoutsinsider.com/download-nearly-one-third-of-public-pensions-cut-pe-allocation-in-h1/)**
+> **4. [Europe’s IPO window is open – but PE firms face a shrinking pool of public market exits](https://www.altassets.net/featured/europes-ipo-window-is-open-but-pe-firms-face-a-shrinking-pool-of-public-market-exits.html)**
+> <small>AltAssets · 国际 · 18:03</small>
+> Europe’s IPO market has reopened after the 2022 correction, but the backlog of potential listings is rapidly narrowing, creating a more selective exit environment for private equity sponsors, PitchBook data suggests. The post Europe’s IPO…
+>
+> **5. [DOWNLOAD: Nearly one-third of public pensions cut PE allocation in H1](https://www.buyoutsinsider.com/download-nearly-one-third-of-public-pensions-cut-pe-allocation-in-h1/)**
 > <small>Buyouts · 国际 · 03:35</small>
 > Data from Buyouts’ Investor Report H1 2026 reveals that public pensions decreased their allocation to the asset class more than any other LP type.
 >
-> **5. [Wise Equity inks agreement to acquire E-Pharma Trento](https://www.pehub.com/wise-equity-inks-agreement-to-acquire-e-pharma-trento/)**
+> **6. [Wise Equity inks agreement to acquire E-Pharma Trento](https://www.pehub.com/wise-equity-inks-agreement-to-acquire-e-pharma-trento/)**
 > <small>PE Hub · 国际 · 05:08</small>
 > E-Pharma Trento will possibly explore bolt-on acquisitions to add new technologies or enhance its manufacturing capacity. The post Wise Equity inks agreement to acquire E-Pharma Trento appeared first on PE Hub .
->
-> **6. [UK IPO Slump Hurting Private Equity and Venture, PitchBook Says - Bloomberg.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxNZWdDX0NrRk1KSUJUbTZNMjVfakJtNVhFZ2UyZW5ReFdnQkNUMTVqMjRBQXYtMzJXbHk3ZHMwQ0x3UGh4OTdGbHRvUExwWnJJQmRDdFVxUklUcTBGa2dmTWlubEZ5ZGZoUmNyRlZDY2FKbi1zcmxEc3EwUTE2WVEzMnRHZmxPb29SM3FsZDR3cXhqUjFpLXFaSHpZMjBXcEVmaHNTemdmLW5CSWJBUUs3bFZjYw?oc=5)**
-> <small>Bloomberg.com · 国际 · 12:00 · `可能需订阅`</small>
-> UK IPO Slump Hurting Private Equity and Venture, PitchBook Says Bloomberg.com
 >
 > **7. [时隔5年，港股IPO规模再次突破3000亿港元！产业资本、知名外资频频出手 - 证券时报](https://news.google.com/rss/articles/CBMiXEFVX3lxTE4yQkx1MUhKRWx3Wlh3di16NkEwNV9GcEkyTXdXbVRndDJjd1hxUEdDNmtRNXVIN3Zuc2p3VFlzWk9tMEo2OEMxUWxmejJfbGtzYU5oTmgwbG9YYlFx?oc=5)**
 > <small>证券时报 · 国内 · 20:38</small>
@@ -132,13 +128,13 @@
 > <small>投资界 · 国内 · 15:37</small>
 > 投资界LP周报 | 广东千亿母基金开始了 投资界
 >
-> **10. [恺望数据完成逾亿元新一轮战略融资，亦庄产业基金、华方资本、天际资本联合领投 - 投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1lUjlUdE4ySUtVMi1HX1FhM1R3UE9tYjRIcjl6d2N3SXV6VWlLQ0xCWkQxTDVlU3UzODFRNTRTYVN5SmQzT3FhTVd0ZUpyck1qZHRPbktn?oc=5)**
-> <small>投资界 · 国内 · 16:13</small>
-> 恺望数据完成逾亿元新一轮战略融资，亦庄产业基金、华方资本、天际资本联合领投 投资界
+> **10. [贝联珠贯完成A轮超亿元融资，阿里云领投 - 投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1GeGtOOXZ6RlZHdUNUNzNxaUVYb1RvT2pFMW9QbzNPaktBNTFnckJXUktQcUpDNDhXWkZlQ1JENGRfbm0xeGFmRDdFMTk2VktyT0pqanVR?oc=5)**
+> <small>投资界 · 国内 · 10:31</small>
+> 贝联珠贯完成A轮超亿元融资，阿里云领投 投资界
 >
 
 > [!warning] 抓取失败但不影响成稿的来源
-> 36氪 (ParseError)、AltAssets (HTTPError)
+> 36氪 (ParseError)
 
 #daily-news
 <!-- daily-news-digest:end -->
