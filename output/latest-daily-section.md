@@ -16,75 +16,79 @@
 > <small>CNBC Finance · 国际 · 19:30</small>
 > With the rise of secondary markets and a stronger liquidity environment, more companies are choosing to stay private for longer, according to experts.
 >
-> **3. [通胀压力压倒增长担忧，欧洲央行近三年来首次加息 - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1zMTJNOGVCemd3ZnhBazZHeHNxeFVWU0VBdTZ4UGE1anYzRVBuUEh1Q3dVVkpkVC1jaHZjUkw5TTBMaHpUTkE4SHFEbE1aQlhBS05V?oc=5)**
-> <small>第一财经 · 国内 · 08:02</small>
-> 通胀压力压倒增长担忧，欧洲央行近三年来首次加息 第一财经
+> **3. [Unitree's Shanghai IPO more than 8,000 times oversubscribed by retail investors - Reuters](https://news.google.com/rss/articles/CBMizAFBVV95cUxNSFd0LTVPY3VyelFHbjNxek1ZdXpoY0JfZWdQWUkwODY5bFVrS3VCcE9ybnBjZGZVX0QzYnAwTkd0c0YtVTdoTlVyMGNRYUh2U3F5eWtDVjVibmFUVXk0Z0xoZDlSelVWOFd0YmFuaVYyZU5BZENHc1dwcDkyMldvcWJHSXF1ZUpzRVlRWEU1RmNBc1Rwdm11b09yZ3lXcU9kb0swUC1tXzBsaER0X0c5UFpna2d2dDdnSzBBNEdzOXdIbzAwTTN4WUlURUY?oc=5)**
+> <small>Reuters · 国际 · 00:44</small>
+> Unitree's Shanghai IPO more than 8,000 times oversubscribed by retail investors Reuters
 >
-> **4. [The Bond Market Is Signaling Rising Risks. Investors Should Listen.](https://www.nytimes.com/2026/08/07/business/bonds-stocks-federal-reserve-interest-rates.html)**
+> **4. [来论｜为何A股退市制度改革总是不达预期？ - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1RTzFCb2hGT3JmYnp2SldxS1RTU1pDRVZNOHJVdGFGWUpuRHQzOEo0cjc4WkNPQXR1MnR0MUhQRHRFb2MzMTRmMHNtQW9iaUVQTVB5blJhb1hiX1NPbzN3UjBB?oc=5)**
+> <small>财新 · 国内 · 16:07</small>
+> 来论｜为何A股退市制度改革总是不达预期？ 财新
+>
+> **5. [下周外盘看点丨美联储领衔央行超级周，中东战火如何冲击欧美一季度GDP - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9VN0lkYmJYeDdLNjZ2aXlLSXpYaXBmZG9seVFyNnpISEFpM0dqRVczbEtFeEpQQkVtdWtCdGlDTmpUTGNJM0xESmNwUHNmTTJZN244?oc=5)**
+> <small>第一财经 · 国内 · 03:09</small>
+> 下周外盘看点丨美联储领衔央行超级周，中东战火如何冲击欧美一季度GDP 第一财经
+>
+> **6. [The Bond Market Is Signaling Rising Risks. Investors Should Listen.](https://www.nytimes.com/2026/08/07/business/bonds-stocks-federal-reserve-interest-rates.html)**
 > <small>NYTimes Business · 国际 · 00:58 · `可能需订阅`</small>
 > While the Fed didn’t raise rates, the bond market did. That means hardship for home buyers and higher hurdles for A.I. data centers and the stock market. But it’s also a boon for retirees.
 >
-> **5. [China’s Unitree Prices IPO in Bet Investors Are Ready for Humanoid Robots](https://www.nytimes.com/2026/08/06/business/china-unitree-ipo-robot.html)**
+> **7. [China’s Unitree Prices IPO in Bet Investors Are Ready for Humanoid Robots](https://www.nytimes.com/2026/08/06/business/china-unitree-ipo-robot.html)**
 > <small>NYTimes Business · 国际 · 16:10 · `可能需订阅`</small>
 > Unitree Robotics wants to raise about $900 million in an I.P.O. that tests market interest in humanoid robots, a technology that wows but has yet to prove its viability.
 >
-> **6. [Will US inflation be cool enough to trim bets on a September rate rise? - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNV1I1eXI5MzI3MUVrM2x6c1hmQjNBS1lTNGVrbi1ERWh2TGJiSzVxY3pZcU0xU3RkdjhxYmxfY2pkR05ULUlwN0U0S2YtU1hvMTB6Tkp0a0hGNC1TUEdvUU5YQjJLbTE5aGg5eks5UGpBU25jMFlnZFE0bEJqM21RTGdtX2w?oc=5)**
-> <small>Financial Times · 国际 · 19:00 · `可能需订阅`</small>
-> Will US inflation be cool enough to trim bets on a September rate rise? Financial Times
+> **8. [Unitree’s Shanghai IPO 5,526 Times Subscribed by Retail Buyers - Bloomberg.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxQQXUxSURENi0xdzIzME54OW9lYk1Wc0h4dzFlLUdReUhWWnNEbzBjMm1nbkx5Z2s3RHd6LXVMTnJ3TXdMY0MxT1lnMGs0T1JMQ2RkNXdPdzZ5bmVHT3had05Ga1lnVU5FWmYzMkkwQzkxRnY5bmFnN08yR2NoeU9PM2V5TnBndGVKRUdRX3VjMHpIXzZwdG9SZDBMeHNmRUt5WWhBTWx4dDNRMDBkX1BKRE1LUQ?oc=5)**
+> <small>Bloomberg.com · 国际 · 07:58 · `可能需订阅`</small>
+> Unitree’s Shanghai IPO 5,526 Times Subscribed by Retail Buyers Bloomberg.com
 >
-> **7. [患癌后，财经作家叶檀如何与生命和解？｜带着问题去读书 - 财新](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBTYVczcHFaM3ZaNTV6SUY2dVBDTzlLaFRLZjRsbVVOV1NwR2IwNzV6dVNoSlUySnF4OUxpUUpZVVdTd1pSWU1VS2Y4dzZZVmFfMVd0X01hRFBJSl9SU0E?oc=5)**
+> **9. [央行“十五五”改革发展规划落地，部署五大核心任务 - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5tb21sZGEyNGFDd1owbHpNUXlkOHo0RXlMWVJkbGJ4SGpoRU5IWnhEa1FNY29mT1BJempKVkpSVnF1RjNob3dCelFodmRYNENtS0Zj?oc=5)**
+> <small>第一财经 · 国内 · 21:01</small>
+> 央行“十五五”改革发展规划落地，部署五大核心任务 第一财经
+>
+> **10. [患癌后，财经作家叶檀如何与生命和解？｜带着问题去读书 - 财新](https://news.google.com/rss/articles/CBMic0FVX3lxTE9CSGpsREpWVl9oZ2dhQ0pxcTkwSlBJU2RTa0ZIOUdYTTlLb0c1UFk4MkdWVl9OcE54QV9QM21GZll4RncwQUJJSVlYb1dVei1FbkZvb2xuVnJubzlQZ1pNOHFkekZaVktuSjZJVUlncWo5YnM?oc=5)**
 > <small>财新 · 国内 · 14:55</small>
 > 患癌后，财经作家叶檀如何与生命和解？｜带着问题去读书 财新
 >
-> **8. [Investors return to European stocks as strong earnings lift Iran war gloom - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNVGJMWGE4aUhFdU91NmlrREFnMnVPa2N1WlFHaE9VdV9nU0hzQXRKZjNmM1BHRVFRYjBhdXl0X2p3cG13QUhvS0pFQXZ1VnVaYnJKWUk2NU5uZFExU3BEd00tMUphaVcwTkNKMURaUjhwMFE4Z2k5OV9VRk9PRnc1VnVMck4?oc=5)**
-> <small>Financial Times · 国际 · 12:03 · `可能需订阅`</small>
-> Investors return to European stocks as strong earnings lift Iran war gloom Financial Times
->
-> **9. [海外金融专才回流香港 外籍工作签证翻倍 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1HVHBBNEg0eldGYzJKcGpXbUpEeWZFNjRpcFA5MGdVTllMbEJIMGpjVmNjNzN6X050ejhnUDlER3daSFQtNHBXanVUSVo4UGc2M3hwWElyalRYR2FnUXRKUUlB?oc=5)**
-> <small>财新 · 国内 · 20:14</small>
-> 海外金融专才回流香港 外籍工作签证翻倍 财新
->
-> **10. [中秋国庆出境长线游预订“抢跑” 欧洲、美加墨、澳新等成热门目的地平台：库存产品基本售罄| 一探 - 第一财经](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ZdEJWUFNoSFh5LUF4MHZ1UFZlWFhqR2UteWMzUVVWQlNnVWF1eDN6aTZ5WFhkZDVta3hkeVBBQ01DTjJlYVJ2SXZCSjBHczZleXY3Tg?oc=5)**
-> <small>第一财经 · 国内 · 04:45</small>
-> 中秋国庆出境长线游预订“抢跑” 欧洲、美加墨、澳新等成热门目的地平台：库存产品基本售罄| 一探 第一财经
->
 
 > [!example] 科技 / AI
-> 9/10 · 国内 1 / 国际 8
+> 10/10 · 国内 1 / 国际 9
 >
-> **1. [Here’s why AI agents lie and cheat to reach their goals](https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/)**
-> <small>MIT Technology Review · 国际 · 16:30</small>
-> MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI models hacked into the website Hugging Face…
+> **1. [AI for science needs reasoning, not just data](https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/)**
+> <small>MIT Technology Review · 国际 · 17:00</small>
+> Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the “facts of physical science have all been discovered.” In the 1980s, Stephen Hawking predicted that theore…
 >
-> **2. [Trump’s AI protectionism has come for robotics](https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/)**
-> <small>MIT Technology Review · 国际 · 02:43</small>
-> This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite advance…
+> **2. [AI professors are negotiating the new realities of academic research](https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/)**
+> <small>MIT Technology Review · 国际 · 04:00</small>
+> This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last week, I headed 30 miles south of San Francisco to a hotel in Mountain View, California, to join…
 >
-> **3. [OpenAI says it slowed Astra model development over security concerns](https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/)**
-> <small>TechCrunch · 国际 · 06:48</small>
-> OpenAI said this model, which is still in development, reached its "critical cybersecurity threshold," meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.
+> **3. [Nvidia partners with Wall Street giants to raise $500 billion for AI buildout - Reuters](https://news.google.com/rss/articles/CBMixAFBVV95cUxNNC15TDEteDI0VXNtbnFkb016anJWMDJqVHRSTDlRNVNkTXFIS2NVWWlDVVVldmN1Qld0ZWIyeXowZ3d6WkFQR2YtQWN6SUU1Tzl3VFR2YmphekZzUWtCZGpsQmFWQVR4bzhEdGI1Tkxfby15cy1xVWVhWXYzQUU5WTlYWDRHc2d1azhzYXJaMHcyeGxJT0pBdU5RRXpfZG15QTJrdmRBd3hrSnlDLV9wTUdiU3U5NW5PYXBUbGJoZEdmVHBY?oc=5)**
+> <small>Reuters · 国际 · 04:40</small>
+> Nvidia partners with Wall Street giants to raise $500 billion for AI buildout Reuters
 >
-> **4. [Cloudflare launches Kitesurf, a browser built for AI agents](https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/)**
-> <small>TechCrunch · 国际 · 00:16</small>
-> Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.
+> **4. [As AI-led attacks multiply, OpenAI launches a new cyber model](https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/)**
+> <small>TechCrunch · 国际 · 07:56</small>
+> OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it.
 >
-> **5. [China’s Unitree Prices IPO in Bet Investors Are Ready for Humanoid Robots](https://www.nytimes.com/2026/08/06/business/china-unitree-ipo-robot.html)**
-> <small>NYTimes Technology · 国际 · 16:10 · `可能需订阅`</small>
-> Unitree Robotics wants to raise about $900 million in an I.P.O. that tests market interest in humanoid robots, a technology that wows but has yet to prove its viability.
+> **5. [Discovered Materials is playing AI whack-a-mole to hunt cooler chips](https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/)**
+> <small>TechCrunch · 国际 · 20:00</small>
+> Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips.
 >
-> **6. [An Amazon data center could have the worst polluting power plant in the country](https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant)**
-> <small>The Verge · 国际 · 20:36</small>
-> To power its new West Texas data center, Amazon is investing in the construction of a new power plant that could be one of the largest single producers of greenhouse gases in the US, according to the New York Times. The new gas-burning pla…
+> **6. [A.I.-Driven Chip Crunch Leads to New Rush of Lobbying in Washington](https://www.nytimes.com/2026/08/10/technology/memory-chip-shortage-ai.html)**
+> <small>NYTimes Technology · 国际 · 17:02 · `可能需订阅`</small>
+> As data centers gobble up memory chips, other industries that need the components, including electronics companies like Apple and medical device makers, are asking for government help.
 >
-> **7. [Is this $450 laptop from an unknown brand too good to be true?](https://www.theverge.com/tech/977031/chuwi-unibook-laptop-intel-wildcat-lake-review)**
-> <small>The Verge · 国际 · 12:23</small>
-> Finding a good laptop under $500 was hard enough before RAMageddon. They nearly always had cheap hardware and underpowered, often outdated chips. That's what made the MacBook Neo so disruptive: It offered great build quality and good-enoug…
+> **7. [Mark Zuckerberg doesn’t understand how to live](https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision)**
+> <small>The Verge · 国际 · 06:47</small>
+> Recently, a man I was rock climbing with told me about how he'd used AI to make a motivational poster for himself, which he'd hung on his bedroom wall: a bear, walking a slackline over a canyon, holding a sign that said, "Do cool shit." I…
 >
-> **8. [New Amazon Data Center Stokes Worry It Would Be the Most Polluting Power Plant in the U.S.](https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html)**
-> <small>NYTimes Technology · 国际 · 02:17 · `可能需订阅`</small>
+> **8. [Four takeaways from Mark Zuckerberg’s massive AI manifesto](https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble)**
+> <small>The Verge · 国际 · 06:10</small>
+> Meta CEO Mark Zuckerberg has a lot to say about the idealized future he now envisions for humanity co-existing with artificial intelligence - his latest essay spans more than 6,500 words on the matter. The lengthy manifesto Zuckerberg publ…
+>
+> **9. [New Amazon Data Center Stokes Worry It Would Be the Most Polluting Power Plant in the U.S.](https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html)**
+> <small>NYTimes Technology · 国际 · 21:38 · `可能需订阅`</small>
 > The tech giant is investing in the natural-gas-burning power plant as part of a huge data center in Texas, even as it pledges to honor climate commitments.
 >
-> **9. [宇树科技IPO：会翻跟头的机器人能吸引投资者吗？ - 纽约时报中文网](https://news.google.com/rss/articles/CBMic0FVX3lxTE5YWVphWlpkMmt5dUZ6V1ZxVnN3aGNNRUNJSkROdFUxNWtiX1VxdmRrRnpLMVZzcWJKUEdJTWpHSGtGOVgyX3Jadk1aSm9RbFV5djhHX2FVclo2d2FsbDZkMjNSaWYyal9PZ2lDdTMyamJObTQ?oc=5)**
+> **10. [宇树科技IPO：会翻跟头的机器人能吸引投资者吗？ - 纽约时报中文网](https://news.google.com/rss/articles/CBMic0FVX3lxTE5YWVphWlpkMmt5dUZ6V1ZxVnN3aGNNRUNJSkROdFUxNWtiX1VxdmRrRnpLMVZzcWJKUEdJTWpHSGtGOVgyX3Jadk1aSm9RbFV5djhHX2FVclo2d2FsbDZkMjNSaWYyal9PZ2lDdTMyamJObTQ?oc=5)**
 > <small>纽约时报中文网 · 国内 · 10:33 · `可能需订阅`</small>
 > 宇树科技IPO：会翻跟头的机器人能吸引投资者吗？ 纽约时报中文网
 >
@@ -100,9 +104,9 @@
 > <small>Private Equity International · 国际 · 19:12</small>
 > In today's edition, Mega-firms are largely defying fundraising and exit headwinds; OMERS is plotting a fivefold increase of its PE portfolio; Carry communication (or a lack thereof) is causing headaches for staff.
 >
-> **3. [New Jersey sees opportunity in slow exit market](https://www.privateequityinternational.com/new-jersey-sees-opportunity-in-slow-exit-market/)**
-> <small>Private Equity International · 国际 · 19:11</small>
-> Shoaib Khan, CIO and director of the New Jersey Division of Investment, says re-ups and new opportunities are being looked at on equal footing, despite being spared liquidity concerns.
+> **3. [Side Letter: Secondaries divergence](https://www.privateequityinternational.com/side-letter-secondaries-divergence/)**
+> <small>Private Equity International · 国际 · 21:37</small>
+> In today's edition, Continuation fund activity outstrips traditional secondaries activity; New ESG rules could have a chilling effect on private markets; An APAC rainmaker resurfaces at an international GP.
 >
 > **4. [Europe’s IPO window is open – but PE firms face a shrinking pool of public market exits](https://www.altassets.net/featured/europes-ipo-window-is-open-but-pe-firms-face-a-shrinking-pool-of-public-market-exits.html)**
 > <small>AltAssets · 国际 · 18:03</small>
@@ -116,9 +120,9 @@
 > <small>PE Hub · 国际 · 05:08</small>
 > E-Pharma Trento will possibly explore bolt-on acquisitions to add new technologies or enhance its manufacturing capacity. The post Wise Equity inks agreement to acquire E-Pharma Trento appeared first on PE Hub .
 >
-> **7. [时隔5年，港股IPO规模再次突破3000亿港元！产业资本、知名外资频频出手 - 证券时报](https://news.google.com/rss/articles/CBMiXEFVX3lxTE4yQkx1MUhKRWx3Wlh3di16NkEwNV9GcEkyTXdXbVRndDJjd1hxUEdDNmtRNXVIN3Zuc2p3VFlzWk9tMEo2OEMxUWxmejJfbGtzYU5oTmgwbG9YYlFx?oc=5)**
-> <small>证券时报 · 国内 · 20:38</small>
-> 时隔5年，港股IPO规模再次突破3000亿港元！产业资本、知名外资频频出手 证券时报
+> **7. [46只新基金，“同台竞技”！ - 证券时报](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5nanpmVlJpS3ZOSGtyT3Jtc2w5TzF6OXlKOE9iWS1OQjExUE5vQ1U1UVNVRHhOTWV4U29uOW0yWWV0OFBISVgyZkdPemh3OHE5ODZxQ2xOeFAzQ3V6?oc=5)**
+> <small>证券时报 · 国内 · 07:29</small>
+> 46只新基金，“同台竞技”！ 证券时报
 >
 > **8. [港股IPO七年之最！中际旭创发行规模刷新纪录 业内：市占率高 有向上空间︱港股直通车 - 第一财经](https://news.google.com/rss/articles/CBMiVEFVX3lxTE1nMGVtUk5MT3RhUGNhOTVrdzNMa19TWDJfRjgxVjdZWk42ZDNwYm5hSENZbEVnM01vNkh3cXlNV1FsclZBTDNzOFBkalB4MDhmTV9Mag?oc=5)**
 > <small>第一财经 · 国内 · 15:43</small>
@@ -129,7 +133,7 @@
 > 投资界LP周报 | 广东千亿母基金开始了 投资界
 >
 > **10. [贝联珠贯完成A轮超亿元融资，阿里云领投 - 投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1GeGtOOXZ6RlZHdUNUNzNxaUVYb1RvT2pFMW9QbzNPaktBNTFnckJXUktQcUpDNDhXWkZlQ1JENGRfbm0xeGFmRDdFMTk2VktyT0pqanVR?oc=5)**
-> <small>投资界 · 国内 · 10:31</small>
+> <small>投资界 · 国内 · 15:00</small>
 > 贝联珠贯完成A轮超亿元融资，阿里云领投 投资界
 >
 
