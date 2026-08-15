@@ -28,101 +28,101 @@
 > <small>CNBC Finance · 国际 · 06:35</small>
 > Since taking office in May, Warsh has implemented several measures that reverse decades of Fed culture.
 >
-> **6. [Inflation Eased Slightly in July, but Prices Remain Elevated as War Drags On](https://www.nytimes.com/2026/08/12/business/economy/cpi-report-july-inflation-data.html)**
+> **6. [稳汇率还是保财政？日本央行的两难抉择 - 第一财经](https://news.google.com/rss/articles/CBMiVEFVX3lxTE51ZnNFMVQ2NkVWVE95NnM0NU1ucXVERERteFR0R3pWNmxKN3BIOWlYcXNjN0haa0VwOXBHczZDa3hzM3I2TzR1VVFoS0NjTEgyVHpzMw?oc=5)**
+> <small>第一财经 · 国内 · 05:12</small>
+> 稳汇率还是保财政？日本央行的两难抉择 第一财经
+>
+> **7. [Inflation Eased Slightly in July, but Prices Remain Elevated as War Drags On](https://www.nytimes.com/2026/08/12/business/economy/cpi-report-july-inflation-data.html)**
 > <small>NYTimes Business · 国际 · 02:04 · `可能需订阅`</small>
 > Though energy prices fell last month after their spring surge, other factors pushed up costs as the Fed considers raising interest rates.
 >
-> **7. [Benign Inflation Data Offers Reprieve to Fed as It Weighs Rate Increase](https://www.nytimes.com/2026/08/12/business/economy/inflation-federal-reserve-interest-rates.html)**
+> **8. [Benign Inflation Data Offers Reprieve to Fed as It Weighs Rate Increase](https://www.nytimes.com/2026/08/12/business/economy/inflation-federal-reserve-interest-rates.html)**
 > <small>NYTimes Business · 国际 · 22:08 · `可能需订阅`</small>
 > The latest Consumer Price Index report helped to reinforce the patient approach adopted by many officials at the Federal Reserve about raising rates, but it has not resolved the debate altogether.
 >
-> **8. [Boston Fed's Collins open to interest rate increase in September, FT says - Reuters](https://news.google.com/rss/articles/CBMirwFBVV95cUxPcGUyZmJIeWMtdmt1TERfLWtKOFJUX0tVc2ZaTTdYVkFlZXVzM21nTUFSeHQ5dWxKU3h2b0xNU21vWTlSeGc4cmptcXlRRmhraXVzWXlMUk9RNTRFWTVmOXdvLTVzMTBBTENwYjNjVWpQT2hzZDFuWU5kUE9Db01sOWVhVFEwdGRZZlJxczdNZkRudk1VVDdDd0w3bjhYX3lBTk1DalZLVjU1bm1kMzNF?oc=5)**
+> **9. [Boston Fed's Collins open to interest rate increase in September, FT says - Reuters](https://news.google.com/rss/articles/CBMirwFBVV95cUxPcGUyZmJIeWMtdmt1TERfLWtKOFJUX0tVc2ZaTTdYVkFlZXVzM21nTUFSeHQ5dWxKU3h2b0xNU21vWTlSeGc4cmptcXlRRmhraXVzWXlMUk9RNTRFWTVmOXdvLTVzMTBBTENwYjNjVWpQT2hzZDFuWU5kUE9Db01sOWVhVFEwdGRZZlJxczdNZkRudk1VVDdDd0w3bjhYX3lBTk1DalZLVjU1bm1kMzNF?oc=5)**
 > <small>Reuters · 国际 · 12:19</small>
 > Boston Fed's Collins open to interest rate increase in September, FT says Reuters
 >
-> **9. [茅台自营店涨价“小步快跑” 经销商利润仍在“原地踏步” 生意全靠客户回购撑着如何走出“二道贩子”困局？︱一探 - 第一财经](https://news.google.com/rss/articles/CBMiVEFVX3lxTE1vYTJjTVNKeldKbldrTFI2OWNWbTBWZ1gyS3lDLXFNMjZDVGx0Nmo3V2VuWkV3ckVxQ0VaTEZyTXNjLXBSSnVQUEp2ZTBiRHd3RVctQQ?oc=5)**
-> <small>第一财经 · 国内 · 19:50</small>
-> 茅台自营店涨价“小步快跑” 经销商利润仍在“原地踏步” 生意全靠客户回购撑着如何走出“二道贩子”困局？︱一探 第一财经
->
-> **10. [国内首个超大规模AI超节点走上公共云大模型算力“向西走” 阿里云灵骏真武M890超节点为何落地乌兰察布？ - 第一财经](https://news.google.com/rss/articles/CBMiVEFVX3lxTE5QdkRKNmtoUDlNSzkyaEVoTWg4SjREUkNNUGtKeEl2UnZXWFVvMElod0ZLWFh2RUtGSDZ3Zk1SdU9xbG85UWRFbEx3d3lxeHExNGRyTQ?oc=5)**
-> <small>第一财经 · 国内 · 15:18</small>
-> 国内首个超大规模AI超节点走上公共云大模型算力“向西走” 阿里云灵骏真武M890超节点为何落地乌兰察布？ 第一财经
+> **10. [资本市场科技金融“苏州样本”崛起：科创债“园区板块”先行先试立标杆 - 证券时报](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9JU0xNLWh4TUt1b3dTQlpPNkVxbVBrYnA0S09WVHJOdzI3T1ZXRkVEaEZuZVdHc2UwMmEtblptY2JnYV9xUUlud1BMTWVGcDJXTE9rdWdRaTVkYXVL?oc=5)**
+> <small>证券时报 · 国内 · 13:43</small>
+> 资本市场科技金融“苏州样本”崛起：科创债“园区板块”先行先试立标杆 证券时报
 >
 
 > [!example] 科技 / AI
-> 9/10 · 国内 0 / 国际 9
+> 9/10 · 国内 1 / 国际 8
 >
 > **1. [How kids feel about AI, in their own words](https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/)**
 > <small>MIT Technology Review · 国际 · 17:00</small>
 > When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers opened up CliffsNotes or programmed formul…
 >
-> **2. [Scaling AI agents with trustworthy data](https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/)**
-> <small>MIT Technology Review · 国际 · 00:51</small>
-> Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology’s potential to transform work. But many organizations find that real…
+> **2. [China's Z.ai says new model nears Anthropic's Mythos 5 in cyber-defence tests - Reuters](https://news.google.com/rss/articles/CBMiugFBVV95cUxNS1MtSVJMY0p5blN0MUdSV0xMMmE1NzdWdVJYUjh0cTdCNVJyOXRLVmtId004V0xIc2FyVS1IRk5laFR1MHBKemVhcWV0SGxWZkVJUGM0V2t6d214Zlg1QUFQam1aS1RoanhfOXR3dzNmWmN3enhDWWpDZ1poT1JJek92Q0tIU2ZvdVR1VTlWcEdtZVZSVmVEa1BKV29XaHIwdHVoTHFJUDhkc0pveVpidEtOcE5walIyM1E?oc=5)**
+> <small>Reuters · 国际 · 20:53</small>
+> China's Z.ai says new model nears Anthropic's Mythos 5 in cyber-defence tests Reuters
 >
-> **3. [OpenAI is losing its second executive this week](https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure)**
-> <small>The Verge · 国际 · 03:28</small>
-> Another OpenAI executive is departing. Denise Dresser, who joined OpenAI as its chief revenue officer in December after serving as CEO of Slack, will be leaving in the "coming weeks" to "pursue other opportunities," she said in a team note…
+> **3. [Hyperscalers might regret embracing natural gas if new forecast proves correct](https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/)**
+> <small>TechCrunch · 国际 · 22:05</small>
+> Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers.
 >
 > **4. [OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed](https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/)**
 > <small>TechCrunch · 国际 · 03:22</small>
 > OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.
 >
-> **5. [IBM partners with OpenAI to bolster enterprise AI push](https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/)**
-> <small>TechCrunch · 国际 · 03:19</small>
-> IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.
->
-> **6. [‘The Worst I’ve Ever Seen’: Cargo Thefts Have Turned Violent in Pursuit of AI Hardware - wired.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxPczZWSV9TSlZVUWZpTlU0NGRheXQxcTdKNHhianhWYWwzcEdGS183VjBWME43WlNUaEphUTZzZ0pnUEdQeDRtcUNMYmcya1M1b282M1lieXFlNzRmQ2dPNTRRMDg4Q2FIdmtiNFdCN2R2aFBUdXpFRFJWYVRIcE94UTFraVU2ZWpZZzBRWWZSYjJ3Y3BwUTFoQWJOZ3NFRzBXdVBKOFJHSWhCM3djTHFsdW9n?oc=5)**
-> <small>wired.com · 国际 · 18:00</small>
-> ‘The Worst I’ve Ever Seen’: Cargo Thefts Have Turned Violent in Pursuit of AI Hardware wired.com
->
-> **7. [Another OpenAI Executive, Denise Dresser, Departs the A.I. Start-Up](https://www.nytimes.com/2026/08/13/technology/openai-executive-departure-denise-dresser.html)**
+> **5. [Another OpenAI Executive, Denise Dresser, Departs the A.I. Start-Up](https://www.nytimes.com/2026/08/13/technology/openai-executive-departure-denise-dresser.html)**
 > <small>NYTimes Technology · 国际 · 05:15 · `可能需订阅`</small>
 > Denise Dresser, who was previously the C.E.O. of Slack, is the latest in a string of executives to leave the artificial intelligence start-up.
 >
-> **8. [Brad Lightcap, a Top OpenAI Executive, Steps Down](https://www.nytimes.com/2026/08/11/technology/brad-lightcap-openai.html)**
+> **6. [Brad Lightcap, a Top OpenAI Executive, Steps Down](https://www.nytimes.com/2026/08/11/technology/brad-lightcap-openai.html)**
 > <small>NYTimes Technology · 国际 · 06:07 · `可能需订阅`</small>
 > Brad Lightcap, a longtime leader, said he was starting a new venture. His exit from the artificial intelligence company is the latest in a series there.
 >
-> **9. [Trump declares 100 percent tariffs on many drones and all aircraft parts](https://www.theverge.com/policy/979977/trump-declares-100-percent-tariffs-on-many-drones-and-all-aircraft-parts)**
-> <small>The Verge · 国际 · 09:13</small>
-> The United States has already banned future foreign drones from entering the United States unless their companies kiss the ring - as well as routers, robots, and Roombas. Now, President Donald Trump is targeting existing drone imports and…
+> **7. [You can now turn off Google Gemini’s visible watermarks](https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal)**
+> <small>The Verge · 国际 · 00:49</small>
+> Google will now allow you to remove visible watermarks from the images, videos, and music made with AI tools. With the update, you can toggle off a new "Media watermark" setting in Gemini and Google's AI video generator, Flow. When toggled…
+>
+> **8. [The MSI Claw EX is the most important PC handheld since Steam Deck — I still wouldn’t buy one](https://www.theverge.com/games/977646/msi-claw-8-ex-review-intel-panther-lake-handheld)**
+> <small>The Verge · 国际 · 22:31</small>
+> As The Verge's resident handheld reviewer, I have nearly every portable gaming PC on a shelf in my house. The MSI Claw 8 EX AI Plus is now the first one I reach for. Thanks to a next-gen Intel chip and improved MSI design, the Claw EX is t…
+>
+> **9. [AI｜三条路线、一个赛点，谁能在AI视频的万亿牌局中笑到最后？ - 36氪出海](https://news.google.com/rss/articles/CBMiRkFVX3lxTE93X1NvaU5QOWoxRE1kYmJTMjdCWmJvb2t4eVhwTElidWNmM3Z4YjV6MG04RDF3ZmJTalREQzV2c01va1d5M1E?oc=5)**
+> <small>36氪出海 · 国内 · 15:26</small>
+> AI｜三条路线、一个赛点，谁能在AI视频的万亿牌局中笑到最后？ 36氪出海
 >
 
 > [!tip] 私募股权 / 投资市场
 > 10/10 · 国内 3 / 国际 7
 >
-> **1. [How the top LPs benchmark their PE investments](https://www.buyoutsinsider.com/how-the-top-lps-benchmark-their-pe-investments/)**
-> <small>Buyouts · 国际 · 21:00</small>
-> Analysis by affiliate title Private Equity International exposes the immense variety in benchmarking approaches from 20 of private equity's largest investors.
+> **1. [Ontario Teachers’ venture growth helps drive 9.5% first-half return, pension fund tops C$300bn in assets](https://www.altassets.net/private-equity-news/by-region/north-america-by-region/canada-north-america-by-region/ontario-teachers-venture-growth-helps-drive-9-5-first-half-return-pension-fund-tops-c300bn-in-assets.html)**
+> <small>AltAssets · 国际 · 22:27</small>
+> Ontario Teachers’ Pension Plan posted a 9.5% net return for the first six months of 2026, with its venture growth portfolio emerging as the largest contributor to performance as the Canadian pension fund’s assets surpassed C$300bn. The pos…
 >
-> **2. [LA Fire and Police Pension reaffirms conviction in lower mid-market, emerging managers](https://www.privateequityinternational.com/la-fire-and-police-pension-reaffirms-conviction-in-lower-mid-market-emerging-managers/)**
-> <small>Private Equity International · 国际 · 22:29</small>
-> Head of PE at $38bn pension system believes portfolio’s distributions have fared well in a difficult period for LPs with hefty PE allocations.
->
-> **3. [Ex-APG PE veteran on how pensions can better assess performance](https://www.privateequityinternational.com/ex-apg-pe-veteran-on-how-pensions-can-better-assess-performance/)**
-> <small>Private Equity International · 国际 · 22:13</small>
-> Internal asset class evaluations and specific goal assessments are key when looking at performance, John Renkema, who spent more than two decades at the Dutch pension giant, tells PEI.
->
-> **4. [LAFPP reaffirms conviction in lower mid-market, emerging managers despite portfolio underperformance](https://www.buyoutsinsider.com/lafpp-reaffirms-conviction-in-lower-mid-market-emerging-managers-despite-portfolio-underperformance/)**
-> <small>Buyouts · 国际 · 03:45</small>
-> Head of PE at $38bn pension system believes portfolio’s distributions have fared well in a difficult period for LPs with hefty PE allocations.
->
-> **5. [Nextalia secures €1.1bn first close for second flagship buyout fund, platform tops €3.4bn AUM](https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/italy-western-europe-europe-by-region/nextalia-secures-e1-1bn-first-close-for-second-flagship-buyout-fund-platform-tops-e3-4bn-aum.html)**
-> <small>AltAssets · 国际 · 22:14</small>
-> Italy-focused private markets manager Nextalia has held a €1.1bn first close for its second flagship private equity fund, securing one of the country's largest pools of capital dedicated to mid-market buyouts just five months after launchi…
->
-> **6. [Resurgens Technology Partners invests in quality compliance platform Qarma](https://www.pehub.com/resurgens-technology-partners-invests-in-quality-compliance-platform-qarma/)**
-> <small>PE Hub · 国际 · 22:18</small>
-> Platform has generated quality data across thousands of brands to power predictive AI tools Resurgens to help accelerate Qarma’s AI roadmap and international expansion Co-founders Jacob Nedergaard and Søren Mønsted remain in place as CEO a…
->
-> **7. [Apax to sell food supply chain logistics provider Tosca to Goldman Sachs Alternatives](https://www.pehub.com/apax-to-sell-food-supply-chain-logistics-provider-tosca-to-goldman-sachs-alternatives/)**
-> <small>PE Hub · 国际 · 19:38</small>
-> Apax acquired Tosca in 2017. jjkkkk The post Apax to sell food supply chain logistics provider Tosca to Goldman Sachs Alternatives appeared first on PE Hub .
->
-> **8. [46只新基金，“同台竞技”！ - 证券时报](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5nanpmVlJpS3ZOSGtyT3Jtc2w5TzF6OXlKOE9iWS1OQjExUE5vQ1U1UVNVRHhOTWV4U29uOW0yWWV0OFBISVgyZkdPemh3OHE5ODZxQ2xOeFAzQ3V6?oc=5)**
+> **2. [46只新基金，“同台竞技”！ - 证券时报](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5nanpmVlJpS3ZOSGtyT3Jtc2w5TzF6OXlKOE9iWS1OQjExUE5vQ1U1UVNVRHhOTWV4U29uOW0yWWV0OFBISVgyZkdPemh3OHE5ODZxQ2xOeFAzQ3V6?oc=5)**
 > <small>证券时报 · 国内 · 07:29</small>
 > 46只新基金，“同台竞技”！ 证券时报
+>
+> **3. [Breakingviews - Buyout aviators flag under-the-radar airline value - Reuters](https://news.google.com/rss/articles/CBMisAFBVV95cUxQZUJFcFNCZTJhX1BQUTZNZ2tSRDY0dl9ISDM3YUNmYVd0N21LalZEMGZxdy1yRDBlZVNfVDBIajhVMk5pX2w0S2tCQ1lLU2lMUkd1eV9kY1NIV3h0bktDSENaZzNIcUJrbUJXZjJLNll6aGtINWc1NGl1TE1wVzc0M3BfWlVYWGNSTnVFRlVXR3hKMlF5VTBFODhJZkJhNm5qT2hneXFJY3J0SmJiMUJsZw?oc=5)**
+> <small>Reuters · 国际 · 19:59</small>
+> Breakingviews - Buyout aviators flag under-the-radar airline value Reuters
+>
+> **4. [Apollo S3 doubles down on GP-led secondaries with Monogram continuation vehicle for Mountaintop Beverage](https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/apollo-s3-doubles-down-on-gp-led-secondaries-with-monogram-continuation-vehicle-for-mountaintop-beverage.html)**
+> <small>AltAssets · 国际 · 15:45</small>
+> Apollo S3 has led another single-asset continuation vehicle, backing Monogram Capital Partners' transfer of drinks manufacturer Mountaintop Beverage into a new fund. The post Apollo S3 doubles down on GP-led secondaries with Monogram conti…
+>
+> **5. [Shein IPO pitched to investors at sub-$30bn valuation - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNdmxXU3V6VmJ5cF9HX2Z5d3MyTGt4b3REOG5FMEgyamFkRmlqM2V1ME1adGNxRDVaQm5POTJUOE43SWxfNXo5dFRTRktfNlJseU42aHl3MXdobk9jLU4wR0RkVHhKNHY3ZGJqX2hZQ0VTWk1wMlJmLTd1QnJpazh5a2IzNnk?oc=5)**
+> <small>Financial Times · 国际 · 22:15 · `可能需订阅`</small>
+> Shein IPO pitched to investors at sub-$30bn valuation Financial Times
+>
+> **6. [Nvidia partners with Wall Street giants to raise $500 billion for AI buildout - Reuters](https://news.google.com/rss/articles/CBMixAFBVV95cUxNNC15TDEteDI0VXNtbnFkb016anJWMDJqVHRSTDlRNVNkTXFIS2NVWWlDVVVldmN1Qld0ZWIyeXowZ3d6WkFQR2YtQWN6SUU1Tzl3VFR2YmphekZzUWtCZGpsQmFWQVR4bzhEdGI1Tkxfby15cy1xVWVhWXYzQUU5WTlYWDRHc2d1azhzYXJaMHcyeGxJT0pBdU5RRXpfZG15QTJrdmRBd3hrSnlDLV9wTUdiU3U5NW5PYXBUbGJoZEdmVHBY?oc=5)**
+> <small>Reuters · 国际 · 00:34</small>
+> Nvidia partners with Wall Street giants to raise $500 billion for AI buildout Reuters
+>
+> **7. [Private equity can score top marks with education deals - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNQmM1OE1kOVRxbnZWcDZ6VzhsT1hrenZnMUV6ZllkWGxxckZOQjNpNE0tQWlEQ2FVVDVfZmZNeHFtdHMzeGZHeWwtZl92ZDZfZm9VR2FXOTFhQzN2b080VXk3ZFAxY3FieWNpcGFNM3FkVzFPLWdaNnBEM0JNRXJ6NXc1S00?oc=5)**
+> <small>Financial Times · 国际 · 12:02 · `可能需订阅`</small>
+> Private equity can score top marks with education deals Financial Times
+>
+> **8. [Exclusive | PayPal in Talks to Sell Itself to Stripe, Private-Equity Firm Advent - WSJ](https://news.google.com/rss/articles/CBMihwFBVV95cUxQSHVrdzZiTnAwZy1mRDRhZWp6Z3FTcTlQeVYydmtGWmh3NmkzOWctNlEzYjVPckZzZXUyZklrVlVMWVZ0S3JUX2xTODFmSFhWdkFjLWJaSk1DdGxZTGVrUFRpVHExTzNfZlU1UVlJdnBWTkEzQ2VmMkUwR1kzZVJpeHRpMzBuSUU?oc=5)**
+> <small>WSJ · 国际 · 04:19 · `可能需订阅`</small>
+> Exclusive | PayPal in Talks to Sell Itself to Stripe, Private-Equity Firm Advent WSJ
 >
 > **9. [什方科技完成B轮及B+轮近3亿元融资，专注工业场景功能性涂层数字喷印技术 - 投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1iSFQ2b3doZ3VnYUtXRzNsRE4ydEZJQmtIWldlekVUSE5Hd0hhZUJldEU1bDFXQjh3ckRVeWZtNGlSQXdSUXFjVGNhZHNnQlVUTHNPY0xn?oc=5)**
 > <small>投资界 · 国内 · 08:30</small>
@@ -134,7 +134,7 @@
 >
 
 > [!warning] 抓取失败但不影响成稿的来源
-> 36氪 (ParseError)
+> 36氪 (ParseError)、PE Hub (TimeoutError)、Private Equity International (TimeoutError)、Buyouts (TimeoutError)
 
 #daily-news
 <!-- daily-news-digest:end -->
