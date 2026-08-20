@@ -6,51 +6,51 @@
 > 摘要来自 RSS/新闻源描述，保留原文语言；`可能需订阅` 表示该来源可能有付费墙。
 
 > [!quote] 财经 / 金融
-> 10/10 · 国内 4 / 国际 6
+> 10/10 · 国内 5 / 国际 5
 >
-> **1. [“围猎”IPO手法层出不穷 香港ZD Group爆发兑付危机 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE02N0NBODI0TUFsdlNRaTFuRFgxSlpCbmRtcnBzMDRuLU9wTllleUVsbTh0YUNqWjB1RUo0Z19IY185dlFROV9SbEdBTkpUY2FiY1ppSkRNNUk5MHBLMjJmcGR3?oc=5)**
+> **1. [长江存储完成IPO辅导验收 上市估值预期拉高 - 财新](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5WcTFRZmcyV3pDZlI0NHB4RmJJVUdrTWpZcFowRUN3ejlPYmY4SkNsN2FhZTFrVHVBY3Rjck5RMnk2N3pfcUZlNVlaYlFjcWtCY2pIUkVHc3VvcUxqY0YwcmhVM0w?oc=5)**
+> <small>财新 · 国内 · 07:09</small>
+> 长江存储完成IPO辅导验收 上市估值预期拉高 财新
+>
+> **2. [“围猎”IPO手法层出不穷 香港ZD Group爆发兑付危机 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE02N0NBODI0TUFsdlNRaTFuRFgxSlpCbmRtcnBzMDRuLU9wTllleUVsbTh0YUNqWjB1RUo0Z19IY185dlFROV9SbEdBTkpUY2FiY1ppSkRNNUk5MHBLMjJmcGR3?oc=5)**
 > <small>财新 · 国内 · 07:27</small>
 > “围猎”IPO手法层出不穷 香港ZD Group爆发兑付危机 财新
 >
-> **2. [Breakingviews - Anthropic’s deceleration has some IPO upside - Reuters](https://news.google.com/rss/articles/CBMipwFBVV95cUxQb3doZUhNQk5FRTdHZUw4SWJLRXQzNW1ZQWZQN2d5dEx4TnlxZElOV09UWlZEeDFyaUNzenZ6M1ozcTRvMzdmX3haRkNDdl8ya2JrRUxod2hmQWVRSnJEZldJZW1sRDEwdFctUTlGbnhRalQxakNCTXRkcll2bTQzbF95RzV4NjJtT3RNMEtZWmZEcjloQ1Q4VjBseEhMSTVqWXhPZmk2SQ?oc=5)**
-> <small>Reuters · 国际 · 03:08</small>
-> Breakingviews - Anthropic’s deceleration has some IPO upside Reuters
+> **3. [宇树科技IPO名场面，王兴兴表情极为平静像“打工人”，身价超千亿成90后新首富 - 第一财经](https://news.google.com/rss/articles/CBMiVEFVX3lxTFBCM3Q0cDNfZmJGaXI4ME56T2lGdmN2MGNvX3FVcTNTY3BReXN4eUNkdHFxUlpSSmdoeTlzM0E4bThUR2E2ZnptRmtBS0ltNTdHcjhPMA?oc=5)**
+> <small>第一财经 · 国内 · 22:45</small>
+> 宇树科技IPO名场面，王兴兴表情极为平静像“打工人”，身价超千亿成90后新首富 第一财经
 >
-> **3. [Odds the Fed will hike in September tumble following big July jobs miss](https://www.cnbc.com/2026/08/07/odds-the-fed-hikes-in-september-tumble-following-big-july-jobs-miss.html)**
-> <small>CNBC Finance · 国际 · 21:34</small>
-> A weaker labor market would weaken the case for raising rates, which some members of the central bank have called for amid higher energy prices.
+> **4. [Breakingviews - Nobody knows how to price China IPOs anymore - Reuters](https://news.google.com/rss/articles/CBMipAFBVV95cUxPNHlrZEZPTTZkTm9Ra1dEbTc3SHg4Z1dvRlZ3YXdZWFhhUE54ZVZqcG9qN1NSVW01Mnd0bGdOQ1NLX1JNclB2R0ZabkdlNWdyenR6NEgzZk5NbGVuWkcybzdzalRUTm9WdkFzQTl6NWthZWR0ZHM4bU5CUE41dHNZOHBHM1hpYUZYX3pDZkE0cWNQbU1mRTlxN1ZzYjlNNE1zX1lKMA?oc=5)**
+> <small>Reuters · 国际 · 12:40</small>
+> Breakingviews - Nobody knows how to price China IPOs anymore Reuters
 >
-> **4. [最新财新周刊｜宇树IPO：速度与激情 - 财新周刊](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5xanpkdG11TUpUdnBYLThnT0FRb0w5c3ZFOVJadm5IQk1oYnBXSVZFaXpoaEVTakRNYkIxTTNxYnA3eFo5ZmFrREo2VTFqMnItMF9uQTNaQldxbVU4VFdjcA?oc=5)**
+> **5. [Why Treasury Yields Are Rising, and What That Means for the Economy](https://www.nytimes.com/2026/08/19/business/treasury-bonds-yields-economy.html)**
+> <small>NYTimes Business · 国际 · 06:32 · `可能需订阅`</small>
+> Interest rates on U.S. government bonds can affect everything from auto and student loans to mortgages.
+>
+> **6. [Markets Rally After U.S. Treasury Eases Bond Investor Stress](https://www.nytimes.com/2026/08/19/business/bond-yields-treasury-department.html)**
+> <small>NYTimes Business · 国际 · 04:50 · `可能需订阅`</small>
+> Government bond yields fell and stocks rose on a move by the Treasury Department to double the amount of debt that it can buy back from investors.
+>
+> **7. [UK inflation accelerates to 2.9% in July amid Middle East energy shock - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNbDl2cDlLYUVDeV94OWJWS2JKcWxuWlloWVBLYktFS3dFSlZscUFxN1BuQWVSZ3FUOUU1aV9HYzF0QWZZVlAwQVR2UDJXQk0ybjhDaWh2ay1xbGI3YmJqUjVEUlB5WFlzSl9vcUFneHJwZzJTWFRMa254dkM3UzJZcndIOFI?oc=5)**
+> <small>Financial Times · 国际 · 14:02 · `可能需订阅`</small>
+> UK inflation accelerates to 2.9% in July amid Middle East energy shock Financial Times
+>
+> **8. [最新财新周刊｜宇树IPO：速度与激情 - 财新周刊](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5xanpkdG11TUpUdnBYLThnT0FRb0w5c3ZFOVJadm5IQk1oYnBXSVZFaXpoaEVTakRNYkIxTTNxYnA3eFo5ZmFrREo2VTFqMnItMF9uQTNaQldxbVU4VFdjcA?oc=5)**
 > <small>财新周刊 · 国内 · 17:40 · `可能需订阅`</small>
 > 最新财新周刊｜宇树IPO：速度与激情 财新周刊
 >
-> **5. [宇树8月19日上市 重塑人形机器人资本市场走向 - 财新](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8xeC0xWTRPZnYxRFZvVFBsVERISFZ2d1dtb0Q3WTNhanBHRDB3eGJwS3lDRkhzZUxwZTlvVnNVOTZISHlSTDNaMi1BbFpOUlR3UHhMTzRzZk9jM3Y5WGh0NDY5QXpsRkU?oc=5)**
-> <small>财新 · 国内 · 20:55</small>
-> 宇树8月19日上市 重塑人形机器人资本市场走向 财新
->
-> **6. [最新财新周刊｜SHEIN逆势IPO - 财新周刊](https://news.google.com/rss/articles/CBMiYEFVX3lxTFA0b2V5bkYxeXJ5Mm1GYlVrNkhqTk5oVVdIQTdCN0tMeUxOMlV5RGJNekt0cVlrT3ZTSEZ1Nk9TbG5wX0ZzblNXZWw0S2hoLXhTV1N1LUdxcFNKWmQzM0dGOQ?oc=5)**
+> **9. [最新财新周刊｜SHEIN逆势IPO - 财新周刊](https://news.google.com/rss/articles/CBMiYEFVX3lxTFA0b2V5bkYxeXJ5Mm1GYlVrNkhqTk5oVVdIQTdCN0tMeUxOMlV5RGJNekt0cVlrT3ZTSEZ1Nk9TbG5wX0ZzblNXZWw0S2hoLXhTV1N1LUdxcFNKWmQzM0dGOQ?oc=5)**
 > <small>财新周刊 · 国内 · 12:18 · `可能需订阅`</small>
 > 最新财新周刊｜SHEIN逆势IPO 财新周刊
 >
-> **7. [Markets Are Serene in Their Summer Sargasso Sea - Bloomberg.com](https://news.google.com/rss/articles/CBMipwFBVV95cUxONnY5S0dfRU16N1ZuLXlseFFOaVdMU2lzTkdlb1Z4VkdEQkxzYWEwdDZXX3NwRWJSYkYzSEg4Yk5ST0ZvOFZCVlEtYWloLVRtbkZHc0FCTXVFZXdxbDFITlItalBrU2E2OHd5NDJ2Z2tPVHVpMVJqbTVfb2psTmNraGdUbkNIMHpaMTZQSkxkd1ZMZzZ4dUJqd2VpUjZQQnRrNExieTFTcw?oc=5)**
-> <small>Bloomberg.com · 国际 · 12:00 · `可能需订阅`</small>
-> Markets Are Serene in Their Summer Sargasso Sea Bloomberg.com
->
-> **8. [Amazon and Alphabet’s Profits Reveal Circular Nature of A.I. Boom](https://www.nytimes.com/2026/08/14/business/ai-tech-profits.html)**
-> <small>NYTimes Business · 国际 · 22:55 · `可能需订阅`</small>
-> Investment gains at Alphabet and Amazon reveal a new way in which technology companies’ fortunes are increasingly linked.
->
-> **9. [Three reasons Goldman's co-head of global banking and markets says to stay invested](https://www.cnbc.com/2026/08/10/three-reasons-goldmans-co-head-of-global-banking-and-markets-says-to-stay-invested.html)**
-> <small>CNBC Finance · 国际 · 02:36</small>
-> Goldman Sachs' Ashok Varadhan pointed to three reasons for his constructive outlook.
->
-> **10. [Bond Sell-Off Sends Borrowing Costs to Highest Level Since 2007](https://www.nytimes.com/2026/08/18/business/oil-prices-bonds.html)**
-> <small>NYTimes Business · 国际 · 05:44 · `可能需订阅`</small>
-> Yields on the 30-year U.S. Treasury and government bonds across the world rose to multiyear highs as investors fret about inflation, deficits and A.I. spending.
+> **10. [Fed officials saw need for rate hike if inflation doesn't cool, minutes show](https://www.cnbc.com/2026/08/19/fed-minutes-july-2026-officials-saw-need-for-rate-hike-if-inflation-doesnt-cool.html)**
+> <small>CNBC Finance · 国际 · 02:54</small>
+> The Federal Reserve on Wednesday released minutes from its July 28-29 policy meeting.
 >
 
 > [!example] 科技 / AI
-> 9/10 · 国内 1 / 国际 8
+> 10/10 · 国内 2 / 国际 8
 >
 > **1. [We still don’t know how people are really using AI](https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/)**
 > <small>MIT Technology Review · 国际 · 18:06</small>
@@ -64,29 +64,33 @@
 > <small>NYTimes Technology · 国际 · 05:13 · `可能需订阅`</small>
 > The data center, one of the world’s largest, could cost as much as $500 billion and will be leased by OpenAI.
 >
-> **4. [OpenAI lays out new security changes after its AI hacked Hugging Face](https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack)**
-> <small>The Verge · 国际 · 03:28</small>
-> OpenAI is announcing security updates following the July news that its AI broke out of a sandboxed environment and accidentally hacked Hugging Face, including improvements to its research environments, monitoring, and alignment techniques.…
+> **4. [OpenAI hit the brakes. Now what?](https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai)**
+> <small>The Verge · 国际 · 01:10</small>
+> With a looming IPO, intense competition from Anthropic, and Chinese and open-weight rivals nipping at its heels, OpenAI has plenty of reasons to move fast. Instead, it hit the brakes. On Tuesday, the company said it had slowed the pace of…
 >
-> **5. [OpenAI institutes new safeguards after Hugging Face breach](https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/)**
-> <small>TechCrunch · 国际 · 02:00</small>
-> The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process.
+> **5. [China eases limits on Nvidia H200 chips as AI race escalates - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNRF9wTFByQktUOHRwVGVOWVg3TXdURVhZXzVoOTYzY3VwX0J0cXdoZUJGbF9JSWJuLWQ0VVIwY1FpSWNNY2ZuLWREZlEwb1R1MmNnMGNhby12Nk1vako5NzA4VGtjeGJUOXdyTWxMYXpNQWh5TjdPTDdrVVF1dkFOUFFKSkc?oc=5)**
+> <small>Financial Times · 国际 · 10:09 · `可能需订阅`</small>
+> China eases limits on Nvidia H200 chips as AI race escalates Financial Times
 >
-> **6. [OpenAI launches a safer ChatGPT for teens — years after teens started using it](https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/)**
-> <small>TechCrunch · 国际 · 21:50</small>
-> ChatGPT for Teens adds age-appropriate safety measures, parental controls, and learning tools designed to steer teens away from harmful content — and from using AI to cheat on their homework.
+> **6. [Trump crypto firm backs venture offering AI from restricted Chinese companies - Reuters](https://news.google.com/rss/articles/CBMivAFBVV95cUxQTHhDcEM5cGN4V2duaGh3RmNtbVZndFdfWHBjSkF5ekRiN1JBVnRULTBUeTVld0I3czliYWZsckdXbVJfLTdJcldxY0V1VnV6NU1sME1uM3BWLUttZzR4RDVPSkJsTXlRQkRSTkFJc2pLelNEYXNBWHpUX1BGdzFBTGtmaFFwdE1DclphZDZncHMyTk5oNmFZSWhQRmVrUHdkaFpCb3ZBWWY4eExmcGZEMkJZekFPTEI3VG4zUQ?oc=5)**
+> <small>Reuters · 国际 · 18:04</small>
+> Trump crypto firm backs venture offering AI from restricted Chinese companies Reuters
 >
-> **7. [段永平、张磊、李录等大佬二季度买了什么？ 半导体投资分歧大 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1LM3ptNWY5bDViUDMzRklaTlM0cUZNMWlGNDJETHl5cklhejNYTzIwQnlvWXpPcVpIc014S2lES1lyTURZbXJ4NkNHTVlmMU5FczMxRHRMTHJQOUdZTFNLUjd3?oc=5)**
+> **7. [OpenAI seeks to one-up Anthropic with new customer privacy protections](https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/)**
+> <small>TechCrunch · 国际 · 06:10</small>
+> A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data.
+>
+> **8. [Google packs Search and Gemini with new AI study tools](https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/)**
+> <small>TechCrunch · 国际 · 03:00</small>
+> The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying, as it continues to compete with companies like OpenAI.
+>
+> **9. [段永平、张磊、李录等大佬二季度买了什么？ 半导体投资分歧大 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1LM3ptNWY5bDViUDMzRklaTlM0cUZNMWlGNDJETHl5cklhejNYTzIwQnlvWXpPcVpIc014S2lES1lyTURZbXJ4NkNHTVlmMU5FczMxRHRMTHJQOUdZTFNLUjd3?oc=5)**
 > <small>财新 · 国内 · 19:59</small>
 > 段永平、张磊、李录等大佬二季度买了什么？ 半导体投资分歧大 财新
 >
-> **8. [OpenAI Introduces ‘ChatGPT for Teens’ as Safety Concerns Grow](https://www.nytimes.com/2026/08/18/technology/chatgpt-for-teens-openai.html)**
-> <small>NYTimes Technology · 国际 · 22:14 · `可能需订阅`</small>
-> The artificial intelligence start-up announced a chatbot mode that will automatically limit some conversations to better protect young users.
->
-> **9. [Robin Williams’ Instagram account brought back to fight ‘AI abuse’](https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai)**
-> <small>The Verge · 国际 · 03:48</small>
-> Robin Williams' children are taking over their father's Instagram account after his daughter spoke out against the use of his AI likeness, as reported earlier by The Wrap. In a post on Tuesday, Zak, Zelda, and Cody Williams write that they…
+> **10. [中国机器人制造商宇树科技上市首日股价飙升500% - 纽约时报中文网](https://news.google.com/rss/articles/CBMibkFVX3lxTE1SSF9ITXFTRlNZNjdiMG5RRDhwWExYMm9nWGtweGhHeDJoNGc5b29BZ3dEYTlyTTNKZVlYU3E1TWZPNzRWZzdqYktzV09zX0o4MmNZdGdwVVFLV2NpMk83MVpCVDV2NFBwcmxnRlhB?oc=5)**
+> <small>纽约时报中文网 · 国内 · 11:35 · `可能需订阅`</small>
+> 中国机器人制造商宇树科技上市首日股价飙升500% 纽约时报中文网
 >
 
 > [!tip] 私募股权 / 投资市场
@@ -96,25 +100,25 @@
 > <small>Buyouts · 国际 · 21:00</small>
 > Analysis by affiliate title Private Equity International exposes the immense variety in benchmarking approaches from 20 of private equity's largest investors.
 >
-> **2. [Francisco Partners’ DJ Deb: ‘Exits will come back, but it may take a little time’](https://www.buyoutsinsider.com/francisco-partners-dj-deb-exits-will-come-back-but-it-may-take-a-little-time/)**
+> **2. [MassPRIM targets smaller buyouts amid PE underperformance](https://www.privateequityinternational.com/massprim-targets-smaller-buyouts-amid-pe-underperformance/)**
+> <small>Private Equity International · 国际 · 10:33</small>
+> The system’s limited exposure to AI-related sectors has weighed on its PE returns, according to PE director Michael McGirr.
+>
+> **3. [Francisco Partners’ DJ Deb: ‘Exits will come back, but it may take a little time’](https://www.buyoutsinsider.com/francisco-partners-dj-deb-exits-will-come-back-but-it-may-take-a-little-time/)**
 > <small>Buyouts · 国际 · 04:03</small>
 > 'My guess is 2021-24 will end up being bad vintages in private equity, while 2025-28 will be great vintages,' FP's DJ Deb told affiliate title PE Hub in a wide-ranging interview about how the firm will deploy its recently closed $21bn in c…
 >
-> **3. [Side Letter: Rare stakes](https://www.privateequityinternational.com/side-letter-rare-stakes/)**
+> **4. [Side Letter: Rare stakes](https://www.privateequityinternational.com/side-letter-rare-stakes/)**
 > <small>Private Equity International · 国际 · 18:26</small>
 > In today's edition, Making the case for European GP stakes; How to measure portfolio stress; A GP leans deeper into the Middle East.
->
-> **4. [Side Letter: Sector selectors](https://www.privateequityinternational.com/side-letter-sector-selectors/)**
-> <small>Private Equity International · 国际 · 19:40</small>
-> In today's edition, A $66 billion LP says sector selection should be left to the experts; Greater China PE gets a shot in the arm; LPs are supporting their GPs on climate issues.
 >
 > **5. [KKR makes $9 billion takeover bid for energy distributor UGI, WSJ reports - Reuters](https://news.google.com/rss/articles/CBMipwFBVV95cUxOdkxqQXotbzRiRE10TXREbXM0SVVCLVdEdmhEZzZDMWtTcVU0LVJoalYyNE01RFBpY21MSU9GdXg1WWtvaXR1a3RhUmp4cU1QaUh6Sk5uUjdsSTNXS04wYWVQb01QRFp3RUppeWh5ZmlvVVg3em9GZDlWYnl5cjdJRjZaWVNSYjVqVTBOeVdWUk1HalNNNF9SY2VBaHVDYmstX1o3Q0hsYw?oc=5)**
 > <small>Reuters · 国际 · 01:51</small>
 > KKR makes $9 billion takeover bid for energy distributor UGI, WSJ reports Reuters
 >
-> **6. [TowerBrook, CD&R-backed R1 to acquire prior-authorization AI firm Humata](https://www.pehub.com/towerbrook-cdr-backed-r1-to-acquire-prior-authorization-ai-firm-humata/)**
-> <small>PE Hub · 国际 · 22:58</small>
-> R1 is a healthcare revenue management company. The post TowerBrook, CD&R-backed R1 to acquire prior-authorization AI firm Humata appeared first on PE Hub .
+> **6. [Vistria-backed Risepoint acquires healthcare edtech firm Keypath’s North American operations](https://www.pehub.com/vistria-backed-risepoint-acquires-healthcare-edtech-firm-keypaths-north-american-operations/)**
+> <small>PE Hub · 国际 · 00:57</small>
+> Based in Schaumburg, Illinois, Keypath is backed by Sterling Partners. The post Vistria-backed Risepoint acquires healthcare edtech firm Keypath’s North American operations appeared first on PE Hub .
 >
 > **7. [“围猎”IPO手法层出不穷 香港ZD Group爆发兑付危机 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE02N0NBODI0TUFsdlNRaTFuRFgxSlpCbmRtcnBzMDRuLU9wTllleUVsbTh0YUNqWjB1RUo0Z19IY185dlFROV9SbEdBTkpUY2FiY1ppSkRNNUk5MHBLMjJmcGR3?oc=5)**
 > <small>财新 · 国内 · 07:27</small>
