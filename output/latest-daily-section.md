@@ -6,51 +6,47 @@
 > 摘要来自 RSS/新闻源描述，保留原文语言；`可能需订阅` 表示该来源可能有付费墙。
 
 > [!quote] 财经 / 金融
-> 10/10 · 国内 4 / 国际 6
+> 9/10 · 国内 2 / 国际 7
 >
 > **1. [Stocks and Bonds Steady at the End of a Tumultuous Week](https://www.nytimes.com/2026/08/21/business/stocks-bonds-oil-prices.html)**
 > <small>NYTimes Business · 国际 · 04:16 · `可能需订阅`</small>
 > Fears about the war in Iran, government deficits, the economy and corporate borrowing stirred global markets.
 >
-> **2. [国产闪存龙头长存控股科创板IPO获受理 拟募资330亿元 - 财新](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1sQ3hDQ1FLSnhjN0lrNE1pYW5KUnRDNlZvMGluejdjQUNjU1dTanBYejBud0xzTDRHN0VvVlBDcUhFaHBJcjBGQlZDRHZvd1BWRHhSOVNOMlB2VXRTeUJjRnNqZjQ?oc=5)**
-> <small>财新 · 国内 · 11:25</small>
-> 国产闪存龙头长存控股科创板IPO获受理 拟募资330亿元 财新
->
-> **3. [Did Bessent Put the Fed in a Bind?](https://www.nytimes.com/2026/08/20/business/dealbook/bessent-fed-warsh-bonds.html)**
+> **2. [Did Bessent Put the Fed in a Bind?](https://www.nytimes.com/2026/08/20/business/dealbook/bessent-fed-warsh-bonds.html)**
 > <small>NYTimes Business · 国际 · 21:36 · `可能需订阅`</small>
 > The Treasury Department’s plan for bond interventions has calmed markets. But Wall Street is worried about the fallout for inflation and more.
 >
-> **4. [How Germany’s doctors, lawyers and dentists got burnt by private markets bets - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxOMDVUci0zMWc0eC1IelR3NjRTVkNIaTdyVUd3ZGNsdEVVdGtWd1pwdEp5Z2g2c3B6cm45SUstNGdTUlhXVTFvNTI2VHRRTmR4Z3lOVmF3THdpV1hJV0xNSDBJQnVFbzh0QWx3VVI5S3gtbTVLYm4zWjdlejVDRXhuUnFIWXQ?oc=5)**
-> <small>Financial Times · 国际 · 12:00 · `可能需订阅`</small>
+> **3. [How Germany’s doctors, lawyers and dentists got burnt by private markets bets - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxOMDVUci0zMWc0eC1IelR3NjRTVkNIaTdyVUd3ZGNsdEVVdGtWd1pwdEp5Z2g2c3B6cm45SUstNGdTUlhXVTFvNTI2VHRRTmR4Z3lOVmF3THdpV1hJV0xNSDBJQnVFbzh0QWx3VVI5S3gtbTVLYm4zWjdlejVDRXhuUnFIWXQ?oc=5)**
+> <small>Financial Times · 国际 · 12:01 · `可能需订阅`</small>
 > How Germany’s doctors, lawyers and dentists got burnt by private markets bets Financial Times
 >
-> **5. [What retail investors need to know before jumping into Anthropic’s IPO - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxQTTZEUzJKWjRsSnV4S1cwYzdnYWpjbmJ3VkZzTXJqRV94VHBFOHRhbGgxMWFGSGF4Y3FkR3Fkb1RCUENZbjVidTdKZlR1YUJGUUZVT0dhNnZ0S01RbUMzLVE0Q2NSOWNTbmJVV1Z3TG1PS3B6ZVFtR2dDNE1UemsxNFMyN00?oc=5)**
+> **4. [What retail investors need to know before jumping into Anthropic’s IPO - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxQTTZEUzJKWjRsSnV4S1cwYzdnYWpjbmJ3VkZzTXJqRV94VHBFOHRhbGgxMWFGSGF4Y3FkR3Fkb1RCUENZbjVidTdKZlR1YUJGUUZVT0dhNnZ0S01RbUMzLVE0Q2NSOWNTbmJVV1Z3TG1PS3B6ZVFtR2dDNE1UemsxNFMyN00?oc=5)**
 > <small>Financial Times · 国际 · 19:00 · `可能需订阅`</small>
 > What retail investors need to know before jumping into Anthropic’s IPO Financial Times
+>
+> **5. [A股四大指数集体高开，大消费低迷，白酒股领跌 - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTE92U0x6UGVJTjktWFJUSkU5cUx1V29ibTMxUVQ4a2tlcFRRUTFla0Vsd2k5Y3dEdVluNlNXRm54SnhndWNLcDEyTkQ3RVlMSHN6eDA0?oc=5)**
+> <small>第一财经 · 国内 · 13:21</small>
+> A股四大指数集体高开，大消费低迷，白酒股领跌 第一财经
 >
 > **6. [陆家嘴金融沙龙：践行投资者为本理念 引导资本市场理性投资 - 第一财经](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9NT3ptWjg2OTJ4U0h2VXdtazc0TXAtdVdDeldVWVRET3oyWVBoTkFEOXRSQnBtVjljRVBEbEYxanFzWEZxa1RfbnhjSW91T0FkS2RSSA?oc=5)**
 > <small>第一财经 · 国内 · 17:07</small>
 > 陆家嘴金融沙龙：践行投资者为本理念 引导资本市场理性投资 第一财经
 >
-> **7. [A股四大指数集体高开，生物医药板块爆发 - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9oNmRoTksxNDJFb3MtR0t0T1NfNVRfU0tPb1dLQ2hiVmtKMWJ2SEpzMk5JOEUwSmM1QzlTV0pvelV1aTdIMEtQbENoNFNvVG5xQ3c4?oc=5)**
-> <small>第一财经 · 国内 · 05:02</small>
-> A股四大指数集体高开，生物医药板块爆发 第一财经
->
-> **8. [海外无风险利率加速抬升：成因和风险 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE04TUh0ZHktVk8wSlh5UFM4eTdGX2JCQkRxVW1yM3RVSVNyZWFFWFNnUU15M1BwYmdiUndzU09aaEJ5WHhFTi16RjFxamVzWmJWaUZwR0dQeXdzcVUtTF9EdjFn?oc=5)**
-> <small>财新 · 国内 · 11:04</small>
-> 海外无风险利率加速抬升：成因和风险 财新
->
-> **9. [Fed officials saw need for rate hike if inflation doesn't cool, minutes show](https://www.cnbc.com/2026/08/19/fed-minutes-july-2026-officials-saw-need-for-rate-hike-if-inflation-doesnt-cool.html)**
+> **7. [Fed officials saw need for rate hike if inflation doesn't cool, minutes show](https://www.cnbc.com/2026/08/19/fed-minutes-july-2026-officials-saw-need-for-rate-hike-if-inflation-doesnt-cool.html)**
 > <small>CNBC Finance · 国际 · 02:54</small>
 > The Federal Reserve on Wednesday released minutes from its July 28-29 policy meeting.
 >
-> **10. [Goldman studied where AI is squeezing labor markets. Here's what it found](https://www.cnbc.com/2026/08/19/goldman-ai-impact-employment-jobs.html)**
+> **8. [Goldman studied where AI is squeezing labor markets. Here's what it found](https://www.cnbc.com/2026/08/19/goldman-ai-impact-employment-jobs.html)**
 > <small>CNBC Finance · 国际 · 14:55</small>
 > Goldman Sachs found that AI is starting to weigh on employment across developed economies.
 >
+> **9. [Financial Services Roundup: Market Talk - WSJ](https://news.google.com/rss/articles/CBMiggFBVV95cUxOQ0dzNHQzbWhDcEhCYXJ4bHhKWHRNZFFuVGc4MzNIN1FUaGlYTGtHNjV0X05iN19vcEtDNUlpRWl1VVRwSXE3dTZkXzg0VVFVZkxjVVNpZnBmanNIc2RzSE1raWpydjBDNHUzZFNaMWtURHVBcU1mQmhBSV96NjdZa1hn?oc=5)**
+> <small>WSJ · 国际 · 05:32 · `可能需订阅`</small>
+> Financial Services Roundup: Market Talk WSJ
+>
 
 > [!example] 科技 / AI
-> 8/10 · 国内 1 / 国际 7
+> 8/10 · 国内 2 / 国际 6
 >
 > **1. [When AI designs a drug, who gets the credit?](https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/)**
 > <small>MIT Technology Review · 国际 · 17:00</small>
@@ -68,17 +64,17 @@
 > <small>TechCrunch · 国际 · 06:37</small>
 > Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.
 >
-> **5. [Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research](https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/)**
+> **5. [{{最新周刊导播｜AI基建争夺东南亚、聪明钱AI大调仓、L3自动驾驶冲线 - 财新周刊](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBxNlBZdkk2OXF0YjRYWDJnbWY0M0c5YTlHcEh2TFZCOFliZ0NuaWJoX3JURXQ5Z0ZtbEd4S0U1M2pXa3JQYUhtbmlrU2N2bVF2V0ozbXNLdk9pTloxYWNlRA?oc=5)**
+> <small>财新周刊 · 国内 · 13:42 · `可能需订阅`</small>
+> {{最新周刊导播｜AI基建争夺东南亚、聪明钱AI大调仓、L3自动驾驶冲线 财新周刊
+>
+> **6. [Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research](https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/)**
 > <small>TechCrunch · 国际 · 03:00</small>
 > Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.
 >
-> **6. [Voters Aren’t Waiting for November to Try Ousting Officials Over Data Centers](https://www.nytimes.com/2026/08/19/technology/data-centers-voter-concerns-independence-missouri.html)**
-> <small>NYTimes Technology · 国际 · 02:12 · `可能需订阅`</small>
-> As a backlash grows over data centers, more local officials are facing recall elections for their support of the computing sites.
->
-> **7. [Over 1 million people have clicked LinkedIn’s AI slop button](https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message)**
-> <small>The Verge · 国际 · 05:54</small>
-> LinkedIn actually announced a "Seems like AI slop" button on July 30th, and the company says that a lot of people have already used it. According to a Thursday post from chief product officer Hari Srinivasan, "over a million people" have c…
+> **7. [The Data Center Backlash Bursts Into the Midterms](https://www.nytimes.com/2026/08/23/us/politics/data-centers-midterm-elections.html)**
+> <small>NYTimes Technology · 国际 · 17:01 · `可能需订阅`</small>
+> With opposition to the centers mounting, many Democrats and a growing number of Republicans are campaigning against them.
 >
 > **8. [中国机器人制造商宇树科技上市首日股价飙升500% - 纽约时报中文网](https://news.google.com/rss/articles/CBMibkFVX3lxTE1SSF9ITXFTRlNZNjdiMG5RRDhwWExYMm9nWGtweGhHeDJoNGc5b29BZ3dEYTlyTTNKZVlYU3E1TWZPNzRWZzdqYktzV09zX0o4MmNZdGdwVVFLV2NpMk83MVpCVDV2NFBwcmxnRlhB?oc=5)**
 > <small>纽约时报中文网 · 国内 · 11:35 · `可能需订阅`</small>
@@ -120,13 +116,13 @@
 > <small>财新 · 国内 · 07:27</small>
 > “围猎”IPO手法层出不穷 香港ZD Group爆发兑付危机(含视频) 财新
 >
-> **9. [46只新基金，“同台竞技”！ - 证券时报](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5nanpmVlJpS3ZOSGtyT3Jtc2w5TzF6OXlKOE9iWS1OQjExUE5vQ1U1UVNVRHhOTWV4U29uOW0yWWV0OFBISVgyZkdPemh3OHE5ODZxQ2xOeFAzQ3V6?oc=5)**
-> <small>证券时报 · 国内 · 10:51</small>
-> 46只新基金，“同台竞技”！ 证券时报
->
-> **10. [财新周刊｜SHEIN逆势IPO - 财新周刊](https://news.google.com/rss/articles/CBMiYEFVX3lxTFA0b2V5bkYxeXJ5Mm1GYlVrNkhqTk5oVVdIQTdCN0tMeUxOMlV5RGJNekt0cVlrT3ZTSEZ1Nk9TbG5wX0ZzblNXZWw0S2hoLXhTV1N1LUdxcFNKWmQzM0dGOQ?oc=5)**
+> **9. [财新周刊｜SHEIN逆势IPO - 财新周刊](https://news.google.com/rss/articles/CBMiYEFVX3lxTFA0b2V5bkYxeXJ5Mm1GYlVrNkhqTk5oVVdIQTdCN0tMeUxOMlV5RGJNekt0cVlrT3ZTSEZ1Nk9TbG5wX0ZzblNXZWw0S2hoLXhTV1N1LUdxcFNKWmQzM0dGOQ?oc=5)**
 > <small>财新周刊 · 国内 · 15:00 · `可能需订阅`</small>
 > 财新周刊｜SHEIN逆势IPO 财新周刊
+>
+> **10. [融资｜亮源新创完成数亿元Pre-A轮融资，ChatGPT核心贡献者姜旭率队探索Physical AI基础模型 - 创业邦](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5mZlgyb29tSW53aFBCVlB4ODdfaW0zd1k3YzhtWDBSVTNWeWNuVGZUWEJST1g5blA5eExiMFNiX3dlZEhqcGpaOEpQMnlqdGhr?oc=5)**
+> <small>创业邦 · 国内 · 14:44</small>
+> 融资｜亮源新创完成数亿元Pre-A轮融资，ChatGPT核心贡献者姜旭率队探索Physical AI基础模型 创业邦
 >
 
 > [!warning] 抓取失败但不影响成稿的来源
