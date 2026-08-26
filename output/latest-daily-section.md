@@ -6,87 +6,79 @@
 > 摘要来自 RSS/新闻源描述，保留原文语言；`可能需订阅` 表示该来源可能有付费墙。
 
 > [!quote] 财经 / 金融
-> 10/10 · 国内 4 / 国际 6
+> 10/10 · 国内 3 / 国际 7
 >
 > **1. [Stocks and Bonds Steady at the End of a Tumultuous Week](https://www.nytimes.com/2026/08/21/business/stocks-bonds-oil-prices.html)**
 > <small>NYTimes Business · 国际 · 04:16 · `可能需订阅`</small>
 > Fears about the war in Iran, government deficits, the economy and corporate borrowing stirred global markets.
 >
-> **2. [Did Bessent Put the Fed in a Bind?](https://www.nytimes.com/2026/08/20/business/dealbook/bessent-fed-warsh-bonds.html)**
-> <small>NYTimes Business · 国际 · 21:36 · `可能需订阅`</small>
-> The Treasury Department’s plan for bond interventions has calmed markets. But Wall Street is worried about the fallout for inflation and more.
+> **2. [Anthropic expected to tell investors it sees over $30 trillion in potential revenue, WSJ reports - Reuters](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUlR3eXlsWC1xOV9yNnI3OUcySkF2Z2xmdHJoZElUaWQxZXpwRlVoUHZXaDVsWU00ckUtR0FVdWN0RlhVSDFKS0tyZ0VuWVBXLVV4bDNfa3M0Zll5blM0OWJsQmU5TDJRVmZRVXFLM3VZNjdLMFhRTXBncE1pQUhrRDVORkpnODFtdXJiNjRsakFyQUR5c0phRVR2LXlWV1VFTUdEYThjZVEyMGNfcWQtRmNyblVaN2FJRFBPRjliT2RORkprd09YUDJBVUtzbWo2RUpTUHpB?oc=5)**
+> <small>Reuters · 国际 · 00:56</small>
+> Anthropic expected to tell investors it sees over $30 trillion in potential revenue, WSJ reports Reuters
 >
-> **3. [火线评论｜香港：贴牌资管与监管真空下的内地投资者困局 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1fUVR1SWNfUnREVjVTcF9oUkxuaVhkSXhPTmxURHJEU1FkUHFfYTZMeGMxbi1rNG5LYU94em9OSWtVNUJIelpkM1VxVmthcEVacFRycXNSSDZsVVctb1RJa0RR?oc=5)**
-> <small>财新 · 国内 · 15:13</small>
-> 火线评论｜香港：贴牌资管与监管真空下的内地投资者困局 财新
->
-> **4. [UBS concern over private markets push by manager of $1bn sustainable finance fund - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxQVHRWTTJGcVlwaEU5eXRXUFo0Y0NScEZuS1g4ZDU1Um5hcGY1YUxtXzRfXzMyQlZZSnFYVlJMMjVhZWdVUTJQR0ctR0hlcVotNVFFWDVpQTVSazg3QkctcHFlR1M1QUZwcmJEb2FfTFF3OGRXQlZKZ2N5R0dlZHdLNEZRUFY?oc=5)**
-> <small>Financial Times · 国际 · 12:00 · `可能需订阅`</small>
+> **3. [UBS concern over private markets push by manager of $1bn sustainable finance fund - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxQVHRWTTJGcVlwaEU5eXRXUFo0Y0NScEZuS1g4ZDU1Um5hcGY1YUxtXzRfXzMyQlZZSnFYVlJMMjVhZWdVUTJQR0ctR0hlcVotNVFFWDVpQTVSazg3QkctcHFlR1M1QUZwcmJEb2FfTFF3OGRXQlZKZ2N5R0dlZHdLNEZRUFY?oc=5)**
+> <small>Financial Times · 国际 · 17:57 · `可能需订阅`</small>
 > UBS concern over private markets push by manager of $1bn sustainable finance fund Financial Times
 >
-> **5. [How Germany’s doctors, lawyers and dentists got burnt by private markets bets - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxOMDVUci0zMWc0eC1IelR3NjRTVkNIaTdyVUd3ZGNsdEVVdGtWd1pwdEp5Z2g2c3B6cm45SUstNGdTUlhXVTFvNTI2VHRRTmR4Z3lOVmF3THdpV1hJV0xNSDBJQnVFbzh0QWx3VVI5S3gtbTVLYm4zWjdlejVDRXhuUnFIWXQ?oc=5)**
-> <small>Financial Times · 国际 · 12:01 · `可能需订阅`</small>
-> How Germany’s doctors, lawyers and dentists got burnt by private markets bets Financial Times
+> **4. [近万亿美元！美国财政部或动用这个账户干预美债，能否稳住市场 - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5xVkZoRXBBR1hKSVlyVVFVM0ZMNnl1YU1TbFJDSEpjNU9iWFVjLUxLQlFOVW1wMWFPX2xFSVRzLWphMFd1U1RwNDA2bDQ1THFKc3VF?oc=5)**
+> <small>第一财经 · 国内 · 19:04</small>
+> 近万亿美元！美国财政部或动用这个账户干预美债，能否稳住市场 第一财经
 >
-> **6. [Breakingviews - AstraZeneca's blocked M&A signals tough CEO finale - Reuters](https://news.google.com/rss/articles/CBMirgFBVV95cUxQUzNZUGxvaUZiSjg4ZlpDak44dzVVQzQ3cmlza3pESzdhb1I5cmhFUXI5WEtZbDZtdGlaZ1hSdk9kZzNBaUV2QVRYdngtSW85WE1IdG9OT1Y3cno0OF9GWkd1Qm5ycUNWVzBhdU1SNmU1WmRQZFN5d1UxOGZXUThPWDZhR1J6N3l5QnVBc1FKdmJzRGxPaUZEY2dMLVk3Tlc0ZW1hc3IySHlkVmg1NlE?oc=5)**
-> <small>Reuters · 国际 · 18:18</small>
-> Breakingviews - AstraZeneca's blocked M&A signals tough CEO finale Reuters
+> **5. [A股四大指数集体高开，生物医药板块爆发 - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9oNmRoTksxNDJFb3MtR0t0T1NfNVRfU0tPb1dLQ2hiVmtKMWJ2SEpzMk5JOEUwSmM1QzlTV0pvelV1aTdIMEtQbENoNFNvVG5xQ3c4?oc=5)**
+> <small>第一财经 · 国内 · 11:40</small>
+> A股四大指数集体高开，生物医药板块爆发 第一财经
+>
+> **6. [How Shein’s IPO lost its shine - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNZVZNZ1J4T0lqbUREWFdBdFJUUllTQVdHLXdVV2l5aV9FS000VWtYeEdmZlNRc0RMQVhUby1yQzdjTHNnS1ltQ2hFM0tSY0pTakhSTGQ5b0JyQ2hCV1J2VnRJeE4xemE1T1pTeWZWT2xwOERLUDVGZ1BVMUdsM2Q2TkpIWjI?oc=5)**
+> <small>Financial Times · 国际 · 23:00 · `可能需订阅`</small>
+> How Shein’s IPO lost its shine Financial Times
 >
 > **7. [Fed officials saw need for rate hike if inflation doesn't cool, minutes show](https://www.cnbc.com/2026/08/19/fed-minutes-july-2026-officials-saw-need-for-rate-hike-if-inflation-doesnt-cool.html)**
 > <small>CNBC Finance · 国际 · 02:54</small>
 > The Federal Reserve on Wednesday released minutes from its July 28-29 policy meeting.
 >
-> **8. [美国加码回购债券难挡定价权转移 久期风险加剧全球资产价格波动 - 证券时报](https://news.google.com/rss/articles/CBMiXEFVX3lxTE84SzB5YzQ0RXlqQ0RVbmZqNXI4bHpCQ2xuRk0wX0JRVWRYcVkwajhzSVduOXBDak4ybG5lQ0FtNHdJYXgyRXBRYVFiY1U1STJlU3VHYXNBb0drdE95?oc=5)**
+> **8. [Goldman studied where AI is squeezing labor markets. Here's what it found](https://www.cnbc.com/2026/08/19/goldman-ai-impact-employment-jobs.html)**
+> <small>CNBC Finance · 国际 · 14:55</small>
+> Goldman Sachs found that AI is starting to weigh on employment across developed economies.
+>
+> **9. [The Heat on Treasury Secretary Scott Bessent Grows](https://www.nytimes.com/2026/08/25/business/dealbook/bessent-bond-market-druckenmiller.html)**
+> <small>NYTimes Business · 国际 · 20:46 · `可能需订阅`</small>
+> Treasury Secretary Scott Bessent’s plans to intervene in bond markets have drawn widespread criticism, including from a prominent former mentor.
+>
+> **10. [美国加码回购债券难挡定价权转移 久期风险加剧全球资产价格波动 - 证券时报](https://news.google.com/rss/articles/CBMiXEFVX3lxTE84SzB5YzQ0RXlqQ0RVbmZqNXI4bHpCQ2xuRk0wX0JRVWRYcVkwajhzSVduOXBDak4ybG5lQ0FtNHdJYXgyRXBRYVFiY1U1STJlU3VHYXNBb0drdE95?oc=5)**
 > <small>证券时报 · 国内 · 07:00</small>
 > 美国加码回购债券难挡定价权转移 久期风险加剧全球资产价格波动 证券时报
 >
-> **9. [渤海银行及理财公司被罚超6000万元 部分受罚者曾任宁波分行要职 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBDRlBsLU5ScDZBNy1BaDIxSXZDcHJlSXpzRHQzSE1jeC0taUpxd0diUERaMmczVzNXLVE0UXRLX1hudmkzZFh0TlZnQ0xrMU1zbkl0aHp3c2tPZEo4LWNLbWRR?oc=5)**
-> <small>财新 · 国内 · 15:53</small>
-> 渤海银行及理财公司被罚超6000万元 部分受罚者曾任宁波分行要职 财新
->
-> **10. [金价创三个月新高大盘价已破千水贝人流量大增销量翻倍有料商加钱也不卖料黄金牛市回来了？｜一探 - 第一财经](https://news.google.com/rss/articles/CBMiVEFVX3lxTFBJaU5lWFE4eW0wUG9zM1VKVk95NHJZa3NmdXA5cUdfOHVGMHhnMlRMeU1BMURySWlTM19KNTFhTUlUdDZRRVgya01FaXpCRzYyT1c5Wg?oc=5)**
-> <small>第一财经 · 国内 · 22:11</small>
-> 金价创三个月新高大盘价已破千水贝人流量大增销量翻倍有料商加钱也不卖料黄金牛市回来了？｜一探 第一财经
->
 
 > [!example] 科技 / AI
-> 9/10 · 国内 1 / 国际 8
+> 7/10 · 国内 1 / 国际 6
 >
-> **1. [How to encourage smarter AI use in the classroom](https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/)**
-> <small>MIT Technology Review · 国际 · 22:20</small>
-> This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here. Chatbots took many schools by surprise upon their release a few y…
+> **1. [Your brain on AI](https://www.technologyreview.com/2026/08/25/1140958/your-brain-on-ai/)**
+> <small>MIT Technology Review · 国际 · 05:00</small>
+> Many people find AI-based chatbots helpful in keeping up with news, but a study by Pattie Maes and her colleagues at the MIT Media Lab points to a big problem with this strategy. Participants who evaluated paired news headlines and images…
 >
-> **2. [Kids outlearn AI—and we still don’t know why](https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/)**
-> <small>MIT Technology Review · 国际 · 17:00</small>
-> People have been talking to each other for at least 100,000 years, as best we can tell. And in all that time, there has been only one thing in the world that could learn a human language to perfect fluency: a human child. Now there are two…
+> **2. [OpenAI loses a top data center exec, as stream of high-profile departures continues](https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/)**
+> <small>TechCrunch · 国际 · 08:06</small>
+> Before Malone left, OpenAI had already reshuffled its infrastructure org, shifting his reporting line away from President Greg Brockman and putting Vice President Sachin Katti in charge of the group.
 >
-> **3. [{{最新周刊导播｜AI基建争夺东南亚、聪明钱AI大调仓、L3自动驾驶冲线 - 财新](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBxNlBZdkk2OXF0YjRYWDJnbWY0M0c5YTlHcEh2TFZCOFliZ0NuaWJoX3JURXQ5Z0ZtbEd4S0U1M2pXa3JQYUhtbmlrU2N2bVF2V0ozbXNLdk9pTloxYWNlRA?oc=5)**
-> <small>财新 · 国内 · 13:42</small>
-> {{最新周刊导播｜AI基建争夺东南亚、聪明钱AI大调仓、L3自动驾驶冲线 财新
+> **3. [{{最新周刊导播｜AI基建争夺东南亚、聪明钱AI大调仓、L3自动驾驶冲线 - 财新周刊](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBxNlBZdkk2OXF0YjRYWDJnbWY0M0c5YTlHcEh2TFZCOFliZ0NuaWJoX3JURXQ5Z0ZtbEd4S0U1M2pXa3JQYUhtbmlrU2N2bVF2V0ozbXNLdk9pTloxYWNlRA?oc=5)**
+> <small>财新周刊 · 国内 · 13:42 · `可能需订阅`</small>
+> {{最新周刊导播｜AI基建争夺东南亚、聪明钱AI大调仓、L3自动驾驶冲线 财新周刊
 >
-> **4. [Alabama launches investigation into OpenAI’s hack of Hugging Face](https://techcrunch.com/2026/08/24/alabama-launches-investigation-into-openais-hack-of-hugging-face/)**
-> <small>TechCrunch · 国际 · 03:58</small>
-> Weeks after OpenAI disclosed that one of its cybersecurity models had gone rogue and hacked AI dataset company Hugging Face, Alabama’s attorney general announced an investigation into the incident.
+> **4. [OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show](https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/)**
+> <small>TechCrunch · 国际 · 22:22</small>
+> Tested on SemiAnalysis’ InferenceX benchmark, Jalapeño registered both more tokens per user and more throughput per kilowatt than the currently available state-of-the art.
 >
-> **5. [OpenAI is building AI agents for everything. Will everyone use them?](https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/)**
-> <small>TechCrunch · 国际 · 23:00</small>
-> Inside the frontier lab’s push to bring AI agents from software engineers to the masses.
+> **5. [Why Irregular’s A.I. Tests for Meta, Anthropic and OpenAI Went Off the Rails](https://www.nytimes.com/2026/08/25/technology/irregular-ai-test-hacks.html)**
+> <small>NYTimes Technology · 国际 · 05:59 · `可能需订阅`</small>
+> Irregular, an Israeli start-up, worked with OpenAI, Anthropic and Meta to assess the security of their A.I. models. It made a mistake. Then the tests went off the rails.
 >
-> **6. [After Hugging Face Was Attacked By A.I. Agents, It Embarked on a Crusade](https://www.nytimes.com/2026/08/24/technology/hugging-face-open-source-ai-attack.html)**
-> <small>NYTimes Technology · 国际 · 02:07 · `可能需订阅`</small>
-> Hugging Face, a start-up that was breached by rogue bots from OpenAI, is using the hack to push for openness in A.I. development.
+> **6. [E.P.A. Moves to Curb Public Input on Air Pollution Permits for Data Centers](https://www.nytimes.com/2026/08/25/climate/epa-data-centers-public-comment.html)**
+> <small>NYTimes Technology · 国际 · 00:45 · `可能需订阅`</small>
+> Under the proposal, states would no longer need to provide public notice or solicit comments on air pollution permits for data centers and other projects.
 >
-> **7. [The Data Center Backlash Bursts Into the Midterms](https://www.nytimes.com/2026/08/23/us/politics/data-centers-midterm-elections.html)**
-> <small>NYTimes Technology · 国际 · 21:32 · `可能需订阅`</small>
-> With opposition to the centers mounting, many Democrats and a growing number of Republicans are campaigning against them.
->
-> **8. [UK statistics agency turns to AI to cut costs and improve data - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNNlpGOGlXOEdpd3NUSk5NUEZMcHVGRjdSNmVIZkFfSWZ3UlVjamN1ZTNXT21UcTFWTEZydVF5MFh5dkl1ejRWMnN2SUhuMUFBb3IwTjl3QzVYUHVzWWhPUnpTbGJSTkxUelktbFVBTVQtVk9DZmk5R0JhNURsUW1fMlRqanQ?oc=5)**
-> <small>Financial Times · 国际 · 12:00 · `可能需订阅`</small>
+> **7. [UK statistics agency turns to AI to cut costs and improve data - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNNlpGOGlXOEdpd3NUSk5NUEZMcHVGRjdSNmVIZkFfSWZ3UlVjamN1ZTNXT21UcTFWTEZydVF5MFh5dkl1ejRWMnN2SUhuMUFBb3IwTjl3QzVYUHVzWWhPUnpTbGJSTkxUelktbFVBTVQtVk9DZmk5R0JhNURsUW1fMlRqanQ?oc=5)**
+> <small>Financial Times · 国际 · 12:02 · `可能需订阅`</small>
 > UK statistics agency turns to AI to cut costs and improve data Financial Times
->
-> **9. [Robotaxis are real now — so is the pushback](https://www.theverge.com/transportation/983765/robotaxi-waymo-zoox-tesla-rules-pushback-nhtsa)**
-> <small>The Verge · 国际 · 02:29</small>
-> Robotaxis are expanding. So is the fight over the rules governing them. In New York, Gov. Kathy Hochul withdrew a proposal earlier this year that would have opened the door to driverless robotaxis outside New York City after taxi drivers,…
 >
 
 > [!tip] 私募股权 / 投资市场
@@ -96,41 +88,41 @@
 > <small>Private Equity International · 国际 · 19:15</small>
 > In today's edition, How the next generation sees secondaries evolving; One of Sweden's most influential LPs swaps snow for sand; a UK pension is seeking a new director of public and private markets.
 >
-> **2. [MassPRIM targets smaller buyouts amid PE underperformance](https://www.privateequityinternational.com/massprim-targets-smaller-buyouts-amid-pe-underperformance/)**
-> <small>Private Equity International · 国际 · 10:33</small>
-> The system’s limited exposure to AI-related sectors has weighed on its PE returns, according to PE director Michael McGirr.
->
-> **3. [Francisco Partners’ DJ Deb: ‘Exits will come back, but it may take a little time’](https://www.buyoutsinsider.com/francisco-partners-dj-deb-exits-will-come-back-but-it-may-take-a-little-time/)**
+> **2. [Francisco Partners’ DJ Deb: ‘Exits will come back, but it may take a little time’](https://www.buyoutsinsider.com/francisco-partners-dj-deb-exits-will-come-back-but-it-may-take-a-little-time/)**
 > <small>Buyouts · 国际 · 04:03</small>
 > 'My guess is 2021-24 will end up being bad vintages in private equity, while 2025-28 will be great vintages,' FP's DJ Deb told affiliate title PE Hub in a wide-ranging interview about how the firm will deploy its recently closed $21bn in c…
+>
+> **3. [Seven things to know about India’s first listed GP](https://www.privateequityinternational.com/seven-things-to-know-about-indias-first-listed-gp/)**
+> <small>Private Equity International · 国际 · 12:15</small>
+> The Indian growth and buyout firm will use some of the proceeds to fund GP commitments in new and existing strategies.
 >
 > **4. [Behind GP-led secondaries’ banner H1 figures](https://www.buyoutsinsider.com/behind-gp-led-secondaries-banner-h1-figures/)**
 > <small>Buyouts · 国际 · 21:00</small>
 > Market volatility only tells part of the story of the GP-led market’s domination in the first six months of the year, with fundraising and expansion into new asset classes also driving growth.
 >
-> **5. [CVC-backed TMF Group acquires fund administrator Navigator Partners](https://www.pehub.com/cvc-backed-tmf-group-acquires-fund-administrator-navigator-partners/)**
-> <small>PE Hub · 国际 · 22:56</small>
-> Navigator Partners, founded in Helsinki in 2002, serves more than 800 private equity, family office and foundation clients across the Nordics. The post CVC-backed TMF Group acquires fund administrator Navigator Partners appeared first on P…
+> **5. [Gryphon-backed Presidential Heating acquires Shipley Plumbing in Maryland](https://www.pehub.com/gryphon-backed-presidential-heating-acquires-shipley-plumbing-in-maryland/)**
+> <small>PE Hub · 国际 · 01:32</small>
+> Shipley Plumbing, Heating & Air Conditioning is a Montgomery County, Maryland-based home-services provider offering plumbing, drain clearing and water heater repair and installation. The post Gryphon-backed Presidential Heating acquires Sh…
 >
-> **6. [Thompson Street’s ATIS acquires AuditMate to expand elevator asset platform](https://www.pehub.com/thompson-streets-atis-acquires-auditmate-to-expand-elevator-asset-platform/)**
-> <small>PE Hub · 国际 · 19:17</small>
-> AuditMate, billed as a leading elevator asset management technology platform, helps building owners and property managers track maintenance performance and cut risk. The post Thompson Street’s ATIS acquires AuditMate to expand elevator ass…
+> **6. [PE-backed 360training.com acquires select assets from Electronic Medical Certification](https://www.pehub.com/pe-backed-360training-com-acquires-select-assets-from-electronic-medical-certification/)**
+> <small>PE Hub · 国际 · 19:12</small>
+> Headquartered in Austin, 360training.com is a provider of online training solutions for individuals and businesses across various industries. The post PE-backed 360training.com acquires select assets from Electronic Medical Certification a…
 >
-> **7. [“围猎”IPO手法层出不穷 香港ZD Group爆发兑付危机(含视频) - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE02N0NBODI0TUFsdlNRaTFuRFgxSlpCbmRtcnBzMDRuLU9wTllleUVsbTh0YUNqWjB1RUo0Z19IY185dlFROV9SbEdBTkpUY2FiY1ppSkRNNUk5MHBLMjJmcGR3?oc=5)**
-> <small>财新 · 国内 · 07:27</small>
-> “围猎”IPO手法层出不穷 香港ZD Group爆发兑付危机(含视频) 财新
->
-> **8. [SHEIN逆势IPO - 财新](https://news.google.com/rss/articles/CBMiYEFVX3lxTFA0b2V5bkYxeXJ5Mm1GYlVrNkhqTk5oVVdIQTdCN0tMeUxOMlV5RGJNekt0cVlrT3ZTSEZ1Nk9TbG5wX0ZzblNXZWw0S2hoLXhTV1N1LUdxcFNKWmQzM0dGOQ?oc=5)**
-> <small>财新 · 国内 · 15:00</small>
-> SHEIN逆势IPO 财新
->
-> **9. [什方科技完成B轮及B+轮近3亿元融资，清科控股（01945.HK）旗下清科资本担任本次融资财务顾问 - 投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5mVGhBeW42aTd2VktSUGVmU1p6SC1oQU5QV1RJY0pXS0VHVlpya1BxR2dSMG5kcTVhb0VtSFF0TXZpX3VHUnZJVURfQmI2TVBKNElIRGh3?oc=5)**
+> **7. [什方科技完成B轮及B+轮近3亿元融资，清科控股（01945.HK）旗下清科资本担任本次融资财务顾问 - 投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5mVGhBeW42aTd2VktSUGVmU1p6SC1oQU5QV1RJY0pXS0VHVlpya1BxR2dSMG5kcTVhb0VtSFF0TXZpX3VHUnZJVURfQmI2TVBKNElIRGh3?oc=5)**
 > <small>投资界 · 国内 · 15:00</small>
 > 什方科技完成B轮及B+轮近3亿元融资，清科控股（01945.HK）旗下清科资本担任本次融资财务顾问 投资界
 >
-> **10. [46只新基金，“同台竞技”！ - 证券时报](https://news.google.com/rss/articles/CBMiV0FVX3lxTFB2bjZVZ0VPWmJ5dmRnWjBscTJqeEJ3anVGbWFCdi12ZWd5OEYteTVFTEhEbTN5TnVhZWw3eG1TbDktbW9BV2xpV2xmQXJuY3Jfa1RaYWlyNA?oc=5)**
+> **8. [火线梳理：抗癌疫苗引爆市场，四大环节影响A股，多家上市公司布局 - 证券时报](https://news.google.com/rss/articles/CBMiXEFVX3lxTE42YnY3eW9iX3pTVXNyUFV3ZmRaM0hZaW5YZGRjd21icHRrWjc4RzZ3X0RRa2RIYlVkVl9QSlpqZ0VFcExUMk4zenhJRUQwekpOcThSME04UTI0NkdO?oc=5)**
+> <small>证券时报 · 国内 · 19:41</small>
+> 火线梳理：抗癌疫苗引爆市场，四大环节影响A股，多家上市公司布局 证券时报
+>
+> **9. [46只新基金，“同台竞技”！ - 证券时报](https://news.google.com/rss/articles/CBMiV0FVX3lxTFB2bjZVZ0VPWmJ5dmRnWjBscTJqeEJ3anVGbWFCdi12ZWd5OEYteTVFTEhEbTN5TnVhZWw3eG1TbDktbW9BV2xpV2xmQXJuY3Jfa1RaYWlyNA?oc=5)**
 > <small>证券时报 · 国内 · 16:42</small>
 > 46只新基金，“同台竞技”！ 证券时报
+>
+> **10. [SHEIN逆势IPO - 财新周刊](https://news.google.com/rss/articles/CBMiYEFVX3lxTFA0b2V5bkYxeXJ5Mm1GYlVrNkhqTk5oVVdIQTdCN0tMeUxOMlV5RGJNekt0cVlrT3ZTSEZ1Nk9TbG5wX0ZzblNXZWw0S2hoLXhTV1N1LUdxcFNKWmQzM0dGOQ?oc=5)**
+> <small>财新周刊 · 国内 · 15:00 · `可能需订阅`</small>
+> SHEIN逆势IPO 财新周刊
 >
 
 > [!warning] 抓取失败但不影响成稿的来源
