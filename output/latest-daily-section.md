@@ -8,77 +8,81 @@
 > [!quote] 财经 / 金融
 > 10/10 · 国内 3 / 国际 7
 >
-> **1. [Stocks and Bonds Steady at the End of a Tumultuous Week](https://www.nytimes.com/2026/08/21/business/stocks-bonds-oil-prices.html)**
-> <small>NYTimes Business · 国际 · 04:16 · `可能需订阅`</small>
-> Fears about the war in Iran, government deficits, the economy and corporate borrowing stirred global markets.
+> **1. [‘Honeymoon’s Over’: Warsh Under Pressure as Fed Weighs Raising Rates](https://www.nytimes.com/2026/08/26/business/kevin-warsh-federal-reserve-jackson.html)**
+> <small>NYTimes Business · 国际 · 17:04 · `可能需订阅`</small>
+> Kevin M. Warsh is scheduled to deliver his first address at the Federal Reserve’s annual conference in Jackson, Wyo., with U.S. government bond markets on edge and inflation risks resurfacing.
 >
 > **2. [Anthropic expected to tell investors it sees over $30 trillion in potential revenue, WSJ reports - Reuters](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUlR3eXlsWC1xOV9yNnI3OUcySkF2Z2xmdHJoZElUaWQxZXpwRlVoUHZXaDVsWU00ckUtR0FVdWN0RlhVSDFKS0tyZ0VuWVBXLVV4bDNfa3M0Zll5blM0OWJsQmU5TDJRVmZRVXFLM3VZNjdLMFhRTXBncE1pQUhrRDVORkpnODFtdXJiNjRsakFyQUR5c0phRVR2LXlWV1VFTUdEYThjZVEyMGNfcWQtRmNyblVaN2FJRFBPRjliT2RORkprd09YUDJBVUtzbWo2RUpTUHpB?oc=5)**
 > <small>Reuters · 国际 · 00:56</small>
 > Anthropic expected to tell investors it sees over $30 trillion in potential revenue, WSJ reports Reuters
 >
-> **3. [UBS concern over private markets push by manager of $1bn sustainable finance fund - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxQVHRWTTJGcVlwaEU5eXRXUFo0Y0NScEZuS1g4ZDU1Um5hcGY1YUxtXzRfXzMyQlZZSnFYVlJMMjVhZWdVUTJQR0ctR0hlcVotNVFFWDVpQTVSazg3QkctcHFlR1M1QUZwcmJEb2FfTFF3OGRXQlZKZ2N5R0dlZHdLNEZRUFY?oc=5)**
+> **3. [韩国央行将基准利率从2.75%上调至3.00% - 证券时报](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9VWm43bjBIbllHeFFHRkpGOEwwVUZxWWVTSjNVUTZiN1pmYU13VEhCaWREQTJkNTkzODNxYnlOSXVPdm1pLVJfTWNyRUpmVkV6dlBha2ZyajZXcDhr?oc=5)**
+> <small>证券时报 · 国内 · 10:50</small>
+> 韩国央行将基准利率从2.75%上调至3.00% 证券时报
+>
+> **4. [Bessent Faces Credibility Test in Quest to Tame Markets](https://www.nytimes.com/2026/08/26/business/scott-bessent-economy-markets.html)**
+> <small>NYTimes Business · 国际 · 23:05 · `可能需订阅`</small>
+> The Treasury secretary is confronting the limits of his ability to reshape the economy ahead of midterm elections.
+>
+> **5. [UBS concern over private markets push by manager of $1bn sustainable finance fund - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxQVHRWTTJGcVlwaEU5eXRXUFo0Y0NScEZuS1g4ZDU1Um5hcGY1YUxtXzRfXzMyQlZZSnFYVlJMMjVhZWdVUTJQR0ctR0hlcVotNVFFWDVpQTVSazg3QkctcHFlR1M1QUZwcmJEb2FfTFF3OGRXQlZKZ2N5R0dlZHdLNEZRUFY?oc=5)**
 > <small>Financial Times · 国际 · 17:57 · `可能需订阅`</small>
 > UBS concern over private markets push by manager of $1bn sustainable finance fund Financial Times
 >
-> **4. [近万亿美元！美国财政部或动用这个账户干预美债，能否稳住市场 - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5xVkZoRXBBR1hKSVlyVVFVM0ZMNnl1YU1TbFJDSEpjNU9iWFVjLUxLQlFOVW1wMWFPX2xFSVRzLWphMFd1U1RwNDA2bDQ1THFKc3VF?oc=5)**
-> <small>第一财经 · 国内 · 19:04</small>
-> 近万亿美元！美国财政部或动用这个账户干预美债，能否稳住市场 第一财经
+> **6. [Why today’s markets are not as contradictory as they seem - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNeXBYVXZWV1A4Y0k5U2hzVmVGVjdpNjg2SUJzSGgwUGcxdHVBNkRwMmxlRUxQVWNzM0xTN3lxTEViYTBWa0xVNVFLSDFCLWtHbk5QaDdYbzBVa1lfNFRiZWdMS3VVTE5pQjJTbjF0RW04MDNpMTlwRXV5UEc5OUhNVFg2VkY?oc=5)**
+> <small>Financial Times · 国际 · 12:01 · `可能需订阅`</small>
+> Why today’s markets are not as contradictory as they seem Financial Times
 >
-> **5. [A股四大指数集体高开，生物医药板块爆发 - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9oNmRoTksxNDJFb3MtR0t0T1NfNVRfU0tPb1dLQ2hiVmtKMWJ2SEpzMk5JOEUwSmM1QzlTV0pvelV1aTdIMEtQbENoNFNvVG5xQ3c4?oc=5)**
-> <small>第一财经 · 国内 · 11:40</small>
-> A股四大指数集体高开，生物医药板块爆发 第一财经
+> **7. [陆家嘴金融沙龙：践行投资者为本理念 引导资本市场理性投资 - 第一财经](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9NT3ptWjg2OTJ4U0h2VXdtazc0TXAtdVdDeldVWVRET3oyWVBoTkFEOXRSQnBtVjljRVBEbEYxanFzWEZxa1RfbnhjSW91T0FkS2RSSA?oc=5)**
+> <small>第一财经 · 国内 · 22:41</small>
+> 陆家嘴金融沙龙：践行投资者为本理念 引导资本市场理性投资 第一财经
 >
-> **6. [How Shein’s IPO lost its shine - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNZVZNZ1J4T0lqbUREWFdBdFJUUllTQVdHLXdVV2l5aV9FS000VWtYeEdmZlNRc0RMQVhUby1yQzdjTHNnS1ltQ2hFM0tSY0pTakhSTGQ5b0JyQ2hCV1J2VnRJeE4xemE1T1pTeWZWT2xwOERLUDVGZ1BVMUdsM2Q2TkpIWjI?oc=5)**
-> <small>Financial Times · 国际 · 23:00 · `可能需订阅`</small>
-> How Shein’s IPO lost its shine Financial Times
+> **8. [Breakingviews - AstraZeneca's blocked M&A signals tough CEO finale - Reuters](https://news.google.com/rss/articles/CBMirgFBVV95cUxQUzNZUGxvaUZiSjg4ZlpDak44dzVVQzQ3cmlza3pESzdhb1I5cmhFUXI5WEtZbDZtdGlaZ1hSdk9kZzNBaUV2QVRYdngtSW85WE1IdG9OT1Y3cno0OF9GWkd1Qm5ycUNWVzBhdU1SNmU1WmRQZFN5d1UxOGZXUThPWDZhR1J6N3l5QnVBc1FKdmJzRGxPaUZEY2dMLVk3Tlc0ZW1hc3IySHlkVmg1NlE?oc=5)**
+> <small>Reuters · 国际 · 18:18</small>
+> Breakingviews - AstraZeneca's blocked M&A signals tough CEO finale Reuters
 >
-> **7. [Fed officials saw need for rate hike if inflation doesn't cool, minutes show](https://www.cnbc.com/2026/08/19/fed-minutes-july-2026-officials-saw-need-for-rate-hike-if-inflation-doesnt-cool.html)**
+> **9. [Fed officials saw need for rate hike if inflation doesn't cool, minutes show](https://www.cnbc.com/2026/08/19/fed-minutes-july-2026-officials-saw-need-for-rate-hike-if-inflation-doesnt-cool.html)**
 > <small>CNBC Finance · 国际 · 02:54</small>
 > The Federal Reserve on Wednesday released minutes from its July 28-29 policy meeting.
 >
-> **8. [Goldman studied where AI is squeezing labor markets. Here's what it found](https://www.cnbc.com/2026/08/19/goldman-ai-impact-employment-jobs.html)**
-> <small>CNBC Finance · 国际 · 14:55</small>
-> Goldman Sachs found that AI is starting to weigh on employment across developed economies.
->
-> **9. [The Heat on Treasury Secretary Scott Bessent Grows](https://www.nytimes.com/2026/08/25/business/dealbook/bessent-bond-market-druckenmiller.html)**
-> <small>NYTimes Business · 国际 · 20:46 · `可能需订阅`</small>
-> Treasury Secretary Scott Bessent’s plans to intervene in bond markets have drawn widespread criticism, including from a prominent former mentor.
->
-> **10. [美国加码回购债券难挡定价权转移 久期风险加剧全球资产价格波动 - 证券时报](https://news.google.com/rss/articles/CBMiXEFVX3lxTE84SzB5YzQ0RXlqQ0RVbmZqNXI4bHpCQ2xuRk0wX0JRVWRYcVkwajhzSVduOXBDak4ybG5lQ0FtNHdJYXgyRXBRYVFiY1U1STJlU3VHYXNBb0drdE95?oc=5)**
-> <small>证券时报 · 国内 · 07:00</small>
-> 美国加码回购债券难挡定价权转移 久期风险加剧全球资产价格波动 证券时报
+> **10. [中国平安郭晓涛：低利率不可怕，资负匹配才能穿越周期 - 第一财经](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBZdVNMSU5WQnQ0SGh3d1BYdjlha0VYdG9YdUFfYkc0Rk1veDJBX2lMTGVZMlZmM1RFSmVEbEpPRkt6ZEdwRGdJNVZEN1QyQkJy?oc=5)**
+> <small>第一财经 · 国内 · 16:26</small>
+> 中国平安郭晓涛：低利率不可怕，资负匹配才能穿越周期 第一财经
 >
 
 > [!example] 科技 / AI
-> 7/10 · 国内 1 / 国际 6
+> 8/10 · 国内 0 / 国际 8
 >
-> **1. [Your brain on AI](https://www.technologyreview.com/2026/08/25/1140958/your-brain-on-ai/)**
-> <small>MIT Technology Review · 国际 · 05:00</small>
-> Many people find AI-based chatbots helpful in keeping up with news, but a study by Pattie Maes and her colleagues at the MIT Media Lab points to a big problem with this strategy. Participants who evaluated paired news headlines and images…
+> **1. [The inside story on why OpenAI agents hacked Hugging Face](https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/)**
+> <small>MIT Technology Review · 国际 · 03:00</small>
+> The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a group of agents undert…
 >
-> **2. [OpenAI loses a top data center exec, as stream of high-profile departures continues](https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/)**
-> <small>TechCrunch · 国际 · 08:06</small>
-> Before Malone left, OpenAI had already reshuffled its infrastructure org, shifting his reporting line away from President Greg Brockman and putting Vice President Sachin Katti in charge of the group.
+> **2. [Raised on AI](https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/)**
+> <small>MIT Technology Review · 国际 · 17:00</small>
+> When my oldest child was born, I immediately set up Gmail and Twitter accounts in her name. I broadly announced her birth online and proceeded to plaster her photo across all sorts of platforms. In short, I began creating her digital footp…
 >
-> **3. [{{最新周刊导播｜AI基建争夺东南亚、聪明钱AI大调仓、L3自动驾驶冲线 - 财新周刊](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBxNlBZdkk2OXF0YjRYWDJnbWY0M0c5YTlHcEh2TFZCOFliZ0NuaWJoX3JURXQ5Z0ZtbEd4S0U1M2pXa3JQYUhtbmlrU2N2bVF2V0ozbXNLdk9pTloxYWNlRA?oc=5)**
-> <small>财新周刊 · 国内 · 13:42 · `可能需订阅`</small>
-> {{最新周刊导播｜AI基建争夺东南亚、聪明钱AI大调仓、L3自动驾驶冲线 财新周刊
+> **3. [Nvidia closes in on Hugging Face acquisition](https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/)**
+> <small>TechCrunch · 国际 · 14:32</small>
+> Nvidia has reportedly agreed to buy Hugging Face, the popular open-source AI hub, for $12.9 billion in a move that would let Nvidia both protect its chip empire and jump back into the cloud business.
 >
-> **4. [OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show](https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/)**
-> <small>TechCrunch · 国际 · 22:22</small>
-> Tested on SemiAnalysis’ InferenceX benchmark, Jalapeño registered both more tokens per user and more throughput per kilowatt than the currently available state-of-the art.
+> **4. [Amazon just tripled its order of Nvidia chips over ‘surging demand’](https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/)**
+> <small>TechCrunch · 国际 · 07:47</small>
+> Amazon is adding another 2 million Nvidia GPU chips to its data centers over the next two years. But this extended partnerships stretches beyond buying more chips.
 >
-> **5. [Why Irregular’s A.I. Tests for Meta, Anthropic and OpenAI Went Off the Rails](https://www.nytimes.com/2026/08/25/technology/irregular-ai-test-hacks.html)**
+> **5. [OpenAI’s rogue AI model incident was worse than we thought](https://www.theverge.com/ai-artificial-intelligence/985385/openais-rogue-ai-model-hugging-face-cybersecurity-incident-reports-metr)**
+> <small>The Verge · 国际 · 05:36</small>
+> In July, an unreleased OpenAI model broke out of a restricted environment, figured out how to get access to the internet, allowed AI agents to talk to each other using a secret "message board," and hacked into the internal systems of a dif…
+>
+> **6. [Nvidia’s Profit Doubles to $59.69 Billion Thanks to A.I. Spending](https://www.nytimes.com/2026/08/26/technology/nvidia-profit-ai-doubles-earnings.html)**
+> <small>NYTimes Technology · 国际 · 09:05 · `可能需订阅`</small>
+> Quarterly revenue also more than doubled, to $96.22 billion, the company said, topping expectations on Wall Street.
+>
+> **7. [Why Irregular’s A.I. Tests for Meta, Anthropic and OpenAI Went Off the Rails](https://www.nytimes.com/2026/08/25/technology/irregular-ai-test-hacks.html)**
 > <small>NYTimes Technology · 国际 · 05:59 · `可能需订阅`</small>
 > Irregular, an Israeli start-up, worked with OpenAI, Anthropic and Meta to assess the security of their A.I. models. It made a mistake. Then the tests went off the rails.
 >
-> **6. [E.P.A. Moves to Curb Public Input on Air Pollution Permits for Data Centers](https://www.nytimes.com/2026/08/25/climate/epa-data-centers-public-comment.html)**
-> <small>NYTimes Technology · 国际 · 00:45 · `可能需订阅`</small>
-> Under the proposal, states would no longer need to provide public notice or solicit comments on air pollution permits for data centers and other projects.
->
-> **7. [UK statistics agency turns to AI to cut costs and improve data - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNNlpGOGlXOEdpd3NUSk5NUEZMcHVGRjdSNmVIZkFfSWZ3UlVjamN1ZTNXT21UcTFWTEZydVF5MFh5dkl1ejRWMnN2SUhuMUFBb3IwTjl3QzVYUHVzWWhPUnpTbGJSTkxUelktbFVBTVQtVk9DZmk5R0JhNURsUW1fMlRqanQ?oc=5)**
-> <small>Financial Times · 国际 · 12:02 · `可能需订阅`</small>
-> UK statistics agency turns to AI to cut costs and improve data Financial Times
+> **8. [Nvidia is about to be a hundred-billion-dollar-a-quarter company](https://www.theverge.com/tech/985387/nvidia-hundred-billion-dollar-quarterly-revenue)**
+> <small>The Verge · 国际 · 05:46</small>
+> Nvidia's predicting it will pull in $108 billion in revenue within just a few months. It wouldn't be the first company to rake in over $100 billion in quarterly revenue - Amazon, Apple, and Alphabet have repeatedly reached the milestone. N…
 >
 
 > [!tip] 私募股权 / 投资市场
@@ -100,29 +104,29 @@
 > <small>Buyouts · 国际 · 21:00</small>
 > Market volatility only tells part of the story of the GP-led market’s domination in the first six months of the year, with fundraising and expansion into new asset classes also driving growth.
 >
-> **5. [Gryphon-backed Presidential Heating acquires Shipley Plumbing in Maryland](https://www.pehub.com/gryphon-backed-presidential-heating-acquires-shipley-plumbing-in-maryland/)**
-> <small>PE Hub · 国际 · 01:32</small>
-> Shipley Plumbing, Heating & Air Conditioning is a Montgomery County, Maryland-based home-services provider offering plumbing, drain clearing and water heater repair and installation. The post Gryphon-backed Presidential Heating acquires Sh…
+> **5. [Hull Street Energy acquires 1,263 MW power portfolio from Rockland Capital](https://www.pehub.com/hull-street-energy-acquires-1263-mw-power-portfolio-from-rockland-capital/)**
+> <small>PE Hub · 国际 · 01:56</small>
+> The GridFlex Portfolio comprises the Lee County Generating Station, a 677 MW natural gas turbine facility in Illinois, and the Tait Electric Generating Station, a 586 MW dual-fuel facility in Ohio, both located in the PJM market. The post…
 >
-> **6. [PE-backed 360training.com acquires select assets from Electronic Medical Certification](https://www.pehub.com/pe-backed-360training-com-acquires-select-assets-from-electronic-medical-certification/)**
-> <small>PE Hub · 国际 · 19:12</small>
-> Headquartered in Austin, 360training.com is a provider of online training solutions for individuals and businesses across various industries. The post PE-backed 360training.com acquires select assets from Electronic Medical Certification a…
+> **6. [Star Mountain taps Adam Fitzner as managing director and strategic portfolio partner](https://www.pehub.com/star-mountain-taps-adam-fitzner-as-managing-director-and-strategic-portfolio-partner/)**
+> <small>PE Hub · 国际 · 18:58</small>
+> In his new roles, Fitzner will support Star Mountain's continued growth by leveraging his expertise in private equity investing and operational value creation to strengthen and optimize portfolio company performance. The post Star Mountain…
 >
 > **7. [什方科技完成B轮及B+轮近3亿元融资，清科控股（01945.HK）旗下清科资本担任本次融资财务顾问 - 投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5mVGhBeW42aTd2VktSUGVmU1p6SC1oQU5QV1RJY0pXS0VHVlpya1BxR2dSMG5kcTVhb0VtSFF0TXZpX3VHUnZJVURfQmI2TVBKNElIRGh3?oc=5)**
 > <small>投资界 · 国内 · 15:00</small>
 > 什方科技完成B轮及B+轮近3亿元融资，清科控股（01945.HK）旗下清科资本担任本次融资财务顾问 投资界
 >
-> **8. [火线梳理：抗癌疫苗引爆市场，四大环节影响A股，多家上市公司布局 - 证券时报](https://news.google.com/rss/articles/CBMiXEFVX3lxTE42YnY3eW9iX3pTVXNyUFV3ZmRaM0hZaW5YZGRjd21icHRrWjc4RzZ3X0RRa2RIYlVkVl9QSlpqZ0VFcExUMk4zenhJRUQwekpOcThSME04UTI0NkdO?oc=5)**
-> <small>证券时报 · 国内 · 19:41</small>
-> 火线梳理：抗癌疫苗引爆市场，四大环节影响A股，多家上市公司布局 证券时报
->
-> **9. [46只新基金，“同台竞技”！ - 证券时报](https://news.google.com/rss/articles/CBMiV0FVX3lxTFB2bjZVZ0VPWmJ5dmRnWjBscTJqeEJ3anVGbWFCdi12ZWd5OEYteTVFTEhEbTN5TnVhZWw3eG1TbDktbW9BV2xpV2xmQXJuY3Jfa1RaYWlyNA?oc=5)**
+> **8. [46只新基金，“同台竞技”！ - 证券时报](https://news.google.com/rss/articles/CBMiV0FVX3lxTFB2bjZVZ0VPWmJ5dmRnWjBscTJqeEJ3anVGbWFCdi12ZWd5OEYteTVFTEhEbTN5TnVhZWw3eG1TbDktbW9BV2xpV2xmQXJuY3Jfa1RaYWlyNA?oc=5)**
 > <small>证券时报 · 国内 · 16:42</small>
 > 46只新基金，“同台竞技”！ 证券时报
 >
-> **10. [SHEIN逆势IPO - 财新周刊](https://news.google.com/rss/articles/CBMiYEFVX3lxTFA0b2V5bkYxeXJ5Mm1GYlVrNkhqTk5oVVdIQTdCN0tMeUxOMlV5RGJNekt0cVlrT3ZTSEZ1Nk9TbG5wX0ZzblNXZWw0S2hoLXhTV1N1LUdxcFNKWmQzM0dGOQ?oc=5)**
+> **9. [SHEIN逆势IPO - 财新周刊](https://news.google.com/rss/articles/CBMiYEFVX3lxTFA0b2V5bkYxeXJ5Mm1GYlVrNkhqTk5oVVdIQTdCN0tMeUxOMlV5RGJNekt0cVlrT3ZTSEZ1Nk9TbG5wX0ZzblNXZWw0S2hoLXhTV1N1LUdxcFNKWmQzM0dGOQ?oc=5)**
 > <small>财新周刊 · 国内 · 15:00 · `可能需订阅`</small>
 > SHEIN逆势IPO 财新周刊
+>
+> **10. [融资｜亮源新创完成数亿元Pre-A轮融资，ChatGPT核心贡献者姜旭率队探索Physical AI基础模型 - 创业邦](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5mZlgyb29tSW53aFBCVlB4ODdfaW0zd1k3YzhtWDBSVTNWeWNuVGZUWEJST1g5blA5eExiMFNiX3dlZEhqcGpaOEpQMnlqdGhr?oc=5)**
+> <small>创业邦 · 国内 · 14:44</small>
+> 融资｜亮源新创完成数亿元Pre-A轮融资，ChatGPT核心贡献者姜旭率队探索Physical AI基础模型 创业邦
 >
 
 > [!warning] 抓取失败但不影响成稿的来源
