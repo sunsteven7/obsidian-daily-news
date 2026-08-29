@@ -6,51 +6,51 @@
 > 摘要来自 RSS/新闻源描述，保留原文语言；`可能需订阅` 表示该来源可能有付费墙。
 
 > [!quote] 财经 / 金融
-> 10/10 · 国内 3 / 国际 7
+> 10/10 · 国内 4 / 国际 6
 >
 > **1. [‘Honeymoon’s Over’: Warsh Under Pressure as Fed Weighs Raising Rates](https://www.nytimes.com/2026/08/26/business/kevin-warsh-federal-reserve-jackson.html)**
 > <small>NYTimes Business · 国际 · 17:04 · `可能需订阅`</small>
 > Kevin M. Warsh is scheduled to deliver his first address at the Federal Reserve’s annual conference in Jackson, Wyo., with U.S. government bond markets on edge and inflation risks resurfacing.
 >
-> **2. [Anthropic's TAM could exceed $30 trillion as Claude maker builds IPO case: WSJ - CNBC TV18](https://news.google.com/rss/articles/CBMilwFBVV95cUxQdHBHcVhSZzh4SkdnSms3WVh4SEVMNC1EcXBGWmpTanZSUnlFWlhSZXg5U2tzd25IM3VQU084eVBuWS1VWlYxY3FMWlEybUxLdWlXQnZqR2xOejN2cEpBYnFSU21IUlJObXlfVEozUElzSDl3N0VSYzdQTFA2Q01wLUxkV192TFlpZVhZcU41QWZkMUtlTDln0gGcAUFVX3lxTFBSamtMUlgxajZRa3J4amM5WXpHaUt4Z0ZVUWdRUTFZNWdOM0dCZWJZanp0R2xHVmdSdmFSc0dPZGFiWUZONzRNRnp0YlE0eDI3eDlBbjZqNmlGdjZhZG5KUktXTDhfWnhoYlV6WWI3SEZVTkFZTnVBU1oxaFBJMS1uVkppeFV6bUpBRDc4SHFFblF6NUVTX2xzTHJmaQ?oc=5)**
-> <small>CNBC TV18 · 国际 · 02:19</small>
-> Anthropic's TAM could exceed $30 trillion as Claude maker builds IPO case: WSJ CNBC TV18
+> **2. [Warsh’s Big Test at Jackson Hole](https://www.nytimes.com/2026/08/28/business/dealbook/warsh-fed-jackson-hole.html)**
+> <small>NYTimes Business · 国际 · 00:40 · `可能需订阅`</small>
+> Investors want Kevin Warsh, the Fed chairman, to address inflation, interest rates and the bond market in a major speech. Some worry he won’t say enough.
 >
-> **3. [How 6 Months of War in Iran Jolted Oil, Gas, Stocks and More](https://www.nytimes.com/2026/08/28/business/iran-war-oil-stocks-prices.html)**
-> <small>NYTimes Business · 国际 · 17:02 · `可能需订阅`</small>
-> How markets have moved six months into the war, and where they might be headed in the future.
+> **3. [Hawkish Kevin Warsh hints Fed will raise rates if inflation does not fall soon - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxPNjRfcTAyMVhPT3ZuQ1ZOeS1WT1JKNHhVYmhkbXZoOWZxSWg2UUo5Q2l1ZlNqcTBIRkx3bjNfQ2VYTFRkZEhHQUtVWTdjYWxZMVV0N0hxR0h6RElOUm5kaTBOYUhrQ3E5ZTgxX1ZlSzNiV3UzN19ZbWs2YnR2R1phVWFGbVo?oc=5)**
+> <small>Financial Times · 国际 · 22:00 · `可能需订阅`</small>
+> Hawkish Kevin Warsh hints Fed will raise rates if inflation does not fall soon Financial Times
 >
-> **4. [Nvidia’s Victory Lap, Software Rallies and Huang Rebuts Gates | Markets P.M. for August 27 - WSJ](https://news.google.com/rss/articles/CBMicEFVX3lxTE9sR3RKMklodk8zSC15bzctTVlPMUlaU3RKUmh1NFdhRnJBbEY3SVdkbmxlTk5uTVRyTkdZYjNoYlBQbTEtLWdwQTNaQmltQ3JtS3RDTk9FRzg4MVRFQnN3RE1JVlFVMUJhVlZFd1p6OUE?oc=5)**
-> <small>WSJ · 国际 · 04:29 · `可能需订阅`</small>
-> Nvidia’s Victory Lap, Software Rallies and Huang Rebuts Gates | Markets P.M. for August 27 WSJ
+> **4. [高成交红利释放 互联网券商业绩分化 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE40UnJPcUJxdVc3YUtmbFNyUFpVN0ZDbGJxUllUZmozY3FDVG1xajdEV0NuNWRuMlBoa0V3UFdsT21UM1VhZkVKUnBhR1NKblNsNTlZM2Nua1pZTGRjUF83dS1n?oc=5)**
+> <small>财新 · 国内 · 08:45</small>
+> 高成交红利释放 互联网券商业绩分化 财新
 >
-> **5. [韩国央行将基准利率从2.75%上调至3.00% - 证券时报](https://news.google.com/rss/articles/CBMiV0FVX3lxTFB5RzZJd3hJQUVBVlBOSjQySjRoRHZDUjBvajlOZXJ5VmJGMTFQeUJrdFpxSDZqVHhNbWh6eHJKNjBsTHB5dHRuM1pjaGZCcEJrRERWaTc1cw?oc=5)**
-> <small>证券时报 · 国内 · 14:30</small>
-> 韩国央行将基准利率从2.75%上调至3.00% 证券时报
+> **5. [Warsh Says the Fed May Not Be Done Fighting Inflation - WSJ](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeTZLWUVDeVhqX2FSLWpKNTBMZkNDQkhGRWdrRTdEOW1ENXBBdGUzY0pjSTVFTFlhcldWZE5LQ0RDamwwY2NjNEhlbWZObjU1X19qd0ZxQkx3SnVCOExxUElzeS05VFlBamVkbFZPX29LSUZHVzAxdG8zWkI0LTNNblZ4RmlaS1d4QlVHZ3VLaUFzMTg5RVFtOExJeHVDMTlGYlJqV1E0eFJFUQ?oc=5)**
+> <small>WSJ · 国际 · 02:39 · `可能需订阅`</small>
+> Warsh Says the Fed May Not Be Done Fighting Inflation WSJ
 >
-> **6. [Fed officials saw need for rate hike if inflation doesn't cool, minutes show](https://www.cnbc.com/2026/08/19/fed-minutes-july-2026-officials-saw-need-for-rate-hike-if-inflation-doesnt-cool.html)**
+> **6. [September Fed decision is now a coin flip as rate hike odds increase post Warsh](https://www.cnbc.com/2026/08/28/-september-fed-decision-now-a-coin-flip-as-rate-hike-odds-increase.html)**
+> <small>CNBC Finance · 国际 · 23:22</small>
+> Odds rose after Warsh's speech in Jackson Hole, Wyo., where he discussed that he still is frustrated with the overall inflation trend.
+>
+> **7. [陆家嘴金融沙龙：践行投资者为本理念 引导资本市场理性投资 - 第一财经](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9NT3ptWjg2OTJ4U0h2VXdtazc0TXAtdVdDeldVWVRET3oyWVBoTkFEOXRSQnBtVjljRVBEbEYxanFzWEZxa1RfbnhjSW91T0FkS2RSSA?oc=5)**
+> <small>第一财经 · 国内 · 12:31</small>
+> 陆家嘴金融沙龙：践行投资者为本理念 引导资本市场理性投资 第一财经
+>
+> **8. [房地产板块震荡拉升 - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBfMW9qclk5emtnVDhOemlmTUk2X3BCdFdjaVdKc21VSm1IWFZmTnBXNnJlQUJTQmR6NmZYVjBYSUNSdmIya0lyX1FLWEF2ck0tUnIw?oc=5)**
+> <small>第一财经 · 国内 · 09:46</small>
+> 房地产板块震荡拉升 第一财经
+>
+> **9. [Fed officials saw need for rate hike if inflation doesn't cool, minutes show](https://www.cnbc.com/2026/08/19/fed-minutes-july-2026-officials-saw-need-for-rate-hike-if-inflation-doesnt-cool.html)**
 > <small>CNBC Finance · 国际 · 02:54</small>
 > The Federal Reserve on Wednesday released minutes from its July 28-29 policy meeting.
 >
-> **7. [Goldman studied where AI is squeezing labor markets. Here's what it found](https://www.cnbc.com/2026/08/19/goldman-ai-impact-employment-jobs.html)**
-> <small>CNBC Finance · 国际 · 14:55</small>
-> Goldman Sachs found that AI is starting to weigh on employment across developed economies.
->
-> **8. [日本重申与美国就日元汇率密切协调，市场紧密关注贝森特会否施压 - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9hX0xRQ2lVb3lqOExBTXpVaVh0OHRnSGJnTWsyZUFJTkU5WFNsU1pnUXVwOUloWi1TQlNKZnNtUDBGRzl4S3AtZTk5eTMtNGFEVVFv?oc=5)**
-> <small>第一财经 · 国内 · 01:37</small>
-> 日本重申与美国就日元汇率密切协调，市场紧密关注贝森特会否施压 第一财经
->
-> **9. [The U.S. Is Trying to Strangle Iran’s Economy. Here’s How Tehran Is Surviving. - WSJ](https://news.google.com/rss/articles/CBMivAFBVV95cUxQbmE4U1UyUHprQ283UWNqQWJDTmV3TGEta3Q3S3Q3YXc3anh2RUNNaFJKRUd2TmIyWE0xeldyaGRkUDM2VEFTcFpKNXBoSnFITUJHNjZNX2g4V2hmYW1GcFRpSkQybmx0V1dBTXBHM0xhcWhpMTQxaG00X2tYU0NiUGdfMmQ1azZZRkhqT0lLQVZxNmpLWmsyamliamlveXp2UWtERFVnUk52UGxQTFFGaDJReGV3OVNCeTA2dA?oc=5)**
-> <small>WSJ · 国际 · 17:06 · `可能需订阅`</small>
-> The U.S. Is Trying to Strangle Iran’s Economy. Here’s How Tehran Is Surviving. WSJ
->
-> **10. [废铜遭疯抢“到货秒没” 几个月需求暴涨近三倍 有采购商蹲点抢购 AI成铜价狂飙“新锚点”？｜一探 - 第一财经](https://news.google.com/rss/articles/CBMiVEFVX3lxTE1aSktnUDgwNFBLaFNnMnFMM3ZiaWRtUnBzNS1IR2NCaHJISjZKNEFuX2hoR281VGNpNnQ5dXQ5QXhuMGszWGZfU1NUX0x4MEUxeFViOA?oc=5)**
-> <small>第一财经 · 国内 · 15:34</small>
-> 废铜遭疯抢“到货秒没” 几个月需求暴涨近三倍 有采购商蹲点抢购 AI成铜价狂飙“新锚点”？｜一探 第一财经
+> **10. [两部委指导金融机构设立“城市更新项目贷款”品种 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ybENvcVhKbjJCTGduZjdiUnJlZzA5SWZaUkpCR0djZHlHTWczSzhSUVhBRFRiR3E5cDZHOXBseVpzZjVxM1o4NzVxY0JSOUV2NjBOUWhhYUdJLTVDNTRIYlZn?oc=5)**
+> <small>财新 · 国内 · 09:23</small>
+> 两部委指导金融机构设立“城市更新项目贷款”品种 财新
 >
 
 > [!example] 科技 / AI
-> 8/10 · 国内 0 / 国际 8
+> 9/10 · 国内 0 / 国际 9
 >
 > **1. [The inside story on why OpenAI agents hacked Hugging Face](https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/)**
 > <small>MIT Technology Review · 国际 · 03:00</small>
@@ -60,45 +60,49 @@
 > <small>MIT Technology Review · 国际 · 17:00</small>
 > When my oldest child was born, I immediately set up Gmail and Twitter accounts in her name. I broadly announced her birth online and proceeded to plaster her photo across all sorts of platforms. In short, I began creating her digital footp…
 >
-> **3. [Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026](https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/)**
+> **3. [Neocloud Lambda secures $1B in debt to buy more chips](https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/)**
+> <small>TechCrunch · 国际 · 04:24</small>
+> Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.
+>
+> **4. [Trump’s EPA wants to let data centers hide their air pollution](https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit)**
+> <small>The Verge · 国际 · 00:28</small>
+> Just as new data centers face growing backlash from neighboring communities, the US Environmental Protection Agency (EPA) is about to make it harder for people to weigh in on any pollution those centers create. The EPA plans to toss out a…
+>
+> **5. [DLSS 5 leaked and modders are putting Nvidia’s AI effects on everything](https://www.theverge.com/games/986197/nvidia-dlss-5-leak-ai)**
+> <small>The Verge · 国际 · 00:22</small>
+> Modders are trying out an unofficial version of Nvidia's DLSS 5 on Skyrim, Cyberpunk 2077, GTA V, and a bunch of other games after code for the AI upscaling tech appeared in an early-access build of NBA 2K27. Members of the RenoDX modding…
+>
+> **6. [Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026](https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/)**
 > <small>TechCrunch · 国际 · 07:16</small>
 > At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.
 >
-> **4. [Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google](https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/)**
-> <small>TechCrunch · 国际 · 03:52</small>
-> Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is now at Google.
+> **7. [Inside Meta’s Push to Put Robots to Work in Data Centers - WIRED](https://news.google.com/rss/articles/CBMigwFBVV95cUxNaGFvaDNvZDJBYWRBbEYzRjBBSjNiVUNDOFVWY2g5bFo2X3ZfX25SaTgxYnFHOEN3dnZyY3R4RTBfN2FGdDY4NHV4bFFZMEo4MERSRU5PNUI2VWUtNHlqSnVaa3l2dFRadUVwLU9CVzZob1Zoa3hvTG5vUDNIa2dxd1FHQQ?oc=5)**
+> <small>WIRED · 国际 · 18:56</small>
+> Inside Meta’s Push to Put Robots to Work in Data Centers WIRED
 >
-> **5. [Jensen Huang says Nvidia achieved AGI, again — not that it matters](https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi)**
-> <small>The Verge · 国际 · 00:20</small>
-> On Nvidia's earnings call Wednesday, CEO Jensen Huang casually announced the company had "achieved AGI," one of the tech industry's ultimate goals some of its biggest players have spent years chasing. Almost immediately, Huang dismissed th…
->
-> **6. [OpenAI and 100 Others Warn That Window to Defend Against A.I. Attacks Is Narrowing](https://www.nytimes.com/2026/08/27/technology/openai-letter-ai-attacks.html)**
+> **8. [OpenAI and 100 Others Warn That Window to Defend Against A.I. Attacks Is Narrowing](https://www.nytimes.com/2026/08/27/technology/openai-letter-ai-attacks.html)**
 > <small>NYTimes Technology · 国际 · 01:55 · `可能需订阅`</small>
 > In an open letter, OpenAI, Anthropic, Google and others said that a wave of A.I.-enabled cyberattacks was coming and that organizations and governments needed to prepare themselves.
 >
-> **7. [Nvidia’s Profit Doubles to $59.69 Billion Thanks to A.I. Spending](https://www.nytimes.com/2026/08/26/technology/nvidia-profit-ai-doubles-earnings.html)**
+> **9. [Nvidia’s Profit Doubles to $59.69 Billion Thanks to A.I. Spending](https://www.nytimes.com/2026/08/26/technology/nvidia-profit-ai-doubles-earnings.html)**
 > <small>NYTimes Technology · 国际 · 09:05 · `可能需订阅`</small>
 > Quarterly revenue also more than doubled, to $96.22 billion, the company said, topping expectations on Wall Street.
->
-> **8. [Anthropic was illegally blacklisted by the Trump administration, court rules](https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling)**
-> <small>The Verge · 国际 · 11:14</small>
-> On Thursday, a judge ruled that the Pentagon's blacklisting of Anthropic earlier this year was unconstitutional, delivering the AI lab a win in a monthslong rollercoaster of a battle with the Trump administration. The lawsuit, filed in Mar…
 >
 
 > [!tip] 私募股权 / 投资市场
 > 10/10 · 国内 4 / 国际 6
 >
-> **1. [Seven things to know about India’s first listed GP](https://www.privateequityinternational.com/seven-things-to-know-about-indias-first-listed-gp/)**
-> <small>Private Equity International · 国际 · 12:15</small>
-> The Indian growth and buyout firm will use some of the proceeds to fund GP commitments in new and existing strategies.
->
-> **2. [Behind GP-led secondaries’ banner H1 figures](https://www.buyoutsinsider.com/behind-gp-led-secondaries-banner-h1-figures/)**
+> **1. [Behind GP-led secondaries’ banner H1 figures](https://www.buyoutsinsider.com/behind-gp-led-secondaries-banner-h1-figures/)**
 > <small>Buyouts · 国际 · 21:00</small>
 > Market volatility only tells part of the story of the GP-led market’s domination in the first six months of the year, with fundraising and expansion into new asset classes also driving growth.
 >
-> **3. [BV Investment-backed Imagenet acquires data firm Analytica Consulting](https://www.pehub.com/bv-investment-backed-imagenet-acquires-data-firm-analytica-consulting/)**
+> **2. [BV Investment-backed Imagenet acquires data firm Analytica Consulting](https://www.pehub.com/bv-investment-backed-imagenet-acquires-data-firm-analytica-consulting/)**
 > <small>PE Hub · 国际 · 01:06</small>
 > Founded in 2015, Analytica Consulting works with US government agencies and commercial organizations across healthcare, life sciences, manufacturing and education. The post BV Investment-backed Imagenet acquires data firm Analytica Consult…
+>
+> **3. [Investor Intentions: ERS Texas sets private equity pacing plan for 2027](https://www.privateequityinternational.com/investor-intentions-ers-texas-sets-private-equity-pacing-plan-for-2027/)**
+> <small>Private Equity International · 国际 · 21:08</small>
+> The public pension fund seeks to invest up to $1bn in new private equity commitments for FY 2027.
 >
 > **4. [Nebraska holds pacing steady after years of weak distributions](https://www.buyoutsinsider.com/nebraska-holds-pacing-steady-after-years-of-weak-distributions/)**
 > <small>Buyouts · 国际 · 04:12</small>
@@ -112,21 +116,21 @@
 > <small>PE Hub · 国际 · 21:55</small>
 > Talking with JPMorgan business services banker David Sweet to go over the fire protection and life safety market and the high valuations PE firms are paying for companies in the space; KKR-backed Industrial Physics acquires an electrical t…
 >
-> **7. [46只新基金，“同台竞技”！ - 证券时报](https://news.google.com/rss/articles/CBMiV0FVX3lxTFB2bjZVZ0VPWmJ5dmRnWjBscTJqeEJ3anVGbWFCdi12ZWd5OEYteTVFTEhEbTN5TnVhZWw3eG1TbDktbW9BV2xpV2xmQXJuY3Jfa1RaYWlyNA?oc=5)**
+> **7. [外资公募水土不服？富达基金回应退出中国：战略无变化 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE15eEVvUDYwS3MtREtmelF5N2QxdmY5M29RcWNadzdsT21LU2JvOTNuUFNSSGx4a2ZWc1ZNWndvY2dVQ2N6QVAyRlpyVlJZMTVLYld5cG82bXlGakVwMmg0R1hB?oc=5)**
+> <small>财新 · 国内 · 19:35</small>
+> 外资公募水土不服？富达基金回应退出中国：战略无变化 财新
+>
+> **8. [“围猎”IPO手法层出不穷 香港ZD Group爆发兑付危机(含视频) - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE02N0NBODI0TUFsdlNRaTFuRFgxSlpCbmRtcnBzMDRuLU9wTllleUVsbTh0YUNqWjB1RUo0Z19IY185dlFROV9SbEdBTkpUY2FiY1ppSkRNNUk5MHBLMjJmcGR3?oc=5)**
+> <small>财新 · 国内 · 15:00</small>
+> “围猎”IPO手法层出不穷 香港ZD Group爆发兑付危机(含视频) 财新
+>
+> **9. [46只新基金，“同台竞技”！ - 证券时报](https://news.google.com/rss/articles/CBMiV0FVX3lxTFB2bjZVZ0VPWmJ5dmRnWjBscTJqeEJ3anVGbWFCdi12ZWd5OEYteTVFTEhEbTN5TnVhZWw3eG1TbDktbW9BV2xpV2xmQXJuY3Jfa1RaYWlyNA?oc=5)**
 > <small>证券时报 · 国内 · 16:42</small>
 > 46只新基金，“同台竞技”！ 证券时报
 >
-> **8. [SHEIN逆势IPO - 财新周刊](https://news.google.com/rss/articles/CBMiYEFVX3lxTFA0b2V5bkYxeXJ5Mm1GYlVrNkhqTk5oVVdIQTdCN0tMeUxOMlV5RGJNekt0cVlrT3ZTSEZ1Nk9TbG5wX0ZzblNXZWw0S2hoLXhTV1N1LUdxcFNKWmQzM0dGOQ?oc=5)**
+> **10. [SHEIN逆势IPO - 财新周刊](https://news.google.com/rss/articles/CBMiYEFVX3lxTFA0b2V5bkYxeXJ5Mm1GYlVrNkhqTk5oVVdIQTdCN0tMeUxOMlV5RGJNekt0cVlrT3ZTSEZ1Nk9TbG5wX0ZzblNXZWw0S2hoLXhTV1N1LUdxcFNKWmQzM0dGOQ?oc=5)**
 > <small>财新周刊 · 国内 · 15:00 · `可能需订阅`</small>
 > SHEIN逆势IPO 财新周刊
->
-> **9. [合珀生物完成数千万元A轮战略融资 - 投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5PUDJTb0lHTTh1RUZ1SlhQSFZDbG1IWnhfWnRWR09WMVkxc0t4VG5LMDYxV19RV2llNnB5dVBvWVhobXdfZjZmQzZhUU1FSm1sQThFaERn?oc=5)**
-> <small>投资界 · 国内 · 15:28</small>
-> 合珀生物完成数千万元A轮战略融资 投资界
->
-> **10. [上实绿色科技基金首关落地 - 投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBjT01PdzFFdncxYlZ5RzVMMHpoLXFxaEE0TDdiX3l5SXRPbkxIZXNFSzJrNFVtTndBUWQ5MWpMX01jcUFVZ3B6T0NYcW9Sd1l3R1lJQ1R3?oc=5)**
-> <small>投资界 · 国内 · 11:35</small>
-> 上实绿色科技基金首关落地 投资界
 >
 
 > [!warning] 抓取失败但不影响成稿的来源
