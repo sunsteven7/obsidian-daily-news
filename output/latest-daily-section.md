@@ -6,47 +6,47 @@
 > 摘要来自 RSS/新闻源描述，保留原文语言；`可能需订阅` 表示该来源可能有付费墙。
 
 > [!quote] 财经 / 金融
-> 10/10 · 国内 4 / 国际 6
+> 10/10 · 国内 5 / 国际 5
 >
-> **1. [‘Honeymoon’s Over’: Warsh Under Pressure as Fed Weighs Raising Rates](https://www.nytimes.com/2026/08/26/business/kevin-warsh-federal-reserve-jackson.html)**
+> **1. [Treasury Bars Some Reporters From G20 Finance Meeting](https://www.nytimes.com/2026/08/29/business/reporters-denied-g20-meeting.html)**
+> <small>NYTimes Business · 国际 · 07:20 · `可能需订阅`</small>
+> Specific reporters from The New York Times, The Wall Street Journal and Bloomberg were not granted credentials to cover the meeting of financial leaders next week in Asheville, N.C.
+>
+> **2. [‘Honeymoon’s Over’: Warsh Under Pressure as Fed Weighs Raising Rates](https://www.nytimes.com/2026/08/26/business/kevin-warsh-federal-reserve-jackson.html)**
 > <small>NYTimes Business · 国际 · 17:04 · `可能需订阅`</small>
 > Kevin M. Warsh is scheduled to deliver his first address at the Federal Reserve’s annual conference in Jackson, Wyo., with U.S. government bond markets on edge and inflation risks resurfacing.
->
-> **2. [Warsh’s Big Test at Jackson Hole](https://www.nytimes.com/2026/08/28/business/dealbook/warsh-fed-jackson-hole.html)**
-> <small>NYTimes Business · 国际 · 00:40 · `可能需订阅`</small>
-> Investors want Kevin Warsh, the Fed chairman, to address inflation, interest rates and the bond market in a major speech. Some worry he won’t say enough.
 >
 > **3. [Hawkish Kevin Warsh hints Fed will raise rates if inflation does not fall soon - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxPNjRfcTAyMVhPT3ZuQ1ZOeS1WT1JKNHhVYmhkbXZoOWZxSWg2UUo5Q2l1ZlNqcTBIRkx3bjNfQ2VYTFRkZEhHQUtVWTdjYWxZMVV0N0hxR0h6RElOUm5kaTBOYUhrQ3E5ZTgxX1ZlSzNiV3UzN19ZbWs2YnR2R1phVWFGbVo?oc=5)**
 > <small>Financial Times · 国际 · 22:00 · `可能需订阅`</small>
 > Hawkish Kevin Warsh hints Fed will raise rates if inflation does not fall soon Financial Times
 >
-> **4. [高成交红利释放 互联网券商业绩分化 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE40UnJPcUJxdVc3YUtmbFNyUFpVN0ZDbGJxUllUZmozY3FDVG1xajdEV0NuNWRuMlBoa0V3UFdsT21UM1VhZkVKUnBhR1NKblNsNTlZM2Nua1pZTGRjUF83dS1n?oc=5)**
-> <small>财新 · 国内 · 08:45</small>
-> 高成交红利释放 互联网券商业绩分化 财新
+> **4. [2家A股公司，拟重大资产重组！ - 证券时报](https://news.google.com/rss/articles/CBMiXEFVX3lxTFA4Ykt6NnpVS1duWHJNWUNBWGFERVpqV3V5THktb3Jkc003NHhpNzF6UmtsaTVwX2Z6dGxxSmNEVGl5ZUpCMHYzdEFZdDJYWU9BMjRiZTg3ajVNbFp0?oc=5)**
+> <small>证券时报 · 国内 · 21:54</small>
+> 2家A股公司，拟重大资产重组！ 证券时报
 >
-> **5. [Warsh Says the Fed May Not Be Done Fighting Inflation - WSJ](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeTZLWUVDeVhqX2FSLWpKNTBMZkNDQkhGRWdrRTdEOW1ENXBBdGUzY0pjSTVFTFlhcldWZE5LQ0RDamwwY2NjNEhlbWZObjU1X19qd0ZxQkx3SnVCOExxUElzeS05VFlBamVkbFZPX29LSUZHVzAxdG8zWkI0LTNNblZ4RmlaS1d4QlVHZ3VLaUFzMTg5RVFtOExJeHVDMTlGYlJqV1E0eFJFUQ?oc=5)**
+> **5. [房地产信托新规再规范非标投资 设置展业准入门槛 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5RTC1ialA0NkFmUlJUT1JUQnpBR2NYSmEta3NxLWt6MXBsQXU0LU4wclNKYmFpYml6Xzl5dTlpdmRmQXVDeHY2aENUOVVpLW5DeDZUTUVRS2FSeW83Q0VUT293?oc=5)**
+> <small>财新 · 国内 · 11:23</small>
+> 房地产信托新规再规范非标投资 设置展业准入门槛 财新
+>
+> **6. [房地产信贷政策迎重大调整 鼓励现房销售、保障购房人权益 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9oWS1td3c2X0UzX0NZS3drcXdRZEQ0d3NWV3Zfajcybkt5a0t2bzNzV09FSEs2LTNxZ0pzckRSdXJXNzUtOFkzUGZacWNQRlFkT21zV0N5RVZwNXh2TVJoU2Fn?oc=5)**
+> <small>财新 · 国内 · 22:23</small>
+> 房地产信贷政策迎重大调整 鼓励现房销售、保障购房人权益 财新
+>
+> **7. [Warsh Says the Fed May Not Be Done Fighting Inflation - WSJ](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeTZLWUVDeVhqX2FSLWpKNTBMZkNDQkhGRWdrRTdEOW1ENXBBdGUzY0pjSTVFTFlhcldWZE5LQ0RDamwwY2NjNEhlbWZObjU1X19qd0ZxQkx3SnVCOExxUElzeS05VFlBamVkbFZPX29LSUZHVzAxdG8zWkI0LTNNblZ4RmlaS1d4QlVHZ3VLaUFzMTg5RVFtOExJeHVDMTlGYlJqV1E0eFJFUQ?oc=5)**
 > <small>WSJ · 国际 · 02:39 · `可能需订阅`</small>
 > Warsh Says the Fed May Not Be Done Fighting Inflation WSJ
 >
-> **6. [September Fed decision is now a coin flip as rate hike odds increase post Warsh](https://www.cnbc.com/2026/08/28/-september-fed-decision-now-a-coin-flip-as-rate-hike-odds-increase.html)**
+> **8. [September Fed decision is now a coin flip as rate hike odds increase post Warsh](https://www.cnbc.com/2026/08/28/-september-fed-decision-now-a-coin-flip-as-rate-hike-odds-increase.html)**
 > <small>CNBC Finance · 国际 · 23:22</small>
 > Odds rose after Warsh's speech in Jackson Hole, Wyo., where he discussed that he still is frustrated with the overall inflation trend.
 >
-> **7. [陆家嘴金融沙龙：践行投资者为本理念 引导资本市场理性投资 - 第一财经](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9NT3ptWjg2OTJ4U0h2VXdtazc0TXAtdVdDeldVWVRET3oyWVBoTkFEOXRSQnBtVjljRVBEbEYxanFzWEZxa1RfbnhjSW91T0FkS2RSSA?oc=5)**
+> **9. [沃什放鹰！如果通胀压力持续，美联储有很多工作要做 - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTE96U0VvNlBUSGthRFc5NFl6Sjc4d3ZuajNsSzVRMGtxcC1lZTUtODRyWmFKa1dhell0Y3diU3A4NlcybFdHWTZQSVlvekdKMmlVcklJ?oc=5)**
+> <small>第一财经 · 国内 · 19:27</small>
+> 沃什放鹰！如果通胀压力持续，美联储有很多工作要做 第一财经
+>
+> **10. [陆家嘴金融沙龙：践行投资者为本理念 引导资本市场理性投资 - 第一财经](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9NT3ptWjg2OTJ4U0h2VXdtazc0TXAtdVdDeldVWVRET3oyWVBoTkFEOXRSQnBtVjljRVBEbEYxanFzWEZxa1RfbnhjSW91T0FkS2RSSA?oc=5)**
 > <small>第一财经 · 国内 · 12:31</small>
 > 陆家嘴金融沙龙：践行投资者为本理念 引导资本市场理性投资 第一财经
->
-> **8. [房地产板块震荡拉升 - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBfMW9qclk5emtnVDhOemlmTUk2X3BCdFdjaVdKc21VSm1IWFZmTnBXNnJlQUJTQmR6NmZYVjBYSUNSdmIya0lyX1FLWEF2ck0tUnIw?oc=5)**
-> <small>第一财经 · 国内 · 09:46</small>
-> 房地产板块震荡拉升 第一财经
->
-> **9. [Fed officials saw need for rate hike if inflation doesn't cool, minutes show](https://www.cnbc.com/2026/08/19/fed-minutes-july-2026-officials-saw-need-for-rate-hike-if-inflation-doesnt-cool.html)**
-> <small>CNBC Finance · 国际 · 02:54</small>
-> The Federal Reserve on Wednesday released minutes from its July 28-29 policy meeting.
->
-> **10. [两部委指导金融机构设立“城市更新项目贷款”品种 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ybENvcVhKbjJCTGduZjdiUnJlZzA5SWZaUkpCR0djZHlHTWczSzhSUVhBRFRiR3E5cDZHOXBseVpzZjVxM1o4NzVxY0JSOUV2NjBOUWhhYUdJLTVDNTRIYlZn?oc=5)**
-> <small>财新 · 国内 · 09:23</small>
-> 两部委指导金融机构设立“城市更新项目贷款”品种 财新
 >
 
 > [!example] 科技 / AI
@@ -64,29 +64,29 @@
 > <small>TechCrunch · 国际 · 04:24</small>
 > Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.
 >
-> **4. [Trump’s EPA wants to let data centers hide their air pollution](https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit)**
-> <small>The Verge · 国际 · 00:28</small>
-> Just as new data centers face growing backlash from neighboring communities, the US Environmental Protection Agency (EPA) is about to make it harder for people to weigh in on any pollution those centers create. The EPA plans to toss out a…
+> **4. [“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z](https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/)**
+> <small>TechCrunch · 国际 · 01:36</small>
+> Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a "discovery" science to an "engineering" one, why clinical trials are…
 >
-> **5. [DLSS 5 leaked and modders are putting Nvidia’s AI effects on everything](https://www.theverge.com/games/986197/nvidia-dlss-5-leak-ai)**
-> <small>The Verge · 国际 · 00:22</small>
-> Modders are trying out an unofficial version of Nvidia's DLSS 5 on Skyrim, Cyberpunk 2077, GTA V, and a bunch of other games after code for the AI upscaling tech appeared in an early-access build of NBA 2K27. Members of the RenoDX modding…
->
-> **6. [Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026](https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/)**
-> <small>TechCrunch · 国际 · 07:16</small>
-> At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.
->
-> **7. [Inside Meta’s Push to Put Robots to Work in Data Centers - WIRED](https://news.google.com/rss/articles/CBMigwFBVV95cUxNaGFvaDNvZDJBYWRBbEYzRjBBSjNiVUNDOFVWY2g5bFo2X3ZfX25SaTgxYnFHOEN3dnZyY3R4RTBfN2FGdDY4NHV4bFFZMEo4MERSRU5PNUI2VWUtNHlqSnVaa3l2dFRadUVwLU9CVzZob1Zoa3hvTG5vUDNIa2dxd1FHQQ?oc=5)**
+> **5. [Inside Meta’s Push to Put Robots to Work in Data Centers - WIRED](https://news.google.com/rss/articles/CBMigwFBVV95cUxNaGFvaDNvZDJBYWRBbEYzRjBBSjNiVUNDOFVWY2g5bFo2X3ZfX25SaTgxYnFHOEN3dnZyY3R4RTBfN2FGdDY4NHV4bFFZMEo4MERSRU5PNUI2VWUtNHlqSnVaa3l2dFRadUVwLU9CVzZob1Zoa3hvTG5vUDNIa2dxd1FHQQ?oc=5)**
 > <small>WIRED · 国际 · 18:56</small>
 > Inside Meta’s Push to Put Robots to Work in Data Centers WIRED
 >
-> **8. [OpenAI and 100 Others Warn That Window to Defend Against A.I. Attacks Is Narrowing](https://www.nytimes.com/2026/08/27/technology/openai-letter-ai-attacks.html)**
+> **6. [OpenAI and 100 Others Warn That Window to Defend Against A.I. Attacks Is Narrowing](https://www.nytimes.com/2026/08/27/technology/openai-letter-ai-attacks.html)**
 > <small>NYTimes Technology · 国际 · 01:55 · `可能需订阅`</small>
 > In an open letter, OpenAI, Anthropic, Google and others said that a wave of A.I.-enabled cyberattacks was coming and that organizations and governments needed to prepare themselves.
 >
-> **9. [Nvidia’s Profit Doubles to $59.69 Billion Thanks to A.I. Spending](https://www.nytimes.com/2026/08/26/technology/nvidia-profit-ai-doubles-earnings.html)**
+> **7. [Nvidia’s Profit Doubles to $59.69 Billion Thanks to A.I. Spending](https://www.nytimes.com/2026/08/26/technology/nvidia-profit-ai-doubles-earnings.html)**
 > <small>NYTimes Technology · 国际 · 09:05 · `可能需订阅`</small>
 > Quarterly revenue also more than doubled, to $96.22 billion, the company said, topping expectations on Wall Street.
+>
+> **8. [Sony Music and Warner Chappell are suing Anthropic](https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright)**
+> <small>The Verge · 国际 · 02:20</small>
+> Sony Music and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for "tens of thousands" copyrighted works. The companies are asking for up to $150,000 per wo…
+>
+> **9. [Google further buries search results under AI mode](https://www.theverge.com/tech/986364/google-search-ai-overviews-auto-expand)**
+> <small>The Verge · 国际 · 06:48</small>
+> Google is now automatically expanding its AI search summaries at the top of the results page for some searches, as reported by Search Engine Roundtable. The change, when it kicks in, pushes the typical list of links from a search much fart…
 >
 
 > [!tip] 私募股权 / 投资市场
