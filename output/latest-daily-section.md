@@ -6,51 +6,51 @@
 > 摘要来自 RSS/新闻源描述，保留原文语言；`可能需订阅` 表示该来源可能有付费墙。
 
 > [!quote] 财经 / 金融
-> 10/10 · 国内 5 / 国际 5
+> 10/10 · 国内 4 / 国际 6
 >
 > **1. [Treasury Bars Some Reporters From G20 Finance Meeting](https://www.nytimes.com/2026/08/29/business/reporters-denied-g20-meeting.html)**
-> <small>NYTimes Business · 国际 · 07:20 · `可能需订阅`</small>
+> <small>NYTimes Business · 国际 · 06:55 · `可能需订阅`</small>
 > Specific reporters from The New York Times, The Wall Street Journal and Bloomberg were not granted credentials to cover the meeting of financial leaders next week in Asheville, N.C.
 >
-> **2. [‘Honeymoon’s Over’: Warsh Under Pressure as Fed Weighs Raising Rates](https://www.nytimes.com/2026/08/26/business/kevin-warsh-federal-reserve-jackson.html)**
-> <small>NYTimes Business · 国际 · 17:04 · `可能需订阅`</small>
-> Kevin M. Warsh is scheduled to deliver his first address at the Federal Reserve’s annual conference in Jackson, Wyo., with U.S. government bond markets on edge and inflation risks resurfacing.
+> **2. [Warsh’s Big Test at Jackson Hole](https://www.nytimes.com/2026/08/28/business/dealbook/warsh-fed-jackson-hole.html)**
+> <small>NYTimes Business · 国际 · 00:40 · `可能需订阅`</small>
+> Investors want Kevin Warsh, the Fed chairman, to address inflation, interest rates and the bond market in a major speech. Some worry he won’t say enough.
 >
 > **3. [Hawkish Kevin Warsh hints Fed will raise rates if inflation does not fall soon - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxPNjRfcTAyMVhPT3ZuQ1ZOeS1WT1JKNHhVYmhkbXZoOWZxSWg2UUo5Q2l1ZlNqcTBIRkx3bjNfQ2VYTFRkZEhHQUtVWTdjYWxZMVV0N0hxR0h6RElOUm5kaTBOYUhrQ3E5ZTgxX1ZlSzNiV3UzN19ZbWs2YnR2R1phVWFGbVo?oc=5)**
 > <small>Financial Times · 国际 · 22:00 · `可能需订阅`</small>
 > Hawkish Kevin Warsh hints Fed will raise rates if inflation does not fall soon Financial Times
 >
-> **4. [2家A股公司，拟重大资产重组！ - 证券时报](https://news.google.com/rss/articles/CBMiXEFVX3lxTFA4Ykt6NnpVS1duWHJNWUNBWGFERVpqV3V5THktb3Jkc003NHhpNzF6UmtsaTVwX2Z6dGxxSmNEVGl5ZUpCMHYzdEFZdDJYWU9BMjRiZTg3ajVNbFp0?oc=5)**
-> <small>证券时报 · 国内 · 21:54</small>
-> 2家A股公司，拟重大资产重组！ 证券时报
+> **4. [财经早知道｜房地产重磅新政出台，涉及销售、信贷、融资全链条 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBGWEpKMHJ4cTR3SUhETmZsYl9SUlYxQzNlWmdkRFVMZGVnNkxEVU9HejFoTWJ6NElxRk5IWXk4NmRSajJ2RV9oSEUzM2JkRHhsVWRIdzQtSHpqMHVZb2E5ZE13?oc=5)**
+> <small>财新 · 国内 · 06:44</small>
+> 财经早知道｜房地产重磅新政出台，涉及销售、信贷、融资全链条 财新
 >
 > **5. [房地产信托新规再规范非标投资 设置展业准入门槛 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5RTC1ialA0NkFmUlJUT1JUQnpBR2NYSmEta3NxLWt6MXBsQXU0LU4wclNKYmFpYml6Xzl5dTlpdmRmQXVDeHY2aENUOVVpLW5DeDZUTUVRS2FSeW83Q0VUT293?oc=5)**
 > <small>财新 · 国内 · 11:23</small>
 > 房地产信托新规再规范非标投资 设置展业准入门槛 财新
 >
-> **6. [房地产信贷政策迎重大调整 鼓励现房销售、保障购房人权益 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9oWS1td3c2X0UzX0NZS3drcXdRZEQ0d3NWV3Zfajcybkt5a0t2bzNzV09FSEs2LTNxZ0pzckRSdXJXNzUtOFkzUGZacWNQRlFkT21zV0N5RVZwNXh2TVJoU2Fn?oc=5)**
-> <small>财新 · 国内 · 22:23</small>
-> 房地产信贷政策迎重大调整 鼓励现房销售、保障购房人权益 财新
+> **6. [Jackson Hole analyst roundup: Warsh's speech sends hike chances higher, may put Fed `at odds' with Treasury](https://www.cnbc.com/2026/08/31/jackson-hole-fed-chair-kevin-warsh-hawkish-rate-hikes-analysts.html)**
+> <small>CNBC Finance · 国际 · 11:47</small>
+> Fed Chair Kevin Warsh's hawkish stance reinforced expectations of a relatively tighter stance at the Federal Open Market Committee meeting in September.
 >
-> **7. [Warsh Says the Fed May Not Be Done Fighting Inflation - WSJ](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeTZLWUVDeVhqX2FSLWpKNTBMZkNDQkhGRWdrRTdEOW1ENXBBdGUzY0pjSTVFTFlhcldWZE5LQ0RDamwwY2NjNEhlbWZObjU1X19qd0ZxQkx3SnVCOExxUElzeS05VFlBamVkbFZPX29LSUZHVzAxdG8zWkI0LTNNblZ4RmlaS1d4QlVHZ3VLaUFzMTg5RVFtOExJeHVDMTlGYlJqV1E0eFJFUQ?oc=5)**
+> **7. [These Are the 12 Fed Officials Who Are Voting on Interest Rates This Week - WSJ](https://news.google.com/rss/articles/CBMimgFBVV95cUxNRmU0RFUySjNHTEtyTnNvUDJIb3N2ZXU5SEdOQm1ZMmEtdExCOEhYWnR1NWtBa3lFdUJhYzhtODdSMEZZbUtaWk4wanNuNlNnMEZsMkJOcnZaRFhYQXQ0OWhVQkJBQkpJdXpkMTFRRVRvM3AwM2lxMnJHY3RtWDFXZ29odENpQTd6VTNPUm5QN2Z6ejh2V2JWVHpR?oc=5)**
+> <small>WSJ · 国际 · 22:42 · `可能需订阅`</small>
+> These Are the 12 Fed Officials Who Are Voting on Interest Rates This Week WSJ
+>
+> **8. [食品通胀卷土重来？气候、战争冲击全球农产品，小麦玉米创三年新高 - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1NTnNSQ05PaWd3Q2FJbHZNbnMwSE5LSFUxYUJNWERuT0JtZzNYTU53ZFNnUXctM1VwRlVTWlltcU1wYVJ0YTNnLS1hTHR3UjA4UTY4?oc=5)**
+> <small>第一财经 · 国内 · 07:44</small>
+> 食品通胀卷土重来？气候、战争冲击全球农产品，小麦玉米创三年新高 第一财经
+>
+> **9. [Warsh Says the Fed May Not Be Done Fighting Inflation - WSJ](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeTZLWUVDeVhqX2FSLWpKNTBMZkNDQkhGRWdrRTdEOW1ENXBBdGUzY0pjSTVFTFlhcldWZE5LQ0RDamwwY2NjNEhlbWZObjU1X19qd0ZxQkx3SnVCOExxUElzeS05VFlBamVkbFZPX29LSUZHVzAxdG8zWkI0LTNNblZ4RmlaS1d4QlVHZ3VLaUFzMTg5RVFtOExJeHVDMTlGYlJqV1E0eFJFUQ?oc=5)**
 > <small>WSJ · 国际 · 02:39 · `可能需订阅`</small>
 > Warsh Says the Fed May Not Be Done Fighting Inflation WSJ
 >
-> **8. [September Fed decision is now a coin flip as rate hike odds increase post Warsh](https://www.cnbc.com/2026/08/28/-september-fed-decision-now-a-coin-flip-as-rate-hike-odds-increase.html)**
-> <small>CNBC Finance · 国际 · 23:22</small>
-> Odds rose after Warsh's speech in Jackson Hole, Wyo., where he discussed that he still is frustrated with the overall inflation trend.
->
-> **9. [沃什放鹰！如果通胀压力持续，美联储有很多工作要做 - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTE96U0VvNlBUSGthRFc5NFl6Sjc4d3ZuajNsSzVRMGtxcC1lZTUtODRyWmFKa1dhell0Y3diU3A4NlcybFdHWTZQSVlvekdKMmlVcklJ?oc=5)**
-> <small>第一财经 · 国内 · 19:27</small>
+> **10. [沃什放鹰！如果通胀压力持续，美联储有很多工作要做 - 第一财经](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1BMmdhb1pwZUtfLTh4QWd2T05yanhBRlo0WWxhRko0NzU4Ni1PaVU5U0JMVUstU3VEOWptTHVsTWpDVXByWlpNM3JPbW0tWW5M?oc=5)**
+> <small>第一财经 · 国内 · 23:28</small>
 > 沃什放鹰！如果通胀压力持续，美联储有很多工作要做 第一财经
->
-> **10. [陆家嘴金融沙龙：践行投资者为本理念 引导资本市场理性投资 - 第一财经](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9NT3ptWjg2OTJ4U0h2VXdtazc0TXAtdVdDeldVWVRET3oyWVBoTkFEOXRSQnBtVjljRVBEbEYxanFzWEZxa1RfbnhjSW91T0FkS2RSSA?oc=5)**
-> <small>第一财经 · 国内 · 12:31</small>
-> 陆家嘴金融沙龙：践行投资者为本理念 引导资本市场理性投资 第一财经
 >
 
 > [!example] 科技 / AI
-> 9/10 · 国内 0 / 国际 9
+> 10/10 · 国内 3 / 国际 7
 >
 > **1. [The inside story on why OpenAI agents hacked Hugging Face](https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/)**
 > <small>MIT Technology Review · 国际 · 03:00</small>
@@ -68,49 +68,53 @@
 > <small>TechCrunch · 国际 · 01:36</small>
 > Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a "discovery" science to an "engineering" one, why clinical trials are…
 >
-> **5. [Inside Meta’s Push to Put Robots to Work in Data Centers - WIRED](https://news.google.com/rss/articles/CBMigwFBVV95cUxNaGFvaDNvZDJBYWRBbEYzRjBBSjNiVUNDOFVWY2g5bFo2X3ZfX25SaTgxYnFHOEN3dnZyY3R4RTBfN2FGdDY4NHV4bFFZMEo4MERSRU5PNUI2VWUtNHlqSnVaa3l2dFRadUVwLU9CVzZob1Zoa3hvTG5vUDNIa2dxd1FHQQ?oc=5)**
+> **5. [最新封面报道｜中国AI芯片崛起 - 财新周刊](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1jUnluNVhJNllHRWlEMnNWZjlnTHlzaWV2S0pXQUt1ZkdtNndHLXNmWUFZZ1I2VURzY19lX3UyN2xHNFV3bkxDZWNiLU9QTnBHbkhueFVjaXNYd1Q0NHBRbA?oc=5)**
+> <small>财新周刊 · 国内 · 11:07 · `可能需订阅`</small>
+> 最新封面报道｜中国AI芯片崛起 财新周刊
+>
+> **6. [New Texas Data Center Buildout Uncertainties Rile Big Law Clients - Bloomberg Law News](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPU0JZTXh4R2pOR2VrY3JFTEdlbW5LUHFRUV9wdGd1MDc2TDVONS1DQ0lpUTg4dlU5NlFxS1FDSThFMXgweHZwMnJjSi1hN1FoX3VHSUxxeVVWUmNtQWhzNTRvUzlqYXVyR1pFamtjMG1lTkpFU0NVZ0YxN0hHcFY5MFVCZ2VMVUxRMUNLczN2NndsSFZIN3JfTmlhbVNrN2dxTUtFWFRaUC1ESk9WbTcwajhxdFVQc1Ra?oc=5)**
+> <small>Bloomberg Law News · 国际 · 17:30 · `可能需订阅`</small>
+> New Texas Data Center Buildout Uncertainties Rile Big Law Clients Bloomberg Law News
+>
+> **7. [Inside Meta’s Push to Put Robots to Work in Data Centers - WIRED](https://news.google.com/rss/articles/CBMigwFBVV95cUxNaGFvaDNvZDJBYWRBbEYzRjBBSjNiVUNDOFVWY2g5bFo2X3ZfX25SaTgxYnFHOEN3dnZyY3R4RTBfN2FGdDY4NHV4bFFZMEo4MERSRU5PNUI2VWUtNHlqSnVaa3l2dFRadUVwLU9CVzZob1Zoa3hvTG5vUDNIa2dxd1FHQQ?oc=5)**
 > <small>WIRED · 国际 · 18:56</small>
 > Inside Meta’s Push to Put Robots to Work in Data Centers WIRED
 >
-> **6. [OpenAI and 100 Others Warn That Window to Defend Against A.I. Attacks Is Narrowing](https://www.nytimes.com/2026/08/27/technology/openai-letter-ai-attacks.html)**
+> **8. [OpenAI and 100 Others Warn That Window to Defend Against A.I. Attacks Is Narrowing](https://www.nytimes.com/2026/08/27/technology/openai-letter-ai-attacks.html)**
 > <small>NYTimes Technology · 国际 · 01:55 · `可能需订阅`</small>
 > In an open letter, OpenAI, Anthropic, Google and others said that a wave of A.I.-enabled cyberattacks was coming and that organizations and governments needed to prepare themselves.
 >
-> **7. [Nvidia’s Profit Doubles to $59.69 Billion Thanks to A.I. Spending](https://www.nytimes.com/2026/08/26/technology/nvidia-profit-ai-doubles-earnings.html)**
-> <small>NYTimes Technology · 国际 · 09:05 · `可能需订阅`</small>
-> Quarterly revenue also more than doubled, to $96.22 billion, the company said, topping expectations on Wall Street.
+> **9. [OpenAI突然收购，500万人Codex，永不下线 - 36氪](https://news.google.com/rss/articles/CBMiTkFVX3lxTE9sMXdrLUhZdS0yUGJPYndBN2thS0NaQ3ZUSW90NEhCM1hfcTVCTHBJS2o0WFFnVGRCTXpYN3BZOGx3VFV6X1E4cENabnJLdw?oc=5)**
+> <small>36氪 · 国内 · 11:07</small>
+> OpenAI突然收购，500万人Codex，永不下线 36氪
 >
-> **8. [Sony Music and Warner Chappell are suing Anthropic](https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright)**
-> <small>The Verge · 国际 · 02:20</small>
-> Sony Music and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for "tens of thousands" copyrighted works. The companies are asking for up to $150,000 per wo…
->
-> **9. [Google further buries search results under AI mode](https://www.theverge.com/tech/986364/google-search-ai-overviews-auto-expand)**
-> <small>The Verge · 国际 · 06:48</small>
-> Google is now automatically expanding its AI search summaries at the top of the results page for some searches, as reported by Search Engine Roundtable. The change, when it kicks in, pushes the typical list of links from a search much fart…
+> **10. [Mac mini缺货原因找到了，OpenAI、Anthropic都在抢 - 36氪](https://news.google.com/rss/articles/CBMiTkFVX3lxTE16Tl9wOWM1cjlBZ2JYLXNpeHZ5ZzBaYkMzN0V4cTE3ODhTd0JZazFzMVNkZGdXZjA0TWxpdVIyUWdVeFd0TmdyVVZEQzJRZw?oc=5)**
+> <small>36氪 · 国内 · 20:31</small>
+> Mac mini缺货原因找到了，OpenAI、Anthropic都在抢 36氪
 >
 
 > [!tip] 私募股权 / 投资市场
 > 10/10 · 国内 4 / 国际 6
 >
-> **1. [Behind GP-led secondaries’ banner H1 figures](https://www.buyoutsinsider.com/behind-gp-led-secondaries-banner-h1-figures/)**
+> **1. [ERS Texas increases pacing, puts focus on lower mid-market buyouts](https://www.privateequityinternational.com/ers-texas-increases-pacing-puts-focus-on-lower-mid-market-buyouts/)**
+> <small>Private Equity International · 国际 · 09:54</small>
+> The pension anticipates increasing its private equity allocation to a $1bn target by 2030, as it expects a growing influx of distributions over the next four years.
+>
+> **2. [Behind GP-led secondaries’ banner H1 figures](https://www.buyoutsinsider.com/behind-gp-led-secondaries-banner-h1-figures/)**
 > <small>Buyouts · 国际 · 21:00</small>
 > Market volatility only tells part of the story of the GP-led market’s domination in the first six months of the year, with fundraising and expansion into new asset classes also driving growth.
 >
-> **2. [BV Investment-backed Imagenet acquires data firm Analytica Consulting](https://www.pehub.com/bv-investment-backed-imagenet-acquires-data-firm-analytica-consulting/)**
+> **3. [BV Investment-backed Imagenet acquires data firm Analytica Consulting](https://www.pehub.com/bv-investment-backed-imagenet-acquires-data-firm-analytica-consulting/)**
 > <small>PE Hub · 国际 · 01:06</small>
 > Founded in 2015, Analytica Consulting works with US government agencies and commercial organizations across healthcare, life sciences, manufacturing and education. The post BV Investment-backed Imagenet acquires data firm Analytica Consult…
 >
-> **3. [Investor Intentions: ERS Texas sets private equity pacing plan for 2027](https://www.privateequityinternational.com/investor-intentions-ers-texas-sets-private-equity-pacing-plan-for-2027/)**
-> <small>Private Equity International · 国际 · 21:08</small>
-> The public pension fund seeks to invest up to $1bn in new private equity commitments for FY 2027.
+> **4. [SEC’s reporting overhaul may complicate valuations](https://www.privateequityinternational.com/secs-reporting-overhaul-may-complicate-valuations/)**
+> <small>Private Equity International · 国际 · 09:56</small>
+> A move from quarterly to semiannual reporting could leave PE firms with older public comparables and greater uncertainty.
 >
-> **4. [Nebraska holds pacing steady after years of weak distributions](https://www.buyoutsinsider.com/nebraska-holds-pacing-steady-after-years-of-weak-distributions/)**
+> **5. [Nebraska holds pacing steady after years of weak distributions](https://www.buyoutsinsider.com/nebraska-holds-pacing-steady-after-years-of-weak-distributions/)**
 > <small>Buyouts · 国际 · 04:12</small>
 > The pension will commit $263m to private equity across its plans in 2027, after doubling its pacing last year.
->
-> **5. [How quickly can secondaries scale?](https://www.privateequityinternational.com/how-quickly-can-secondaries-scale/)**
-> <small>Private Equity International · 国际 · 00:00</small>
-> The secondaries market offers a solution to PE’s liquidity dearth. Is that enough to drive volumes to $1trn in four years?
 >
 > **6. [JPMorgan’s David Sweet talks ‘battleship defensibility’ of fire safety platforms; KKR’s Industrial Physics scoops up electrical testing firm from Branford Castle](https://www.pehub.com/jpmorgans-david-sweet-talks-battleship-defensibility-of-fire-safety-platforms-kkrs-industrial-physics-scoops-up-electrical-testing-firm-from-branford-castle/)**
 > <small>PE Hub · 国际 · 21:55</small>
