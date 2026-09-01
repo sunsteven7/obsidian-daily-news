@@ -16,129 +16,129 @@
 > <small>NYTimes Business · 国际 · 00:40 · `可能需订阅`</small>
 > Investors want Kevin Warsh, the Fed chairman, to address inflation, interest rates and the bond market in a major speech. Some worry he won’t say enough.
 >
-> **3. [Hawkish Kevin Warsh hints Fed will raise rates if inflation does not fall soon - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxPNjRfcTAyMVhPT3ZuQ1ZOeS1WT1JKNHhVYmhkbXZoOWZxSWg2UUo5Q2l1ZlNqcTBIRkx3bjNfQ2VYTFRkZEhHQUtVWTdjYWxZMVV0N0hxR0h6RElOUm5kaTBOYUhrQ3E5ZTgxX1ZlSzNiV3UzN19ZbWs2YnR2R1phVWFGbVo?oc=5)**
-> <small>Financial Times · 国际 · 22:00 · `可能需订阅`</small>
-> Hawkish Kevin Warsh hints Fed will raise rates if inflation does not fall soon Financial Times
+> **3. [Aon Nears Deal to Buy Insurance Brokerage From KKR, WSJ Reports - Bloomberg.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxPYlVTVlRnM2hudEtzT2liYTFaRmh6SUlKWWhNZ0RINjRMZG5PaE1VZUlfeXBPN1FKZkJiZlVaWDNJcVY2U0Z5NlNHMmJKbURIQ3JQX05uSWpRSGRqMFlCQmhpWjRDanJwdHpyRS1NUmVOLTJRNFJGN1pKRmpJY2RMdmNJQXB2azBUVVFsOXB3Yi1QRTFqU1hjd0ZtZ28tZ2piOTQwUzVCZm9VcU1HWFpSNll5Yw?oc=5)**
+> <small>Bloomberg.com · 国际 · 00:07 · `可能需订阅`</small>
+> Aon Nears Deal to Buy Insurance Brokerage From KKR, WSJ Reports Bloomberg.com
 >
-> **4. [财经早知道｜房地产重磅新政出台，涉及销售、信贷、融资全链条 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBGWEpKMHJ4cTR3SUhETmZsYl9SUlYxQzNlWmdkRFVMZGVnNkxEVU9HejFoTWJ6NElxRk5IWXk4NmRSajJ2RV9oSEUzM2JkRHhsVWRIdzQtSHpqMHVZb2E5ZE13?oc=5)**
-> <small>财新 · 国内 · 06:44</small>
-> 财经早知道｜房地产重磅新政出台，涉及销售、信贷、融资全链条 财新
->
-> **5. [房地产信托新规再规范非标投资 设置展业准入门槛 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5RTC1ialA0NkFmUlJUT1JUQnpBR2NYSmEta3NxLWt6MXBsQXU0LU4wclNKYmFpYml6Xzl5dTlpdmRmQXVDeHY2aENUOVVpLW5DeDZUTUVRS2FSeW83Q0VUT293?oc=5)**
-> <small>财新 · 国内 · 11:23</small>
-> 房地产信托新规再规范非标投资 设置展业准入门槛 财新
->
-> **6. [Jackson Hole analyst roundup: Warsh's speech sends hike chances higher, may put Fed `at odds' with Treasury](https://www.cnbc.com/2026/08/31/jackson-hole-fed-chair-kevin-warsh-hawkish-rate-hikes-analysts.html)**
-> <small>CNBC Finance · 国际 · 11:47</small>
+> **4. [Jackson Hole analyst roundup: Warsh's speech sends hike chances higher, may put Fed 'at odds' with Treasury](https://www.cnbc.com/2026/08/31/jackson-hole-fed-chair-kevin-warsh-hawkish-rate-hikes-analysts.html)**
+> <small>CNBC Finance · 国际 · 19:28</small>
 > Fed Chair Kevin Warsh's hawkish stance reinforced expectations of a relatively tighter stance at the Federal Open Market Committee meeting in September.
 >
-> **7. [These Are the 12 Fed Officials Who Are Voting on Interest Rates This Week - WSJ](https://news.google.com/rss/articles/CBMimgFBVV95cUxNRmU0RFUySjNHTEtyTnNvUDJIb3N2ZXU5SEdOQm1ZMmEtdExCOEhYWnR1NWtBa3lFdUJhYzhtODdSMEZZbUtaWk4wanNuNlNnMEZsMkJOcnZaRFhYQXQ0OWhVQkJBQkpJdXpkMTFRRVRvM3AwM2lxMnJHY3RtWDFXZ29odENpQTd6VTNPUm5QN2Z6ejh2V2JWVHpR?oc=5)**
-> <small>WSJ · 国际 · 22:42 · `可能需订阅`</small>
-> These Are the 12 Fed Officials Who Are Voting on Interest Rates This Week WSJ
+> **5. [AI“科技通胀”全面外溢，科技通缩趋势正被打破？ - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5nVFZqbE5NcXZoZzE1ZDNsbXREckxGMFdpSm4yQ3dBdUJjampxRU0waTZjdDJ6OHphUnd1NExYR28ycm93eU92eDlSVzZfNlJmYmhB?oc=5)**
+> <small>第一财经 · 国内 · 18:27</small>
+> AI“科技通胀”全面外溢，科技通缩趋势正被打破？ 第一财经
 >
-> **8. [食品通胀卷土重来？气候、战争冲击全球农产品，小麦玉米创三年新高 - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1NTnNSQ05PaWd3Q2FJbHZNbnMwSE5LSFUxYUJNWERuT0JtZzNYTU53ZFNnUXctM1VwRlVTWlltcU1wYVJ0YTNnLS1hTHR3UjA4UTY4?oc=5)**
-> <small>第一财经 · 国内 · 07:44</small>
-> 食品通胀卷土重来？气候、战争冲击全球农产品，小麦玉米创三年新高 第一财经
+> **6. [September Fed decision is now a coin flip as rate hike odds increase post Warsh](https://www.cnbc.com/2026/08/28/-september-fed-decision-now-a-coin-flip-as-rate-hike-odds-increase.html)**
+> <small>CNBC Finance · 国际 · 23:22</small>
+> Odds rose after Warsh's speech in Jackson Hole, Wyo., where he discussed that he still is frustrated with the overall inflation trend.
 >
-> **9. [Warsh Says the Fed May Not Be Done Fighting Inflation - WSJ](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeTZLWUVDeVhqX2FSLWpKNTBMZkNDQkhGRWdrRTdEOW1ENXBBdGUzY0pjSTVFTFlhcldWZE5LQ0RDamwwY2NjNEhlbWZObjU1X19qd0ZxQkx3SnVCOExxUElzeS05VFlBamVkbFZPX29LSUZHVzAxdG8zWkI0LTNNblZ4RmlaS1d4QlVHZ3VLaUFzMTg5RVFtOExJeHVDMTlGYlJqV1E0eFJFUQ?oc=5)**
-> <small>WSJ · 国际 · 02:39 · `可能需订阅`</small>
-> Warsh Says the Fed May Not Be Done Fighting Inflation WSJ
+> **7. [Exclusive | Donald Trump Jr.’s Fund Boosts Polymarket Investment by Around $300 Million - WSJ](https://news.google.com/rss/articles/CBMivAFBVV95cUxOb2gweXcyVXBZWldQam4xSGM1SkNRVExQMUtrZHpDcEEzTnRoNUxQbEhQMVZwVmZ2VHNNVy10YW1ReHRqWHl5dkJHQXZrRlU0NTZPYnZoTDVxbHJ4eE1sYjVld1VkUmN5YlhiaElkcmdPTkhBcFR1LXNYY01KU29Ddmg3aHBWNkpXSWprempuTkNpLVpOdzBwSVgtanlvcE45bnd2dnNkUm1QUHJnV2xMOTBoRi11RzhUbXFocg?oc=5)**
+> <small>WSJ · 国际 · 04:52 · `可能需订阅`</small>
+> Exclusive | Donald Trump Jr.’s Fund Boosts Polymarket Investment by Around $300 Million WSJ
 >
-> **10. [沃什放鹰！如果通胀压力持续，美联储有很多工作要做 - 第一财经](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1BMmdhb1pwZUtfLTh4QWd2T05yanhBRlo0WWxhRko0NzU4Ni1PaVU5U0JMVUstU3VEOWptTHVsTWpDVXByWlpNM3JPbW0tWW5M?oc=5)**
-> <small>第一财经 · 国内 · 23:28</small>
-> 沃什放鹰！如果通胀压力持续，美联储有很多工作要做 第一财经
+> **8. [8月统计局制造业PMI升至49.8 供需均转为扩张 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1lRjhqTmk0SEZhOFZqMktqN3Z4X2wzdkZmU1lNdFpMcGRWTXZpeGlkQWNzTHJhdE1WelJvMjNiV3I3dGZBazNmUHdTb2ttOWNKYnhKWmkwQy1GRHJpTDU0R2tB?oc=5)**
+> <small>财新 · 国内 · 10:44</small>
+> 8月统计局制造业PMI升至49.8 供需均转为扩张 财新
+>
+> **9. [亚马逊面临诉讼 - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTE4wZ05jSmJJeVZvc1hPUUx3c0MzWjdhVXFuZ185cWUwNkNjcV9UY0hZajhxZS0yenBMd0NaWW1TLTBUN3I0NGJLMFFESG0xNy1yV2pr?oc=5)**
+> <small>第一财经 · 国内 · 03:33</small>
+> 亚马逊面临诉讼 第一财经
+>
+> **10. [专栏｜美国债市为何震荡 - 财新周刊](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1sWlNlSm1yYkVvRW9rUENFWFF1bk9Ma1ZROE5IZjQ5NXVtMENab2szT2RiYlBlNm5IMzF5b2tGTHh3bWpQU3Bmb1hwTDN6dWxCclZWUnREWnZYc1U0WE5KQw?oc=5)**
+> <small>财新周刊 · 国内 · 03:45 · `可能需订阅`</small>
+> 专栏｜美国债市为何震荡 财新周刊
 >
 
 > [!example] 科技 / AI
 > 10/10 · 国内 3 / 国际 7
 >
-> **1. [The inside story on why OpenAI agents hacked Hugging Face](https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/)**
+> **1. [The Hugging Face hack could indicate cultural issues at OpenAI](https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/)**
+> <small>MIT Technology Review · 国际 · 02:00</small>
+> This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI security incident, in which OpenAI agents es…
+>
+> **2. [The inside story on why OpenAI agents hacked Hugging Face](https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/)**
 > <small>MIT Technology Review · 国际 · 03:00</small>
 > The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a group of agents undert…
 >
-> **2. [Raised on AI](https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/)**
-> <small>MIT Technology Review · 国际 · 17:00</small>
-> When my oldest child was born, I immediately set up Gmail and Twitter accounts in her name. I broadly announced her birth online and proceeded to plaster her photo across all sorts of platforms. In short, I began creating her digital footp…
+> **3. [Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout](https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/)**
+> <small>TechCrunch · 国际 · 23:15</small>
+> Nvidia invests $3.5 billion into Taiwanese chipmaker MediaTek. The deal shows how Nvidia plans to stay essential to AI infrastructure as Big Tech begins to build its own AI chips.
 >
-> **3. [Neocloud Lambda secures $1B in debt to buy more chips](https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/)**
-> <small>TechCrunch · 国际 · 04:24</small>
-> Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.
->
-> **4. [“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z](https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/)**
-> <small>TechCrunch · 国际 · 01:36</small>
-> Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a "discovery" science to an "engineering" one, why clinical trials are…
->
-> **5. [最新封面报道｜中国AI芯片崛起 - 财新周刊](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1jUnluNVhJNllHRWlEMnNWZjlnTHlzaWV2S0pXQUt1ZkdtNndHLXNmWUFZZ1I2VURzY19lX3UyN2xHNFV3bkxDZWNiLU9QTnBHbkhueFVjaXNYd1Q0NHBRbA?oc=5)**
-> <small>财新周刊 · 国内 · 11:07 · `可能需订阅`</small>
+> **4. [最新封面报道｜中国AI芯片崛起 - 财新周刊](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBqYTI5VHRob283SEg3RXZESzYxV2hTMDdyWTdnbXBjUXY4cS14RTBYQ1RGMENKcGZPVGYyWC00WTFPcE9RTWZtWnIxbUZaQXlFeENXWlA5RXNCc3Y2VFFWTnNyc3M?oc=5)**
+> <small>财新周刊 · 国内 · 07:07 · `可能需订阅`</small>
 > 最新封面报道｜中国AI芯片崛起 财新周刊
 >
-> **6. [New Texas Data Center Buildout Uncertainties Rile Big Law Clients - Bloomberg Law News](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPU0JZTXh4R2pOR2VrY3JFTEdlbW5LUHFRUV9wdGd1MDc2TDVONS1DQ0lpUTg4dlU5NlFxS1FDSThFMXgweHZwMnJjSi1hN1FoX3VHSUxxeVVWUmNtQWhzNTRvUzlqYXVyR1pFamtjMG1lTkpFU0NVZ0YxN0hHcFY5MFVCZ2VMVUxRMUNLczN2NndsSFZIN3JfTmlhbVNrN2dxTUtFWFRaUC1ESk9WbTcwajhxdFVQc1Ra?oc=5)**
-> <small>Bloomberg Law News · 国际 · 17:30 · `可能需订阅`</small>
-> New Texas Data Center Buildout Uncertainties Rile Big Law Clients Bloomberg Law News
+> **5. [Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI](https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/)**
+> <small>TechCrunch · 国际 · 08:13</small>
+> Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation.
 >
-> **7. [Inside Meta’s Push to Put Robots to Work in Data Centers - WIRED](https://news.google.com/rss/articles/CBMigwFBVV95cUxNaGFvaDNvZDJBYWRBbEYzRjBBSjNiVUNDOFVWY2g5bFo2X3ZfX25SaTgxYnFHOEN3dnZyY3R4RTBfN2FGdDY4NHV4bFFZMEo4MERSRU5PNUI2VWUtNHlqSnVaa3l2dFRadUVwLU9CVzZob1Zoa3hvTG5vUDNIa2dxd1FHQQ?oc=5)**
-> <small>WIRED · 国际 · 18:56</small>
-> Inside Meta’s Push to Put Robots to Work in Data Centers WIRED
+> **6. [大模型最后的疯狂：GPT-5.6深夜遭曝光，为什么2026下半场成了“AI检测AI”的绞肉机？ - 36氪](https://news.google.com/rss/articles/CBMiTkFVX3lxTFBFWGFLYVI5c2J1SVFWX01jUW42bERWZ0VoTHg2d1V3TlZsU0s4VzQ0b1hOb2M4VDhrNWRzalNiTHJFV2x6VGR2OXVVMlZadw?oc=5)**
+> <small>36氪 · 国内 · 01:15</small>
+> 大模型最后的疯狂：GPT-5.6深夜遭曝光，为什么2026下半场成了“AI检测AI”的绞肉机？ 36氪
 >
-> **8. [OpenAI and 100 Others Warn That Window to Defend Against A.I. Attacks Is Narrowing](https://www.nytimes.com/2026/08/27/technology/openai-letter-ai-attacks.html)**
+> **7. [OpenAI and 100 Others Warn That Window to Defend Against A.I. Attacks Is Narrowing](https://www.nytimes.com/2026/08/27/technology/openai-letter-ai-attacks.html)**
 > <small>NYTimes Technology · 国际 · 01:55 · `可能需订阅`</small>
 > In an open letter, OpenAI, Anthropic, Google and others said that a wave of A.I.-enabled cyberattacks was coming and that organizations and governments needed to prepare themselves.
 >
-> **9. [OpenAI突然收购，500万人Codex，永不下线 - 36氪](https://news.google.com/rss/articles/CBMiTkFVX3lxTE9sMXdrLUhZdS0yUGJPYndBN2thS0NaQ3ZUSW90NEhCM1hfcTVCTHBJS2o0WFFnVGRCTXpYN3BZOGx3VFV6X1E4cENabnJLdw?oc=5)**
-> <small>36氪 · 国内 · 11:07</small>
-> OpenAI突然收购，500万人Codex，永不下线 36氪
+> **8. [Nvidia’s Profit Doubles to $59.69 Billion Thanks to A.I. Spending](https://www.nytimes.com/2026/08/26/technology/nvidia-profit-ai-doubles-earnings.html)**
+> <small>NYTimes Technology · 国际 · 09:05 · `可能需订阅`</small>
+> Quarterly revenue also more than doubled, to $96.22 billion, the company said, topping expectations on Wall Street.
 >
-> **10. [Mac mini缺货原因找到了，OpenAI、Anthropic都在抢 - 36氪](https://news.google.com/rss/articles/CBMiTkFVX3lxTE16Tl9wOWM1cjlBZ2JYLXNpeHZ5ZzBaYkMzN0V4cTE3ODhTd0JZazFzMVNkZGdXZjA0TWxpdVIyUWdVeFd0TmdyVVZEQzJRZw?oc=5)**
-> <small>36氪 · 国内 · 20:31</small>
-> Mac mini缺货原因找到了，OpenAI、Anthropic都在抢 36氪
+> **9. [Debian won’t ban AI code from its Linux distribution](https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy)**
+> <small>The Verge · 国际 · 23:38</small>
+> Debian voted to allow developers to use AI tools in their contributions to the Linux distribution's "development, maintenance, [and] documentation." The new policy on AI acknowledges that "responsible" use of AI can improve developers' pro…
+>
+> **10. [中国背景团队，杀出AI时代芯片设计“超级黑马” - 36氪](https://news.google.com/rss/articles/CBMiTkFVX3lxTE5WWTNERUlTdkYwUGtNc3AtYTZ1dG9vUE9yQ0t0RXBHWUEzamtZWUFWUmNfX19Wd0NPdGNPaUhlVjNGZnZvWEZyMV9aeU95dw?oc=5)**
+> <small>36氪 · 国内 · 18:06</small>
+> 中国背景团队，杀出AI时代芯片设计“超级黑马” 36氪
 >
 
 > [!tip] 私募股权 / 投资市场
 > 10/10 · 国内 4 / 国际 6
 >
-> **1. [ERS Texas increases pacing, puts focus on lower mid-market buyouts](https://www.privateequityinternational.com/ers-texas-increases-pacing-puts-focus-on-lower-mid-market-buyouts/)**
-> <small>Private Equity International · 国际 · 09:54</small>
-> The pension anticipates increasing its private equity allocation to a $1bn target by 2030, as it expects a growing influx of distributions over the next four years.
+> **1. [Small LPs use GP-led secondaries to accelerate private markets allocations, OCIOs say](https://www.privateequityinternational.com/small-lps-use-gp-led-secondaries-to-accelerate-private-markets-allocations-ocios-say/)**
+> <small>Private Equity International · 国际 · 10:35</small>
+> Endowments and foundations using outsourced investment offices increasingly view GP-led secondaries as a way to deploy capital more quickly into private markets, prioritising performance opportunities over liquidity concerns.
 >
-> **2. [Behind GP-led secondaries’ banner H1 figures](https://www.buyoutsinsider.com/behind-gp-led-secondaries-banner-h1-figures/)**
+> **2. [StepStone Group on private markets’ analytics revolution](https://www.privateequityinternational.com/stepstone-group-on-private-markets-analytics-revolution/)**
+> <small>Private Equity International · 国际 · 09:00</small>
+> Deal-level benchmarks are transforming private market analysis, unlocking significant benefits for LPs, GPs and service providers, says StepStone Group partner and chief technology officer Tyler Johnson.
+>
+> **3. [Behind GP-led secondaries’ banner H1 figures](https://www.buyoutsinsider.com/behind-gp-led-secondaries-banner-h1-figures/)**
 > <small>Buyouts · 国际 · 21:00</small>
 > Market volatility only tells part of the story of the GP-led market’s domination in the first six months of the year, with fundraising and expansion into new asset classes also driving growth.
 >
-> **3. [BV Investment-backed Imagenet acquires data firm Analytica Consulting](https://www.pehub.com/bv-investment-backed-imagenet-acquires-data-firm-analytica-consulting/)**
+> **4. [BV Investment-backed Imagenet acquires data firm Analytica Consulting](https://www.pehub.com/bv-investment-backed-imagenet-acquires-data-firm-analytica-consulting/)**
 > <small>PE Hub · 国际 · 01:06</small>
 > Founded in 2015, Analytica Consulting works with US government agencies and commercial organizations across healthcare, life sciences, manufacturing and education. The post BV Investment-backed Imagenet acquires data firm Analytica Consult…
->
-> **4. [SEC’s reporting overhaul may complicate valuations](https://www.privateequityinternational.com/secs-reporting-overhaul-may-complicate-valuations/)**
-> <small>Private Equity International · 国际 · 09:56</small>
-> A move from quarterly to semiannual reporting could leave PE firms with older public comparables and greater uncertainty.
 >
 > **5. [Nebraska holds pacing steady after years of weak distributions](https://www.buyoutsinsider.com/nebraska-holds-pacing-steady-after-years-of-weak-distributions/)**
 > <small>Buyouts · 国际 · 04:12</small>
 > The pension will commit $263m to private equity across its plans in 2027, after doubling its pacing last year.
 >
-> **6. [JPMorgan’s David Sweet talks ‘battleship defensibility’ of fire safety platforms; KKR’s Industrial Physics scoops up electrical testing firm from Branford Castle](https://www.pehub.com/jpmorgans-david-sweet-talks-battleship-defensibility-of-fire-safety-platforms-kkrs-industrial-physics-scoops-up-electrical-testing-firm-from-branford-castle/)**
-> <small>PE Hub · 国际 · 21:55</small>
-> Talking with JPMorgan business services banker David Sweet to go over the fire protection and life safety market and the high valuations PE firms are paying for companies in the space; KKR-backed Industrial Physics acquires an electrical t…
+> **6. [Aon close to acquiring USI Insurance from KKR in $17 billion deal, WSJ reports - Reuters](https://news.google.com/rss/articles/CBMirwFBVV95cUxOUDAtNFFsU0hkczc1WElVMklUNFZGc2pOcmxiUzFzcGxsY3Rzb0ZoREdpYlNyb3pDUFA5X3p4ZWtuNFZ4d3NidFB4SjExNE1hVlRmRmRrT0FCY0pRVnc1N0hkRUtmZ3MybmFyUW9FV1E0cmU4QUswNVYyVTdib1BpRlFzR2Y0ejFkLTRkZHZxaUl2TTZjeTluNVJJV1Y0S0pxV3FfdWN2UUhoaUxwckMw?oc=5)**
+> <small>Reuters · 国际 · 01:09</small>
+> Aon close to acquiring USI Insurance from KKR in $17 billion deal, WSJ reports Reuters
 >
-> **7. [外资公募水土不服？富达基金回应退出中国：战略无变化 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE15eEVvUDYwS3MtREtmelF5N2QxdmY5M29RcWNadzdsT21LU2JvOTNuUFNSSGx4a2ZWc1ZNWndvY2dVQ2N6QVAyRlpyVlJZMTVLYld5cG82bXlGakVwMmg0R1hB?oc=5)**
-> <small>财新 · 国内 · 19:35</small>
-> 外资公募水土不服？富达基金回应退出中国：战略无变化 财新
->
-> **8. [“围猎”IPO手法层出不穷 香港ZD Group爆发兑付危机(含视频) - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE02N0NBODI0TUFsdlNRaTFuRFgxSlpCbmRtcnBzMDRuLU9wTllleUVsbTh0YUNqWjB1RUo0Z19IY185dlFROV9SbEdBTkpUY2FiY1ppSkRNNUk5MHBLMjJmcGR3?oc=5)**
-> <small>财新 · 国内 · 15:00</small>
-> “围猎”IPO手法层出不穷 香港ZD Group爆发兑付危机(含视频) 财新
->
-> **9. [46只新基金，“同台竞技”！ - 证券时报](https://news.google.com/rss/articles/CBMiV0FVX3lxTFB2bjZVZ0VPWmJ5dmRnWjBscTJqeEJ3anVGbWFCdi12ZWd5OEYteTVFTEhEbTN5TnVhZWw3eG1TbDktbW9BV2xpV2xmQXJuY3Jfa1RaYWlyNA?oc=5)**
+> **7. [46只新基金，“同台竞技”！ - 证券时报](https://news.google.com/rss/articles/CBMiV0FVX3lxTFB2bjZVZ0VPWmJ5dmRnWjBscTJqeEJ3anVGbWFCdi12ZWd5OEYteTVFTEhEbTN5TnVhZWw3eG1TbDktbW9BV2xpV2xmQXJuY3Jfa1RaYWlyNA?oc=5)**
 > <small>证券时报 · 国内 · 16:42</small>
 > 46只新基金，“同台竞技”！ 证券时报
 >
-> **10. [SHEIN逆势IPO - 财新周刊](https://news.google.com/rss/articles/CBMiYEFVX3lxTFA0b2V5bkYxeXJ5Mm1GYlVrNkhqTk5oVVdIQTdCN0tMeUxOMlV5RGJNekt0cVlrT3ZTSEZ1Nk9TbG5wX0ZzblNXZWw0S2hoLXhTV1N1LUdxcFNKWmQzM0dGOQ?oc=5)**
-> <small>财新周刊 · 国内 · 15:00 · `可能需订阅`</small>
-> SHEIN逆势IPO 财新周刊
+> **8. [Momenta拿到港股上市“准考证”：千亿估值智驾巨头冲刺IPO - 36氪](https://news.google.com/rss/articles/CBMiTkFVX3lxTE0wLXA0QVZBTEtRaXJDcF9UX1QzbXZKSFRtUERTbVRzSkVza0F5Z3FpRGpDX3hSaVp5RWp3bVA2OHhWeGdUYlJ0cWRhVURuQQ?oc=5)**
+> <small>36氪 · 国内 · 00:03</small>
+> Momenta拿到港股上市“准考证”：千亿估值智驾巨头冲刺IPO 36氪
+>
+> **9. [合珀生物完成数千万元A轮战略融资 - 投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5PUDJTb0lHTTh1RUZ1SlhQSFZDbG1IWnhfWnRWR09WMVkxc0t4VG5LMDYxV19RV2llNnB5dVBvWVhobXdfZjZmQzZhUU1FSm1sQThFaERn?oc=5)**
+> <small>投资界 · 国内 · 15:28</small>
+> 合珀生物完成数千万元A轮战略融资 投资界
+>
+> **10. [首发｜星邑空间完成数亿元A轮融资，一家商业航天测运控公司的八年长跑与「重生」 - 36氪](https://news.google.com/rss/articles/CBMiTkFVX3lxTE1WcnFyOGhDRFl5eUpnV1UwY0lqZ2NvUUJKSWN3R3c5ZFpkX3BxNzFRWGVJSlo1aUJ0VFVHOU5hWVJZZFQzWWwyZUd4c0JhQQ?oc=5)**
+> <small>36氪 · 国内 · 00:21</small>
+> 首发｜星邑空间完成数亿元A轮融资，一家商业航天测运控公司的八年长跑与「重生」 36氪
 >
 
 > [!warning] 抓取失败但不影响成稿的来源
-> 36氪 (ParseError)
+> 36氪 (ParseError)、AltAssets (TimeoutError)
 
 #daily-news
 <!-- daily-news-digest:end -->
