@@ -6,95 +6,95 @@
 > 摘要来自 RSS/新闻源描述，保留原文语言；`可能需订阅` 表示该来源可能有付费墙。
 
 > [!quote] 财经 / 金融
-> 10/10 · 国内 4 / 国际 6
+> 10/10 · 国内 5 / 国际 5
 >
-> **1. [SHEIN港交所IPO首日破发 一度跌超9% - 财新](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE11djVsendsNUp3cGt5bndyWUFjTEktOFdoWC1yZUxZX3JQdkFsRUpoeXlYUzZodk9GVlF0RnVWSXI2RHJfQlpNb1htQXd2VmgzWFhjQWd6RERocDJUU1EyTkt2NlltZzA?oc=5)**
-> <small>财新 · 国内 · 17:42</small>
-> SHEIN港交所IPO首日破发 一度跌超9% 财新
+> **1. [大摩下调港股及A股指数目标价 反映宏观、流动性同步走弱 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBtUWpqUXRfVWxDMHJsT0hYbWFoQnpRX3NqZFdhaVljQ3VZVExIV2NrcEFUQ2NzeU9xNktkX2JkU25HV2hZTzU2d3ZfdktFaUNfVGE2YmZlUkNsSG5ubXJjYWZR?oc=5)**
+> <small>财新 · 国内 · 14:15</small>
+> 大摩下调港股及A股指数目标价 反映宏观、流动性同步走弱 财新
 >
-> **2. [涉拟IPO企业投诉举报中，软件侵权一直居高不下软件商“盯”上拟IPO企业是版权保护，还是掐点生意？ - 证券时报](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9KOFRzcFREZGtnNEt4cjEyX3pldm1oc3ljazM5MThNeFFja0lqdGlJemFxcXQ1STktcXZMZHF3MFVsLXd6dXNGSlBCZ2d6eTZBSWRXR0NZRnk5N1J1?oc=5)**
-> <small>证券时报 · 国内 · 06:56</small>
-> 涉拟IPO企业投诉举报中，软件侵权一直居高不下软件商“盯”上拟IPO企业是版权保护，还是掐点生意？ 证券时报
+> **2. [Robust Hiring Reinforces Strength of the U.S. Economy](https://www.nytimes.com/2026/09/04/business/economy/jobs-unemployment.html)**
+> <small>NYTimes Business · 国际 · 06:41 · `可能需订阅`</small>
+> Employers added 162,000 jobs and unemployment held at 4.1 percent last month, signs of a stability that contrasted with high inflation weighing on households and markets.
 >
 > **3. [Tencent-backed Enflame IPO draws 6,109 times online demand - reuters.com](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWGozNnBkYjNjcjkwMlhXX0l2YlVQRThVU3Z1NElnbWJxQklrNU94WTlvRDctcVlDUW5Mb1ctZmFVN2VmM2RLTmZfbXg5M3c4Q1NBLUVLUm9sMU5TYnhRNWFHMDE0WUZONF96TGNiZnJGUlZtaVVlRjBFRDV2UnBhNWg4M2lzb2FXa2RUZk9xc2xMSzA2U2o4V3dYb3VmQ01XZkRHX1ZuWVc?oc=5)**
 > <small>reuters.com · 国际 · 23:50</small>
 > Tencent-backed Enflame IPO draws 6,109 times online demand reuters.com
 >
-> **4. [LSE prepares to launch tokenised stocks in digital markets push - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxOdkVhYUFSUkNibjZ6MF9VQjNzR2J4NzgyZUJYX2hGZjZ1TklCTVVSbjBKSm1uR0FkUUNVN01RVkUwQzctUFE1aEVKeWhVRHdoanp0V1cyUkJsYmJ1dm1Td0twRWstZ2pLLVphcnZvVVEwVk0yeXZES1dwT3o5RWtnX1hLNnk?oc=5)**
-> <small>Financial Times · 国际 · 14:31 · `可能需订阅`</small>
-> LSE prepares to launch tokenised stocks in digital markets push Financial Times
+> **4. [The Bond Markets Are Pushing Up Rates. Will Central Banks Follow?](https://www.nytimes.com/2026/09/04/business/bond-yields-rates-central-banks.html)**
+> <small>NYTimes Business · 国际 · 17:03 · `可能需订阅`</small>
+> Around the world, rising bond yields reflect shifting expectations on how fast policymakers will raise interest rates.
 >
-> **5. [Mortgage Rates Hit 6.71%, Their Highest Level Since July 2025](https://www.nytimes.com/2026/09/03/business/mortgage-rates-housing.html)**
-> <small>NYTimes Business · 国际 · 04:48 · `可能需订阅`</small>
-> Higher costs for home loans have put a squeeze on the housing market, adding pressure to consumers already struggling with elevated inflation.
+> **5. [财经早知道｜十部门重磅发布 设立国家中小企业发展基金二期 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9zZFZpblQ3c0MzaFN3M3JRYm80SlRfOWRSRGdOLXJVSEJzMWI2YjVjVXlKbHJ4eUxYRHY4Y0FHMmF2ZHBXNDFXaS1NbGJxanp3X3o5aGNoY0RZX2dBNDZXU0pn?oc=5)**
+> <small>财新 · 国内 · 06:48</small>
+> 财经早知道｜十部门重磅发布 设立国家中小企业发展基金二期 财新
 >
-> **6. [Rate Rise in Play as Fed Officials Await Inflation Data](https://www.nytimes.com/2026/09/03/business/interest-rates-inflation-federal-reserve.html)**
-> <small>NYTimes Business · 国际 · 02:19 · `可能需订阅`</small>
-> Christopher J. Waller, a Federal Reserve governor, sounded optimistic about inflation’s trajectory but indicated he would support higher rates if progress does not continue.
+> **6. [Bitcoin heads for third winning week in a row as macro pressures mount](https://www.cnbc.com/2026/09/04/bitcoin-heads-for-third-winning-week-in-a-row-as-macro-pressures-mount.html)**
+> <small>CNBC Finance · 国际 · 22:36</small>
+> Bitcoin headed for its third straight winning week, as traders searched for refuge amid volatile moves in equities, currencies and bond markets.
 >
-> **7. [Energy price surge hits bond markets as European gas reaches three-year high - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNakYxWDZRT0E4TFpScndETGM1Q1NtcHNQTV82RWk3Y1ZfcVpsNElqdFcySkQxX1hBSXlleEJPWVhXUlJ5S2FHd3IwOHFteXNZanN5ZVpyZzVNVTZTNS1TVGw3bDlsU1VwUl94T1dmWTk0Q2dYUEkzdllJRVR4Q1ptVVZYRVA?oc=5)**
-> <small>Financial Times · 国际 · 15:21 · `可能需订阅`</small>
-> Energy price surge hits bond markets as European gas reaches three-year high Financial Times
+> **7. [单周新发基金数量创纪录 权益类产品竞相入市｜焦点资讯 - 第一财经](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9uVVdwVFRzTWFwQXVZZWJ2bVVUOS0zdVFpV1RYOXRKX0dYcDBBZGp5OThEZURib1dDZU1tcDBINXRJQ0J4QWpqa1p2cm4tZ3lyYU5PUQ?oc=5)**
+> <small>第一财经 · 国内 · 11:26</small>
+> 单周新发基金数量创纪录 权益类产品竞相入市｜焦点资讯 第一财经
 >
-> **8. [TPG Files Confidential IPO Application for Malaysia Hospital Assets Valued at Around $8 Billion - WSJ](https://news.google.com/rss/articles/CBMivwFBVV95cUxNVnhFeUVrZmpWcDRmRUFrS2xNNkYzUnVRbDVGNjFieWhZY2ZCVWNzaHRScWo0WEI3RjVCYUE3NXQ1Z2l5bGxLWjVMdW43WTRPWHlsZmlZcGRSSm1zd0o5N1VoeWxLX3pRZjZVbzRxX01Ua2hraDc4YWxXaWJwdExTejlIVTBnNm5DQ2Vob3V6NUJwRXBiTU5XSDBFWWRGQTNPdHlOUVVmY3pvSlA0N1UyUzV6OWV4TWdmXzd0QXFPVQ?oc=5)**
-> <small>WSJ · 国际 · 13:15 · `可能需订阅`</small>
-> TPG Files Confidential IPO Application for Malaysia Hospital Assets Valued at Around $8 Billion WSJ
+> **8. [九大亮点绘就“期中答卷”：河南资本市场“十五五”开局全景观察 - 证券时报](https://news.google.com/rss/articles/CBMiXEFVX3lxTE83N2daWGl1U0FvMUNEa3RyaURsTWpxSHlEVVZIMXJNclB6Z3QtV0Y5WkRuQ3pFamdzaHptbWptSF90Z2o3ZnNmVWt4ejB5NS1IRVBmVlZ3Z0hzY3Js?oc=5)**
+> <small>证券时报 · 国内 · 09:49</small>
+> 九大亮点绘就“期中答卷”：河南资本市场“十五五”开局全景观察 证券时报
 >
-> **9. [连板股追踪丨A股今日共46只个股涨停这只零售股5连板 - 第一财经](https://news.google.com/rss/articles/CBMiVEFVX3lxTE11dTI0YmszenNXV2R2VkNuTEpxWmxVVzJ1WGpfNDVMUUNfT29lTmk4dkx5RFV1cDlORllCeHdWMkRIMmpqSTZkS0Y2VzAzU3dGcEVWZw?oc=5)**
+> **9. [Ambani’s Tech Titan IPO Story Isn’t Yet Credible - bloomberg.com](https://news.google.com/rss/articles/CBMipAFBVV95cUxQSUVHNjZMNGdxQ1lxd09JV2FCS2l0Vm13VzFwcFd1NGI5Tnk5OUcyTVBTZ3U3UHpVNEZRQWI1bzJwY1BMMXN2N0p1TlJpQXZ0TjJYdEdpS0tMQ2VkSkQtU2dvdFNUZDRhZ3ZTcGdHaDgycTBuZ1NtbTFPUGo1UzNVYURJcHcyV1cyaWhGdzg3ZFQwOW5sdE53bzV2T3lrM1QtY2Nqag?oc=5)**
+> <small>bloomberg.com · 国际 · 03:00 · `可能需订阅`</small>
+> Ambani’s Tech Titan IPO Story Isn’t Yet Credible bloomberg.com
+>
+> **10. [连板股追踪丨A股今日共46只个股涨停这只零售股5连板 - 第一财经](https://news.google.com/rss/articles/CBMiVEFVX3lxTE11dTI0YmszenNXV2R2VkNuTEpxWmxVVzJ1WGpfNDVMUUNfT29lTmk4dkx5RFV1cDlORllCeHdWMkRIMmpqSTZkS0Y2VzAzU3dGcEVWZw?oc=5)**
 > <small>第一财经 · 国内 · 16:34</small>
 > 连板股追踪丨A股今日共46只个股涨停这只零售股5连板 第一财经
 >
-> **10. [谈股论金0903丨市场成交量三连降 短期能否快速修复缺口？ - 第一财经](https://news.google.com/rss/articles/CBMiVEFVX3lxTFBZdjJqbjBsSmJjWlE4Q0FDNW9IVnVfX21aTUZjakxPblNINmRKdzF0T1ZMRmlLdGZ1bUFzTWpfaUp3UUhBTUI0X3QxY2N1VkJleUxvaQ?oc=5)**
-> <small>第一财经 · 国内 · 21:00</small>
-> 谈股论金0903丨市场成交量三连降 短期能否快速修复缺口？ 第一财经
->
 
 > [!example] 科技 / AI
-> 10/10 · 国内 1 / 国际 9
+> 10/10 · 国内 2 / 国际 8
 >
-> **1. [The Hugging Face hack could indicate cultural issues at OpenAI](https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/)**
-> <small>MIT Technology Review · 国际 · 02:00</small>
-> This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI security incident, in which OpenAI agents es…
+> **1. [Architecting memory and storage in the AI era](https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/)**
+> <small>MIT Technology Review · 国际 · 02:39</small>
+> The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer needs…
 >
-> **2. [OpenAI’s next big AI model has ‘entered the AGI era’](https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release)**
-> <small>The Verge · 国际 · 02:38</small>
-> OpenAI's next big model is here: GPT-6 Astra. The company calls it a "generational leap in capability" for areas like cybersecurity, professional work, software engineering, science, and computer use. As OpenAI announced earlier this week,…
->
-> **3. [Scaling agentic AI pilots across the enterprise](https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise/)**
+> **2. [Scaling agentic AI pilots across the enterprise](https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise/)**
 > <small>MIT Technology Review · 国际 · 17:30</small>
 > As agentic AI moves from experimentation toward enterprise deployment, the challenge is figuring out how agents can work together, connect to the systems and data they need, and operate safely across the workflows that run a business. Alth…
+>
+> **3. [Anthropic、Meta、谷歌、 阿里齐发模型更新编程能力较量白热化 - 财新](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1CZ0Rtd0wtcEo5RDlrU0RCdFdVd2ZLUTFvaVJfWWFsM3JUMFpyclJEcWJNR2VQVlRDblYyQ28zUnpNVWJPTnM1MXl4MEItalFwQXdqQ3VHeWUxN3Bv?oc=5)**
+> <small>财新 · 国内 · 13:38</small>
+> Anthropic、Meta、谷歌、 阿里齐发模型更新编程能力较量白热化 财新
 >
 > **4. [Anthropic、Meta、谷歌、阿里齐发模型更新 编程能力较量白热化 - 财新](https://news.google.com/rss/articles/CBMiZEFVX3lxTE91TVh6QVI1NEdCVTVHd2ZQLUk2bVZmdl9EdF9mZEx2WGg2ampkbV9JSVIzdktTUWJuLVF3c1lzVFBiaHIzWTBDXzMwb0M5TEZJT0lOaVh6eFpDQm1JTjRTWTV5akg?oc=5)**
 > <small>财新 · 国内 · 13:38</small>
 > Anthropic、Meta、谷歌、阿里齐发模型更新 编程能力较量白热化 财新
 >
-> **5. [Texas' halt on powering data centers reflects US reckoning over 'ghost' demand - reuters.com](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNX0JFMjBfWUxIY3p0OFNoc09iVWtIcXJOWkI4M2tkVFVFdkZ6bHZMeTJJLWc1UDZCVXNhbWc3MDF4QVBmaEREeWpoOHRJZTlad19NcGxBRFlVRmVpTFdSNDdnOEszUG43dW1VSUhSb0g0ekxOcUZadzY5dEdxM2ZhRHdPbTdzRnVHdWNXZHVvX25RN0c4WDJnSDN0eGNlTXR0Rl9HZllhU0RzUzdyaXZ5dWVCVk9oQk9v?oc=5)**
-> <small>reuters.com · 国际 · 04:38</small>
-> Texas' halt on powering data centers reflects US reckoning over 'ghost' demand reuters.com
+> **5. [OpenAI’s rogue agents keep escaping, with no formal process to investigate them](https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/)**
+> <small>TechCrunch · 国际 · 07:15</small>
+> OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.
 >
-> **6. [Nvidia will officially bring DLSS 5 to older GPUs — but won’t give gamers full control](https://www.theverge.com/games/989978/nvidia-dlss-5-rtx-40)**
-> <small>The Verge · 国际 · 09:49</small>
-> Officially, Nvidia's controversial DLSS 5 AI rendering was supposed to launch this evening with only a single game, only on Nvidia's latest RTX 50 GPUs, and with developers in full control of their artistic vision. But unofficially, modder…
+> **6. [AI compute provider Nscale is looking for $3.5B in pre-IPO financing](https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/)**
+> <small>TechCrunch · 国际 · 05:12</small>
+> Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.
 >
-> **7. [Crusoe reportedly raises $3B at a $30B valuation](https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/)**
-> <small>TechCrunch · 国际 · 08:48</small>
-> The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.
+> **7. [AGI is whatever you want it to be](https://www.theverge.com/podcast/990323/agi-is-whatever-you-want-it-to-be)**
+> <small>The Verge · 国际 · 01:16</small>
+> OpenAI announced its next big model, GPT-6 Astra, and also, by the way, that "the AGI era" is here now. Today on The Vergecast, we've got an all-star panel to break down the news of the week. First, senior AI reporter Hayden Field joins us…
 >
-> **8. [Utilities are racing to link up with fusion startups, with Realta Fusion the latest to benefit](https://techcrunch.com/2026/09/03/utilities-are-racing-to-link-up-with-fusion-startups-with-realta-fusion-the-latest-to-benefit/)**
-> <small>TechCrunch · 国际 · 03:29</small>
-> The grid has been straining under the weight of new AI data centers, and that has utilities courting fusion startups.
+> **8. [Court Filings In A.I. Suit Invoke Copyright Law, Culture and Sports](https://www.nytimes.com/2026/09/04/technology/openai-microsoft-new-york-times-lawsuit.html)**
+> <small>NYTimes Technology · 国际 · 08:18 · `可能需订阅`</small>
+> Filings made Friday in The New York Times’s closely watched lawsuit against OpenAI and Microsoft included a range of copyright law and cultural references.
 >
-> **9. [How OpenAI Limited the Probe of Its Bots’ Hack of Hugging Face](https://www.nytimes.com/2026/09/03/technology/openai-hugging-face-hack.html)**
-> <small>NYTimes Technology · 国际 · 11:00 · `可能需订阅`</small>
-> A nonprofit’s study of how OpenAI’s A.I. agents were able to break into Hugging Face’s infrastructure wasn’t allowed to look at the incident’s full scope.
+> **9. [Tumbler Ridge Shooting Survivors File 30 Lawsuits Against OpenAI](https://www.nytimes.com/2026/09/04/world/canada/openai-lawsuits-tumbler-ridge-shooting.html)**
+> <small>NYTimes Technology · 国际 · 01:19 · `可能需订阅`</small>
+> The survivors contend that the company should have notified the police when it shut down the shooter’s disturbing ChatGPT account eight months before the February attack in British Columbia.
 >
-> **10. [Why the Hugging Face Hack Should Make You Worry More About A.I.](https://www.nytimes.com/2026/09/03/technology/openai-hugging-face-hacking.html)**
-> <small>NYTimes Technology · 国际 · 08:06 · `可能需订阅`</small>
-> The attack by an aggressive “collective” of OpenAI agents shows the danger of artificial intelligence systems that organize themselves.
+> **10. [Roland is getting into generative AI music with Melody Flip](https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip)**
+> <small>The Verge · 国际 · 01:51</small>
+> It's not quite the "push button; get song" of Suno, but Roland's new Melody Flip tool marks the company's foray into generative AI music. Available as a plug-in for your digital audio workstation (DAW), Melody Flip offers around 250 "Palet…
 >
 
 > [!tip] 私募股权 / 投资市场
-> 10/10 · 国内 3 / 国际 7
+> 10/10 · 国内 4 / 国际 6
 >
 > **1. [Side Letter: IMCO’s next steps](https://www.privateequityinternational.com/side-letter-imcos-next-steps/)**
 > <small>Private Equity International · 国际 · 20:04</small>
@@ -116,21 +116,21 @@
 > <small>Private Equity International · 国际 · 09:00</small>
 > For first-time managers, AI tools are a chance to leapfrog legacy systems and larger rivals.
 >
-> **6. [US to take 35% stake in Venezuelan mogul Betancourt's oil venture, WSJ reports - reuters.com](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQlNFejhFZ3hzSkp6dDhBa1RMMHdwUFY5YVc5Y3J6WXRVbmZyVmR4cFVrcEN6WXNKd1Q2cUVYdVZMM0hwT1JQZW0wNDdvNGt4Z1h4dG5VUE5zdlNLQWZEWUtBbUJodHR6TmhJS0VfbkhScUdBaUxMU2JhNk9QTDVVRFo1QTRTd0V1Q1RvMWVMRDBaNG1UOWxHR0FaSURoVFp1am9OeHowRWRRSmtjSkRvTHF4SXpRRzBBRURGeTV2bjRjYjA?oc=5)**
-> <small>reuters.com · 国际 · 12:24</small>
-> US to take 35% stake in Venezuelan mogul Betancourt's oil venture, WSJ reports reuters.com
+> **6. [Flexpoint, Frazier, WindRose eye specialty pharmacies; Pharmacy tech needs drive HIG to back Outcomes One](https://www.pehub.com/flexpoint-frazier-windrose-eye-specialty-pharmacies-pharmacy-tech-needs-drive-hig-to-back-outcomes-one/)**
+> <small>PE Hub · 国际 · 21:48</small>
+> Multi-state, specialty pharmacies with robust margins and revenues are primary targets for PE dealmakers; a look at HIG Capital’s acquisition of Outcomes One, a provider of clinical network services and pharmacy technology. The post Flexpo…
 >
-> **7. [Carlyle, Dynasty Equity close minority investments in Seattle Seahawks](https://www.pehub.com/carlyle-dynasty-equity-close-minority-investments-in-seattle-seahawks/)**
-> <small>PE Hub · 国际 · 03:48</small>
-> The NFL franchise, being acquired by the Khosla family, has cultivated one of the most dedicated fan bases in the league and a brand resonating well beyond the Pacific Northwest, according to Dynasty Equity co-founder K. Don Cornwell. The…
+> **7. [SHEIN启动港股招股 IPO估值最高约270亿美元 - 财新](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ReFh3QUR4VFk4RzQ3bm9IbEU2N0VhS3pGZ3JGbnVfYUxrUUJMV2tvZTNwcm95azBTQTVPcVRWSl9NX2g4bFR1ZWFsdi1UTTg2dlV0U1hVZk9qbmxvTE1IX1I5ZnpkU0U?oc=5)**
+> <small>财新 · 国内 · 18:24</small>
+> SHEIN启动港股招股 IPO估值最高约270亿美元 财新
 >
-> **8. [商业飞船企业紫微科技完成新一轮数亿元融资，清科控股（01945.HK）旗下清科资本担任本轮财务顾问 - 投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1OOGNVSlFrQlpEdE5tUHFrNVFlVy1NUVd0SWFzSjJNV0o3TVVyZVd4Y2dHYzFwRXJTSnA3ZVNmNF9EWUNlX2N3WTloMEluTXd3TC0yTUJB?oc=5)**
+> **8. [前八月A股IPO募资额远超去年全年 硬科技引领市场结构性升级 - 证券时报](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BZ0pmX3dndXRza1FUd1JqOUNaekJHR2VJcGRIY0E1YWR6OUdoaUJycG5pUnJWMjJWVjhlTXpfaDJxTVhzMUQ2NnZPa09NNkxfZnZXRldFMzluNHhY?oc=5)**
+> <small>证券时报 · 国内 · 06:57</small>
+> 前八月A股IPO募资额远超去年全年 硬科技引领市场结构性升级 证券时报
+>
+> **9. [商业飞船企业紫微科技完成新一轮数亿元融资，清科控股（01945.HK）旗下清科资本担任本轮财务顾问 - 投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1OOGNVSlFrQlpEdE5tUHFrNVFlVy1NUVd0SWFzSjJNV0o3TVVyZVd4Y2dHYzFwRXJTSnA3ZVNmNF9EWUNlX2N3WTloMEluTXd3TC0yTUJB?oc=5)**
 > <small>投资界 · 国内 · 09:00</small>
 > 商业飞船企业紫微科技完成新一轮数亿元融资，清科控股（01945.HK）旗下清科资本担任本轮财务顾问 投资界
->
-> **9. [现场直击希音上市仪式！盘中破发，创始人许仰天未参与敲锣｜港股直通车 - 第一财经](https://news.google.com/rss/articles/CBMiVEFVX3lxTE8wNWs5UXhqX0VGTVZsRlJWY2swZEFpc3J1LTNhZXgyNjNoU28tRkpmNWVlSGF4dEhlamNXTU1rb0tOUlVZSXlfM0pfRUdDR1ZXNlA2RA?oc=5)**
-> <small>第一财经 · 国内 · 13:14</small>
-> 现场直击希音上市仪式！盘中破发，创始人许仰天未参与敲锣｜港股直通车 第一财经
 >
 > **10. [江苏徐州智能制造产业专项母基金招GP（更新版） - 投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTFB5UHdLQ0VTdnBnYTI0cHJuMGlub0pWa3RQa25RNTczZkVRRVQyT2s5TlFBTVZZdm5Ya1pITktzVmJUbFB5anRibDhlelpDNk9MWXVJTHBB?oc=5)**
 > <small>投资界 · 国内 · 17:31</small>
