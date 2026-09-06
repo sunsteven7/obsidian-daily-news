@@ -6,7 +6,7 @@
 > 摘要来自 RSS/新闻源描述，保留原文语言；`可能需订阅` 表示该来源可能有付费墙。
 
 > [!quote] 财经 / 金融
-> 10/10 · 国内 5 / 国际 5
+> 10/10 · 国内 4 / 国际 6
 >
 > **1. [大摩下调港股及A股指数目标价 反映宏观、流动性同步走弱 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBtUWpqUXRfVWxDMHJsT0hYbWFoQnpRX3NqZFdhaVljQ3VZVExIV2NrcEFUQ2NzeU9xNktkX2JkU25HV2hZTzU2d3ZfdktFaUNfVGE2YmZlUkNsSG5ubXJjYWZR?oc=5)**
 > <small>财新 · 国内 · 14:15</small>
@@ -16,37 +16,37 @@
 > <small>NYTimes Business · 国际 · 06:41 · `可能需订阅`</small>
 > Employers added 162,000 jobs and unemployment held at 4.1 percent last month, signs of a stability that contrasted with high inflation weighing on households and markets.
 >
-> **3. [Tencent-backed Enflame IPO draws 6,109 times online demand - reuters.com](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWGozNnBkYjNjcjkwMlhXX0l2YlVQRThVU3Z1NElnbWJxQklrNU94WTlvRDctcVlDUW5Mb1ctZmFVN2VmM2RLTmZfbXg5M3c4Q1NBLUVLUm9sMU5TYnhRNWFHMDE0WUZONF96TGNiZnJGUlZtaVVlRjBFRDV2UnBhNWg4M2lzb2FXa2RUZk9xc2xMSzA2U2o4V3dYb3VmQ01XZkRHX1ZuWVc?oc=5)**
-> <small>reuters.com · 国际 · 23:50</small>
-> Tencent-backed Enflame IPO draws 6,109 times online demand reuters.com
->
-> **4. [The Bond Markets Are Pushing Up Rates. Will Central Banks Follow?](https://www.nytimes.com/2026/09/04/business/bond-yields-rates-central-banks.html)**
+> **3. [The Bond Markets Are Pushing Up Rates. Will Central Banks Follow?](https://www.nytimes.com/2026/09/04/business/bond-yields-rates-central-banks.html)**
 > <small>NYTimes Business · 国际 · 17:03 · `可能需订阅`</small>
 > Around the world, rising bond yields reflect shifting expectations on how fast policymakers will raise interest rates.
 >
-> **5. [财经早知道｜十部门重磅发布 设立国家中小企业发展基金二期 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9zZFZpblQ3c0MzaFN3M3JRYm80SlRfOWRSRGdOLXJVSEJzMWI2YjVjVXlKbHJ4eUxYRHY4Y0FHMmF2ZHBXNDFXaS1NbGJxanp3X3o5aGNoY0RZX2dBNDZXU0pn?oc=5)**
+> **4. [财经早知道｜十部门重磅发布 设立国家中小企业发展基金二期 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9zZFZpblQ3c0MzaFN3M3JRYm80SlRfOWRSRGdOLXJVSEJzMWI2YjVjVXlKbHJ4eUxYRHY4Y0FHMmF2ZHBXNDFXaS1NbGJxanp3X3o5aGNoY0RZX2dBNDZXU0pn?oc=5)**
 > <small>财新 · 国内 · 06:48</small>
 > 财经早知道｜十部门重磅发布 设立国家中小企业发展基金二期 财新
 >
-> **6. [Bitcoin heads for third winning week in a row as macro pressures mount](https://www.cnbc.com/2026/09/04/bitcoin-heads-for-third-winning-week-in-a-row-as-macro-pressures-mount.html)**
+> **5. [Bitcoin heads for third winning week in a row as macro pressures mount](https://www.cnbc.com/2026/09/04/bitcoin-heads-for-third-winning-week-in-a-row-as-macro-pressures-mount.html)**
 > <small>CNBC Finance · 国际 · 22:36</small>
 > Bitcoin headed for its third straight winning week, as traders searched for refuge amid volatile moves in equities, currencies and bond markets.
 >
-> **7. [单周新发基金数量创纪录 权益类产品竞相入市｜焦点资讯 - 第一财经](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9uVVdwVFRzTWFwQXVZZWJ2bVVUOS0zdVFpV1RYOXRKX0dYcDBBZGp5OThEZURib1dDZU1tcDBINXRJQ0J4QWpqa1p2cm4tZ3lyYU5PUQ?oc=5)**
-> <small>第一财经 · 国内 · 11:26</small>
-> 单周新发基金数量创纪录 权益类产品竞相入市｜焦点资讯 第一财经
+> **6. [Ambani’s Tech Titan IPO Story Isn’t Yet Credible - Bloomberg.com](https://news.google.com/rss/articles/CBMipAFBVV95cUxQSUVHNjZMNGdxQ1lxd09JV2FCS2l0Vm13VzFwcFd1NGI5Tnk5OUcyTVBTZ3U3UHpVNEZRQWI1bzJwY1BMMXN2N0p1TlJpQXZ0TjJYdEdpS0tMQ2VkSkQtU2dvdFNUZDRhZ3ZTcGdHaDgycTBuZ1NtbTFPUGo1UzNVYURJcHcyV1cyaWhGdzg3ZFQwOW5sdE53bzV2T3lrM1QtY2Nqag?oc=5)**
+> <small>Bloomberg.com · 国际 · 03:00 · `可能需订阅`</small>
+> Ambani’s Tech Titan IPO Story Isn’t Yet Credible Bloomberg.com
 >
-> **8. [九大亮点绘就“期中答卷”：河南资本市场“十五五”开局全景观察 - 证券时报](https://news.google.com/rss/articles/CBMiXEFVX3lxTE83N2daWGl1U0FvMUNEa3RyaURsTWpxSHlEVVZIMXJNclB6Z3QtV0Y5WkRuQ3pFamdzaHptbWptSF90Z2o3ZnNmVWt4ejB5NS1IRVBmVlZ3Z0hzY3Js?oc=5)**
-> <small>证券时报 · 国内 · 09:49</small>
-> 九大亮点绘就“期中答卷”：河南资本市场“十五五”开局全景观察 证券时报
->
-> **9. [Ambani’s Tech Titan IPO Story Isn’t Yet Credible - bloomberg.com](https://news.google.com/rss/articles/CBMipAFBVV95cUxQSUVHNjZMNGdxQ1lxd09JV2FCS2l0Vm13VzFwcFd1NGI5Tnk5OUcyTVBTZ3U3UHpVNEZRQWI1bzJwY1BMMXN2N0p1TlJpQXZ0TjJYdEdpS0tMQ2VkSkQtU2dvdFNUZDRhZ3ZTcGdHaDgycTBuZ1NtbTFPUGo1UzNVYURJcHcyV1cyaWhGdzg3ZFQwOW5sdE53bzV2T3lrM1QtY2Nqag?oc=5)**
-> <small>bloomberg.com · 国际 · 03:00 · `可能需订阅`</small>
-> Ambani’s Tech Titan IPO Story Isn’t Yet Credible bloomberg.com
->
-> **10. [连板股追踪丨A股今日共46只个股涨停这只零售股5连板 - 第一财经](https://news.google.com/rss/articles/CBMiVEFVX3lxTE11dTI0YmszenNXV2R2VkNuTEpxWmxVVzJ1WGpfNDVMUUNfT29lTmk4dkx5RFV1cDlORllCeHdWMkRIMmpqSTZkS0Y2VzAzU3dGcEVWZw?oc=5)**
+> **7. [连板股追踪丨A股今日共46只个股涨停这只零售股5连板 - 第一财经](https://news.google.com/rss/articles/CBMiVEFVX3lxTE11dTI0YmszenNXV2R2VkNuTEpxWmxVVzJ1WGpfNDVMUUNfT29lTmk4dkx5RFV1cDlORllCeHdWMkRIMmpqSTZkS0Y2VzAzU3dGcEVWZw?oc=5)**
 > <small>第一财经 · 国内 · 16:34</small>
 > 连板股追踪丨A股今日共46只个股涨停这只零售股5连板 第一财经
+>
+> **8. [New York Fed's Williams says yield surge due to strong economic prospects](https://www.cnbc.com/2026/09/02/new-york-feds-williams-says-yield-surge-due-to-strong-economic-prospects.html)**
+> <small>CNBC Finance · 国际 · 01:21</small>
+> New York Fed President John Williams said higher Treasury yields reflect a strong economy as he weighs whether another interest rate hike is needed.
+>
+> **9. [A Guide to Owning Bonds When They Are Selling Off - WSJ](https://news.google.com/rss/articles/CBMinAFBVV95cUxPNlNpS2FqR29Rbk85cWZuZzVsTnVERmtMLUc5aU1qeldCNlJCMWdxSlNZeHRWZ1NhVUlCM1hSamV5YkhrdWhqZXNqY3I4R2tFdHRSNEZiR2x2WnNYR3huZGRpY0wtdmdhM0hoVWJ6cG44VnZqUXZaNFl5V041RmVQRWdvam1hUDZuN3dGcWhJQ3FIRWxKWUJBVWJzWjM?oc=5)**
+> <small>WSJ · 国际 · 01:55 · `可能需订阅`</small>
+> A Guide to Owning Bonds When They Are Selling Off WSJ
+>
+> **10. [短视频｜一财带你逛IFA：中国科技企业秀“硬实力” - 第一财经](https://news.google.com/rss/articles/CBMiVEFVX3lxTFB4Y0xRSVlIYWlIT1NwOURQZmRkSmt6aU9WckxMUTFLZEd1a19KbTdjN21pYzRKc0N1QWJnLUl4V3o2ckZDcFl5cm5lTlZ5STJIbkpPVw?oc=5)**
+> <small>第一财经 · 国内 · 22:17</small>
+> 短视频｜一财带你逛IFA：中国科技企业秀“硬实力” 第一财经
 >
 
 > [!example] 科技 / AI
@@ -68,17 +68,17 @@
 > <small>财新 · 国内 · 13:38</small>
 > Anthropic、Meta、谷歌、阿里齐发模型更新 编程能力较量白热化 财新
 >
-> **5. [OpenAI’s rogue agents keep escaping, with no formal process to investigate them](https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/)**
-> <small>TechCrunch · 国际 · 07:15</small>
-> OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.
+> **5. [Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft](https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/)**
+> <small>TechCrunch · 国际 · 06:49</small>
+> Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.
 >
-> **6. [AI compute provider Nscale is looking for $3.5B in pre-IPO financing](https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/)**
-> <small>TechCrunch · 国际 · 05:12</small>
-> Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.
+> **6. [OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure](https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/)**
+> <small>TechCrunch · 国际 · 02:05</small>
+> OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.
 >
-> **7. [AGI is whatever you want it to be](https://www.theverge.com/podcast/990323/agi-is-whatever-you-want-it-to-be)**
-> <small>The Verge · 国际 · 01:16</small>
-> OpenAI announced its next big model, GPT-6 Astra, and also, by the way, that "the AGI era" is here now. Today on The Vergecast, we've got an all-star panel to break down the news of the week. First, senior AI reporter Hayden Field joins us…
+> **7. [OpenAI admits to German wiki ‘incident’](https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident)**
+> <small>The Verge · 国际 · 19:28</small>
+> OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages the fallout from reports that a swarm of its out-of-control agents hijacked a Ge…
 >
 > **8. [Court Filings In A.I. Suit Invoke Copyright Law, Culture and Sports](https://www.nytimes.com/2026/09/04/technology/openai-microsoft-new-york-times-lawsuit.html)**
 > <small>NYTimes Technology · 国际 · 08:18 · `可能需订阅`</small>
@@ -88,9 +88,9 @@
 > <small>NYTimes Technology · 国际 · 01:19 · `可能需订阅`</small>
 > The survivors contend that the company should have notified the police when it shut down the shooter’s disturbing ChatGPT account eight months before the February attack in British Columbia.
 >
-> **10. [Roland is getting into generative AI music with Melody Flip](https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip)**
-> <small>The Verge · 国际 · 01:51</small>
-> It's not quite the "push button; get song" of Suno, but Roland's new Melody Flip tool marks the company's foray into generative AI music. Available as a plug-in for your digital audio workstation (DAW), Melody Flip offers around 250 "Palet…
+> **10. [Robotaxis enter their villain era](https://www.theverge.com/transportation/989513/road-rage-short-film-robotaxi-autonomous-ai)**
+> <small>The Verge · 国际 · 22:49</small>
+> It's Bullitt meets Christine meets Waymo. A new short film imagines a San Francisco car chase where the other driver isn't human - and the car may be trying to kill you. That a robotaxi can now be cast as the villain with almost no explana…
 >
 
 > [!tip] 私募股权 / 投资市场
@@ -128,9 +128,9 @@
 > <small>证券时报 · 国内 · 06:57</small>
 > 前八月A股IPO募资额远超去年全年 硬科技引领市场结构性升级 证券时报
 >
-> **9. [商业飞船企业紫微科技完成新一轮数亿元融资，清科控股（01945.HK）旗下清科资本担任本轮财务顾问 - 投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1OOGNVSlFrQlpEdE5tUHFrNVFlVy1NUVd0SWFzSjJNV0o3TVVyZVd4Y2dHYzFwRXJTSnA3ZVNmNF9EWUNlX2N3WTloMEluTXd3TC0yTUJB?oc=5)**
-> <small>投资界 · 国内 · 09:00</small>
-> 商业飞船企业紫微科技完成新一轮数亿元融资，清科控股（01945.HK）旗下清科资本担任本轮财务顾问 投资界
+> **9. [首发| 泉智博完成数亿元B轮融资，机器人关节开始爆发 - 投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTE94TmZzbzloVHRvV3BYSGhYLWZPUFAwQ2xPS3JoRjB4WjlKUTNhY2pTZ3JXX0d5U0tkYzNtTng2aFZPMWYxaWpFaUxpd096LVFybnk0cTJR?oc=5)**
+> <small>投资界 · 国内 · 09:20</small>
+> 首发| 泉智博完成数亿元B轮融资，机器人关节开始爆发 投资界
 >
 > **10. [江苏徐州智能制造产业专项母基金招GP（更新版） - 投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTFB5UHdLQ0VTdnBnYTI0cHJuMGlub0pWa3RQa25RNTczZkVRRVQyT2s5TlFBTVZZdm5Ya1pITktzVmJUbFB5anRibDhlelpDNk9MWXVJTHBB?oc=5)**
 > <small>投资界 · 国内 · 17:31</small>
