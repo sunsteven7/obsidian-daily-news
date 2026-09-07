@@ -16,37 +16,37 @@
 > <small>NYTimes Business · 国际 · 06:41 · `可能需订阅`</small>
 > Employers added 162,000 jobs and unemployment held at 4.1 percent last month, signs of a stability that contrasted with high inflation weighing on households and markets.
 >
-> **3. [The Bond Markets Are Pushing Up Rates. Will Central Banks Follow?](https://www.nytimes.com/2026/09/04/business/bond-yields-rates-central-banks.html)**
+> **3. [金融机构穿越周期：美国房地产转型的微观主体实证｜构建房地产新模式（26） - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5aVWo0a3ZXUEpLVXdQRm5YTDNKQnV0eVU0SGItbUMtYTV5LWxablNjOWMtMlpxVWZRRFh1cDNHZ0ZmM3VjS1pXSXZXZTVmcU5hSDY3ZU1YR3ozNTRtNEZxRkZ3?oc=5)**
+> <small>财新 · 国内 · 08:12</small>
+> 金融机构穿越周期：美国房地产转型的微观主体实证｜构建房地产新模式（26） 财新
+>
+> **4. [Anthropic close to awarding Morgan Stanley and Goldman Sachs top roles in $2tn IPO - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNaWxaRF9ValREekRRNE00M0JmTWVkZE9hN0hyLXlhVTktdFVtdjBqaENTcTBJZUdmbHJ6UEtHVTB4Z3JqcTBRWjhoYWkxYWgtbGNhTkRxclJJT0hLUHJYTDRUV1NINERTal82WVZjRVJYekIwZ0stYjFYdk9YSEx3eUNSRkw?oc=5)**
+> <small>Financial Times · 国际 · 03:46 · `可能需订阅`</small>
+> Anthropic close to awarding Morgan Stanley and Goldman Sachs top roles in $2tn IPO Financial Times
+>
+> **5. [Katayama becomes Japan’s vital link between Bessent, Takaichi and markets - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxPd09xck1XSS1XRk9UMW1zY3JMbVBVVTVxNkJkOXRGVEVmMFdxZjRsODIyaGREeUllZ3AxRU9UQmVfYmFXQWhnem9hc2U2VFdDUGFCQmVCR1RoNU5keXRtcUdVejZvOEdvQ20wT29vajRicjRGMVlhVXRwc3RoMVNDTWlpeUg?oc=5)**
+> <small>Financial Times · 国际 · 20:00 · `可能需订阅`</small>
+> Katayama becomes Japan’s vital link between Bessent, Takaichi and markets Financial Times
+>
+> **6. [The Bond Markets Are Pushing Up Rates. Will Central Banks Follow?](https://www.nytimes.com/2026/09/04/business/bond-yields-rates-central-banks.html)**
 > <small>NYTimes Business · 国际 · 17:03 · `可能需订阅`</small>
 > Around the world, rising bond yields reflect shifting expectations on how fast policymakers will raise interest rates.
 >
-> **4. [财经早知道｜十部门重磅发布 设立国家中小企业发展基金二期 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9zZFZpblQ3c0MzaFN3M3JRYm80SlRfOWRSRGdOLXJVSEJzMWI2YjVjVXlKbHJ4eUxYRHY4Y0FHMmF2ZHBXNDFXaS1NbGJxanp3X3o5aGNoY0RZX2dBNDZXU0pn?oc=5)**
-> <small>财新 · 国内 · 06:48</small>
-> 财经早知道｜十部门重磅发布 设立国家中小企业发展基金二期 财新
->
-> **5. [Bitcoin heads for third winning week in a row as macro pressures mount](https://www.cnbc.com/2026/09/04/bitcoin-heads-for-third-winning-week-in-a-row-as-macro-pressures-mount.html)**
+> **7. [Bitcoin heads for third winning week in a row as macro pressures mount](https://www.cnbc.com/2026/09/04/bitcoin-heads-for-third-winning-week-in-a-row-as-macro-pressures-mount.html)**
 > <small>CNBC Finance · 国际 · 22:36</small>
 > Bitcoin headed for its third straight winning week, as traders searched for refuge amid volatile moves in equities, currencies and bond markets.
->
-> **6. [Ambani’s Tech Titan IPO Story Isn’t Yet Credible - Bloomberg.com](https://news.google.com/rss/articles/CBMipAFBVV95cUxQSUVHNjZMNGdxQ1lxd09JV2FCS2l0Vm13VzFwcFd1NGI5Tnk5OUcyTVBTZ3U3UHpVNEZRQWI1bzJwY1BMMXN2N0p1TlJpQXZ0TjJYdEdpS0tMQ2VkSkQtU2dvdFNUZDRhZ3ZTcGdHaDgycTBuZ1NtbTFPUGo1UzNVYURJcHcyV1cyaWhGdzg3ZFQwOW5sdE53bzV2T3lrM1QtY2Nqag?oc=5)**
-> <small>Bloomberg.com · 国际 · 03:00 · `可能需订阅`</small>
-> Ambani’s Tech Titan IPO Story Isn’t Yet Credible Bloomberg.com
->
-> **7. [连板股追踪丨A股今日共46只个股涨停这只零售股5连板 - 第一财经](https://news.google.com/rss/articles/CBMiVEFVX3lxTE11dTI0YmszenNXV2R2VkNuTEpxWmxVVzJ1WGpfNDVMUUNfT29lTmk4dkx5RFV1cDlORllCeHdWMkRIMmpqSTZkS0Y2VzAzU3dGcEVWZw?oc=5)**
-> <small>第一财经 · 国内 · 16:34</small>
-> 连板股追踪丨A股今日共46只个股涨停这只零售股5连板 第一财经
 >
 > **8. [New York Fed's Williams says yield surge due to strong economic prospects](https://www.cnbc.com/2026/09/02/new-york-feds-williams-says-yield-surge-due-to-strong-economic-prospects.html)**
 > <small>CNBC Finance · 国际 · 01:21</small>
 > New York Fed President John Williams said higher Treasury yields reflect a strong economy as he weighs whether another interest rate hike is needed.
 >
-> **9. [A Guide to Owning Bonds When They Are Selling Off - WSJ](https://news.google.com/rss/articles/CBMinAFBVV95cUxPNlNpS2FqR29Rbk85cWZuZzVsTnVERmtMLUc5aU1qeldCNlJCMWdxSlNZeHRWZ1NhVUlCM1hSamV5YkhrdWhqZXNqY3I4R2tFdHRSNEZiR2x2WnNYR3huZGRpY0wtdmdhM0hoVWJ6cG44VnZqUXZaNFl5V041RmVQRWdvam1hUDZuN3dGcWhJQ3FIRWxKWUJBVWJzWjM?oc=5)**
-> <small>WSJ · 国际 · 01:55 · `可能需订阅`</small>
-> A Guide to Owning Bonds When They Are Selling Off WSJ
+> **9. [最新财新周刊｜房地产预售制转向 - 财新周刊](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBZV011RGtYcGNPR3VPT1FzaHJ2T01DOFZvNTlEdzBLUEdrWWRPTS1ITVQ3WDVieVp3RERHajV2Vk0wejVEVTkxQ2FXa1kySmowdjN1dEJlUHZMclIyRF9iSA?oc=5)**
+> <small>财新周刊 · 国内 · 05:10 · `可能需订阅`</small>
+> 最新财新周刊｜房地产预售制转向 财新周刊
 >
-> **10. [短视频｜一财带你逛IFA：中国科技企业秀“硬实力” - 第一财经](https://news.google.com/rss/articles/CBMiVEFVX3lxTFB4Y0xRSVlIYWlIT1NwOURQZmRkSmt6aU9WckxMUTFLZEd1a19KbTdjN21pYzRKc0N1QWJnLUl4V3o2ckZDcFl5cm5lTlZ5STJIbkpPVw?oc=5)**
-> <small>第一财经 · 国内 · 22:17</small>
-> 短视频｜一财带你逛IFA：中国科技企业秀“硬实力” 第一财经
+> **10. [下周一，央行将开展5000亿元买断式逆回购操作 - 证券时报](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9tZU5vdG5CZ3p1T2tBSW93QXg0N2QxTFFxR3dCaWswWUVxamFQMmhzQnVGazVEaEpMTEZVeVNfZlN4MEdCc0d0OFZrOEQweGY0N1VYLVhMeU5YV0Zm?oc=5)**
+> <small>证券时报 · 国内 · 20:18</small>
+> 下周一，央行将开展5000亿元买断式逆回购操作 证券时报
 >
 
 > [!example] 科技 / AI
@@ -60,13 +60,13 @@
 > <small>MIT Technology Review · 国际 · 17:30</small>
 > As agentic AI moves from experimentation toward enterprise deployment, the challenge is figuring out how agents can work together, connect to the systems and data they need, and operate safely across the workflows that run a business. Alth…
 >
-> **3. [Anthropic、Meta、谷歌、 阿里齐发模型更新编程能力较量白热化 - 财新](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1CZ0Rtd0wtcEo5RDlrU0RCdFdVd2ZLUTFvaVJfWWFsM3JUMFpyclJEcWJNR2VQVlRDblYyQ28zUnpNVWJPTnM1MXl4MEItalFwQXdqQ3VHeWUxN3Bv?oc=5)**
-> <small>财新 · 国内 · 13:38</small>
-> Anthropic、Meta、谷歌、 阿里齐发模型更新编程能力较量白热化 财新
+> **3. [英伟达斥资129亿美元收购开源AI社区Hugging Face - 财新](https://news.google.com/rss/articles/CBMiXEFVX3lxTE54VXlYeGtRYzV0SGdMYnE1TlY1TWFUMFM4N090SGRyVXJuZ0JwSHZzeXVNU1FsRTdBQVowX2w4MkV3TEdKOTFFUTFEMUpuZEh2MkVaSXVKeVgtNGt0?oc=5)**
+> <small>财新 · 国内 · 17:19</small>
+> 英伟达斥资129亿美元收购开源AI社区Hugging Face 财新
 >
-> **4. [Anthropic、Meta、谷歌、阿里齐发模型更新 编程能力较量白热化 - 财新](https://news.google.com/rss/articles/CBMiZEFVX3lxTE91TVh6QVI1NEdCVTVHd2ZQLUk2bVZmdl9EdF9mZEx2WGg2ampkbV9JSVIzdktTUWJuLVF3c1lzVFBiaHIzWTBDXzMwb0M5TEZJT0lOaVh6eFpDQm1JTjRTWTV5akg?oc=5)**
-> <small>财新 · 国内 · 13:38</small>
-> Anthropic、Meta、谷歌、阿里齐发模型更新 编程能力较量白热化 财新
+> **4. [Seattle Times and Newsday sue OpenAI and Microsoft for infringement](https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft)**
+> <small>The Verge · 国际 · 07:43</small>
+> The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement. The two outlets say the company used their journalism as training data for its AI models without permission and often re…
 >
 > **5. [Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft](https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/)**
 > <small>TechCrunch · 国际 · 06:49</small>
@@ -76,21 +76,21 @@
 > <small>TechCrunch · 国际 · 02:05</small>
 > OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.
 >
-> **7. [OpenAI admits to German wiki ‘incident’](https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident)**
-> <small>The Verge · 国际 · 19:28</small>
-> OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages the fallout from reports that a swarm of its out-of-control agents hijacked a Ge…
+> **7. [How a Blacklisted Chinese Tech Giant Kept Buying America’s Best A.I. Chips](https://www.nytimes.com/2026/09/06/technology/ai-chips-china-blacklist.html)**
+> <small>NYTimes Technology · 国际 · 18:45 · `可能需订阅`</small>
+> Washington imposed sanctions on Inspur because of its work with the Chinese military. But the company’s subsidiary kept shipping Nvidia’s best chips to feed China’s leading A.I. firms.
 >
-> **8. [Court Filings In A.I. Suit Invoke Copyright Law, Culture and Sports](https://www.nytimes.com/2026/09/04/technology/openai-microsoft-new-york-times-lawsuit.html)**
+> **8. [Why China Is the Bogeyman Data Center Enthusiasts Just Can't Quit - WIRED](https://news.google.com/rss/articles/CBMikgFBVV95cUxPdFR0NTFvV2JZSk9ucy1jb3N6OU8zdVFQbEhwbmc3VGJWNkZKU1VQNXMtbjRwcFM3RlhpSFhzNTh3SzJVWEFQM1Z0bXBGOUR3Vnp1dVlTYWxSdE9RV05QRVhMM1Q2RnFmTkVLMl9FcWpTRTBRUWp2ZmJPNHhvOTlhRjRERlZtRnFKNXFRMTh4Y3N2UQ?oc=5)**
+> <small>WIRED · 国际 · 18:00</small>
+> Why China Is the Bogeyman Data Center Enthusiasts Just Can't Quit WIRED
+>
+> **9. [Court Filings In A.I. Suit Invoke Copyright Law, Culture and Sports](https://www.nytimes.com/2026/09/04/technology/openai-microsoft-new-york-times-lawsuit.html)**
 > <small>NYTimes Technology · 国际 · 08:18 · `可能需订阅`</small>
 > Filings made Friday in The New York Times’s closely watched lawsuit against OpenAI and Microsoft included a range of copyright law and cultural references.
 >
-> **9. [Tumbler Ridge Shooting Survivors File 30 Lawsuits Against OpenAI](https://www.nytimes.com/2026/09/04/world/canada/openai-lawsuits-tumbler-ridge-shooting.html)**
-> <small>NYTimes Technology · 国际 · 01:19 · `可能需订阅`</small>
-> The survivors contend that the company should have notified the police when it shut down the shooter’s disturbing ChatGPT account eight months before the February attack in British Columbia.
->
-> **10. [Robotaxis enter their villain era](https://www.theverge.com/transportation/989513/road-rage-short-film-robotaxi-autonomous-ai)**
-> <small>The Verge · 国际 · 22:49</small>
-> It's Bullitt meets Christine meets Waymo. A new short film imagines a San Francisco car chase where the other driver isn't human - and the car may be trying to kill you. That a robotaxi can now be cast as the villain with almost no explana…
+> **10. [中国公司全球化周报｜VAST累计融资约50亿元 / 天工机器人完成数亿元融资 - 36氪出海](https://news.google.com/rss/articles/CBMiRkFVX3lxTE5CX0tWLUI4V2Q5aDc2NThFN2xPVW1zT2U0VkhvM0dSYkplWGk5blB4UDN1amdqOGpSZUFyX2VpdlU1N3hUUEE?oc=5)**
+> <small>36氪出海 · 国内 · 10:04</small>
+> 中国公司全球化周报｜VAST累计融资约50亿元 / 天工机器人完成数亿元融资 36氪出海
 >
 
 > [!tip] 私募股权 / 投资市场
@@ -124,17 +124,17 @@
 > <small>财新 · 国内 · 18:24</small>
 > SHEIN启动港股招股 IPO估值最高约270亿美元 财新
 >
-> **8. [前八月A股IPO募资额远超去年全年 硬科技引领市场结构性升级 - 证券时报](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BZ0pmX3dndXRza1FUd1JqOUNaekJHR2VJcGRIY0E1YWR6OUdoaUJycG5pUnJWMjJWVjhlTXpfaDJxTVhzMUQ2NnZPa09NNkxfZnZXRldFMzluNHhY?oc=5)**
-> <small>证券时报 · 国内 · 06:57</small>
-> 前八月A股IPO募资额远超去年全年 硬科技引领市场结构性升级 证券时报
->
-> **9. [首发| 泉智博完成数亿元B轮融资，机器人关节开始爆发 - 投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTE94TmZzbzloVHRvV3BYSGhYLWZPUFAwQ2xPS3JoRjB4WjlKUTNhY2pTZ3JXX0d5U0tkYzNtTng2aFZPMWYxaWpFaUxpd096LVFybnk0cTJR?oc=5)**
+> **8. [首发| 泉智博完成数亿元B轮融资，机器人关节开始爆发 - 投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTE94TmZzbzloVHRvV3BYSGhYLWZPUFAwQ2xPS3JoRjB4WjlKUTNhY2pTZ3JXX0d5U0tkYzNtTng2aFZPMWYxaWpFaUxpd096LVFybnk0cTJR?oc=5)**
 > <small>投资界 · 国内 · 09:20</small>
 > 首发| 泉智博完成数亿元B轮融资，机器人关节开始爆发 投资界
 >
-> **10. [江苏徐州智能制造产业专项母基金招GP（更新版） - 投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTFB5UHdLQ0VTdnBnYTI0cHJuMGlub0pWa3RQa25RNTczZkVRRVQyT2s5TlFBTVZZdm5Ya1pITktzVmJUbFB5anRibDhlelpDNk9MWXVJTHBB?oc=5)**
-> <small>投资界 · 国内 · 17:31</small>
-> 江苏徐州智能制造产业专项母基金招GP（更新版） 投资界
+> **9. [「首发」物自体科技完成新一轮战略融资，以 BOOT 推动企业级 AI 营销从工具走向增长系统 - 投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTE14NFpNMEJiclRRV0ZtdVRXR0RFWTFQZno3ZE5YRzd3UUpKN1BGNlpZS0FaZXVDNkNnSlJPQzFHMDdSMzNQQUJMdDRGdThhRWZTOFJ0dlNB?oc=5)**
+> <small>投资界 · 国内 · 09:30</small>
+> 「首发」物自体科技完成新一轮战略融资，以 BOOT 推动企业级 AI 营销从工具走向增长系统 投资界
+>
+> **10. [融资丨国内首家原生机器人“大脑芯片”企业维泛智能完成数亿元融资 - 创业邦](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1wZmVGVHVmUVNBN3NWa3lEakxiNnNDeTFmaUtSZGV6cGxZcTNxckhxb2lVLVNGdkZTSjZOazZpSjBWWjRyX2h2Q0tkZWRNR21a?oc=5)**
+> <small>创业邦 · 国内 · 15:00</small>
+> 融资丨国内首家原生机器人“大脑芯片”企业维泛智能完成数亿元融资 创业邦
 >
 
 > [!warning] 抓取失败但不影响成稿的来源
