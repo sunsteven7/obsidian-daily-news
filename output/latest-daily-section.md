@@ -8,93 +8,93 @@
 > [!quote] 财经 / 金融
 > 10/10 · 国内 4 / 国际 6
 >
-> **1. [Robust Hiring Reinforces Strength of the U.S. Economy](https://www.nytimes.com/2026/09/04/business/economy/jobs-unemployment.html)**
-> <small>NYTimes Business · 国际 · 06:41 · `可能需订阅`</small>
-> Employers added 162,000 jobs and unemployment held at 4.1 percent last month, signs of a stability that contrasted with high inflation weighing on households and markets.
+> **1. [China warns bankers not to flood IPO market with ‘low-quality’ companies - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxPUDU4N0lPaHhfQ3BEYmRVNlFacGpaOGVVcVhydTM2a21oa095MXBMX0RCSW1YdG5Jem8wLWQwYkV6aXVUVDlXM2ZEN3JMQ3lxbmRxbzNTMWFYSTBWZC1QbmI0a0VTaWhBMEJQTUFEb0NORDJjb29uVVJvSmhWMU13VjFodU4?oc=5)**
+> <small>Financial Times · 国际 · 08:45 · `可能需订阅`</small>
+> China warns bankers not to flood IPO market with ‘low-quality’ companies Financial Times
 >
 > **2. [China says it will pump $54 billion into banks and insurers — but their stocks still fell](https://www.cnbc.com/2026/09/07/china-state-banks-lenders-insurers-capital-solvency-bankrupt-nim-.html)**
 > <small>CNBC Finance · 国际 · 07:23</small>
 > With a bigger capital cushion, financial institutions may also be asked to do more to mobilize resources in capital markets, analysts say.
 >
-> **3. [TPG Files Confidential IPO Application for Malaysia Hospital Assets Valued at Around $8 Billion - WSJ](https://news.google.com/rss/articles/CBMivwFBVV95cUxNVnhFeUVrZmpWcDRmRUFrS2xNNkYzUnVRbDVGNjFieWhZY2ZCVWNzaHRScWo0WEI3RjVCYUE3NXQ1Z2l5bGxLWjVMdW43WTRPWHlsZmlZcGRSSm1zd0o5N1VoeWxLX3pRZjZVbzRxX01Ua2hraDc4YWxXaWJwdExTejlIVTBnNm5DQ2Vob3V6NUJwRXBiTU5XSDBFWWRGQTNPdHlOUVVmY3pvSlA0N1UyUzV6OWV4TWdmXzd0QXFPVQ?oc=5)**
-> <small>WSJ · 国际 · 02:33 · `可能需订阅`</small>
-> TPG Files Confidential IPO Application for Malaysia Hospital Assets Valued at Around $8 Billion WSJ
->
-> **4. [Anthropic and OpenAI bankers push for top-tier credit ratings post-IPO - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxPd3Z6TmVsNklaVTFJUzRYNkxMQjFoN2ZvSnJjbHlmX0JzTzgwUTRGVUlXR3NPM08wemRmUlItRGlBVzZNSlh0cXBiN1BsRW5LRzYtQUZ2QktPSF9ZQUY5SFRNalJYb0puYmtjQVFiQjZWWkNpQ2hQd1ZBUFRRZDhrdVBhbkk?oc=5)**
-> <small>Financial Times · 国际 · 12:00 · `可能需订阅`</small>
+> **3. [Anthropic and OpenAI bankers push for top-tier credit ratings post-IPO - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxPd3Z6TmVsNklaVTFJUzRYNkxMQjFoN2ZvSnJjbHlmX0JzTzgwUTRGVUlXR3NPM08wemRmUlItRGlBVzZNSlh0cXBiN1BsRW5LRzYtQUZ2QktPSF9ZQUY5SFRNalJYb0puYmtjQVFiQjZWWkNpQ2hQd1ZBUFRRZDhrdVBhbkk?oc=5)**
+> <small>Financial Times · 国际 · 13:34 · `可能需订阅`</small>
 > Anthropic and OpenAI bankers push for top-tier credit ratings post-IPO Financial Times
 >
-> **5. [India’s National Stock Exchange to list after finally clearing IPO hurdles - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNczVIdjlDWTZabFZ4RlNINzhkVTR2WjB0Wmx5ak5FMnoxMGl1SnBuZ0R0a0tENTRFcngya1FHbnE3RlVZZTV3TW02T2dQbUp4NHNaMFQtTjRvWHJkUkhqOWFSeWRhZjFPZXNud0lHekY0Y0F5LUtMMGxhUjJwbVFWNmFib0g?oc=5)**
-> <small>Financial Times · 国际 · 09:30 · `可能需订阅`</small>
-> India’s National Stock Exchange to list after finally clearing IPO hurdles Financial Times
->
-> **6. [The Bond Markets Are Pushing Up Rates. Will Central Banks Follow?](https://www.nytimes.com/2026/09/04/business/bond-yields-rates-central-banks.html)**
-> <small>NYTimes Business · 国际 · 17:03 · `可能需订阅`</small>
-> Around the world, rising bond yields reflect shifting expectations on how fast policymakers will raise interest rates.
->
-> **7. [连板股追踪丨A股今日共75只个股涨停 这只农业股4连板 - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTE96aFpEOWh0b0pYeG00VTRZVmRSQkt0VmZQUWNhakpyWUR3Q21Ja1JNUnU2MEhkWnVWZFdJVTJCeEdmdGxaZEplWG5DUWEzQzV1NFN3?oc=5)**
+> **4. [连板股追踪丨A股今日共75只个股涨停 这只农业股4连板 - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTE96aFpEOWh0b0pYeG00VTRZVmRSQkt0VmZQUWNhakpyWUR3Q21Ja1JNUnU2MEhkWnVWZFdJVTJCeEdmdGxaZEplWG5DUWEzQzV1NFN3?oc=5)**
 > <small>第一财经 · 国内 · 16:05</small>
 > 连板股追踪丨A股今日共75只个股涨停 这只农业股4连板 第一财经
 >
-> **8. [港股应用软件股走低 - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTFAtUjZ5cWt0dlQtUE5EemUyZnhORkR3bmFQOU1tT1JzWkNVQk90dFRmOU85VGZMOC1RTVh4YUZlSEtyRXF6Z3Fqc3FWeUxoYThpdWJj?oc=5)**
+> **5. [港股应用软件股走低 - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTFAtUjZ5cWt0dlQtUE5EemUyZnhORkR3bmFQOU1tT1JzWkNVQk90dFRmOU85VGZMOC1RTVh4YUZlSEtyRXF6Z3Fqc3FWeUxoYThpdWJj?oc=5)**
 > <small>第一财经 · 国内 · 14:22</small>
 > 港股应用软件股走低 第一财经
+>
+> **6. [Bitcoin heads for third winning week in a row as macro pressures mount](https://www.cnbc.com/2026/09/04/bitcoin-heads-for-third-winning-week-in-a-row-as-macro-pressures-mount.html)**
+> <small>CNBC Finance · 国际 · 22:36</small>
+> Bitcoin headed for its third straight winning week, as traders searched for refuge amid volatile moves in equities, currencies and bond markets.
+>
+> **7. [Bond Market Rebuffs Treasury’s $6 Billion Plan to Reduce Borrowing Costs](https://www.nytimes.com/2026/09/09/business/economy/treasury-repurchase-bessent.html)**
+> <small>NYTimes Business · 国际 · 05:38 · `可能需订阅`</small>
+> The 10-year yield rose to its highest level in three years, suggesting investors were underwhelmed by the details of a move to buy back government bonds.
+>
+> **8. [进入AGI时代：新一轮的AI革命 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBwV2c1Vkp2RThIWWE1ekdkUXBwWDdnbkRITy0zcHVoYllqR0JzaWpxaEYyRU9fY2E3ODFLMUxaUjR3WTZFQlFYdU0tb24tOGgwblJqU1V6cnU3T0JWb3FLV1Z3?oc=5)**
+> <small>财新 · 国内 · 12:29</small>
+> 进入AGI时代：新一轮的AI革命 财新
 >
 > **9. [财经早知道｜一线房租领涨，租房市场风向生变 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9VUnNGMmlnV3pJbXRjazdrZmtBakZzd3g1TDVhOHBoRExieldCYVA0djNFYV9BaVlKbkVOd0dsMFd3NzdaaTZ4SXhSZlFTaXhuX3Z2LUFNMmxRNVozVTlySmxn?oc=5)**
 > <small>财新 · 国内 · 07:06</small>
 > 财经早知道｜一线房租领涨，租房市场风向生变 财新
 >
-> **10. [财经早知道｜华为时隔六年再次发布高性能芯片 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTFB2b2FLbmFTRGI4TDYwSi14TXdRRWpSeW1lVzYxbndvSDE3V1l6ejgtNWo1WmZwSDdyZXlIMGhJWHRoQnFjOXI4YWlBZ0dob0x1VEd0NWFHd0hBdUpTUkV3bmp3?oc=5)**
-> <small>财新 · 国内 · 06:55</small>
-> 财经早知道｜华为时隔六年再次发布高性能芯片 财新
+> **10. [Why Stocks Are Defying Gravity and What Could Bring Them Down](https://www.nytimes.com/2026/09/08/business/stock-market-interest-rates.html)**
+> <small>NYTimes Business · 国际 · 21:53 · `可能需订阅`</small>
+> Investors are focused on strong corporate earnings and A.I., while looking past the war in Iran. But rising interest rates are an increasing risk to the rally.
 >
 
 > [!example] 科技 / AI
 > 10/10 · 国内 0 / 国际 10
 >
-> **1. [This founder is teaching chips how to recycle (their energy)](https://www.technologyreview.com/2026/09/08/1142079/hannah-earley-computer-chips-recycle-energy/)**
+> **1. [What OpenAI’s latest controversy tells us about the future of math](https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/)**
+> <small>MIT Technology Review · 国际 · 11:10</small>
+> OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most important open problems in mathematics. Under n…
+>
+> **2. [This founder is teaching chips how to recycle (their energy)](https://www.technologyreview.com/2026/09/08/1142079/hannah-earley-computer-chips-recycle-energy/)**
 > <small>MIT Technology Review · 国际 · 18:36</small>
 > Throughout the history of the computer chip, engineers have treated waste heat as an inevitable cost of a calculation. Hannah Earley, however, thinks it’s a design choice. Earley, 31, is cofounder and chief technology officer of Vaire Comp…
 >
-> **2. [This AI entrepreneur is developing agents that can plan ahead for the unexpected](https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/)**
-> <small>MIT Technology Review · 国际 · 18:34</small>
-> Danijar Hafner’s office in San Francisco’s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn’t even have its name on the door. On the day I visit, there’s only one other person there, and little in t…
+> **3. [OpenAI says working with Samsung on next-generation chips, deepening cooperation - BNN Bloomberg](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPY3BMbkJIMGhFb3FwSGhSUkEtdHF4NGZZS256N1VpYU9IM2VFQjd0R3ZYWFU1VV9yUF9hdW92azdWSHZpd20zYzBPMzF2WTFNTmM2UF90NnRlYzZCWEtDbEJpWXBEa2V5SnBmeVJ1MWNkOERwRHhEMTMwWWt0aExRRlhEZWZCc1oxWmhLTmwxd0dNMW9JZnZsemFCZlVZUkwzTUx6QUN3UWdFVGpUVndiVkNnNV9DR1NVR1ZEbGJhMlVSSEc5Z3FhNGhjRVFRejJQRW9pNmxJRlVlRWR4cVNMT1FuUmtZRmc?oc=5)**
+> <small>BNN Bloomberg · 国际 · 20:33 · `可能需订阅`</small>
+> OpenAI says working with Samsung on next-generation chips, deepening cooperation BNN Bloomberg
 >
-> **3. [Drama swirls around OpenAI’s legendary mathematical milestone](https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution)**
-> <small>The Verge · 国际 · 04:53</small>
-> OpenAI says it found a solution to a major math problem that has remained unsolved for around 90 years, as reported earlier by The New York Times and Wired. In a blog post on Tuesday, OpenAI announced that it discovered a solution to the N…
+> **4. [Seattle Times, Newsday sue OpenAI, Microsoft, alleging copyright infringement - Reuters](https://news.google.com/rss/articles/CBMixgFBVV95cUxPOE83d29ldlZFZGYwMXNLVWtXaUpMLS1xWmpDWjIzREhzTUk0cklteXNPX0ZnMlZ5M3JUcktaLUhlbVJGNHNnTTJwMy1DMFRTWWpFRy1VdmwwZVYtLTNTS0Q4WFZlLUgyd3VqSUxZX3VSTDVzeE1xOHhiclJFLVJGUjB6emhPNFVfWHgzbzBKQ0FiQ29wRmNEYkc4MjFIYjVuSW9Gc2VObDMwdjh4c0xiTFZmd3doU2NPV2I0eTJLZ0N3aDl5alE?oc=5)**
+> <small>Reuters · 国际 · 15:00</small>
+> Seattle Times, Newsday sue OpenAI, Microsoft, alleging copyright infringement Reuters
 >
-> **4. [OpenAI Just Claimed a Huge Math Discovery. Some Academics Are Crying Foul - WIRED](https://news.google.com/rss/articles/CBMif0FVX3lxTE94U3JFQWM2Q3owOFhLV2kyalJOYVgwdlJSaDJTSDN4WFV2N1lnU09XRjV0VEVxTk1RZno3eVdMYkFleXZPc21OLS1JanRQb0FDU21wLVVlVmQ1R2pWX2lEU2V5V0JaM3ptX0REQ2VjU21GQlNLQlRMaGE2SS0yRTg?oc=5)**
+> **5. [Qualcomm strikes AI chip deal with Amazon, offers right to buy about $4 billion in stock - Reuters](https://news.google.com/rss/articles/CBMioAFBVV95cUxPZl80VFZ2VnoyVGhIdk1HaHpWdzVuTFZRNWdhdXBaU0JxMy1HY3d0aXV4bHZUNFIxSS1TMWVpVVM0UDZqWFlTY2VuZEFzaW40UzZmZGJ4d1d6emVGOHZ1em1ycUJSOUIxM05DN3NzNlJObXpmYTJaZ2JMOGp1bGNib20yZUZibDJTMjNvSnNvWVRseE5QT3o5OTVMV3NVUHFr?oc=5)**
+> <small>Reuters · 国际 · 03:44</small>
+> Qualcomm strikes AI chip deal with Amazon, offers right to buy about $4 billion in stock Reuters
+>
+> **6. [OpenAI Just Claimed a Huge Math Discovery. Some Academics Are Crying Foul - WIRED](https://news.google.com/rss/articles/CBMif0FVX3lxTE94U3JFQWM2Q3owOFhLV2kyalJOYVgwdlJSaDJTSDN4WFV2N1lnU09XRjV0VEVxTk1RZno3eVdMYkFleXZPc21OLS1JanRQb0FDU21wLVVlVmQ1R2pWX2lEU2V5V0JaM3ptX0REQ2VjU21GQlNLQlRMaGE2SS0yRTg?oc=5)**
 > <small>WIRED · 国际 · 00:42</small>
 > OpenAI Just Claimed a Huge Math Discovery. Some Academics Are Crying Foul WIRED
 >
-> **5. [ChatGPT Sketch turns your bad drawings into detailed AI images](https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch)**
-> <small>The Verge · 国际 · 04:16</small>
-> OpenAI announced ChatGPT Images 2.5 on Tuesday and is adding a new way to tell ChatGPT what you want it to make an image of: by drawing a doodle. With a new feature called Sketch, you can just draw something right inside ChatGPT and then t…
+> **7. [OpenAI’s sly mathematical breakthrough sends a chill through academia](https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes)**
+> <small>The Verge · 国际 · 05:16</small>
+> OpenAI's announcement Tuesday that it has solved one of mathematics' legendary Millennium Prize problems should have been a moment of triumph. The result is both an undeniable achievement and a striking demonstration of just how rapidly AI…
 >
-> **6. [OpenAI fought dirty on career-making math problem, says NYU mathematician](https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/)**
-> <small>TechCrunch · 国际 · 01:32</small>
-> There is a $1 million bounty for the first person providing a solution to the Navier-Stokes existence and smoothness problem.
+> **8. [Superintelligence is coming. Should we let it?](https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/)**
+> <small>TechCrunch · 国际 · 00:05</small>
+> AI companies have been talking about superintelligent AI like it’s inevitable, but recent safety incidents like OpenAI’s Hugging Face breach are demonstrating the potential dangers of deploying AI systems that are more capable than humans.…
 >
-> **7. [Google Cloud races to catch up in the AI deployment wars with Accenture deal](https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/)**
-> <small>TechCrunch · 国际 · 00:20</small>
-> Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks.
->
-> **8. [OpenAI Says It Has Cracked One of Math’s ‘Millennium Problems’](https://www.nytimes.com/2026/09/08/science/openai-proof-millennium-problem.html)**
+> **9. [OpenAI Says It Has Cracked One of Math’s ‘Millennium Problems’](https://www.nytimes.com/2026/09/08/science/openai-proof-millennium-problem.html)**
 > <small>NYTimes Technology · 国际 · 05:02 · `可能需订阅`</small>
 > The company’s announcement is the most dramatic sign yet that artificial intelligence is fundamentally transforming the field of higher mathematics.
 >
-> **9. [How a Blacklisted Chinese Tech Giant Kept Buying America’s Best A.I. Chips](https://www.nytimes.com/2026/09/06/technology/ai-chips-china-blacklist.html)**
+> **10. [How a Blacklisted Chinese Tech Giant Kept Buying America’s Best A.I. Chips](https://www.nytimes.com/2026/09/06/technology/ai-chips-china-blacklist.html)**
 > <small>NYTimes Technology · 国际 · 09:54 · `可能需订阅`</small>
 > Washington imposed sanctions on Inspur because of its work with the Chinese military. But the company’s subsidiary kept shipping Nvidia’s best chips to feed China’s leading A.I. firms.
 >
-> **10. [Why China Is the Bogeyman Data Center Enthusiasts Just Can’t Quit - WIRED](https://news.google.com/rss/articles/CBMikgFBVV95cUxPdFR0NTFvV2JZSk9ucy1jb3N6OU8zdVFQbEhwbmc3VGJWNkZKU1VQNXMtbjRwcFM3RlhpSFhzNTh3SzJVWEFQM1Z0bXBGOUR3Vnp1dVlTYWxSdE9RV05QRVhMM1Q2RnFmTkVLMl9FcWpTRTBRUWp2ZmJPNHhvOTlhRjRERlZtRnFKNXFRMTh4Y3N2UQ?oc=5)**
-> <small>WIRED · 国际 · 18:00</small>
-> Why China Is the Bogeyman Data Center Enthusiasts Just Can’t Quit WIRED
->
 
 > [!tip] 私募股权 / 投资市场
-> 10/10 · 国内 2 / 国际 8
+> 10/10 · 国内 3 / 国际 7
 >
 > **1. [Side Letter: IMCO’s next steps](https://www.privateequityinternational.com/side-letter-imcos-next-steps/)**
 > <small>Private Equity International · 国际 · 20:04</small>
@@ -108,37 +108,37 @@
 > <small>Buyouts · 国际 · 14:00</small>
 > Inside: The total portfolio approach – the strategy inspiring debate among LPs; Our ranking of the biggest North American LPs by allocation; Francisco Partners’ DJ Deb on market angst; Truth and consequences in AI for private equity; And m…
 >
-> **4. [Oregon to cut private equity target](https://www.buyoutsinsider.com/oregon-to-cut-pe-target/)**
+> **4. [Iron Path Capital’s VION Biosciences closes acquisition of Prolytix](https://www.pehub.com/iron-path-capitals-vion-biosciences-closes-acquisition-of-prolytix/)**
+> <small>PE Hub · 国际 · 02:16</small>
+> Prolytix provides regulated bioanalytical and CMC services, research reagents, and custom sample collection products to biopharma and diagnostics customers. The post Iron Path Capital’s VION Biosciences closes acquisition of Prolytix appea…
+>
+> **5. [Great Point Partners exits MLM Medical Labs to Labcorp](https://www.pehub.com/great-point-partners-exits-mlm-medical-labs-to-labcorp/)**
+> <small>PE Hub · 国际 · 23:50</small>
+> MLM Medical Labs is a central and specialty lab services provider supporting clinical trials, biomarker testing, and drug development for life sciences and biopharma companies. The post Great Point Partners exits MLM Medical Labs to Labcor…
+>
+> **6. [Oregon to cut private equity target](https://www.buyoutsinsider.com/oregon-to-cut-pe-target/)**
 > <small>Buyouts · 国际 · 05:21</small>
 > The pension fund plans to increase its private credit allocation at the expense of its overweight private equity assets.
 >
-> **5. [HIG Capital’s Homewerks completes fourth add-on acquisition of GTR Technologies](https://www.pehub.com/hig-capitals-homewerks-completes-fourth-add-on-acquisition-of-gtr-technologies/)**
-> <small>PE Hub · 国际 · 01:52</small>
-> GTR Technologies, headquartered in the Seattle metro area, supplies ventilation fans, technology switches and access panels to the home improvement sector. The post HIG Capital’s Homewerks completes fourth add-on acquisition of GTR Technol…
->
-> **6. [Fort Point-backed NewBold completes buyout of retail tech firm Spencer Technologies](https://www.pehub.com/fort-point-backed-newbold-completes-buyout-of-retail-tech-firm-spencer-technologies/)**
-> <small>PE Hub · 国际 · 23:57</small>
-> NewBold Technologies is a technology managed services provider. The post Fort Point-backed NewBold completes buyout of retail tech firm Spencer Technologies appeared first on PE Hub .
->
 > **7. [‘Apollo premium’ drives up debt costs for private equity giant’s portfolio companies - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxPRlFJU2tNM1BZLUlaci00Mi16cFRWU1JjcFNaaHNRMnJ3R2ZORkJPZVl4TDU1ZkNpRjd4M09mYlVwdUZPaEFEajBjYnIzRVBzRzdfSVFvdlFzRE5sVUU2UUhURWdHRm83SnB5Yk5LTkRIdkFwNTR4NXB4SjBhX3FaeExpOV8?oc=5)**
-> <small>Financial Times · 国际 · 12:00 · `可能需订阅`</small>
+> <small>Financial Times · 国际 · 18:20 · `可能需订阅`</small>
 > ‘Apollo premium’ drives up debt costs for private equity giant’s portfolio companies Financial Times
 >
-> **8. [Australia's Ingenia rejects Warburg Pincus' $1.4 billion offer, sticks with Peet acquisition - Reuters](https://news.google.com/rss/articles/CBMivAFBVV95cUxPNWg1LTRBdXZPaDVxQ3plT3BDY3ZjMWRGc21pdXZ6a2ZuUlVHTEtmM2dqR2xyb3FINnFjQTZubVVSclROZFdDVTYtVWhhZDF5ZkFNTmRQY1F6UzF1b2RqWFk5OVdFZGl3c0tIOVV1dnNNckxxTW1PSjd3MjhEZ2kxUTJrTWQ4amJ2RTVzNXJMdm9RT0pKWFAzUXl0dG92NTltRDhqaFFfd2g1eXJsUHVIOEZxUlBBTTN0c2pHTQ?oc=5)**
-> <small>Reuters · 国际 · 07:37</small>
-> Australia's Ingenia rejects Warburg Pincus' $1.4 billion offer, sticks with Peet acquisition Reuters
->
-> **9. [投资界24h | 知乎做LP，出资曹曦；新华传媒：拟收购界面财联社；首期120亿，博枫设立中国新基金 - 投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTE56ZTExUmZSX2pJWnJjTEtwVzZRS1pHMFQ5Z3IyeV9oejFnRVEzSnNxTlYyUlBiODlSRENTM2p0UG5XYXJoZElYZEd5QVJmLTFuQVM2Vzh3?oc=5)**
-> <small>投资界 · 国内 · 08:41</small>
-> 投资界24h | 知乎做LP，出资曹曦；新华传媒：拟收购界面财联社；首期120亿，博枫设立中国新基金 投资界
->
-> **10. [首发| 泉智博完成数亿元B轮融资，机器人关节开始爆发 - 投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTE94TmZzbzloVHRvV3BYSGhYLWZPUFAwQ2xPS3JoRjB4WjlKUTNhY2pTZ3JXX0d5U0tkYzNtTng2aFZPMWYxaWpFaUxpd096LVFybnk0cTJR?oc=5)**
+> **8. [首发| 泉智博完成数亿元B轮融资，机器人关节开始爆发 - 投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTE94TmZzbzloVHRvV3BYSGhYLWZPUFAwQ2xPS3JoRjB4WjlKUTNhY2pTZ3JXX0d5U0tkYzNtTng2aFZPMWYxaWpFaUxpd096LVFybnk0cTJR?oc=5)**
 > <small>投资界 · 国内 · 09:20</small>
 > 首发| 泉智博完成数亿元B轮融资，机器人关节开始爆发 投资界
 >
+> **9. [智星空间完成新一轮战略融资，专注SAR卫星研发与运营 - 投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ESGFkUDY1ZjY1UU14Q3hIRU9xVFQwVEpHME5tazhudXY3QTdvanE1T1lORXJmMWZCNlZSX3htOWxnVkFDOEFBcEhBV1NJWWM4Sm15aGJB?oc=5)**
+> <small>投资界 · 国内 · 14:03</small>
+> 智星空间完成新一轮战略融资，专注SAR卫星研发与运营 投资界
+>
+> **10. [融资丨深空矩阵完成亿元级新一轮融资，鼎晖VGC、麟阁创投联合领投 - 创业邦](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9xMGFSeXF4YmkwVXhVZFB4U0dFdTRldVpqcm5peDFYd2VrWnY3UWVkZmxQSE1rNzVXY045Y1RpUFZMX2ktdWpYTTA0dUQyZXhC?oc=5)**
+> <small>创业邦 · 国内 · 10:59</small>
+> 融资丨深空矩阵完成亿元级新一轮融资，鼎晖VGC、麟阁创投联合领投 创业邦
+>
 
 > [!warning] 抓取失败但不影响成稿的来源
-> 36氪 (ParseError)、AltAssets (TimeoutError)
+> 36氪 (ParseError)
 
 #daily-news
 <!-- daily-news-digest:end -->
