@@ -12,41 +12,41 @@
 > <small>财新 · 国内 · 10:28</small>
 > 眼科公司涉嫌被人操纵IPO 香港证监会勒令停牌 财新
 >
-> **2. [China warns bankers not to flood IPO market with ‘low-quality’ companies - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxPUDU4N0lPaHhfQ3BEYmRVNlFacGpaOGVVcVhydTM2a21oa095MXBMX0RCSW1YdG5Jem8wLWQwYkV6aXVUVDlXM2ZEN3JMQ3lxbmRxbzNTMWFYSTBWZC1QbmI0a0VTaWhBMEJQTUFEb0NORDJjb29uVVJvSmhWMU13VjFodU4?oc=5)**
-> <small>Financial Times · 国际 · 08:49 · `可能需订阅`</small>
-> China warns bankers not to flood IPO market with ‘low-quality’ companies Financial Times
->
-> **3. [China says it will pump $54 billion into banks and insurers — but their stocks still fell](https://www.cnbc.com/2026/09/07/china-state-banks-lenders-insurers-capital-solvency-bankrupt-nim-.html)**
+> **2. [China says it will pump $54 billion into banks and insurers — but their stocks still fell](https://www.cnbc.com/2026/09/07/china-state-banks-lenders-insurers-capital-solvency-bankrupt-nim-.html)**
 > <small>CNBC Finance · 国际 · 07:23</small>
 > With a bigger capital cushion, financial institutions may also be asked to do more to mobilize resources in capital markets, analysts say.
 >
-> **4. [Elevated Inflation Keeps Pressure on Fed to Raise Rates](https://www.nytimes.com/2026/09/11/business/economy/inflation-cpi-august.html)**
+> **3. [Elevated Inflation Keeps Pressure on Fed to Raise Rates](https://www.nytimes.com/2026/09/11/business/economy/inflation-cpi-august.html)**
 > <small>NYTimes Business · 国际 · 09:25 · `可能需订阅`</small>
 > The odds of a quarter-point rate increase at the Federal Reserve’s meeting next week surged to 90 percent after August’s Consumer Price Index report.
 >
-> **5. [OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services](https://www.cnbc.com/2026/09/10/openai-chatgpt-for-financial-services-targets-work-of-junior-bankers.html)**
+> **4. [OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services](https://www.cnbc.com/2026/09/10/openai-chatgpt-for-financial-services-targets-work-of-junior-bankers.html)**
 > <small>CNBC Finance · 国际 · 00:06</small>
 > OpenAI launched ChatGPT for Financial Services, targeting the labor-intensive research, modeling and pitchbook tasks traditionally handled by junior bankers.
 >
-> **6. [Oil Prices Surge as Stocks and Bonds Wobble](https://www.nytimes.com/2026/09/10/business/oil-middle-east-iran-war.html)**
+> **5. [Oil Prices Surge as Stocks and Bonds Wobble](https://www.nytimes.com/2026/09/10/business/oil-middle-east-iran-war.html)**
 > <small>NYTimes Business · 国际 · 21:18 · `可能需订阅`</small>
 > Crude oil hit its highest levels in months, bond yields continued to rise and stocks fell for a fourth consecutive session as investors worried about energy supplies and inflation.
 >
-> **7. [央行陆磊：境外主体持有境内人民币金融资产已超11万亿元 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBkTG1RZXpGcHFEbHVMX3RWamhXNXZsRlIya3N1b2NsUmlNRlNFZW9QT0VNVXI0VUZocjhTV0NSZDJKNXlpSGZBWXRlMThCdzJtZU5nN2t2cWw3VktUOUUtdTFn?oc=5)**
+> **6. [央行陆磊：境外主体持有境内人民币金融资产已超11万亿元 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBkTG1RZXpGcHFEbHVMX3RWamhXNXZsRlIya3N1b2NsUmlNRlNFZW9QT0VNVXI0VUZocjhTV0NSZDJKNXlpSGZBWXRlMThCdzJtZU5nN2t2cWw3VktUOUUtdTFn?oc=5)**
 > <small>财新 · 国内 · 19:20</small>
 > 央行陆磊：境外主体持有境内人民币金融资产已超11万亿元 财新
 >
-> **8. [The Many Signs of Madness in Markets - Bloomberg.com](https://news.google.com/rss/articles/CBMilAFBVV95cUxPeUo0S2JJQnJDSWNxczVFYVFwajFvc19ZZGR2NTVzUTRtSy1kSnFsdHUxMkNJb1pTRW5ocU1GTUxpSU02MDZsMGFKR0hrWGVoMElRQlhKR0ZzcEJGYTFGNkE2NGNZZnQ4Tzl1R0tzSzFkTnVkeDY0LVNMMFhwb2wtWkZnT2hsbDlmRnNXdVYtX2dMR3dq?oc=5)**
+> **7. [The Many Signs of Madness in Markets - Bloomberg.com](https://news.google.com/rss/articles/CBMilAFBVV95cUxPeUo0S2JJQnJDSWNxczVFYVFwajFvc19ZZGR2NTVzUTRtSy1kSnFsdHUxMkNJb1pTRW5ocU1GTUxpSU02MDZsMGFKR0hrWGVoMElRQlhKR0ZzcEJGYTFGNkE2NGNZZnQ4Tzl1R0tzSzFkTnVkeDY0LVNMMFhwb2wtWkZnT2hsbDlmRnNXdVYtX2dMR3dq?oc=5)**
 > <small>Bloomberg.com · 国际 · 21:00 · `可能需订阅`</small>
 > The Many Signs of Madness in Markets Bloomberg.com
 >
-> **9. [逆市爆发！A股这一板块，涨停潮！ - 证券时报](https://news.google.com/rss/articles/CBMiV0FVX3lxTE05Y0lOVTgxNTZwQmh1MTdfYzJrOERzYTdJNWtTZmRLNUZxdGpmUjllMUVMSlZGVUxVZXd5LXF0WVFudE5QSnJuZDVoM0pXWnhUZmJwYjB0WQ?oc=5)**
+> **8. [逆市爆发！A股这一板块，涨停潮！ - 证券时报](https://news.google.com/rss/articles/CBMiV0FVX3lxTE05Y0lOVTgxNTZwQmh1MTdfYzJrOERzYTdJNWtTZmRLNUZxdGpmUjllMUVMSlZGVUxVZXd5LXF0WVFudE5QSnJuZDVoM0pXWnhUZmJwYjB0WQ?oc=5)**
 > <small>证券时报 · 国内 · 17:13</small>
 > 逆市爆发！A股这一板块，涨停潮！ 证券时报
 >
-> **10. [群核科技上市首日飙涨170%后回落 业内：AI概念关联度不高 市场打新氛围浓厚︱港股直通车 - 第一财经](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9wTnI5YzlhRktoY1J6WVFwSmVQVHZrNmk0U3c4VnQ1WUg5QUtsSkNCYTJlLTFqMkIxVXQwa1ByTXpscDhRbTctV3Ficnk5V3Zwak5LaA?oc=5)**
-> <small>第一财经 · 国内 · 23:27</small>
-> 群核科技上市首日飙涨170%后回落 业内：AI概念关联度不高 市场打新氛围浓厚︱港股直通车 第一财经
+> **9. [Bond markets stabilise after global sell-off - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNTnRneHpWaVQzQ1BNaGdWTjNfT2hqT1NfdG5BQ2hxUVp5VVByUnpmT0VBbno0N0x0cmdlZFVVSVI4VWQ0aTBMMzVXcTR1a3NwV3UtSmx4VTY5MjRBUTV5NE5XM2w4TXBtSVZHaGZycU1WOTNIQ1JjY0kzaHplTlZzQ3BpcGM?oc=5)**
+> <small>Financial Times · 国际 · 12:07 · `可能需订阅`</small>
+> Bond markets stabilise after global sell-off Financial Times
+>
+> **10. [财新观察｜财政注资是金融稳定与发展的一步先手棋 - 财新周刊](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9PdGZvakVIR0gzX08zTG5TRlB6Z3RrWEdXYUpDMEY5Sm9hVlIxN3h0Z1RtVXk1SXA5OUpnZUFIM25xOTdpeGstampMZHZPSGRTeGI4NXVNNXV5SExMaTdMXw?oc=5)**
+> <small>财新周刊 · 国内 · 20:09 · `可能需订阅`</small>
+> 财新观察｜财政注资是金融稳定与发展的一步先手棋 财新周刊
 >
 
 > [!example] 科技 / AI
@@ -56,41 +56,41 @@
 > <small>MIT Technology Review · 国际 · 19:00</small>
 > On July 22, 2026, a transmission line fault in Ashburn, Virginia—the heart of the world’s largest data center cluster—knocked more than 3 gigawatts of load off the grid in seconds. And it wasn’t the first time. Two years earlier, a single…
 >
-> **2. [Roundtables: AI’s apocalypse crisis](https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/)**
+> **2. [Roundtables: Could AI really kill us all?](https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/)**
 > <small>MIT Technology Review · 国际 · 04:05</small>
 > Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive editor Niall Firth for a…
 >
-> **3. [Lawyer fined $5K over AI-hallucinated witnesses in a murder case](https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal)**
-> <small>The Verge · 国际 · 04:44</small>
-> New Mexico's Supreme Court is punishing a lawyer for including AI-fabricated witnesses and fake police testimony in an appeal for his client's murder conviction, according to a report from Reuters. In a filing on Wednesday, the court fined…
+> **3. [Anthropic称中国大模型泄露中国用户数据给其模型用于“蒸馏”训练 - 财新](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBEYThZaEdZZnpIQUVhVXdxeXhxdERjNlg0R1hpTG81aTl3OXhPcE8zMW5jbWZVTVRYOE1rekJ6SXZUTTEwbkd5Vkc3NnVHQ1EycDhkYjlQZDJIZXFzWk5LWjBUb28?oc=5)**
+> <small>财新 · 国内 · 08:06</small>
+> Anthropic称中国大模型泄露中国用户数据给其模型用于“蒸馏”训练 财新
 >
-> **4. [Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO](https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/)**
+> **4. [EXCLUSIVE: UAE revises AI data center plan after Iranian attacks, sources say - Reuters](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaXdNOTVXY3kwZHluN2wtdk16OHYyYjR6aWxCZ3RFaDNveWtIMTZ3dzFwZExPZmpOX1YxbTJMdmdEeVZabF9NTjV3ei1KSWJXR2NKR2lnbWZjczZyQlBEU0x6c0dnWFplWFVteEJoQ0JTMGpFdnZqd2hXR2JpSF9ILU9WM2tGUTAtQWxuQnl4LXhZQWRnZXNEdFZlUFBDbXhxLTJVUVoyRkwtQm1KS3R5M05uaktvT0dWVzhV?oc=5)**
+> <small>Reuters · 国际 · 17:49</small>
+> EXCLUSIVE: UAE revises AI data center plan after Iranian attacks, sources say Reuters
+>
+> **5. [Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’](https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised)**
+> <small>The Verge · 国际 · 05:16</small>
+> OpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an interview with Fortune. Over the course of 45 minutes, Altman discussed a variety of subjects including the Hugging Face hacking incident, recursive self-i…
+>
+> **6. [OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026](https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/)**
+> <small>TechCrunch · 国际 · 04:19</small>
+> While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.
+>
+> **7. [Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO](https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/)**
 > <small>TechCrunch · 国际 · 00:46</small>
 > The No. 2 exec at OpenAI also led Instacart through its IPO in 2023.
 >
-> **5. [从“DeepSeek时刻”到硬科技集体IPO：高盛解码中国AI投资新机遇 - 第一财经](https://news.google.com/rss/articles/CBMiVEFVX3lxTE81cDVFOHdrX214TDVpaUNYSGFiZUlFX0lzRDFmdjV0d0F6QUpMcnVJVWNMQjRjbXA2UFJLaUwwNDFEZ2lKT2I1SWJ6SUJhZHhaNUNBSg?oc=5)**
-> <small>第一财经 · 国内 · 21:24</small>
-> 从“DeepSeek时刻”到硬科技集体IPO：高盛解码中国AI投资新机遇 第一财经
+> **8. [OpenAI’s rogue AI tried to hack another company in May](https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack)**
+> <small>The Verge · 国际 · 05:41</small>
+> In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were responsible for the attack. Not only that, but t…
 >
-> **6. [OpenAI’s feud with mathematicians is only escalating](https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/)**
-> <small>TechCrunch · 国际 · 04:57</small>
-> Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.
->
-> **7. [Anthropic discloses fourth AI hacking incident missed in earlier review - Reuters](https://news.google.com/rss/articles/CBMixAFBVV95cUxOaU1ZZ0ZRWnBaSnRlakoxVTU1SE9aZTEySkNZU2N2eU5XWG9remJKT29feUVoNlhhQVpfWnNFd1NKZ0xnb3lobTExTXE5dXZud0tCbGVLMzR4Y0NFRkRRUUlnWUllbjVTcXBWeHJzMDJVamFBQjJveC1PNThKSGUzNlRfUlVEVkJPbHhtendZdXdsSmdva0RvT3NidFdSb3BWSmd6R1lFb1NxYXdjR0xKeVVnZWY4c3JlbHlycFhkcXlmQ1Jv?oc=5)**
-> <small>Reuters · 国际 · 03:40</small>
+> **9. [Anthropic discloses fourth AI hacking incident missed in earlier review - Reuters](https://news.google.com/rss/articles/CBMixAFBVV95cUxOaU1ZZ0ZRWnBaSnRlakoxVTU1SE9aZTEySkNZU2N2eU5XWG9remJKT29feUVoNlhhQVpfWnNFd1NKZ0xnb3lobTExTXE5dXZud0tCbGVLMzR4Y0NFRkRRUUlnWUllbjVTcXBWeHJzMDJVamFBQjJveC1PNThKSGUzNlRfUlVEVkJPbHhtendZdXdsSmdva0RvT3NidFdSb3BWSmd6R1lFb1NxYXdjR0xKeVVnZWY4c3JlbHlycFhkcXlmQ1Jv?oc=5)**
+> <small>Reuters · 国际 · 13:50</small>
 > Anthropic discloses fourth AI hacking incident missed in earlier review Reuters
 >
-> **8. [How a Blacklisted Chinese Tech Giant Kept Buying America’s Best A.I. Chips](https://www.nytimes.com/2026/09/06/technology/ai-chips-china-blacklist.html)**
-> <small>NYTimes Technology · 国际 · 09:54 · `可能需订阅`</small>
-> Washington imposed sanctions on Inspur because of its work with the Chinese military. But the company’s subsidiary kept shipping Nvidia’s best chips to feed China’s leading A.I. firms.
->
-> **9. [Anthropic spent this week in hot water over cybersecurity](https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity)**
-> <small>The Verge · 国际 · 00:55</small>
-> After admitting earlier this year that its AI models had hacked other companies' systems on a handful of occasions, Anthropic released a new report on Wednesday detailing the attacks. It reveals a string of incidents displaying what Anthro…
->
-> **10. [Anthropic Researchers Raise Alarm Over A.I. Acceleration, Warning of Threat to Humanity](https://www.nytimes.com/2026/09/09/technology/anthropic-researchers-raise-alarm.html)**
-> <small>NYTimes Technology · 国际 · 08:12 · `可能需订阅`</small>
-> Their warnings echo concerns that other artificial intelligence experts have voiced in recent months, as calls increase for a slowdown in the pace of development.
+> **10. [Inside the Discussions at AI Companies Over a Superintelligence Doomsday](https://www.nytimes.com/2026/09/12/technology/doomsday-discussions-ai-companies.html)**
+> <small>NYTimes Technology · 国际 · 06:57 · `可能需订阅`</small>
+> Researchers at Anthropic, OpenAI, Meta and Google are increasingly trying to raise awareness about the risks of artificial intelligence.
 >
 
 > [!tip] 私募股权 / 投资市场
@@ -124,17 +124,17 @@
 > <small>财新 · 国内 · 17:11</small>
 > 证监会李超：将A股打造为境内优质企业上市首选地 财新
 >
-> **8. [群核科技上市首日飙涨170%后回落 业内：AI概念关联度不高 市场打新氛围浓厚︱港股直通车 - 第一财经](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9wTnI5YzlhRktoY1J6WVFwSmVQVHZrNmk0U3c4VnQ1WUg5QUtsSkNCYTJlLTFqMkIxVXQwa1ByTXpscDhRbTctV3Ficnk5V3Zwak5LaA?oc=5)**
-> <small>第一财经 · 国内 · 23:27</small>
-> 群核科技上市首日飙涨170%后回落 业内：AI概念关联度不高 市场打新氛围浓厚︱港股直通车 第一财经
->
-> **9. [前八月A股IPO募资额远超去年全年 硬科技引领市场结构性升级 - 证券时报](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BZ0pmX3dndXRza1FUd1JqOUNaekJHR2VJcGRIY0E1YWR6OUdoaUJycG5pUnJWMjJWVjhlTXpfaDJxTVhzMUQ2NnZPa09NNkxfZnZXRldFMzluNHhY?oc=5)**
+> **8. [前八月A股IPO募资额远超去年全年 硬科技引领市场结构性升级 - 证券时报](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BZ0pmX3dndXRza1FUd1JqOUNaekJHR2VJcGRIY0E1YWR6OUdoaUJycG5pUnJWMjJWVjhlTXpfaDJxTVhzMUQ2NnZPa09NNkxfZnZXRldFMzluNHhY?oc=5)**
 > <small>证券时报 · 国内 · 06:57</small>
 > 前八月A股IPO募资额远超去年全年 硬科技引领市场结构性升级 证券时报
 >
-> **10. [融资丨天机智能完成10亿元融资，高瓴、美团联合领投 - 创业邦](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1rTmRrWHYybkx2OVA1X2sxOWlBamNMVGg3R0QybnVQRi1MbXdLemhlSkg5akFhQVFjZmp2dWNqY0lRVjdoSlFUdjNsNHkyS0Zq?oc=5)**
-> <small>创业邦 · 国内 · 15:00</small>
-> 融资丨天机智能完成10亿元融资，高瓴、美团联合领投 创业邦
+> **9. [深空矩阵完成亿元级天使轮融资，鼎晖VGC、麟阁创投联合领投 - 投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTFAyVWNwS01SV0FkUlR4Y2tQM1VTakFzU1RaRXplR01GVjFHZ1FrVGg5Szd1bUtyYkYzMTM4MEhiUjFHVVc3cGV5R3ItNktXYUpzWGFsWk1B?oc=5)**
+> <small>投资界 · 国内 · 09:59</small>
+> 深空矩阵完成亿元级天使轮融资，鼎晖VGC、麟阁创投联合领投 投资界
+>
+> **10. [紫微科技完成新一轮数亿元融资，专注于商业飞船 - 投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1GT1NHQURicXNVVmNJXzBxckRSZDhESGdBaDk0MXNjYk5oUURNNVljMTVFekJZOFp1MWlkaTM1Q2dTZ0phcVlwNWxjbmdTd1p0QVFyZlNn?oc=5)**
+> <small>投资界 · 国内 · 09:00</small>
+> 紫微科技完成新一轮数亿元融资，专注于商业飞船 投资界
 >
 
 > [!warning] 抓取失败但不影响成稿的来源
