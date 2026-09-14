@@ -8,17 +8,17 @@
 > [!quote] 财经 / 金融
 > 10/10 · 国内 4 / 国际 6
 >
-> **1. [眼科公司涉嫌被人操纵IPO 香港证监会勒令停牌 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9falV1ZF9QZGx2UWt4cVh3UWM3TEpZNnNuWF93WUI4Ty1Pdm8zNmk5Q05FbjhJWmhSRGtoVnFVenRNNUJyY0ZjT2p4V0NjT3lWeWZrRFZBaTI4M2c1Nlo5cXB3?oc=5)**
-> <small>财新 · 国内 · 10:28</small>
-> 眼科公司涉嫌被人操纵IPO 香港证监会勒令停牌 财新
->
-> **2. [China says it will pump $54 billion into banks and insurers — but their stocks still fell](https://www.cnbc.com/2026/09/07/china-state-banks-lenders-insurers-capital-solvency-bankrupt-nim-.html)**
+> **1. [China says it will pump $54 billion into banks and insurers — but their stocks still fell](https://www.cnbc.com/2026/09/07/china-state-banks-lenders-insurers-capital-solvency-bankrupt-nim-.html)**
 > <small>CNBC Finance · 国际 · 07:23</small>
 > With a bigger capital cushion, financial institutions may also be asked to do more to mobilize resources in capital markets, analysts say.
 >
-> **3. [Elevated Inflation Keeps Pressure on Fed to Raise Rates](https://www.nytimes.com/2026/09/11/business/economy/inflation-cpi-august.html)**
+> **2. [Elevated Inflation Keeps Pressure on Fed to Raise Rates](https://www.nytimes.com/2026/09/11/business/economy/inflation-cpi-august.html)**
 > <small>NYTimes Business · 国际 · 09:25 · `可能需订阅`</small>
 > The odds of a quarter-point rate increase at the Federal Reserve’s meeting next week surged to 90 percent after August’s Consumer Price Index report.
+>
+> **3. [通胀压力压倒增长担忧，欧洲央行近三年来首次加息 - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1zMTJNOGVCemd3ZnhBazZHeHNxeFVWU0VBdTZ4UGE1anYzRVBuUEh1Q3dVVkpkVC1jaHZjUkw5TTBMaHpUTkE4SHFEbE1aQlhBS05V?oc=5)**
+> <small>第一财经 · 国内 · 08:05</small>
+> 通胀压力压倒增长担忧，欧洲央行近三年来首次加息 第一财经
 >
 > **4. [OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services](https://www.cnbc.com/2026/09/10/openai-chatgpt-for-financial-services-targets-work-of-junior-bankers.html)**
 > <small>CNBC Finance · 国际 · 00:06</small>
@@ -28,9 +28,9 @@
 > <small>NYTimes Business · 国际 · 21:18 · `可能需订阅`</small>
 > Crude oil hit its highest levels in months, bond yields continued to rise and stocks fell for a fourth consecutive session as investors worried about energy supplies and inflation.
 >
-> **6. [央行陆磊：境外主体持有境内人民币金融资产已超11万亿元 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBkTG1RZXpGcHFEbHVMX3RWamhXNXZsRlIya3N1b2NsUmlNRlNFZW9QT0VNVXI0VUZocjhTV0NSZDJKNXlpSGZBWXRlMThCdzJtZU5nN2t2cWw3VktUOUUtdTFn?oc=5)**
-> <small>财新 · 国内 · 19:20</small>
-> 央行陆磊：境外主体持有境内人民币金融资产已超11万亿元 财新
+> **6. [Bond markets stabilise after global sell-off - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNTnRneHpWaVQzQ1BNaGdWTjNfT2hqT1NfdG5BQ2hxUVp5VVByUnpmT0VBbno0N0x0cmdlZFVVSVI4VWQ0aTBMMzVXcTR1a3NwV3UtSmx4VTY5MjRBUTV5NE5XM2w4TXBtSVZHaGZycU1WOTNIQ1JjY0kzaHplTlZzQ3BpcGM?oc=5)**
+> <small>Financial Times · 国际 · 21:22 · `可能需订阅`</small>
+> Bond markets stabilise after global sell-off Financial Times
 >
 > **7. [The Many Signs of Madness in Markets - Bloomberg.com](https://news.google.com/rss/articles/CBMilAFBVV95cUxPeUo0S2JJQnJDSWNxczVFYVFwajFvc19ZZGR2NTVzUTRtSy1kSnFsdHUxMkNJb1pTRW5ocU1GTUxpSU02MDZsMGFKR0hrWGVoMElRQlhKR0ZzcEJGYTFGNkE2NGNZZnQ4Tzl1R0tzSzFkTnVkeDY0LVNMMFhwb2wtWkZnT2hsbDlmRnNXdVYtX2dMR3dq?oc=5)**
 > <small>Bloomberg.com · 国际 · 21:00 · `可能需订阅`</small>
@@ -40,17 +40,17 @@
 > <small>证券时报 · 国内 · 17:13</small>
 > 逆市爆发！A股这一板块，涨停潮！ 证券时报
 >
-> **9. [Bond markets stabilise after global sell-off - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNTnRneHpWaVQzQ1BNaGdWTjNfT2hqT1NfdG5BQ2hxUVp5VVByUnpmT0VBbno0N0x0cmdlZFVVSVI4VWQ0aTBMMzVXcTR1a3NwV3UtSmx4VTY5MjRBUTV5NE5XM2w4TXBtSVZHaGZycU1WOTNIQ1JjY0kzaHplTlZzQ3BpcGM?oc=5)**
-> <small>Financial Times · 国际 · 12:07 · `可能需订阅`</small>
-> Bond markets stabilise after global sell-off Financial Times
+> **9. [一财主播说 | 暴跌7%两天后涨停！A股科技股用实力证明：好赛道不怕急跌 - 第一财经](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9BeDZFOUR1Vno4T1ZvQW1ObmFTX2xxelNvWmk4U2t5TThPWEhxZzFIcFp4eWlQeHQyeThPMEcwYXhQRTZaejgtZE1GejhMcmlJd21OUw?oc=5)**
+> <small>第一财经 · 国内 · 11:51</small>
+> 一财主播说 | 暴跌7%两天后涨停！A股科技股用实力证明：好赛道不怕急跌 第一财经
 >
-> **10. [财新观察｜财政注资是金融稳定与发展的一步先手棋 - 财新周刊](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9PdGZvakVIR0gzX08zTG5TRlB6Z3RrWEdXYUpDMEY5Sm9hVlIxN3h0Z1RtVXk1SXA5OUpnZUFIM25xOTdpeGstampMZHZPSGRTeGI4NXVNNXV5SExMaTdMXw?oc=5)**
-> <small>财新周刊 · 国内 · 20:09 · `可能需订阅`</small>
-> 财新观察｜财政注资是金融稳定与发展的一步先手棋 财新周刊
+> **10. [财经早知道｜国常会最新部署，事关算力网建设 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBGMnZOTExFWHppVHc3SEdSUndIMGVrNTE4anAyTUt5ZTFnckE2UFdTVmFjOUY5NWN4cFBzcnlkYk1RZUF0SVd5OE8xNklMNGdmN2FXVGc5VUo2X29QS2JHbDdR?oc=5)**
+> <small>财新 · 国内 · 06:51</small>
+> 财经早知道｜国常会最新部署，事关算力网建设 财新
 >
 
 > [!example] 科技 / AI
-> 10/10 · 国内 1 / 国际 9
+> 10/10 · 国内 2 / 国际 8
 >
 > **1. [Powering AI is an architecture problem](https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/)**
 > <small>MIT Technology Review · 国际 · 19:00</small>
@@ -76,25 +76,25 @@
 > <small>TechCrunch · 国际 · 04:19</small>
 > While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.
 >
-> **7. [Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO](https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/)**
-> <small>TechCrunch · 国际 · 00:46</small>
-> The No. 2 exec at OpenAI also led Instacart through its IPO in 2023.
+> **7. [从“DeepSeek时刻”到硬科技集体IPO：高盛解码中国AI投资新机遇 - 第一财经](https://news.google.com/rss/articles/CBMiVEFVX3lxTE81cDVFOHdrX214TDVpaUNYSGFiZUlFX0lzRDFmdjV0d0F6QUpMcnVJVWNMQjRjbXA2UFJLaUwwNDFEZ2lKT2I1SWJ6SUJhZHhaNUNBSg?oc=5)**
+> <small>第一财经 · 国内 · 21:24</small>
+> 从“DeepSeek时刻”到硬科技集体IPO：高盛解码中国AI投资新机遇 第一财经
 >
-> **8. [OpenAI’s rogue AI tried to hack another company in May](https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack)**
-> <small>The Verge · 国际 · 05:41</small>
+> **8. [Insight Partners’ Deven Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic](https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/)**
+> <small>TechCrunch · 国际 · 05:30</small>
+> Insight Partners' Devin Parekh opens up about losing Legora to General Catalyst, why he's fine holding stakes in rival AI labs, and why — even as everyone else piles into OpenAI and Anthropic — his $90 billion firm is deliberately staying…
+>
+> **9. [OpenAI’s rogue AI tried to hack another company in May](https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack)**
+> <small>The Verge · 国际 · 04:54</small>
 > In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were responsible for the attack. Not only that, but t…
 >
-> **9. [Anthropic discloses fourth AI hacking incident missed in earlier review - Reuters](https://news.google.com/rss/articles/CBMixAFBVV95cUxOaU1ZZ0ZRWnBaSnRlakoxVTU1SE9aZTEySkNZU2N2eU5XWG9remJKT29feUVoNlhhQVpfWnNFd1NKZ0xnb3lobTExTXE5dXZud0tCbGVLMzR4Y0NFRkRRUUlnWUllbjVTcXBWeHJzMDJVamFBQjJveC1PNThKSGUzNlRfUlVEVkJPbHhtendZdXdsSmdva0RvT3NidFdSb3BWSmd6R1lFb1NxYXdjR0xKeVVnZWY4c3JlbHlycFhkcXlmQ1Jv?oc=5)**
-> <small>Reuters · 国际 · 13:50</small>
-> Anthropic discloses fourth AI hacking incident missed in earlier review Reuters
->
 > **10. [Inside the Discussions at AI Companies Over a Superintelligence Doomsday](https://www.nytimes.com/2026/09/12/technology/doomsday-discussions-ai-companies.html)**
-> <small>NYTimes Technology · 国际 · 06:57 · `可能需订阅`</small>
+> <small>NYTimes Technology · 国际 · 10:31 · `可能需订阅`</small>
 > Researchers at Anthropic, OpenAI, Meta and Google are increasingly trying to raise awareness about the risks of artificial intelligence.
 >
 
 > [!tip] 私募股权 / 投资市场
-> 10/10 · 国内 4 / 国际 6
+> 10/10 · 国内 3 / 国际 7
 >
 > **1. [Ardian, Sagemount, Eir, Thoma Bravo back life sciences software; 1315 Capital eyes value creation potential in Argonaut’s diagnostics division](https://www.pehub.com/ardian-sagemount-eir-thoma-bravo-back-life-sciences-software-1315-capital-eyes-value-creation-potential-in-argonauts-diagnostics-division/)**
 > <small>PE Hub · 国际 · 21:45</small>
@@ -120,21 +120,21 @@
 > <small>Buyouts · 国际 · 05:21</small>
 > The pension fund plans to increase its private credit allocation at the expense of its overweight private equity assets.
 >
-> **7. [证监会李超：将A股打造为境内优质企业上市首选地 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE0tVmRHNUExbW5OdndPRWJ5NEFzOS1TMWFYT1owSlVJWkJmNTFxUlViRVZSS1N3MERxV2ZoY1lLYW5pck95eHFCNjZRZF9Yd0VoVW1fVVZoWTJ5Y3YwWnIyUEZB?oc=5)**
-> <small>财新 · 国内 · 17:11</small>
-> 证监会李超：将A股打造为境内优质企业上市首选地 财新
+> **7. [Regulatory pressures, AI opportunities draw PE to life sciences software: 8 deals](https://www.pehub.com/regulatory-pressures-ai-opportunities-draw-pe-to-life-sciences-software-8-deals/)**
+> <small>PE Hub · 国际 · 19:00</small>
+> Ardian, Bregal Sagemount, Riverside and Thoma Bravo are among the PE dealmakers targeting investments in the life sciences software market. The post Regulatory pressures, AI opportunities draw PE to life sciences software: 8 deals appeared…
 >
-> **8. [前八月A股IPO募资额远超去年全年 硬科技引领市场结构性升级 - 证券时报](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BZ0pmX3dndXRza1FUd1JqOUNaekJHR2VJcGRIY0E1YWR6OUdoaUJycG5pUnJWMjJWVjhlTXpfaDJxTVhzMUQ2NnZPa09NNkxfZnZXRldFMzluNHhY?oc=5)**
-> <small>证券时报 · 国内 · 06:57</small>
-> 前八月A股IPO募资额远超去年全年 硬科技引领市场结构性升级 证券时报
+> **8. [群核科技上市首日飙涨170%后回落 业内：AI概念关联度不高 市场打新氛围浓厚︱港股直通车 - 第一财经](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9wTnI5YzlhRktoY1J6WVFwSmVQVHZrNmk0U3c4VnQ1WUg5QUtsSkNCYTJlLTFqMkIxVXQwa1ByTXpscDhRbTctV3Ficnk5V3Zwak5LaA?oc=5)**
+> <small>第一财经 · 国内 · 23:27</small>
+> 群核科技上市首日飙涨170%后回落 业内：AI概念关联度不高 市场打新氛围浓厚︱港股直通车 第一财经
 >
-> **9. [深空矩阵完成亿元级天使轮融资，鼎晖VGC、麟阁创投联合领投 - 投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTFAyVWNwS01SV0FkUlR4Y2tQM1VTakFzU1RaRXplR01GVjFHZ1FrVGg5Szd1bUtyYkYzMTM4MEhiUjFHVVc3cGV5R3ItNktXYUpzWGFsWk1B?oc=5)**
+> **9. [真迈生物完成近6亿元D轮融资，加速生命组学技术创新与全球化布局 - 投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RVDFjeG9ISGp1QVd0R045UDludXVNVHZDV0tjT0RwX0VHOTEzODgxek1zTE02LXZyd2VpWW1fa203WWNPUUpaMnBpQkN5YWxuY2x4N0dB?oc=5)**
+> <small>投资界 · 国内 · 11:01</small>
+> 真迈生物完成近6亿元D轮融资，加速生命组学技术创新与全球化布局 投资界
+>
+> **10. [深空矩阵完成亿元级天使轮融资，鼎晖VGC、麟阁创投联合领投 - 投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTFAyVWNwS01SV0FkUlR4Y2tQM1VTakFzU1RaRXplR01GVjFHZ1FrVGg5Szd1bUtyYkYzMTM4MEhiUjFHVVc3cGV5R3ItNktXYUpzWGFsWk1B?oc=5)**
 > <small>投资界 · 国内 · 09:59</small>
 > 深空矩阵完成亿元级天使轮融资，鼎晖VGC、麟阁创投联合领投 投资界
->
-> **10. [紫微科技完成新一轮数亿元融资，专注于商业飞船 - 投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1GT1NHQURicXNVVmNJXzBxckRSZDhESGdBaDk0MXNjYk5oUURNNVljMTVFekJZOFp1MWlkaTM1Q2dTZ0phcVlwNWxjbmdTd1p0QVFyZlNn?oc=5)**
-> <small>投资界 · 国内 · 09:00</small>
-> 紫微科技完成新一轮数亿元融资，专注于商业飞船 投资界
 >
 
 > [!warning] 抓取失败但不影响成稿的来源
