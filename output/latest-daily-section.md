@@ -8,85 +8,85 @@
 > [!quote] 财经 / 金融
 > 10/10 · 国内 4 / 国际 6
 >
-> **1. [Warsh's credibility is on the line this week as Trump policies put pressure on Fed to hike](https://www.cnbc.com/2026/09/14/warshs-credibility-is-on-the-line-this-week-as-trump-policies-put-pressure-on-fed-to-hike.html)**
+> **1. [OpenAI mulls funding round at $1.2 trillion valuation ahead of IPO, FT reports - Reuters](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOc3hqMlQtdi1BT1QzTGs4U1BVXzcxb05pRnpHMjI4RjBFekZBQ2lQSVZRTURaN1h3eGlZN0pCdmY1UzdwQzlNeldrMXh0YTFkZmxsdVBmV211YmdwZWIxTTAya1VpLUdtbGNRZkZZbFBVUklUVnVzd1NZRHpSTkpTZ3pWUGhQMmVzaW1qZDYydE83eTBNb3c4T2duTEw2dWx5WUVjZXVTX1Ixb25LR2ExRHlQTDltNWVrLW5KOExsdjJCaFE?oc=5)**
+> <small>Reuters · 国际 · 06:48</small>
+> OpenAI mulls funding round at $1.2 trillion valuation ahead of IPO, FT reports Reuters
+>
+> **2. [The $1.6bn IPO that could draw millions of Nigerians to the stock market - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxOMHM5djVtejl6bF80S1hkM2pqUzZhOXZzLUFxVnFTMFhEVUQySTFKcXM3VGQ5MHY3bVo0a3g5ZkVoNGVFTFU5ZVhkSUt1WHE3YWZwNWtrOXE3U2hxZlpDQmF0ZklQdUpqMDJ6RElFempnS0RtSzQwcjY5N1NQR3hId01EcUg?oc=5)**
+> <small>Financial Times · 国际 · 12:00 · `可能需订阅`</small>
+> The $1.6bn IPO that could draw millions of Nigerians to the stock market Financial Times
+>
+> **3. [Warsh's credibility is on the line this week as Trump policies put pressure on Fed to hike](https://www.cnbc.com/2026/09/14/warshs-credibility-is-on-the-line-this-week-as-trump-policies-put-pressure-on-fed-to-hike.html)**
 > <small>CNBC Finance · 国际 · 04:49</small>
 > With inflation above target and no visibility on lower oil prices or stability of tariffs, the Fed chairman needs to pass the test that has faced his predecessors
 >
-> **2. [Bond Market Rebukes Bessent by Sending Borrowing Costs Ever Higher](https://www.nytimes.com/2026/09/14/business/bond-market-scott-bessent.html)**
+> **4. [Bond Market Rebukes Bessent by Sending Borrowing Costs Ever Higher](https://www.nytimes.com/2026/09/14/business/bond-market-scott-bessent.html)**
 > <small>NYTimes Business · 国际 · 00:49 · `可能需订阅`</small>
 > The Treasury secretary had dared “Bloomberg terminal bros” to bet against him and they did.
 >
-> **3. [China says it will pump $54 billion into banks and insurers — but their stocks still fell](https://www.cnbc.com/2026/09/07/china-state-banks-lenders-insurers-capital-solvency-bankrupt-nim-.html)**
+> **5. [China says it will pump $54 billion into banks and insurers — but their stocks still fell](https://www.cnbc.com/2026/09/07/china-state-banks-lenders-insurers-capital-solvency-bankrupt-nim-.html)**
 > <small>CNBC Finance · 国际 · 07:23</small>
 > With a bigger capital cushion, financial institutions may also be asked to do more to mobilize resources in capital markets, analysts say.
 >
-> **4. [10-Year Treasury Yield Touches 5%, Highest Level in Years](https://www.nytimes.com/2026/09/14/business/10-year-treasury-yield-5-percent.html)**
+> **6. [10-Year Treasury Yield Touches 5%, Highest Level in Years](https://www.nytimes.com/2026/09/14/business/10-year-treasury-yield-5-percent.html)**
 > <small>NYTimes Business · 国际 · 06:17 · `可能需订阅`</small>
 > One of the world’s most important interest rates hit a level recorded only once since the global financial crisis, as investors rebuffed the Trump administration’s efforts to sway the bond market.
 >
-> **5. [8月新增社融1.66万亿元低于市场预期 债券和股票融资占比过半 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBqMGViUkZBakFNVGZ6U1lsYzQ1XzJ1SlB0el9CY053QjVBOE1mc0xTMUVTSEdvOW9oYnZLd29tVUp3cVJkVXFTa0tXOGxBMHMydGR0Q1VJT0pVdzBUY3NQcGx3?oc=5)**
+> **7. [8月新增社融1.66万亿元低于市场预期 债券和股票融资占比过半 - 财新](https://news.google.com/rss/articles/CBMiZEFVX3lxTE4tRlAtdjh0ZF8tallfekU5bmdkSzdibjZ0ckx4RklZVmlYdXNFRi1qUTZYZEF6ZXFwOHlTOTRkY1E1N3JndWtLVkJiY1lPdDFmeU90cHJ3VnlRdmlOZDBWNVp1Tkc?oc=5)**
 > <small>财新 · 国内 · 19:45</small>
 > 8月新增社融1.66万亿元低于市场预期 债券和股票融资占比过半 财新
 >
-> **6. [Warsh and Trump on collision course as investors expect Fed to raise rates - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxQX1FlNm82dWhzNW1zVWg2YXU4bmtFeTVrcG90cGRXQXBFR3EzamFMOUpPMkpQUk1tM2VBTThrZWpRc0ZQcDljSjg1ZXo3anpHSjBFYlZzS0hGLVpzTUVhSkpPNzRRYWpqeW5DTmU3QnMzRmY5ZHJQS2JKS2pMR0lwT1c1ZEE?oc=5)**
-> <small>Financial Times · 国际 · 12:00 · `可能需订阅`</small>
-> Warsh and Trump on collision course as investors expect Fed to raise rates Financial Times
+> **8. [下周外盘看点丨美联储领衔央行超级周，中东战火如何冲击欧美一季度GDP - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9VN0lkYmJYeDdLNjZ2aXlLSXpYaXBmZG9seVFyNnpISEFpM0dqRVczbEtFeEpQQkVtdWtCdGlDTmpUTGNJM0xESmNwUHNmTTJZN244?oc=5)**
+> <small>第一财经 · 国内 · 15:05</small>
+> 下周外盘看点丨美联储领衔央行超级周，中东战火如何冲击欧美一季度GDP 第一财经
 >
-> **7. [Why Mortgage Bonds Are at Risk if Rates Rise—and if They Fall - WSJ](https://news.google.com/rss/articles/CBMingFBVV95cUxPRVBhZDlSLWhGSGN2bHEyQUpKVWVVQzdEaEZ3RUhaTHNmdG9OSVVybHQ0YXlZckxBMnlJbjlqZkZLNzU4bW9sNXFUdVdmU3Ntdjl5MHdfcmNKVU9FWTkwWmg0NjNpdzhyczdwQm9fR2V1TnhDajlzMlQ0dHVoRUZVZHh0NWhVRHZkV25ZWWI5LUk4eEJLYUljeXhGcG5mUQ?oc=5)**
-> <small>WSJ · 国际 · 17:30 · `可能需订阅`</small>
-> Why Mortgage Bonds Are at Risk if Rates Rise—and if They Fall WSJ
+> **9. [高收益率重塑全球债券市场 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1XNXU2RHdVN1UyWHhhRGZBVC1OWU5QZnlyd2NqVnhOcFRzRmJHV1ktMk8tYVk4aTRkN0RXbjFtSlF4QV9lWGhTVks5R3FIc3hZWFEzc2hLZ1QxRnJSdGZuQkZB?oc=5)**
+> <small>财新 · 国内 · 10:10</small>
+> 高收益率重塑全球债券市场 财新
 >
-> **8. [商米科技首日高开近290% 业内: 市场流动性宽裕新股投资火热偏爱高科技及独特故事︱港股直通车 - 第一财经](https://news.google.com/rss/articles/CBMiVEFVX3lxTFBaNjAwMENLckdmSzNIdVhjcUwwMk9tZmNSTzdmTXpXZUFQd2dTN0hVTjhzTGEtQjU3ajNMRmxzOUZqZW9lZ2czMzFlUGItRHZGR1ZISA?oc=5)**
+> **10. [商米科技首日高开近290% 业内: 市场流动性宽裕新股投资火热偏爱高科技及独特故事︱港股直通车 - 第一财经](https://news.google.com/rss/articles/CBMiVEFVX3lxTFBaNjAwMENLckdmSzNIdVhjcUwwMk9tZmNSTzdmTXpXZUFQd2dTN0hVTjhzTGEtQjU3ajNMRmxzOUZqZW9lZ2czMzFlUGItRHZGR1ZISA?oc=5)**
 > <small>第一财经 · 国内 · 05:27</small>
 > 商米科技首日高开近290% 业内: 市场流动性宽裕新股投资火热偏爱高科技及独特故事︱港股直通车 第一财经
->
-> **9. [财经早知道｜国常会最新部署，事关算力网建设 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBGMnZOTExFWHppVHc3SEdSUndIMGVrNTE4anAyTUt5ZTFnckE2UFdTVmFjOUY5NWN4cFBzcnlkYk1RZUF0SVd5OE8xNklMNGdmN2FXVGc5VUo2X29QS2JHbDdR?oc=5)**
-> <small>财新 · 国内 · 06:51</small>
-> 财经早知道｜国常会最新部署，事关算力网建设 财新
->
-> **10. [iPhone17二手市场涨价明显交易量涨幅突破700% 周末门店日回收量翻倍！顾客：价格合适就直接买了| 一探 - 第一财经](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9FdVdkVldOcVFXX2xCNFdHSTN1MkxFdDNWdGxKZm9OUFZTWEpfZTU4RWZnOEtIWl9YWDd6cnFFZEY3OUZmNEFhV3dpbDRuampmQjcwaw?oc=5)**
-> <small>第一财经 · 国内 · 23:23</small>
-> iPhone17二手市场涨价明显交易量涨幅突破700% 周末门店日回收量翻倍！顾客：价格合适就直接买了| 一探 第一财经
 >
 
 > [!example] 科技 / AI
 > 10/10 · 国内 2 / 国际 8
 >
-> **1. [Hear how AI can engineer nature’s comeback at TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/14/hear-how-ai-can-engineer-natures-comeback-at-techcrunch-disrupt-2026/)**
-> <small>TechCrunch · 国际 · 22:30</small>
-> Not long ago, bringing an extinct species back to life belonged to science fiction. Today, it's the mission of a billion-dollar startup. Join the conversation with one of tech's most unconventional founders. Secure your Disrupt pass today.
+> **1. [AI models need more data about biology, and OpenAI is paying to create it](https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/)**
+> <small>MIT Technology Review · 国际 · 20:00</small>
+> Last year Ruxandra Teslo, a policy analyst who focuses on clinical trials, posted an idea for supercharging medical AI systems: Use data from failed biotech companies. By bidding at their bankruptcy proceedings, she proposed, it might be p…
 >
-> **2. [Powering AI is an architecture problem](https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/)**
-> <small>MIT Technology Review · 国际 · 19:00</small>
-> On July 22, 2026, a transmission line fault in Ashburn, Virginia—the heart of the world’s largest data center cluster—knocked more than 3 gigawatts of load off the grid in seconds. And it wasn’t the first time. Two years earlier, a single…
+> **2. [Roundtables: Could AI really kill us all?](https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/)**
+> <small>MIT Technology Review · 国际 · 01:47</small>
+> Listen to the session or watch below Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Watch a conversation unpa…
 >
-> **3. [The AI industry has taken a doomer turn. What now?](https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/)**
-> <small>MIT Technology Review · 国际 · 01:54</small>
-> This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted an essay calling for a brake on the pace of development of…
+> **3. [财经早知道｜国常会最新部署，事关算力网建设 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBGMnZOTExFWHppVHc3SEdSUndIMGVrNTE4anAyTUt5ZTFnckE2UFdTVmFjOUY5NWN4cFBzcnlkYk1RZUF0SVd5OE8xNklMNGdmN2FXVGc5VUo2X29QS2JHbDdR?oc=5)**
+> <small>财新 · 国内 · 06:51</small>
+> 财经早知道｜国常会最新部署，事关算力网建设 财新
 >
-> **4. [从“DeepSeek时刻”到硬科技集体IPO：高盛解码中国AI投资新机遇 - 第一财经](https://news.google.com/rss/articles/CBMiVEFVX3lxTE81cDVFOHdrX214TDVpaUNYSGFiZUlFX0lzRDFmdjV0d0F6QUpMcnVJVWNMQjRjbXA2UFJLaUwwNDFEZ2lKT2I1SWJ6SUJhZHhaNUNBSg?oc=5)**
-> <small>第一财经 · 国内 · 23:12</small>
-> 从“DeepSeek时刻”到硬科技集体IPO：高盛解码中国AI投资新机遇 第一财经
+> **4. [We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says](https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/)**
+> <small>TechCrunch · 国际 · 08:20</small>
+> AI isn't some new form of "alien mind," according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker.
 >
-> **5. [Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’](https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/)**
-> <small>TechCrunch · 国际 · 05:51</small>
-> Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently.
+> **5. [AI and data centers are incredibly unpopular in every poll](https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september)**
+> <small>The Verge · 国际 · 08:03</small>
+> Poll data released Tuesday by the New York Times and Siena University confirms what we've already been seeing, and what politicians are responding to - AI and data centers are incredibly unpopular. Asked if they support or oppose the const…
 >
-> **6. [Inside the Discussions at AI Companies Over a Superintelligence Doomsday](https://www.nytimes.com/2026/09/12/technology/doomsday-discussions-ai-companies.html)**
+> **6. [The AI data center boom is colliding with cities scarred by big industry](https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/)**
+> <small>TechCrunch · 国际 · 05:47</small>
+> National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil refinery.
+>
+> **7. [Inside the Discussions at AI Companies Over a Superintelligence Doomsday](https://www.nytimes.com/2026/09/12/technology/doomsday-discussions-ai-companies.html)**
 > <small>NYTimes Technology · 国际 · 10:31 · `可能需订阅`</small>
 > Researchers at Anthropic, OpenAI, Meta and Google are increasingly trying to raise awareness about the risks of artificial intelligence.
 >
-> **7. [Apple Home’s new security camera features cost as much as $60 a month](https://www.theverge.com/tech/994949/apple-intelligence-apple-home-icloud-plus-cost-subscription)**
-> <small>The Verge · 国际 · 07:21</small>
-> With the public release of iOS 27 and tvOS 27, Apple Home is getting an injection of Apple Intelligence - but you'll have to pay more for it. Apple Intelligence for Home brings AI-powered video summaries to HomeKit Secure Video, so you can…
->
-> **8. [Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world](https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit)**
-> <small>The Verge · 国际 · 06:48</small>
-> Nvidia CEO Jensen Huang took a call from President Trump on Monday while onstage at the All-In Podcast's All-In Summit. It's not the first time Huang has taken a call from the president during work, but this time he put Trump on speakerpho…
->
-> **9. [Steve Bannon and Bernie Sanders unite in AI safety call - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxQNFpLRTJmTmFjMDRqWUlrNVhmeHlWR0dGdjI5VmpBMDh3eHRjLXBVVVp4aFNEdGs5WTZzTzRsTFNlQ1lqaDRpRkI3Y1pyTTlUX011Z0MzeHZZc3g0M2JvLWNoZnhZV1pEOC1SeklWbU5rQTVrU0FSMHhBTjdRc3NiaGlLeEo?oc=5)**
+> **8. [Steve Bannon and Bernie Sanders unite in AI safety call - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxQNFpLRTJmTmFjMDRqWUlrNVhmeHlWR0dGdjI5VmpBMDh3eHRjLXBVVVp4aFNEdGs5WTZzTzRsTFNlQ1lqaDRpRkI3Y1pyTTlUX011Z0MzeHZZc3g0M2JvLWNoZnhZV1pEOC1SeklWbU5rQTVrU0FSMHhBTjdRc3NiaGlLeEo?oc=5)**
 > <small>Financial Times · 国际 · 20:40 · `可能需订阅`</small>
 > Steve Bannon and Bernie Sanders unite in AI safety call Financial Times
+>
+> **9. [Nvidia’s Jensen Huang Gets Onstage Call From Trump, Who Dismissed A.I. Safety Concerns](https://www.nytimes.com/2026/09/14/technology/trump-ai-safety-jensen-huang.html)**
+> <small>NYTimes Technology · 国际 · 05:46 · `可能需订阅`</small>
+> Mr. Trump called Jensen Huang, Nvidia’s chief executive, while Mr. Huang was onstage in Los Angeles and criticized calls to slow down and regulate A.I.
 >
 > **10. [中国国安部长：人工智能可能对中共执政构成直接威胁 - 纽约时报中文网](https://news.google.com/rss/articles/CBMifEFVX3lxTE9sX0pGSUZGSWJrMjJmZkJQMmhRYmFBaWh3U2paR3R2aXVtZUNxLWV0VUhfZ09vZkJEc1JVMHU4MldmS21kVzhqNVhUc01oeEQyVDFHU2V6ZXU3MEZ2dVhKZXRVazVuRjN6aXJYd2wxLXV5b2lzWlNuSEktX1I?oc=5)**
 > <small>纽约时报中文网 · 国内 · 08:48 · `可能需订阅`</small>
@@ -96,41 +96,41 @@
 > [!tip] 私募股权 / 投资市场
 > 10/10 · 国内 3 / 国际 7
 >
-> **1. [Why ‘smoke and mirrors’ won’t cut it during fundraising](https://www.privateequityinternational.com/why-smoke-and-mirrors-wont-cut-it-during-fundraising/)**
-> <small>Private Equity International · 国际 · 16:00</small>
-> Clarity and alignment on exits, value creation and succession planning are now essential components of the fundraising formula, an LP tells PEI’s Commitment Issues podcast.
+> **1. [Former Children’s Health LP launches secondaries shop focused on overlooked deals](https://www.privateequityinternational.com/former-childrens-health-lp-launches-secondaries-shop-focused-on-overlooked-deals/)**
+> <small>Private Equity International · 国际 · 22:08</small>
+> After years of buying and selling secondaries as an allocator, Yangge Seaman believes that while institutional investors often have the appetite and capital to pursue deals, they aren’t able to follow through. Her new firm, Gordian Investm…
 >
 > **2. [Small LPs use GP-led secondaries to accelerate private markets allocations, OCIOs say](https://www.buyoutsinsider.com/small-lps-use-gp-led-secondaries-to-accelerate-private-markets-allocations-ocios-say/)**
 > <small>Buyouts · 国际 · 21:55</small>
 > Endowments and foundations using outsourced investment offices increasingly view GP-led secondaries as a way to deploy capital more quickly into private markets, prioritizing performance opportunities over liquidity concerns.
 >
-> **3. [Disruption Matters: The Exit Playbook](https://www.privateequityinternational.com/disruption-matters-the-exit-playbook-series/)**
+> **3. [Why ‘smoke and mirrors’ won’t cut it during fundraising](https://www.buyoutsinsider.com/why-smoke-and-mirrors-wont-cut-it-during-fundraising/)**
+> <small>Buyouts · 国际 · 16:34</small>
+> Clarity and alignment on exits, value creation and succession planning are now essential components of the fundraising formula, an LP tells PEI’s Commitment Issues podcast.
+>
+> **4. [Disruption Matters: The Exit Playbook](https://www.privateequityinternational.com/disruption-matters-the-exit-playbook-series/)**
 > <small>Private Equity International · 国际 · 09:00</small>
 > Disruption Matters is back for its fifth season, and this year's six-part podcast miniseries unpacks the playbook industry leaders are using to navigate the headwinds facing private markets exits, from market timing and buyer psychology, t…
 >
-> **4. [Oregon to cut private equity target](https://www.buyoutsinsider.com/oregon-to-cut-pe-target/)**
-> <small>Buyouts · 国际 · 05:21</small>
-> The pension fund plans to increase its private credit allocation at the expense of its overweight private equity assets.
+> **5. [Graham Partners acquires remote video monitoring platform Immix](https://www.pehub.com/graham-partners-acquires-remote-video-monitoring-platform-immix-2/)**
+> <small>PE Hub · 国际 · 03:14</small>
+> Immix, headquartered in Charlotte, North Carolina with an additional office in Swansea, Wales, provides remote video monitoring workflow software used by more than 200 monitoring center customers to help keep more than 100,000 businesses,…
 >
-> **5. [Thompson Street-backed Allyant expands with acquisition of Braille Works](https://www.pehub.com/thompson-street-backed-allyant-expands-with-acquisition-of-braille-works/)**
-> <small>PE Hub · 国际 · 22:26</small>
-> Braille Works, founded in 1994 by Joyce and Lou Fioritto, has spent more than three decades helping organizations make information accessible for people who are blind or have low vision, serving healthcare, financial services, government,…
+> **6. [The Exit Playbook: The buyer’s POV](https://www.pehub.com/the-exit-playbook-the-buyers-pov/)**
+> <small>PE Hub · 国际 · 00:27</small>
+> At the heart of every successful sale is a seller that truly understands the buyer. In this podcast, we discuss how to keep the buyer’s point of view front and center from the initial due diligence during acquisition to final close of sale…
 >
-> **6. [J&J orthopedics unit draws Apollo interest in potential $20 billion deal, Bloomberg News reports - Reuters](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNa3Q3Z2MzaUxtWFZVUEhSbmItMVJRV1NmTmx4RTg1VklPeXpXMnpqdzB0T2lCdDZHcDJNZlNOZEZhX282aEM0d1hLYTZBNHJKb2VBT1J6ZTlRNXZCbVVhd0tDcF9oSUlnR2c0WHVmZElmTnBkbkRSSklkcHpsRDZNZjBCWkRia2RiUWRfTHBDQ0N3enhGb1gxelNNb2lqM2hoTHFvRF91M2l5UHkxWXliRTY4cm5Ud19jLXZYQ3NjX0djQ09WdWgxdG1kOXVHU1ZkdHNpX1NLa25nV28?oc=5)**
+> **7. [J&J orthopedics unit draws Apollo interest in potential $20 billion deal, Bloomberg News reports - Reuters](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNa3Q3Z2MzaUxtWFZVUEhSbmItMVJRV1NmTmx4RTg1VklPeXpXMnpqdzB0T2lCdDZHcDJNZlNOZEZhX282aEM0d1hLYTZBNHJKb2VBT1J6ZTlRNXZCbVVhd0tDcF9oSUlnR2c0WHVmZElmTnBkbkRSSklkcHpsRDZNZjBCWkRia2RiUWRfTHBDQ0N3enhGb1gxelNNb2lqM2hoTHFvRF91M2l5UHkxWXliRTY4cm5Ud19jLXZYQ3NjX0djQ09WdWgxdG1kOXVHU1ZkdHNpX1NLa25nV28?oc=5)**
 > <small>Reuters · 国际 · 06:47</small>
 > J&J orthopedics unit draws Apollo interest in potential $20 billion deal, Bloomberg News reports Reuters
 >
-> **7. [Kohlberg-backed Loenbro acquires Prism Electric to expand in South](https://www.pehub.com/kohlberg-backed-loenbro-acquires-prism-electric-to-expand-in-south/)**
-> <small>PE Hub · 国际 · 03:21</small>
-> Prism Electric, founded in 1994 by Blake Combs, is a Texas- and Oklahoma-based electrical contractor with about 2,500 employees serving data center, healthcare, industrial and commercial customers. The post Kohlberg-backed Loenbro acquires…
->
 > **8. [群核科技上市首日飙涨170%后回落 业内：AI概念关联度不高 市场打新氛围浓厚︱港股直通车 - 第一财经](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9wTnI5YzlhRktoY1J6WVFwSmVQVHZrNmk0U3c4VnQ1WUg5QUtsSkNCYTJlLTFqMkIxVXQwa1ByTXpscDhRbTctV3Ficnk5V3Zwak5LaA?oc=5)**
-> <small>第一财经 · 国内 · 23:27</small>
+> <small>第一财经 · 国内 · 00:12</small>
 > 群核科技上市首日飙涨170%后回落 业内：AI概念关联度不高 市场打新氛围浓厚︱港股直通车 第一财经
 >
-> **9. [智诊科技完成5300万元Pre-A轮融资 - 动脉网](https://news.google.com/rss/articles/CBMiR0FVX3lxTE1Rek9TNy1aMDhub056NWlMVEhCaTZ6OGFpRTFFZ3c5VVdNeXRpUUtNSXoyX21XUVJhRFlRa2RoRjNJTl9fMDVR?oc=5)**
-> <small>动脉网 · 国内 · 11:03</small>
-> 智诊科技完成5300万元Pre-A轮融资 动脉网
+> **9. [真迈生物完成近6亿元D轮融资，加速生命组学技术创新与全球化布局 - 投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RVDFjeG9ISGp1QVd0R045UDludXVNVHZDV0tjT0RwX0VHOTEzODgxek1zTE02LXZyd2VpWW1fa203WWNPUUpaMnBpQkN5YWxuY2x4N0dB?oc=5)**
+> <small>投资界 · 国内 · 11:01</small>
+> 真迈生物完成近6亿元D轮融资，加速生命组学技术创新与全球化布局 投资界
 >
 > **10. [融资丨深空矩阵完成亿元级新一轮融资，鼎晖VGC、麟阁创投联合领投 - 创业邦](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9xMGFSeXF4YmkwVXhVZFB4U0dFdTRldVpqcm5peDFYd2VrWnY3UWVkZmxQSE1rNzVXY045Y1RpUFZMX2ktdWpYTTA0dUQyZXhC?oc=5)**
 > <small>创业邦 · 国内 · 10:59</small>
