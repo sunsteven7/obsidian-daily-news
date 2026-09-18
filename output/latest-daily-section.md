@@ -6,27 +6,51 @@
 > 摘要来自 RSS/新闻源描述，保留原文语言；`可能需订阅` 表示该来源可能有付费墙。
 
 > [!quote] 财经 / 金融
-> 4/10 · 国内 0 / 国际 4
+> 10/10 · 国内 4 / 国际 6
 >
-> **1. [Fed Meeting Is a Big Moment for the Bond Market](https://www.nytimes.com/2026/09/16/business/fed-inflation-stocks-bonds.html)**
+> **1. [证监会拟设新事业单位 推进基金监管基础设施改革 - 财新](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5uUEZya2tva3dYU1NBZkZSbWxiLV8zOVV3b2VaM3FHXzZldXBadDcxQkU5M1BaYmlrVkpISk1Ba3U4NWZ1bVFxWDhTZWRwLS1VS3RVRFlMZG9UQ1B1WWJ6eg?oc=5)**
+> <small>财新 · 国内 · 23:02</small>
+> 证监会拟设新事业单位 推进基金监管基础设施改革 财新
+>
+> **2. [Fed Meeting Is a Big Moment for the Bond Market](https://www.nytimes.com/2026/09/16/business/fed-inflation-stocks-bonds.html)**
 > <small>NYTimes Business · 国际 · 20:37 · `可能需订阅`</small>
 > If the Fed opts against raising interest rates on Wednesday, investors will probably increase their forecasts for inflation, injecting new turmoil into the government bond market.
 >
-> **2. [Warsh's credibility is on the line this week as Trump policies put pressure on Fed to hike](https://www.cnbc.com/2026/09/14/warshs-credibility-is-on-the-line-this-week-as-trump-policies-put-pressure-on-fed-to-hike.html)**
+> **3. [OpenAI mulls funding round at $1.2 trillion valuation ahead of IPO, FT reports - Reuters](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOc3hqMlQtdi1BT1QzTGs4U1BVXzcxb05pRnpHMjI4RjBFekZBQ2lQSVZRTURaN1h3eGlZN0pCdmY1UzdwQzlNeldrMXh0YTFkZmxsdVBmV211YmdwZWIxTTAya1VpLUdtbGNRZkZZbFBVUklUVnVzd1NZRHpSTkpTZ3pWUGhQMmVzaW1qZDYydE83eTBNb3c4T2duTEw2dWx5WUVjZXVTX1Ixb25LR2ExRHlQTDltNWVrLW5KOExsdjJCaFE?oc=5)**
+> <small>Reuters · 国际 · 06:48</small>
+> OpenAI mulls funding round at $1.2 trillion valuation ahead of IPO, FT reports Reuters
+>
+> **4. [The $1.6bn IPO that could draw millions of Nigerians to the stock market - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxOMHM5djVtejl6bF80S1hkM2pqUzZhOXZzLUFxVnFTMFhEVUQySTFKcXM3VGQ5MHY3bVo0a3g5ZkVoNGVFTFU5ZVhkSUt1WHE3YWZwNWtrOXE3U2hxZlpDQmF0ZklQdUpqMDJ6RElFempnS0RtSzQwcjY5N1NQR3hId01EcUg?oc=5)**
+> <small>Financial Times · 国际 · 12:02 · `可能需订阅`</small>
+> The $1.6bn IPO that could draw millions of Nigerians to the stock market Financial Times
+>
+> **5. [Cinema operator Vue weighs strategic options including potential IPO - Reuters](https://news.google.com/rss/articles/CBMiswFBVV95cUxNazNvZ2x3aEE2elVzMmJDQ0pfZHgtY0FBamFDMk9uUkQ2eG5wVG5qSTZfMUxrUzdCYThuQnZmUXNnRUIzcHR2WWVOMFhnSUVDRXBBZ2JjYVVUWGFWOWVrX2ptcTNNNy1pUlF6cnkyUVROTFQ1VVpiX1RNN0RxcFlfcjhzejVIR0ZJQllpY0hEU0NBalVGeTM0VGxPUDQyOWotY1BOMUVQOHpBYTJIYUpvT1V4WQ?oc=5)**
+> <small>Reuters · 国际 · 19:19</small>
+> Cinema operator Vue weighs strategic options including potential IPO Reuters
+>
+> **6. [Warsh's credibility is on the line this week as Trump policies put pressure on Fed to hike](https://www.cnbc.com/2026/09/14/warshs-credibility-is-on-the-line-this-week-as-trump-policies-put-pressure-on-fed-to-hike.html)**
 > <small>CNBC Finance · 国际 · 04:49</small>
 > With inflation above target and no visibility on lower oil prices or stability of tariffs, the Fed chairman needs to pass the test that has faced his predecessors
 >
-> **3. [Bond Market Rebukes Bessent by Sending Borrowing Costs Ever Higher](https://www.nytimes.com/2026/09/14/business/bond-market-scott-bessent.html)**
-> <small>NYTimes Business · 国际 · 00:49 · `可能需订阅`</small>
-> The Treasury secretary had dared “Bloomberg terminal bros” to bet against him and they did.
->
-> **4. [China says it will pump $54 billion into banks and insurers — but their stocks still fell](https://www.cnbc.com/2026/09/07/china-state-banks-lenders-insurers-capital-solvency-bankrupt-nim-.html)**
+> **7. [China says it will pump $54 billion into banks and insurers — but their stocks still fell](https://www.cnbc.com/2026/09/07/china-state-banks-lenders-insurers-capital-solvency-bankrupt-nim-.html)**
 > <small>CNBC Finance · 国际 · 07:23</small>
 > With a bigger capital cushion, financial institutions may also be asked to do more to mobilize resources in capital markets, analysts say.
 >
+> **8. [内需与汇率：从收入增长机制到预期修复 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9xUl85WnRwM3RnLXg3RHl3VGRGejVPb0NGTmk3dzdKZlVkMUNPdWNlMm9aY1pKTGlYMTZBUzBOdXlOOVZHcTIyVlU3RDA1X1R5VmVQVjlQeFBzcUxBOE5lNUVR?oc=5)**
+> <small>财新 · 国内 · 14:41</small>
+> 内需与汇率：从收入增长机制到预期修复 财新
+>
+> **9. [记者直击平台信贷产品争议客服多辩称非金融信贷产品合同协议暗藏小贷出资放款专家：垫付即借贷行为 - 第一财经](https://news.google.com/rss/articles/CBMiVEFVX3lxTE5aa1ZOam0tbV83M212MjllQXpzRXhRdnNnRW0wZmUyYlczQlYzMDZrM0ZocjBVM2Y3RExYcnJTMnAtV3F1YlFpSTVMdHBaQjR3WjBnSw?oc=5)**
+> <small>第一财经 · 国内 · 06:56</small>
+> 记者直击平台信贷产品争议客服多辩称非金融信贷产品合同协议暗藏小贷出资放款专家：垫付即借贷行为 第一财经
+>
+> **10. [记者实测主流平台支付套路月付逾期年化最高18% 优惠诱导默认勾选偷偷开通十万多条用户投诉揭露乱象 - 第一财经](https://news.google.com/rss/articles/CBMiVEFVX3lxTE5Gazh5blQ0OGtGc1VzMXl2b3VraWY1SjRabkVGS0RHeWNOdDZnaXIxbmdtNzJoUE9KSS1wekdfUXBFNm5YaW05TFNwOHpDYjdpcGdFVw?oc=5)**
+> <small>第一财经 · 国内 · 16:38</small>
+> 记者实测主流平台支付套路月付逾期年化最高18% 优惠诱导默认勾选偷偷开通十万多条用户投诉揭露乱象 第一财经
+>
 
 > [!example] 科技 / AI
-> 8/10 · 国内 0 / 国际 8
+> 10/10 · 国内 1 / 国际 9
 >
 > **1. [Building the materials foundation for AI](https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/)**
 > <small>MIT Technology Review · 国际 · 20:47</small>
@@ -36,41 +60,49 @@
 > <small>MIT Technology Review · 国际 · 20:00</small>
 > Last year Ruxandra Teslo, a policy analyst who focuses on clinical trials, posted an idea for supercharging medical AI systems: Use data from failed biotech companies. By bidding at their bankruptcy proceedings, she proposed, it might be p…
 >
-> **3. [Al Gore says the real AI risk isn’t data centers — it’s what industry leaders are warning about](https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/)**
-> <small>TechCrunch · 国际 · 07:43</small>
-> In an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions — he's more worried about the AI industry's own warnings about where the technology is headed.
+> **3. [OpenAI caught its models leaving notes to successors to hide bad behavior](https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/)**
+> <small>TechCrunch · 国际 · 04:34</small>
+> OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of detecting misalignment as increasingly capable AI models learn to hide it.
 >
-> **4. [Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?](https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/)**
-> <small>TechCrunch · 国际 · 05:07</small>
-> Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, and eventually regulation.
+> **4. [Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal](https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/)**
+> <small>TechCrunch · 国际 · 03:46</small>
+> Newly unsealed court filings show Microsoft privately called OpenAI's data practices "theft" while both companies scraped paywalled Times content, built datasets from it, and warned internally it would gut publishers.
 >
-> **5. [The AI data center e-waste problem is huge — and getting bigger](https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban)**
-> <small>The Verge · 国际 · 04:40</small>
-> E-waste from the AI boom has been vastly underestimated, a new report warns. By 2050, it could become enough trash to fill 23 million shipping containers - roughly enough 40-foot containers to circle the world six times if lined up in a ro…
+> **5. [Claude Code relaunches Projects to manage multiple AI agents in the cloud](https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects)**
+> <small>The Verge · 国际 · 02:59</small>
+> The revamped projects feature in Claude Code allows users to run multiple agents under the same roof, with a shared memory, goals, and library of files and artifacts. Similar to Grok Bot and other tools that manage groups of AI agents, eac…
 >
-> **6. [Apple might make servers again to cash in on the AI rush](https://www.theverge.com/tech/996321/apple-servers-ai-nvidia)**
-> <small>The Verge · 国际 · 01:41</small>
-> According to The Information, Apple is planning to get back into the server game and might just pair up with Nvidia to make it happen. Apple retired its Xserve line in 2011 and has largely left enterprise machines to other manufacturers si…
+> **6. [Microsoft and OpenAI Workers Worry About ‘Largest Theft of Labor’ in History](https://www.nytimes.com/2026/09/17/technology/microsoft-openai-publishing-industry.html)**
+> <small>NYTimes Technology · 国际 · 09:12 · `可能需订阅`</small>
+> Newly unsealed court documents showed concern within Microsoft and OpenAI over the use of millions of news articles to develop A.I. systems.
 >
 > **7. [OpenAI Discloses Six New Incidents of ‘Concerning' A.I. Behavior](https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html)**
 > <small>NYTimes Technology · 国际 · 08:12 · `可能需订阅`</small>
 > The artificial intelligence company also released a framework for reporting when its systems go wrong.
 >
-> **8. [Inside the Discussions at AI Companies Over a Superintelligence Doomsday](https://www.nytimes.com/2026/09/12/technology/doomsday-discussions-ai-companies.html)**
-> <small>NYTimes Technology · 国际 · 10:31 · `可能需订阅`</small>
-> Researchers at Anthropic, OpenAI, Meta and Google are increasingly trying to raise awareness about the risks of artificial intelligence.
+> **8. [The AI Superintelligence Slowdown](https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic)**
+> <small>The Verge · 国际 · 05:22</small>
+> Remember when tech leaders would tell their employees to “move fast and break things”? It seemed that would be the way of AI too. But after a summer where rogue AI agents became reality, and researchers warned that AI could kill us all, a…
+>
+> **9. [Virginia’s Data Center Alley Moves to Pause New Applications - Bloomberg.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxNY2NLTFpCMUw3QTdUendDYlhVaDZBTGtvZFRfLXNubmdfNi1rLXVNWk56am1vZVMxZ1F2TzVRNDhuMDFWNEJpZnFfcDVWWEtWU09JaE0wbFNmNVNXMHh4dVB5TE9oSWRkUnBtc25JNnQtUlpvX2Z0SVR1ekEyZmMyTGxrb3d6N2cxaE9BSXJQT2FqblVqQjZkZmZ6Tlp2b3ZNc01zUTZqcGQ4SGZJUExpVw?oc=5)**
+> <small>Bloomberg.com · 国际 · 05:43 · `可能需订阅`</small>
+> Virginia’s Data Center Alley Moves to Pause New Applications Bloomberg.com
+>
+> **10. [中国国安部长：人工智能可能对中共执政构成直接威胁 - 纽约时报中文网](https://news.google.com/rss/articles/CBMifEFVX3lxTE9sX0pGSUZGSWJrMjJmZkJQMmhRYmFBaWh3U2paR3R2aXVtZUNxLWV0VUhfZ09vZkJEc1JVMHU4MldmS21kVzhqNVhUc01oeEQyVDFHU2V6ZXU3MEZ2dVhKZXRVazVuRjN6aXJYd2wxLXV5b2lzWlNuSEktX1I?oc=5)**
+> <small>纽约时报中文网 · 国内 · 08:48 · `可能需订阅`</small>
+> 中国国安部长：人工智能可能对中共执政构成直接威胁 纽约时报中文网
 >
 
 > [!tip] 私募股权 / 投资市场
-> 8/10 · 国内 0 / 国际 8
+> 10/10 · 国内 3 / 国际 7
 >
-> **1. [Former Children’s Health LP launches secondaries shop focused on overlooked deals](https://www.privateequityinternational.com/former-childrens-health-lp-launches-secondaries-shop-focused-on-overlooked-deals/)**
+> **1. [CalPERS board members make the case for ‘AI guardrails’](https://www.privateequityinternational.com/calpers-board-members-make-the-case-for-ai-guardrails/)**
+> <small>Private Equity International · 国际 · 21:51</small>
+> Following headlines surrounding existential risks of AI, board members float idea of calling for expanding oversight on unchecked tech development.
+>
+> **2. [Former Children’s Health LP launches secondaries shop focused on overlooked deals](https://www.privateequityinternational.com/former-childrens-health-lp-launches-secondaries-shop-focused-on-overlooked-deals/)**
 > <small>Private Equity International · 国际 · 22:08</small>
 > After years of buying and selling secondaries as an allocator, Yangge Seaman believes that while institutional investors often have the appetite and capital to pursue deals, they aren’t able to follow through. Her new firm, Gordian Investm…
->
-> **2. [The Exit Playbook: The buyer’s POV](https://www.privateequityinternational.com/the-exit-playbook-the-buyers-pov/)**
-> <small>Private Equity International · 国际 · 14:00</small>
-> At the heart of every successful sale is a seller that truly understands the buyer. In this podcast, we discuss how to keep the buyer’s point of view front and centre from the initial due diligence during acquisition to final close of sale…
 >
 > **3. [Small LPs use GP-led secondaries to accelerate private markets allocations, OCIOs say](https://www.buyoutsinsider.com/small-lps-use-gp-led-secondaries-to-accelerate-private-markets-allocations-ocios-say/)**
 > <small>Buyouts · 国际 · 21:55</small>
@@ -80,25 +112,33 @@
 > <small>Buyouts · 国际 · 16:34</small>
 > Clarity and alignment on exits, value creation and succession planning are now essential components of the fundraising formula, an LP tells PEI’s Commitment Issues podcast.
 >
-> **5. [Investors bullish on Major League Baseball despite potential lockout; Niobrara acquires managed IT services provider MSP Corp](https://www.pehub.com/investors-bullish-on-major-league-baseball-despite-potential-lockout-niobrara-acquires-managed-it-services-provider-msp-corp/)**
-> <small>PE Hub · 国际 · 21:50</small>
-> Also featured is a look at HR software deals from private equity firms Thoma Bravo, Gryphon and Main Capital. The post Investors bullish on Major League Baseball despite potential lockout; Niobrara acquires managed IT services provider MSP…
+> **5. [DelCam-backed Space Age Electronics acquires fire safety maker Gemcom](https://www.pehub.com/delcam-backed-space-age-electronics-acquires-fire-safety-maker-gemcom/)**
+> <small>PE Hub · 国际 · 02:34</small>
+> Gemcom is a nearly four-decade-old manufacturer of fire suppression switches, graphic annunciators and engineered signage for OEM fire alarm and suppression system makers, headquartered in Burr Ridge, Illinois. The post DelCam-backed Space…
 >
-> **6. [Partners Capital names Jennifer Fox Bensimon head of co-investments](https://www.pehub.com/partners-capital-names-jennifer-fox-bensimon-head-of-co-investments/)**
-> <small>PE Hub · 国际 · 00:24</small>
-> Fox Bensimon joined Partners Capital's Co-Investment team in September 2024 after roles at private equity firms Trilantic North America and LNK Partners, where she focused on middle-market investing across the consumer and business service…
+> **6. [Tallvine Partners’ marine platform acquires Crosby’s Gulf Coast assets](https://www.pehub.com/tallvine-partners-marine-platform-acquires-crosbys-gulf-coast-assets/)**
+> <small>PE Hub · 国际 · 00:35</small>
+> Crosby is a nearly 50-year-old provider of marine infrastructure services across the US Gulf Coast and inland waterways, operating a fleet of more than 150 tugboats, dredges and support vessels from Louisiana. The post Tallvine Partners’ m…
 >
-> **7. [Golub hires Northleaf veteran Shafer to lead $1bn-plus GP-led secondaries push](https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/golub-hires-northleaf-veteran-shafer-to-lead-1bn-plus-gp-led-secondaries-push.html)**
-> <small>AltAssets · 国际 · 16:17</small>
-> Golub Capital has hired former Northleaf Capital Partners executive Matt Shafer to lead its GP-led private equity secondaries strategy, less than a year after committing more than $1bn to build the business. The post Golub hires Northleaf…
+> **7. [Industrial tech specialist Artemis closes fourth fund on $254m](https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/industrial-tech-specialist-artemis-closes-fourth-fund-on-254m.html)**
+> <small>AltAssets · 国际 · 16:54</small>
+> Industrial technology-focused private equity firm Artemis Capital Partners has closed its fourth fund on $254m as the Boston-based manager targets businesses exposed to growing aerospace, defence, life sciences and semiconductor demand. Th…
 >
-> **8. [Frazier Life Sciences adds $1.1bn to public biotech fund, taking total commitments to $2.8bn](https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/frazier-life-sciences-adds-1-1bn-to-public-biotech-fund-taking-total-commitments-to-2-8bn.html)**
-> <small>AltAssets · 国际 · 14:56</small>
-> Frazier Life Sciences has raised more than $1.1bn from new and existing investors for its public biotechnology strategy, taking total commitments to the vehicle to approximately $2.8bn since its launch in 2021. The post Frazier Life Scienc…
+> **8. [4天14只“加时”募集，新基金为何卖不动了？ - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Na1BoYlhNV1pjREQ0TXFDOFZwUzVOTjQyMzlYZlAwcUMtSzdpVElERUZoLUp2RFhoY25OTGtzbHkyMlczUlBLejhtRzVjMHRldU80?oc=5)**
+> <small>第一财经 · 国内 · 01:51</small>
+> 4天14只“加时”募集，新基金为何卖不动了？ 第一财经
+>
+> **9. [群核科技上市首日飙涨170%后回落 业内：AI概念关联度不高 市场打新氛围浓厚︱港股直通车 - 第一财经](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9wTnI5YzlhRktoY1J6WVFwSmVQVHZrNmk0U3c4VnQ1WUg5QUtsSkNCYTJlLTFqMkIxVXQwa1ByTXpscDhRbTctV3Ficnk5V3Zwak5LaA?oc=5)**
+> <small>第一财经 · 国内 · 00:12</small>
+> 群核科技上市首日飙涨170%后回落 业内：AI概念关联度不高 市场打新氛围浓厚︱港股直通车 第一财经
+>
+> **10. [融资丨深空矩阵完成亿元级新一轮融资，鼎晖VGC、麟阁创投联合领投 - 创业邦](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9xMGFSeXF4YmkwVXhVZFB4U0dFdTRldVpqcm5peDFYd2VrWnY3UWVkZmxQSE1rNzVXY045Y1RpUFZMX2ktdWpYTTA0dUQyZXhC?oc=5)**
+> <small>创业邦 · 国内 · 10:59</small>
+> 融资丨深空矩阵完成亿元级新一轮融资，鼎晖VGC、麟阁创投联合领投 创业邦
 >
 
 > [!warning] 抓取失败但不影响成稿的来源
-> Google News Global Finance (HTTPError)、Google News China Finance (HTTPError)、Google News China Macro (HTTPError)、Google News Global AI (HTTPError)、36氪 (ParseError)、Google News China AI (HTTPError)、Google News China Tech Finance (HTTPError)、Google News Global PE (HTTPError)、Google News China PE Fundraising (HTTPError)、Google News China PE Deals (HTTPError)、Google News China PE Exits (HTTPError)、Google News China Startup Funding (HTTPError)、Google News China Fundraising Simple (HTTPError)、Google News China Exit Simple (HTTPError)
+> 36氪 (ParseError)
 
 #daily-news
 <!-- daily-news-digest:end -->
