@@ -6,47 +6,47 @@
 > 摘要来自 RSS/新闻源描述，保留原文语言；`可能需订阅` 表示该来源可能有付费墙。
 
 > [!quote] 财经 / 金融
-> 10/10 · 国内 4 / 国际 6
+> 10/10 · 国内 2 / 国际 8
 >
 > **1. [证监会拟设新事业单位 推进基金监管基础设施改革 - 财新](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5uUEZya2tva3dYU1NBZkZSbWxiLV8zOVV3b2VaM3FHXzZldXBadDcxQkU5M1BaYmlrVkpISk1Ba3U4NWZ1bVFxWDhTZWRwLS1VS3RVRFlMZG9UQ1B1WWJ6eg?oc=5)**
 > <small>财新 · 国内 · 23:02</small>
 > 证监会拟设新事业单位 推进基金监管基础设施改革 财新
 >
-> **2. [Fed Meeting Is a Big Moment for the Bond Market](https://www.nytimes.com/2026/09/16/business/fed-inflation-stocks-bonds.html)**
+> **2. [What Set Off the Rise in Interest Rates? Mainly, the Iran War.](https://www.nytimes.com/2026/09/18/business/bonds-interest-rates-fed-iran-war.html)**
+> <small>NYTimes Business · 国际 · 00:41 · `可能需订阅`</small>
+> The Federal Reserve is trying to catch up with the leap in bond rates as the Middle East conflict unnerves world markets.
+>
+> **3. [NSE's $2.3 billion IPO fully subscribed, spotlight shifts to Sept. 24 debut - Reuters](https://news.google.com/rss/articles/CBMitAFBVV95cUxQNGRuZlZMeEdyNkpHQU4zT3oxQUJJa0x2WVZaRW4tVlRIcEp2b19VdXBoVWhCNm5UbW5MNUFRX2hzNEN1eWZlVFczYUdZajFCUjk4OUdkNE53VmFJVHFNMWxzaml6UDY5bzNGSHQzS1hab0NwQkd1ODhtVTZ3RzJOdFNsMmk3cnNPOExiMEwyMlJUVDliSEZlU0k3WHE5OUlWdW93ZTF0OXVqZmVlWF9kWHczWTU?oc=5)**
+> <small>Reuters · 国际 · 18:34</small>
+> NSE's $2.3 billion IPO fully subscribed, spotlight shifts to Sept. 24 debut Reuters
+>
+> **4. [Fed Meeting Is a Big Moment for the Bond Market](https://www.nytimes.com/2026/09/16/business/fed-inflation-stocks-bonds.html)**
 > <small>NYTimes Business · 国际 · 20:37 · `可能需订阅`</small>
 > If the Fed opts against raising interest rates on Wednesday, investors will probably increase their forecasts for inflation, injecting new turmoil into the government bond market.
 >
-> **3. [OpenAI mulls funding round at $1.2 trillion valuation ahead of IPO, FT reports - Reuters](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOc3hqMlQtdi1BT1QzTGs4U1BVXzcxb05pRnpHMjI4RjBFekZBQ2lQSVZRTURaN1h3eGlZN0pCdmY1UzdwQzlNeldrMXh0YTFkZmxsdVBmV211YmdwZWIxTTAya1VpLUdtbGNRZkZZbFBVUklUVnVzd1NZRHpSTkpTZ3pWUGhQMmVzaW1qZDYydE83eTBNb3c4T2duTEw2dWx5WUVjZXVTX1Ixb25LR2ExRHlQTDltNWVrLW5KOExsdjJCaFE?oc=5)**
-> <small>Reuters · 国际 · 06:48</small>
-> OpenAI mulls funding round at $1.2 trillion valuation ahead of IPO, FT reports Reuters
+> **5. [日本央行提升利率至31年新高 不排除连续大幅加息的可能性 - 财新](https://news.google.com/rss/articles/CBMiakFVX3lxTE5oR3hEdXR1U3NMdExrc3E1ZXlKdlJqcTltZ1AxMU01Q0Y3dF9panBPYUN4amNiV2hEUTYxNjVJdWFMN1BKYWNWMDhvazdGRGkxMXZaRjZndlpWQzFSNTVkbnN2djZqaE9jNHc?oc=5)**
+> <small>财新 · 国内 · 16:07</small>
+> 日本央行提升利率至31年新高 不排除连续大幅加息的可能性 财新
 >
-> **4. [The $1.6bn IPO that could draw millions of Nigerians to the stock market - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxOMHM5djVtejl6bF80S1hkM2pqUzZhOXZzLUFxVnFTMFhEVUQySTFKcXM3VGQ5MHY3bVo0a3g5ZkVoNGVFTFU5ZVhkSUt1WHE3YWZwNWtrOXE3U2hxZlpDQmF0ZklQdUpqMDJ6RElFempnS0RtSzQwcjY5N1NQR3hId01EcUg?oc=5)**
-> <small>Financial Times · 国际 · 12:02 · `可能需订阅`</small>
-> The $1.6bn IPO that could draw millions of Nigerians to the stock market Financial Times
->
-> **5. [Cinema operator Vue weighs strategic options including potential IPO - Reuters](https://news.google.com/rss/articles/CBMiswFBVV95cUxNazNvZ2x3aEE2elVzMmJDQ0pfZHgtY0FBamFDMk9uUkQ2eG5wVG5qSTZfMUxrUzdCYThuQnZmUXNnRUIzcHR2WWVOMFhnSUVDRXBBZ2JjYVVUWGFWOWVrX2ptcTNNNy1pUlF6cnkyUVROTFQ1VVpiX1RNN0RxcFlfcjhzejVIR0ZJQllpY0hEU0NBalVGeTM0VGxPUDQyOWotY1BOMUVQOHpBYTJIYUpvT1V4WQ?oc=5)**
+> **6. [Cinema operator Vue weighs strategic options including potential IPO - Reuters](https://news.google.com/rss/articles/CBMiswFBVV95cUxNazNvZ2x3aEE2elVzMmJDQ0pfZHgtY0FBamFDMk9uUkQ2eG5wVG5qSTZfMUxrUzdCYThuQnZmUXNnRUIzcHR2WWVOMFhnSUVDRXBBZ2JjYVVUWGFWOWVrX2ptcTNNNy1pUlF6cnkyUVROTFQ1VVpiX1RNN0RxcFlfcjhzejVIR0ZJQllpY0hEU0NBalVGeTM0VGxPUDQyOWotY1BOMUVQOHpBYTJIYUpvT1V4WQ?oc=5)**
 > <small>Reuters · 国际 · 19:19</small>
 > Cinema operator Vue weighs strategic options including potential IPO Reuters
 >
-> **6. [Warsh's credibility is on the line this week as Trump policies put pressure on Fed to hike](https://www.cnbc.com/2026/09/14/warshs-credibility-is-on-the-line-this-week-as-trump-policies-put-pressure-on-fed-to-hike.html)**
+> **7. [Warsh's credibility is on the line this week as Trump policies put pressure on Fed to hike](https://www.cnbc.com/2026/09/14/warshs-credibility-is-on-the-line-this-week-as-trump-policies-put-pressure-on-fed-to-hike.html)**
 > <small>CNBC Finance · 国际 · 04:49</small>
 > With inflation above target and no visibility on lower oil prices or stability of tariffs, the Fed chairman needs to pass the test that has faced his predecessors
 >
-> **7. [China says it will pump $54 billion into banks and insurers — but their stocks still fell](https://www.cnbc.com/2026/09/07/china-state-banks-lenders-insurers-capital-solvency-bankrupt-nim-.html)**
+> **8. [China says it will pump $54 billion into banks and insurers — but their stocks still fell](https://www.cnbc.com/2026/09/07/china-state-banks-lenders-insurers-capital-solvency-bankrupt-nim-.html)**
 > <small>CNBC Finance · 国际 · 07:23</small>
 > With a bigger capital cushion, financial institutions may also be asked to do more to mobilize resources in capital markets, analysts say.
 >
-> **8. [内需与汇率：从收入增长机制到预期修复 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9xUl85WnRwM3RnLXg3RHl3VGRGejVPb0NGTmk3dzdKZlVkMUNPdWNlMm9aY1pKTGlYMTZBUzBOdXlOOVZHcTIyVlU3RDA1X1R5VmVQVjlQeFBzcUxBOE5lNUVR?oc=5)**
-> <small>财新 · 国内 · 14:41</small>
-> 内需与汇率：从收入增长机制到预期修复 财新
+> **9. [OpenAI’s listing delay raises stakes for SoftBank’s $50bn data centre IPO - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxQR05kM2J2OTJxRUJ5VWVGcjNLVGVXODRQWmpOQ2ZtNFU5bTNPc0ZXNk1yYm4xMkdsN0FfSFNQRnNDb3NmdU1rUmJZS0E1NnpyVXR1Y0RYSTBjeFVvZFBTNEstNkQxRDhYQnpCeG1tR0V2XzdYUUNHOVRFMW12V01WTUpZZ3A?oc=5)**
+> <small>Financial Times · 国际 · 11:07 · `可能需订阅`</small>
+> OpenAI’s listing delay raises stakes for SoftBank’s $50bn data centre IPO Financial Times
 >
-> **9. [记者直击平台信贷产品争议客服多辩称非金融信贷产品合同协议暗藏小贷出资放款专家：垫付即借贷行为 - 第一财经](https://news.google.com/rss/articles/CBMiVEFVX3lxTE5aa1ZOam0tbV83M212MjllQXpzRXhRdnNnRW0wZmUyYlczQlYzMDZrM0ZocjBVM2Y3RExYcnJTMnAtV3F1YlFpSTVMdHBaQjR3WjBnSw?oc=5)**
-> <small>第一财经 · 国内 · 06:56</small>
-> 记者直击平台信贷产品争议客服多辩称非金融信贷产品合同协议暗藏小贷出资放款专家：垫付即借贷行为 第一财经
->
-> **10. [记者实测主流平台支付套路月付逾期年化最高18% 优惠诱导默认勾选偷偷开通十万多条用户投诉揭露乱象 - 第一财经](https://news.google.com/rss/articles/CBMiVEFVX3lxTE5Gazh5blQ0OGtGc1VzMXl2b3VraWY1SjRabkVGS0RHeWNOdDZnaXIxbmdtNzJoUE9KSS1wekdfUXBFNm5YaW05TFNwOHpDYjdpcGdFVw?oc=5)**
-> <small>第一财经 · 国内 · 16:38</small>
-> 记者实测主流平台支付套路月付逾期年化最高18% 优惠诱导默认勾选偷偷开通十万多条用户投诉揭露乱象 第一财经
+> **10. [Japan’s Sanae Takaichi reshuffles cabinet in signal of confidence to markets - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxQRG1wVWxkQndlRHdkZmVmTFpzWFBTT3dDNGZXbDFEZFo4a3FsYnFnV0RBc3FxcVlCVVJfTE1IcGFzX1pZR2JJa1lzR3FjaEc0ZzVKS2VYMXZzVlJSa0pjdEtIUkxwNkxWTHN3eV9OSXRFTzMtejZjUzR4d04zREdlaEJRZ3k?oc=5)**
+> <small>Financial Times · 国际 · 14:44 · `可能需订阅`</small>
+> Japan’s Sanae Takaichi reshuffles cabinet in signal of confidence to markets Financial Times
 >
 
 > [!example] 科技 / AI
@@ -56,21 +56,21 @@
 > <small>MIT Technology Review · 国际 · 20:47</small>
 > The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms running on it. Semiconductors and data centers are approachin…
 >
-> **2. [AI models need more data about biology, and OpenAI is paying to create it](https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/)**
-> <small>MIT Technology Review · 国际 · 20:00</small>
-> Last year Ruxandra Teslo, a policy analyst who focuses on clinical trials, posted an idea for supercharging medical AI systems: Use data from failed biotech companies. By bidding at their bankruptcy proceedings, she proposed, it might be p…
+> **2. [Security researchers used Claude to help them hack into OpenAI](https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist)**
+> <small>The Verge · 国际 · 00:30</small>
+> A team of three independent security researchers at Hacktron says it took less than 72 hours for them to hack into OpenAI employee accounts using Anthropic's Claude Opus 4.8 and 5, The Wall Street Journal reports. They were able to access…
 >
-> **3. [OpenAI caught its models leaving notes to successors to hide bad behavior](https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/)**
-> <small>TechCrunch · 国际 · 04:34</small>
-> OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of detecting misalignment as increasingly capable AI models learn to hide it.
+> **3. [Could AI really kill us all? Your questions, answered.](https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/)**
+> <small>MIT Technology Review · 国际 · 19:29</small>
+> On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone’s asking right now: Could AI really kill us all? But attendees had so many more questions than we had time to answer in th…
 >
-> **4. [Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal](https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/)**
-> <small>TechCrunch · 国际 · 03:46</small>
-> Newly unsealed court filings show Microsoft privately called OpenAI's data practices "theft" while both companies scraped paywalled Times content, built datasets from it, and warned internally it would gut publishers.
+> **4. [OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web](https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero)**
+> <small>The Verge · 国际 · 05:07</small>
+> Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning. The companies' own documentation warned that it was starting a "doom loop" that would damage the web, characterized its scraping…
 >
-> **5. [Claude Code relaunches Projects to manage multiple AI agents in the cloud](https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects)**
-> <small>The Verge · 国际 · 02:59</small>
-> The revamped projects feature in Claude Code allows users to run multiple agents under the same roof, with a shared memory, goals, and library of files and artifacts. Similar to Grok Bot and other tools that manage groups of AI agents, eac…
+> **5. [Open or closed AI? Nvidia’s Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026/)**
+> <small>TechCrunch · 国际 · 23:30</small>
+> Nvidia's Nader Khalil and Sydney Sykes discuss one of the decisions shaping next-gen startups on the Builders Stage at TechCrunch Disrupt 2026.
 >
 > **6. [Microsoft and OpenAI Workers Worry About ‘Largest Theft of Labor’ in History](https://www.nytimes.com/2026/09/17/technology/microsoft-openai-publishing-industry.html)**
 > <small>NYTimes Technology · 国际 · 09:12 · `可能需订阅`</small>
@@ -80,9 +80,9 @@
 > <small>NYTimes Technology · 国际 · 08:12 · `可能需订阅`</small>
 > The artificial intelligence company also released a framework for reporting when its systems go wrong.
 >
-> **8. [The AI Superintelligence Slowdown](https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic)**
-> <small>The Verge · 国际 · 05:22</small>
-> Remember when tech leaders would tell their employees to “move fast and break things”? It seemed that would be the way of AI too. But after a summer where rogue AI agents became reality, and researchers warned that AI could kill us all, a…
+> **8. [Tilly Norwood’s press tour is going about as well as you’d expect for an AI](https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/)**
+> <small>TechCrunch · 国际 · 08:12</small>
+> In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.
 >
 > **9. [Virginia’s Data Center Alley Moves to Pause New Applications - Bloomberg.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxNY2NLTFpCMUw3QTdUendDYlhVaDZBTGtvZFRfLXNubmdfNi1rLXVNWk56am1vZVMxZ1F2TzVRNDhuMDFWNEJpZnFfcDVWWEtWU09JaE0wbFNmNVNXMHh4dVB5TE9oSWRkUnBtc25JNnQtUlpvX2Z0SVR1ekEyZmMyTGxrb3d6N2cxaE9BSXJQT2FqblVqQjZkZmZ6Tlp2b3ZNc01zUTZqcGQ4SGZJUExpVw?oc=5)**
 > <small>Bloomberg.com · 国际 · 05:43 · `可能需订阅`</small>
@@ -96,45 +96,45 @@
 > [!tip] 私募股权 / 投资市场
 > 10/10 · 国内 3 / 国际 7
 >
-> **1. [CalPERS board members make the case for ‘AI guardrails’](https://www.privateequityinternational.com/calpers-board-members-make-the-case-for-ai-guardrails/)**
+> **1. [Why it pays to play ball during LP-leds](https://www.buyoutsinsider.com/why-it-pays-to-play-ball-during-lp-leds/)**
+> <small>Buyouts · 国际 · 21:00</small>
+> Being a ‘co-operative partner’ during LP-led transactions can have hidden benefits, a private equity GP tells PEI Group’s Commitment Issues podcast.
+>
+> **2. [CalPERS board members make the case for ‘AI guardrails’](https://www.privateequityinternational.com/calpers-board-members-make-the-case-for-ai-guardrails/)**
 > <small>Private Equity International · 国际 · 21:51</small>
 > Following headlines surrounding existential risks of AI, board members float idea of calling for expanding oversight on unchecked tech development.
 >
-> **2. [Former Children’s Health LP launches secondaries shop focused on overlooked deals](https://www.privateequityinternational.com/former-childrens-health-lp-launches-secondaries-shop-focused-on-overlooked-deals/)**
+> **3. [Former Children’s Health LP launches secondaries shop focused on overlooked deals](https://www.privateequityinternational.com/former-childrens-health-lp-launches-secondaries-shop-focused-on-overlooked-deals/)**
 > <small>Private Equity International · 国际 · 22:08</small>
 > After years of buying and selling secondaries as an allocator, Yangge Seaman believes that while institutional investors often have the appetite and capital to pursue deals, they aren’t able to follow through. Her new firm, Gordian Investm…
 >
-> **3. [Small LPs use GP-led secondaries to accelerate private markets allocations, OCIOs say](https://www.buyoutsinsider.com/small-lps-use-gp-led-secondaries-to-accelerate-private-markets-allocations-ocios-say/)**
+> **4. [Small LPs use GP-led secondaries to accelerate private markets allocations, OCIOs say](https://www.buyoutsinsider.com/small-lps-use-gp-led-secondaries-to-accelerate-private-markets-allocations-ocios-say/)**
 > <small>Buyouts · 国际 · 21:55</small>
 > Endowments and foundations using outsourced investment offices increasingly view GP-led secondaries as a way to deploy capital more quickly into private markets, prioritizing performance opportunities over liquidity concerns.
 >
-> **4. [Why ‘smoke and mirrors’ won’t cut it during fundraising](https://www.buyoutsinsider.com/why-smoke-and-mirrors-wont-cut-it-during-fundraising/)**
-> <small>Buyouts · 国际 · 16:34</small>
-> Clarity and alignment on exits, value creation and succession planning are now essential components of the fundraising formula, an LP tells PEI’s Commitment Issues podcast.
+> **5. [Mutares exits automotive supplier Cimos in management buyout backed by Vero Automotive](https://www.pehub.com/mutares-exits-automotive-supplier-cimos-in-management-buyout-backed-by-vero-automotive/)**
+> <small>PE Hub · 国际 · 19:36</small>
+> Cimos, a producer of aluminum and iron castings and machined components for the automotive industry, employs about 1,350 people and generates revenues of approximately €120m across four countries. The post Mutares exits automotive supplier…
 >
-> **5. [DelCam-backed Space Age Electronics acquires fire safety maker Gemcom](https://www.pehub.com/delcam-backed-space-age-electronics-acquires-fire-safety-maker-gemcom/)**
-> <small>PE Hub · 国际 · 02:34</small>
-> Gemcom is a nearly four-decade-old manufacturer of fire suppression switches, graphic annunciators and engineered signage for OEM fire alarm and suppression system makers, headquartered in Burr Ridge, Illinois. The post DelCam-backed Space…
+> **6. [Siguler Guff raises record $3bn for small buyouts](https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/siguler-guff-raises-record-3bn-for-small-buyouts-as-fundraising-stretches-beyond-commingled-funds.html)**
+> <small>AltAssets · 国际 · 17:27</small>
+> Siguler Guff has raised more than $3bn for its US small-buyout strategy, marking the largest fundraising in the strategy’s history as the private markets manager pulls in almost $700m through separately managed accounts alongside its lates…
 >
-> **6. [Tallvine Partners’ marine platform acquires Crosby’s Gulf Coast assets](https://www.pehub.com/tallvine-partners-marine-platform-acquires-crosbys-gulf-coast-assets/)**
-> <small>PE Hub · 国际 · 00:35</small>
-> Crosby is a nearly 50-year-old provider of marine infrastructure services across the US Gulf Coast and inland waterways, operating a fleet of more than 150 tugboats, dredges and support vessels from Louisiana. The post Tallvine Partners’ m…
+> **7. [Alpine aims to replicate US technical services success in fragmented UK market](https://www.pehub.com/alpine-aims-to-replicate-us-technical-services-success-in-fragmented-uk-market/)**
+> <small>PE Hub · 国际 · 21:00</small>
+> The San Francisco-based firm made its first platform investment in the UK in September, with the launch of Eight Group Service Partners, a hard facilities management platform. The post Alpine aims to replicate US technical services success…
 >
-> **7. [Industrial tech specialist Artemis closes fourth fund on $254m](https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/industrial-tech-specialist-artemis-closes-fourth-fund-on-254m.html)**
-> <small>AltAssets · 国际 · 16:54</small>
-> Industrial technology-focused private equity firm Artemis Capital Partners has closed its fourth fund on $254m as the Boston-based manager targets businesses exposed to growing aerospace, defence, life sciences and semiconductor demand. Th…
+> **8. [强场科技完成数千万元天使+轮融资，经纬创投、凯辉基金联合领投 - 投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTE82Nng2NWNxcGx2NzIwdnlGeVZGajVQdFpOV3ZOVWo1UjZkbU14M1FZN0V5eHBmdGNWbEZ6ZU5QTV9iTUtOVklsR0tlQm1zOFllY1JiZjl3?oc=5)**
+> <small>投资界 · 国内 · 13:37</small>
+> 强场科技完成数千万元天使+轮融资，经纬创投、凯辉基金联合领投 投资界
 >
-> **8. [4天14只“加时”募集，新基金为何卖不动了？ - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Na1BoYlhNV1pjREQ0TXFDOFZwUzVOTjQyMzlYZlAwcUMtSzdpVElERUZoLUp2RFhoY25OTGtzbHkyMlczUlBLejhtRzVjMHRldU80?oc=5)**
-> <small>第一财经 · 国内 · 01:51</small>
-> 4天14只“加时”募集，新基金为何卖不动了？ 第一财经
->
-> **9. [群核科技上市首日飙涨170%后回落 业内：AI概念关联度不高 市场打新氛围浓厚︱港股直通车 - 第一财经](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9wTnI5YzlhRktoY1J6WVFwSmVQVHZrNmk0U3c4VnQ1WUg5QUtsSkNCYTJlLTFqMkIxVXQwa1ByTXpscDhRbTctV3Ficnk5V3Zwak5LaA?oc=5)**
-> <small>第一财经 · 国内 · 00:12</small>
-> 群核科技上市首日飙涨170%后回落 业内：AI概念关联度不高 市场打新氛围浓厚︱港股直通车 第一财经
->
-> **10. [融资丨深空矩阵完成亿元级新一轮融资，鼎晖VGC、麟阁创投联合领投 - 创业邦](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9xMGFSeXF4YmkwVXhVZFB4U0dFdTRldVpqcm5peDFYd2VrWnY3UWVkZmxQSE1rNzVXY045Y1RpUFZMX2ktdWpYTTA0dUQyZXhC?oc=5)**
+> **9. [融资丨深空矩阵完成亿元级新一轮融资，鼎晖VGC、麟阁创投联合领投 - 创业邦](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9xMGFSeXF4YmkwVXhVZFB4U0dFdTRldVpqcm5peDFYd2VrWnY3UWVkZmxQSE1rNzVXY045Y1RpUFZMX2ktdWpYTTA0dUQyZXhC?oc=5)**
 > <small>创业邦 · 国内 · 10:59</small>
 > 融资丨深空矩阵完成亿元级新一轮融资，鼎晖VGC、麟阁创投联合领投 创业邦
+>
+> **10. [微分智飞完成数亿元A2轮融资，加速通用飞行AI规模化落地 - 投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FdXdzenNRQ3A0TVRFTVAxUl8yblJRVzlYMENrWUJHaVJoc2NzVlVKakN3LXNkMTJJYTBFU0s3eUUxUmNZckY4T0t5X2pIZEpFNFBPQUtn?oc=5)**
+> <small>投资界 · 国内 · 15:01</small>
+> 微分智飞完成数亿元A2轮融资，加速通用飞行AI规模化落地 投资界
 >
 
 > [!warning] 抓取失败但不影响成稿的来源
