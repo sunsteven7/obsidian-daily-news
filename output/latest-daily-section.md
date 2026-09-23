@@ -8,41 +8,41 @@
 > [!quote] 财经 / 金融
 > 10/10 · 国内 4 / 国际 6
 >
-> **1. [What Set Off the Rise in Interest Rates? Mainly, the Iran War.](https://www.nytimes.com/2026/09/18/business/bonds-interest-rates-fed-iran-war.html)**
-> <small>NYTimes Business · 国际 · 00:41 · `可能需订阅`</small>
-> The Federal Reserve is trying to catch up with the leap in bond rates as the Middle East conflict unnerves world markets.
+> **1. [Airtel Money targets up to $9 billion valuation in London IPO, FT reports - Reuters](https://news.google.com/rss/articles/CBMirAFBVV95cUxQOGZneGtlQzJqam85aklsamZ2WUptdkxHRExkM3dqMC1NejNvNkt4aFJSZ1E5azRQbS1PMEo3elBjR0V4elR0RF93cGRpY2xsLVdFdzVWanlrVzBDRkdMWVU5STlDa2E5RTFBUUZuYU9VX2N0LXVnaGljMXU2THd2aW9pbG43d3RzVkgyMUR5ZlhPOGRtR2g0UFRaMXZlY1NDZC1QOW5vek5nZmRr?oc=5)**
+> <small>Reuters · 国际 · 02:51</small>
+> Airtel Money targets up to $9 billion valuation in London IPO, FT reports Reuters
 >
 > **2. [India's NSE IPO draws over $10 billion, traders eye modest listing pop - Reuters](https://news.google.com/rss/articles/CBMijAFBVV95cUxPX0JKbTN2UFdSR2lMbEFsaXhqZWstRU12VTlNOHg2d2d2bE95V2ZFQURkX2luX3p0SDB4T0dLVEdmLVdVOHNqTHNyWUxjWnNHTV9MMDAxVGFWbjNRemlmRlZGdUl3WnpiNHAwSG10T1FmaHBjZ3dpVlpHdm5rWUE5czRlaHY3RDVfRDNSbg?oc=5)**
-> <small>Reuters · 国际 · 21:46</small>
+> <small>Reuters · 国际 · 19:52</small>
 > India's NSE IPO draws over $10 billion, traders eye modest listing pop Reuters
 >
 > **3. [Warsh's credibility is on the line this week as Trump policies put pressure on Fed to hike](https://www.cnbc.com/2026/09/14/warshs-credibility-is-on-the-line-this-week-as-trump-policies-put-pressure-on-fed-to-hike.html)**
 > <small>CNBC Finance · 国际 · 04:49</small>
 > With inflation above target and no visibility on lower oil prices or stability of tariffs, the Fed chairman needs to pass the test that has faced his predecessors
 >
-> **4. [Crackdown clouds $46bn IPO of world’s biggest derivatives exchange - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxPLWxqMjFRWUtaaXRYVS1IOUZkNGRYSFVXM0YyQU9GUURPRXQwU3ZQdU5qYUpmdnQ1Um1sd01TMHFSRThIczZ2QVZWb3RWNC1UMnJzTFFjTmViMkFybW14MU5TRUkweTY1SXZtaFhJc1BUMnJBa05XWkNVVjFYMzhmYk5rd0s?oc=5)**
-> <small>Financial Times · 国际 · 05:00 · `可能需订阅`</small>
-> Crackdown clouds $46bn IPO of world’s biggest derivatives exchange Financial Times
+> **4. [人形机器人公司帕西尼开启A股上市辅导 公司估值超百亿元 - 财新](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBUZEN1UmVMS1hZbkhtdUE4MzJtc2JjbkZNYmFQR0hTc1BIVTJFSVI3T2RIT2pkVG1GbVdJSEZXZ05aTkpYSlpxYUEzSUdVX2dCWmtBQXgzc2xrbEh3clhtaUtESS0?oc=5)**
+> <small>财新 · 国内 · 21:04</small>
+> 人形机器人公司帕西尼开启A股上市辅导 公司估值超百亿元 财新
 >
-> **5. [Fed, BoE probe banks' exposure to trading firms after Jane Street loss, FT reports - Reuters](https://news.google.com/rss/articles/CBMiywFBVV95cUxNb3VXY2VHUTI3azdKbTBoSlhXcmFJZjhmMzVpVnVReEFwdlpUTlZFSElhSVNURlpSRFcyZVczOTRZaWFSRS11NDhwZXVhdVZFSXBTckpxc3JjclBkRTl1T1VEQXQ1R09mZGpWRFNGdnRmM1BJcmMwOHhBbHhCeklTY0ZKZ1o5Ni1ucWdFekhHYUVRa0JpbUxqWGxnQlJ6ZVdqbnNqNFhFTklrYzRKNktNWk9jU2lVc2NKYjdnUGdNS19iZkZDQ2tsalJ3VQ?oc=5)**
-> <small>Reuters · 国际 · 13:08</small>
-> Fed, BoE probe banks' exposure to trading firms after Jane Street loss, FT reports Reuters
->
-> **6. [通胀压力压倒增长担忧，欧洲央行近三年来首次加息 - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1zMTJNOGVCemd3ZnhBazZHeHNxeFVWU0VBdTZ4UGE1anYzRVBuUEh1Q3dVVkpkVC1jaHZjUkw5TTBMaHpUTkE4SHFEbE1aQlhBS05V?oc=5)**
-> <small>第一财经 · 国内 · 06:40</small>
-> 通胀压力压倒增长担忧，欧洲央行近三年来首次加息 第一财经
->
-> **7. [India Is Again Squeezed Between the Threat of Trump Tariffs and Russian Oil](https://www.nytimes.com/2026/09/19/business/india-russia-sanctions-oil.html)**
+> **5. [India Is Again Squeezed Between the Threat of Trump Tariffs and Russian Oil](https://www.nytimes.com/2026/09/19/business/india-russia-sanctions-oil.html)**
 > <small>NYTimes Business · 国际 · 02:58 · `可能需订阅`</small>
 > India is trying to secure affordable energy while preserving a crucial relationship with Washington, a balancing act made harder by turmoil in global energy markets.
 >
-> **8. [财经早知道｜习近平将对美国进行国事访问 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBZVEdGT04xYjR4RHM4UTJxMlltSXg2cC1yamJCOFZFcDZoRTEwcmxNdmEzRk1Ob2UxYU85UmhwTHN1dF9qeGI4ZldWWTVLaDYzbGhicDlCb0kycWM4WEZWVU93?oc=5)**
-> <small>财新 · 国内 · 06:46</small>
-> 财经早知道｜习近平将对美国进行国事访问 财新
+> **6. [OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services](https://www.cnbc.com/2026/09/10/openai-chatgpt-for-financial-services-targets-work-of-junior-bankers.html)**
+> <small>CNBC Finance · 国际 · 00:06</small>
+> OpenAI launched ChatGPT for Financial Services, targeting the labor-intensive research, modeling and pitchbook tasks traditionally handled by junior bankers.
 >
-> **9. [个贷明示综合融资成本统一格式公布 方便贷款人横向比较和选择 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9BRFZEU2FjUUdxSDY1dDZfM0JYTVYxdFlEclpCeUdEWnQwZjNoSnFXWkhjNWRDeTJ5QmY0aGN4MzFJSS1WeUY5YlFHRmtxZzNuZHRWeWl5QVBvWnd0bU9kTVNB?oc=5)**
-> <small>财新 · 国内 · 15:24</small>
-> 个贷明示综合融资成本统一格式公布 方便贷款人横向比较和选择 财新
+> **7. [NSE’s $2.4 Billion India IPO Subscribed 5.7 Times as Books Close - Bloomberg.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxNQ1BodXg5U3pIb3gyNzBqa0J6MGwtbHhaemg4T0dTTXk1d3FXanhJZUVQdHdvTVVTU0ZsY2JGVDV1TV9BY1c2T09WMjV3QTMwcDA1SEV5bWZyV093dGhRZ2dFUU1lX3VGYkpFNDYzZ3hUdjRnWXQ4S096dWhIUVNGXzloSUtyNlhPOVVDOUxnX3RKX01DNzBBamF6ODh3TlZQTERXZ2d4ZkRQeE4yUEJvLVE5TnM?oc=5)**
+> <small>Bloomberg.com · 国际 · 12:31 · `可能需订阅`</small>
+> NSE’s $2.4 Billion India IPO Subscribed 5.7 Times as Books Close Bloomberg.com
+>
+> **8. [欧央行率先加息全球货币政策转向？OpenAI要打Token价格战狙击Anthropic？涨价潮轮到半导体上游材料大硅片丨20260612从华尔街到陆家嘴 - 第一财经](https://news.google.com/rss/articles/CBMiVEFVX3lxTFBjZmxUM2gwa3dlSjk5YkFmSUM1T3JmVHJJeUZhaU8tcWJ3Q0kzTEJfZ1M4bmxNODNaTkVxaE01UG5TcXpIWFVJMTBCWnhiSGtGS2JLTw?oc=5)**
+> <small>第一财经 · 国内 · 00:05</small>
+> 欧央行率先加息全球货币政策转向？OpenAI要打Token价格战狙击Anthropic？涨价潮轮到半导体上游材料大硅片丨20260612从华尔街到陆家嘴 第一财经
+>
+> **9. [财经早知道｜习近平今日访美 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBaRUhtd18yTmpMNnI3QzhnTE1fekdSaVJHMU5aUEtzUllaZ0YwVEZHaDZ4UFpqc3dJZlllbHU0X2UzMVhIZHE4UlphY0VpODVGem9zcnZKTWtVOEh4UmhjMDhR?oc=5)**
+> <small>财新 · 国内 · 06:52</small>
+> 财经早知道｜习近平今日访美 财新
 >
 > **10. [日本央行如期加息+暂停缩债！磷化铟全球供需缺口超七成？高通CEO预言“AI智能体取代App”丨20260617从华尔街到陆家嘴 - 第一财经](https://news.google.com/rss/articles/CBMiVEFVX3lxTE5kOERjV19BNENodFNOZURlcGtNejNsYVlmZklJVlk2S3F2Rm8yYl9MUk1aOFpBMnpLNnVUbjV4LW12M3NqODRpaEdsdHRrRUYwSUR1SQ?oc=5)**
 > <small>第一财经 · 国内 · 12:00</small>
@@ -52,45 +52,45 @@
 > [!example] 科技 / AI
 > 10/10 · 国内 1 / 国际 9
 >
-> **1. [Could AI really kill us all? Your questions, answered.](https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/)**
+> **1. [Don’t be fooled by this summer of AI hype](https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/)**
+> <small>MIT Technology Review · 国际 · 19:04</small>
+> It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the OpenAI–Hugging Face hacking incident, af…
+>
+> **2. [Motorola’s wild-looking Signature 27 runs Qualcomm’s new Extreme chipset](https://www.theverge.com/tech/998844/motorola-signature-27-specs-snapdragon-8-elite-extreme-gen-6)**
+> <small>The Verge · 国际 · 00:47</small>
+> Motorola is the first company to announce a phone running Qualcomm's top-end Snapdragon 8 Elite Extreme Gen 6 chip. The Signature 27 looks set to be Motorola's most advanced flagship in some years, though we're still waiting for the full s…
+>
+> **3. [Could AI really kill us all? Your questions, answered.](https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/)**
 > <small>MIT Technology Review · 国际 · 19:29</small>
 > On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone’s asking right now: Could AI really kill us all? But attendees had so many more questions than we had time to answer in th…
 >
-> **2. [The specter of AI-enabled bioweapons is a wake-up call for biotech](https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/)**
-> <small>MIT Technology Review · 国际 · 17:00</small>
-> In recent weeks, leaders of some of the biggest AI companies have warned that the very tech they are developing is dangerous. Last weekend, Anthropic CEO Dario Amodei argued that AI carries serious risk and that progress should be slowed.…
+> **4. [Rabbit’s new AI agent doesn’t need an R1 to run](https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3)**
+> <small>The Verge · 国际 · 04:52</small>
+> Rabbit, the company behind the underwhelming R1 device, is rolling out a standalone AI agent that you don't need its hardware to use, as reported earlier by Wired. The startup says its new OS3 "agentic operating system" runs in the cloud b…
 >
-> **3. [California tightens rules on AI data center energy and water use](https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills)**
-> <small>The Verge · 国际 · 07:09</small>
-> California Gov. Gavin Newsom has signed seven bills designed to prevent AI data centers from passing utility costs onto residents, as reported earlier by the Los Angeles Times. The package of laws requires the California Public Utilities C…
+> **5. [Qualcomm launches two new smartphone chips with emphasis on AI](https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/)**
+> <small>TechCrunch · 国际 · 04:00</small>
+> Qualcomm said that its new top chip can run 30B mixture-of-expert model locally.
 >
-> **4. [OpenAI forms math advisory group as its AI resolves more than 100 open problems](https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/)**
-> <small>TechCrunch · 国际 · 04:15</small>
-> The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research.
+> **6. [OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes](https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/)**
+> <small>TechCrunch · 国际 · 02:00</small>
+> OpenAI is launching two new models, which it says are cut from the same cloth as Astra.
 >
-> **5. [It’s Donald Trump Versus MAGA on Data Centers - wired.com](https://news.google.com/rss/articles/CBMieEFVX3lxTE92V3pYWmhmczdyY1kyYVN4Y3VOTFJNNFlReHVqVUJLM3ZkbjNheUw3allLcFIxUmxIWnFTUGtKZkM3enNVb29VeDRDSzlVOXhkOHdrak1UekJUNmhxTThJMVk0MGN6ZVFiQWh1M0JaaWZaSDdUQVpvaA?oc=5)**
-> <small>wired.com · 国际 · 18:30</small>
-> It’s Donald Trump Versus MAGA on Data Centers wired.com
+> **7. [What to Know About Recent A.I. Hacks at Google, Anthropic, OpenAI and Meta](https://www.nytimes.com/2026/09/22/technology/ai-hacks-list.html)**
+> <small>NYTimes Technology · 国际 · 17:03 · `可能需订阅`</small>
+> OpenAI, Google and others recently disclosed breaches by their artificial intelligence models that amplified concerns about the advancing capabilities of the technology.
 >
-> **6. [最新财新周刊｜Anthropic：AI“吹哨人”背后 - 财新周刊](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mWnNpWXlWa2Y0NE95dGFFRUxGb0Ftb3pVTVZtRnZ1RkMzMDdxZUowMjI5a09zUjgzUWd5VGQ3M1pRbEhSRlBxMmJDNng3M0o0QWN6QWRXcHMtb1pRbG9aZQ?oc=5)**
-> <small>财新周刊 · 国内 · 18:04 · `可能需订阅`</small>
+> **8. [American Businesses Deserve an IRS That’s Built for the AI Age - news.bloombergtax.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxOX2Ita0RNRjlMY1E3eG5pYU9zZzVOQVA0dGFySEVzbGFjdnlFckJmWjZfTGpXY3gzazE5dTZSLVBmMnAxZGpfVkV4QmdnTU1pYU1EZk5vVzI3dGMtOEZza2lDajF4RVhQZE80NHB2aHlPVWRvQ3ZWNHZ3YVBDdWNWR1MzbXZ2ZnMyamI4U1NRR2U0azB2ZXFCcnh0TlZVU1R5YWNobXFpVWNKQmFWX0RSaWJn?oc=5)**
+> <small>news.bloombergtax.com · 国际 · 16:30 · `可能需订阅`</small>
+> American Businesses Deserve an IRS That’s Built for the AI Age news.bloombergtax.com
+>
+> **9. [最新财新周刊｜Anthropic：AI“吹哨人”背后 - 财新周刊](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mWnNpWXlWa2Y0NE95dGFFRUxGb0Ftb3pVTVZtRnZ1RkMzMDdxZUowMjI5a09zUjgzUWd5VGQ3M1pRbEhSRlBxMmJDNng3M0o0QWN6QWRXcHMtb1pRbG9aZQ?oc=5)**
+> <small>财新周刊 · 国内 · 15:00 · `可能需订阅`</small>
 > 最新财新周刊｜Anthropic：AI“吹哨人”背后 财新周刊
 >
-> **7. [Microsoft and OpenAI Workers Worry About ‘Largest Theft of Labor’ in History](https://www.nytimes.com/2026/09/17/technology/microsoft-openai-publishing-industry.html)**
-> <small>NYTimes Technology · 国际 · 09:12 · `可能需订阅`</small>
-> Newly unsealed court documents showed concern within Microsoft and OpenAI over the use of millions of news articles to develop A.I. systems.
->
-> **8. [OpenAI Discloses Six New Incidents of ‘Concerning' A.I. Behavior](https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html)**
-> <small>NYTimes Technology · 国际 · 08:12 · `可能需订阅`</small>
-> The artificial intelligence company also released a framework for reporting when its systems go wrong.
->
-> **9. [The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping](https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/)**
-> <small>TechCrunch · 国际 · 07:44</small>
-> Apple Store architect Ron Johnson says Apple's secret sauce has always been its people.
->
-> **10. [iPhone owners can now submit claims in Apple’s $250 million Siri AI settlement](https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement)**
-> <small>The Verge · 国际 · 22:06</small>
-> Apple is paying $250 million to settle claims that it failed to deliver an AI-upgraded Siri - and now, eligible iPhone owners can submit a claim for a payout. If you live in the US and purchased an iPhone 15 Pro, iPhone 15 Pro Max, or any…
+> **10. [It’s Donald Trump Versus MAGA on Data Centers - WIRED](https://news.google.com/rss/articles/CBMieEFVX3lxTE92V3pYWmhmczdyY1kyYVN4Y3VOTFJNNFlReHVqVUJLM3ZkbjNheUw3allLcFIxUmxIWnFTUGtKZkM3enNVb29VeDRDSzlVOXhkOHdrak1UekJUNmhxTThJMVk0MGN6ZVFiQWh1M0JaaWZaSDdUQVpvaA?oc=5)**
+> <small>WIRED · 国际 · 18:30</small>
+> It’s Donald Trump Versus MAGA on Data Centers WIRED
 >
 
 > [!tip] 私募股权 / 投资市场
@@ -108,33 +108,33 @@
 > <small>Private Equity International · 国际 · 21:51</small>
 > Following headlines surrounding existential risks of AI, board members float idea of calling for expanding oversight on unchecked tech development.
 >
-> **4. [Small LPs use GP-led secondaries to accelerate private markets allocations, OCIOs say](https://www.buyoutsinsider.com/small-lps-use-gp-led-secondaries-to-accelerate-private-markets-allocations-ocios-say/)**
-> <small>Buyouts · 国际 · 21:55</small>
-> Endowments and foundations using outsourced investment offices increasingly view GP-led secondaries as a way to deploy capital more quickly into private markets, prioritizing performance opportunities over liquidity concerns.
+> **4. [McDermott on preparing for exit in a selective M&A market](https://www.buyoutsinsider.com/mcdermott-on-preparing-for-exit-in-a-selective-ma-market/)**
+> <small>Buyouts · 国际 · 14:00</small>
+> In a more discriminating environment, pressure testing is becoming crucial to getting a sale over the line, says Frank Steinherr, global private equity co-head at McDermott Will & Schulte.
 >
-> **5. [HealthEdge-backed Veridian closes acquisition of ScarScience brand from Mitchell-Vance Laboratories](https://www.pehub.com/healthedge-backed-veridian-closes-acquisition-of-scarscience-brand-from-mitchell-vance-laboratories/)**
-> <small>PE Hub · 国际 · 05:11</small>
-> The deal strengthens Veridian's position in scar and wound care and extends its reach in plastic surgery, dermatology, and physical therapy. The post HealthEdge-backed Veridian closes acquisition of ScarScience brand from Mitchell-Vance La…
+> **5. [Cornell Capital acquires insurance claims services provider Hancock Claims Consultants](https://www.pehub.com/cornell-capital-acquires-insurance-claims-services-provider-hancock-claims-consultants/)**
+> <small>PE Hub · 国际 · 00:49</small>
+> Alpharetta, Georgia-based Hancock operates across 48 states with more than 1,000 field technicians providing outsourced claims field services to residential property and casualty insurance carriers. The post Cornell Capital acquires insura…
 >
-> **6. [Changing attitude of consumers leads to increased PE interest in better-for-you foods; OceanSound-backed PAR excellence acquires Terso](https://www.pehub.com/changing-attitude-of-consumers-leads-to-increased-pe-interest-in-better-for-you-foods-oceansound-backed-par-excellence-acquires-terso/)**
-> <small>PE Hub · 国际 · 21:58</small>
-> Digging into how evolving consumer tendencies are driving private equity’s interest in the better-for-you food and beverage subsector; OceanSound Partners-backed PAR Excellence Systems announces acquisition of Terso Solutions, a provider o…
->
-> **7. [Siguler Guff raises record $3bn for small buyouts](https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/siguler-guff-raises-record-3bn-for-small-buyouts-as-fundraising-stretches-beyond-commingled-funds.html)**
+> **6. [Siguler Guff raises record $3bn for small buyouts](https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/siguler-guff-raises-record-3bn-for-small-buyouts-as-fundraising-stretches-beyond-commingled-funds.html)**
 > <small>AltAssets · 国际 · 17:27</small>
 > Siguler Guff has raised more than $3bn for its US small-buyout strategy, marking the largest fundraising in the strategy’s history as the private markets manager pulls in almost $700m through separately managed accounts alongside its lates…
+>
+> **7. [CPP Investments, Blackstone-backed Ascend Learning acquires scheduling platform M7 Health](https://www.pehub.com/cpp-investments-blackstone-backed-ascend-learning-acquires-scheduling-platform-m7-health/)**
+> <small>PE Hub · 国际 · 02:27</small>
+> M7's AI-powered scheduling platform is used by health systems nationwide, from large academic medical centers to community and rural hospitals. The post CPP Investments, Blackstone-backed Ascend Learning acquires scheduling platform M7 Hea…
 >
 > **8. [真迈生物完成5.9亿元D轮融资 - 投中网](https://news.google.com/rss/articles/CBMia0FVX3lxTE1pdllaUUkwaXBnZk1xd0NDRGo2bUxCbHRLcmc1NWVudjlaczVpUXVfUzJmVXZpM2tCeURNeEgyU3lRZFFNZ1p4OU9mRnFvRXVRd081R1pVbVA4cnFVbUZWSzZwSWJDTnZiUFRJ?oc=5)**
 > <small>投中网 · 国内 · 10:32</small>
 > 真迈生物完成5.9亿元D轮融资 投中网
 >
-> **9. [智身科技完成数亿元人民币B轮融资，加速推进「真正干活的机器人」 - 投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5rVzlGTjEtWUxGU3VqZlJzOXU4WlBlR3FrbXBNSHFmcmo3UHNmQ1QxeW1Nb0FaWUZuODVTRWt5bURFdHNpeXk1ZWQwaTFsRGJXVl9Hb1p3?oc=5)**
-> <small>投资界 · 国内 · 10:13</small>
-> 智身科技完成数亿元人民币B轮融资，加速推进「真正干活的机器人」 投资界
+> **9. [4天14只“加时”募集，新基金为何卖不动了？ - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Na1BoYlhNV1pjREQ0TXFDOFZwUzVOTjQyMzlYZlAwcUMtSzdpVElERUZoLUp2RFhoY25OTGtzbHkyMlczUlBLejhtRzVjMHRldU80?oc=5)**
+> <small>第一财经 · 国内 · 19:08</small>
+> 4天14只“加时”募集，新基金为何卖不动了？ 第一财经
 >
-> **10. [融资丨天机智能完成10亿元融资，高瓴、美团联合领投 - 创业邦](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1rTmRrWHYybkx2OVA1X2sxOWlBamNMVGg3R0QybnVQRi1MbXdLemhlSkg5akFhQVFjZmp2dWNqY0lRVjdoSlFUdjNsNHkyS0Zq?oc=5)**
-> <small>创业邦 · 国内 · 15:00</small>
-> 融资丨天机智能完成10亿元融资，高瓴、美团联合领投 创业邦
+> **10. [《云南省科创股权投资母基金管理暂行办法》印发：拟设50亿元科创母基金，最高容亏60％ - 投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTE43LVNlQ0FUbkhpazhUQ1FjV2o5Smh4TTRuc1VWR08yM0E5VFVZM3BERXJRQUJXS1F6R3k5UHQzYVdVSXBCNTJiM291OHNpWVRqaGI0YS1B?oc=5)**
+> <small>投资界 · 国内 · 10:19</small>
+> 《云南省科创股权投资母基金管理暂行办法》印发：拟设50亿元科创母基金，最高容亏60％ 投资界
 >
 
 > [!warning] 抓取失败但不影响成稿的来源
