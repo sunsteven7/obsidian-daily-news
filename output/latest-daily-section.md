@@ -8,21 +8,21 @@
 > [!quote] 财经 / 金融
 > 10/10 · 国内 4 / 国际 6
 >
-> **1. [US Treasury yields soar most since ‘liberation day’ tariffs shook markets - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxOREpWOFBmdE5jcTF6Z3BkeTFoaWNfMnRBQTR1dnoydDJUZ05RS190M2pRU0M5RERYcDFoT1VpYi1Zb2JOTUFkMURoNEM3N1Y3NkdLcmFfeHhzaVJzXzFXZFE3N2dqTnNvbTVtTmZqWnBxa0Zxem4yQk9vX3ZVd3Y1Vjg2NFc?oc=5)**
+> **1. [Fed Faces Prospect of Another Interest Rate Increase Just Before Midterm Elections](https://www.nytimes.com/2026/09/25/business/fed-interest-rates-midterms.html)**
+> <small>NYTimes Business · 国际 · 23:38 · `可能需订阅`</small>
+> Financial markets are placing nearly 70 percent odds on the Federal Reserve raising interest rates in late October.
+>
+> **2. [Rising Interest Rates Are Causing Alarm. Here’s What to Know.](https://www.nytimes.com/2026/09/25/business/interest-rates-economy-markets-inflation-mortgages.html)**
+> <small>NYTimes Business · 国际 · 17:35 · `可能需订阅`</small>
+> History shows that the markets and the economy flourished when rates were even higher than today’s. But, our columnist notes, those times didn’t last.
+>
+> **3. [US Treasury yields soar most since ‘liberation day’ tariffs shook markets - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxOREpWOFBmdE5jcTF6Z3BkeTFoaWNfMnRBQTR1dnoydDJUZ05RS190M2pRU0M5RERYcDFoT1VpYi1Zb2JOTUFkMURoNEM3N1Y3NkdLcmFfeHhzaVJzXzFXZFE3N2dqTnNvbTVtTmZqWnBxa0Zxem4yQk9vX3ZVd3Y1Vjg2NFc?oc=5)**
 > <small>Financial Times · 国际 · 23:33 · `可能需订阅`</small>
 > US Treasury yields soar most since ‘liberation day’ tariffs shook markets Financial Times
 >
-> **2. [香港证监会：人民币柜台纳入港股通明年7月1日前落实 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5xcXJYV1hjemJOaUV6SlFzNG9kV2ZVaHpHR2k5cUx0YnBkcm9BQlNKd1Y3ZmJ5ajJLc1drc1RtdFNFNXQ2MUFyN0hnTThDQmtURlhZQlF0UkkxclFpd3VaUkRB?oc=5)**
+> **4. [香港证监会：人民币柜台纳入港股通明年7月1日前落实 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5xcXJYV1hjemJOaUV6SlFzNG9kV2ZVaHpHR2k5cUx0YnBkcm9BQlNKd1Y3ZmJ5ajJLc1drc1RtdFNFNXQ2MUFyN0hnTThDQmtURlhZQlF0UkkxclFpd3VaUkRB?oc=5)**
 > <small>财新 · 国内 · 21:34</small>
 > 香港证监会：人民币柜台纳入港股通明年7月1日前落实 财新
->
-> **3. [Breakingviews - COMMENTARY: African fintech IPO is a lift for dreary London - Reuters](https://news.google.com/rss/articles/CBMipAFBVV95cUxPS0ZGQmZkNUp5UmZxVU5sSGozblJtWVdTZWo2LXcxYmx1cC0zeFFuUGR1RFNjMVRyTk5yTFI3X1FvUFZXWUQ2bmczZ0ZfcVhYWFNieGtxTnpYVjQ1amxleVBkNzZibHIyZDhNSFlGdGZ5VTkyc3NkRGs5NVByVExETDJGVnBUdWlLR2w4bkdfelQxZFEzVE1EUnZvT20zZzU3a04yNQ?oc=5)**
-> <small>Reuters · 国际 · 20:44</small>
-> Breakingviews - COMMENTARY: African fintech IPO is a lift for dreary London Reuters
->
-> **4. [Airtel Money targets up to $9 billion valuation in London IPO, FT reports - Reuters](https://news.google.com/rss/articles/CBMirAFBVV95cUxQOGZneGtlQzJqam85aklsamZ2WUptdkxHRExkM3dqMC1NejNvNkt4aFJSZ1E5azRQbS1PMEo3elBjR0V4elR0RF93cGRpY2xsLVdFdzVWanlrVzBDRkdMWVU5STlDa2E5RTFBUUZuYU9VX2N0LXVnaGljMXU2THd2aW9pbG43d3RzVkgyMUR5ZlhPOGRtR2g0UFRaMXZlY1NDZC1QOW5vek5nZmRr?oc=5)**
-> <small>Reuters · 国际 · 02:51</small>
-> Airtel Money targets up to $9 billion valuation in London IPO, FT reports Reuters
 >
 > **5. [Philadelphia Fed's Anna Paulson says 'modest' rate moves likely ahead to tame inflation](https://www.cnbc.com/2026/09/24/philadelphia-feds-anna-paulson-says-modest-rate-moves-likely-ahead-to-tame-inflation.html)**
 > <small>CNBC Finance · 国际 · 01:12</small>
@@ -37,16 +37,16 @@
 > 环动科技撤回科创板上市申请 机器人赛道资本市场遇冷 财新
 >
 > **8. [Emerging markets shrug off Iran war in record foreign borrowing spree - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNemU5c1BuV2ZlU0tSTm1fdzJIZnFSV0htTmtrb0huSnBKVVZ6VE41LXhjLVB6UHZBdU8tcVpja0lTcVRIYVpUcnZWaVJhN1JGdzVOZm1TUEpKeGV5Nmo4RG9rR0F5SVU2MVJBM3lrN0ZnWlhkb1lKdVVfMWlZa2xVQnR2aGY?oc=5)**
-> <small>Financial Times · 国际 · 12:00 · `可能需订阅`</small>
+> <small>Financial Times · 国际 · 12:01 · `可能需订阅`</small>
 > Emerging markets shrug off Iran war in record foreign borrowing spree Financial Times
 >
-> **9. [刘元春：本轮“K型复苏”具有竞争性，宏观调控更要聚焦技术创新 - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1tMVgxYXU4R0FyYk5pWE1wcjVjRF9XX2U3dHZfSi1fU1BnY3VvanM4d2pyWWczRi1zckQ3Ykg5YnY5VDVPUkRETW00SDRZNUZIWHd3?oc=5)**
-> <small>第一财经 · 国内 · 14:44</small>
-> 刘元春：本轮“K型复苏”具有竞争性，宏观调控更要聚焦技术创新 第一财经
+> **9. [手持订单超5200亿元，A股造船龙头，最新发声！ - 证券时报网](https://news.google.com/rss/articles/CBMiXEFVX3lxTE40ZDhHdU12Z0dXSGZkbnNKNnk3QnRUZUxMTTRjQkJlUGV5WXNCaFF2SnoyT1lETGRidHFBQ0l0WExydEhXVjFOOHRHZ3k1cDZvaFVjaXBhMi1hZGRz?oc=5)**
+> <small>证券时报网 · 国内 · 19:46</small>
+> 手持订单超5200亿元，A股造船龙头，最新发声！ 证券时报网
 >
-> **10. [面板厂商10月产能利用率将降至80%，四季度欲遏制跌价、甚至涨价 - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTE04bGM2YXVEcG90RHE5Z2Z5NTE1YmVBd2lDNWM0eWswVDRHRlJuRXIySDBxVEVCaG5HdmM1Y1Q1Rl80TmZqU1hWXzNxQUUydFRZb3BV?oc=5)**
-> <small>第一财经 · 国内 · 22:14</small>
-> 面板厂商10月产能利用率将降至80%，四季度欲遏制跌价、甚至涨价 第一财经
+> **10. [金融强国“十五五”规划出台：央行详解货币政策、人民币国际化等改革方向 - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBERmtFOElvbV9xanlSaWViQnhjTjFiSFNqUDZPcGs0ai1YSDIyM1RLRHloTy1TWllKV3c2YkxtZjNCelVTdkFXQm5aMEp4X3U5bEgw?oc=5)**
+> <small>第一财经 · 国内 · 15:29</small>
+> 金融强国“十五五”规划出台：央行详解货币政策、人民币国际化等改革方向 第一财经
 >
 
 > [!example] 科技 / AI
@@ -56,37 +56,37 @@
 > <small>MIT Technology Review · 国际 · 17:00</small>
 > Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or just stole from two top mathematicians’…
 >
-> **2. [Don’t be fooled by this summer of AI hype](https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/)**
-> <small>MIT Technology Review · 国际 · 19:04</small>
-> It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the OpenAI–Hugging Face hacking incident, af…
+> **2. [Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing](https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/)**
+> <small>TechCrunch · 国际 · 02:33</small>
+> The funding, which comes from Third Point, Nvidia, and others, will fuel the company's massive AI data center buildout.
 >
-> **3. [Jensen Huang talks about AI and climate change like a supervillain](https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain)**
-> <small>The Verge · 国际 · 02:04</small>
-> As Jensen Huang puts it, AI can help fight climate change - but only if it inflicts "an enormous amount of pain and suffering" first. The Nvidia CEO discussed the future of energy and AI's impact on our planet in the latest episode of The…
+> **3. [The Pentagon wants $30 million to build an AI-powered lie detector](https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/)**
+> <small>MIT Technology Review · 国际 · 17:16</small>
+> The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called Polygraph+ or Polygraph Next, will focus on scoring algor…
 >
-> **4. [ElevenLabs’ CEO on margins, IPO timing, and telling customers they’re talking to a bot](https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/)**
-> <small>TechCrunch · 国际 · 00:35</small>
-> ElevenLabs powers the AI voice on the other end of a lot of customer service calls, and its CEO told me this week that businesses should probably tell you that — at least until getting a machine is what everyone expects anyway.
+> **4. [Crusoe abandons $1.25B plan to use Boom turbines at AI data centers](https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/)**
+> <small>TechCrunch · 国际 · 07:11</small>
+> Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans.
 >
-> **5. [Australia to investigate if OpenAI hack of government health website broke the law](https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/)**
-> <small>TechCrunch · 国际 · 20:54</small>
-> The incident is the first known breach to affect a government agency, and Australia's prime minister has vowed to hold OpenAI accountable.
+> **5. [One company is at the center of a wave of rogue AI attacks](https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google)**
+> <small>The Verge · 国际 · 00:51</small>
+> In July, OpenAI revealed that its AI agents had attacked Hugging Face without permission, sparking widespread concerns about AI safety. Since then, a string of similar incidents involving agents from Meta, Anthropic, Google, and other comp…
 >
-> **6. [China surveys Broadcom switch use in state data centers, FT reports - Reuters](https://news.google.com/rss/articles/CBMisAFBVV95cUxQY3ZtVXNDVWtQdDE4MHk0cVkwbXY1ZU1BTUJpcTZ4RTFOZTU0RjJoQ3oyWUxsMGJGcmZLQ19yeXFqd3VhbWFKOHVfV3ZwbzJYcVpKQ3lkOEJhYUxkV2RTUlNxMGMzbjNpcFdQZUNOTlU3QUZwdENIcERqN2ctS2JlRkk1U1BtTm1RRXluOEQ2b1lNUGJvNXhWMmdkRUh2UFFNVUpvdjEyaGpkTXhLZGNKQg?oc=5)**
-> <small>Reuters · 国际 · 13:09</small>
-> China surveys Broadcom switch use in state data centers, FT reports Reuters
+> **6. [OpenAI ‘agent’ hacked an Australian health service website - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ0YxZkxLQWRjekpSbGs3ekx2RW1rVkZSWDNud2c5VHBWd1Zpb1Z1M3M5TGxFNUZKNkd1enNRT1pzVFlTR3dRclFjcGZkZ0RfMEx6d0M5dlVjZF91OTYzT0loWUdkZlZpckxzY2trYS1WVTRqRU9ZQ3JWVVVqcU1mYzJGSUg?oc=5)**
+> <small>Financial Times · 国际 · 05:42 · `可能需订阅`</small>
+> OpenAI ‘agent’ hacked an Australian health service website Financial Times
 >
-> **7. [OpenAI’s A.I. Tried Breaching Four Other Targets, With No Prompting](https://www.nytimes.com/2026/09/23/technology/openai-ai-breach-australia.html)**
-> <small>NYTimes Technology · 国际 · 00:49 · `可能需订阅`</small>
-> In each incident, the technology appeared to be conducting mundane data collection and resorted to hacking techniques to get it, researchers said.
+> **7. [China surveys Broadcom switch use in state data centers, FT reports - reuters.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxQY3ZtVXNDVWtQdDE4MHk0cVkwbXY1ZU1BTUJpcTZ4RTFOZTU0RjJoQ3oyWUxsMGJGcmZLQ19yeXFqd3VhbWFKOHVfV3ZwbzJYcVpKQ3lkOEJhYUxkV2RTUlNxMGMzbjNpcFdQZUNOTlU3QUZwdENIcERqN2ctS2JlRkk1U1BtTm1RRXluOEQ2b1lNUGJvNXhWMmdkRUh2UFFNVUpvdjEyaGpkTXhLZGNKQg?oc=5)**
+> <small>reuters.com · 国际 · 13:09</small>
+> China surveys Broadcom switch use in state data centers, FT reports reuters.com
 >
-> **8. [Data Center Is Fined $1.1 Million for Operating 62 Power Generators](https://www.nytimes.com/2026/09/23/nyregion/data-center-pollution-new-jersey.html)**
-> <small>NYTimes Technology · 国际 · 09:17 · `可能需订阅`</small>
-> New Jersey officials said that the natural gas-powered generators, each the size of a tractor-trailer, were operating without permits.
+> **8. [OpenAI’s A.I. Went Rogue and Meddled With U.S. Government Websites](https://www.nytimes.com/2026/09/25/technology/openais-ai-us-government-websites.html)**
+> <small>NYTimes Technology · 国际 · 09:37 · `可能需订阅`</small>
+> The company did not learn until recently that its technology had meddled with websites for the Education and Commerce Departments and the Securities and Exchange Commission.
 >
-> **9. [American Businesses Deserve an IRS That’s Built for the AI Age - news.bloombergtax.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxOX2Ita0RNRjlMY1E3eG5pYU9zZzVOQVA0dGFySEVzbGFjdnlFckJmWjZfTGpXY3gzazE5dTZSLVBmMnAxZGpfVkV4QmdnTU1pYU1EZk5vVzI3dGMtOEZza2lDajF4RVhQZE80NHB2aHlPVWRvQ3ZWNHZ3YVBDdWNWR1MzbXZ2ZnMyamI4U1NRR2U0azB2ZXFCcnh0TlZVU1R5YWNobXFpVWNKQmFWX0RSaWJn?oc=5)**
-> <small>news.bloombergtax.com · 国际 · 16:30 · `可能需订阅`</small>
-> American Businesses Deserve an IRS That’s Built for the AI Age news.bloombergtax.com
+> **9. [How OpenAI’s Rogue A.I. Agents Tried to Trick a Robot Detector](https://www.nytimes.com/2026/09/25/technology/openai-hugging-face-hack.html)**
+> <small>NYTimes Technology · 国际 · 04:26 · `可能需订阅`</small>
+> A new report by a Bay Area start-up called Parse adds details to an incident that has shocked the A.I. world and led to calls for closer government regulation.
 >
 > **10. [PCIe显卡被低估了！内核补齐+通信重构，DeepSeek推理吞吐翻近7倍 - 量子位](https://news.google.com/rss/articles/CBMiVEFVX3lxTFBqSG9oR2NZVEdOcmxtTGVmeEc5eGFTRlhueWhOMGtLdXRSelpNdlpsN0tHenotR2t5a09EWGJSOGdwUVo4R0VDemN3bndteFdZc25jTw?oc=5)**
 > <small>量子位 · 国内 · 22:17</small>
@@ -94,7 +94,7 @@
 >
 
 > [!tip] 私募股权 / 投资市场
-> 10/10 · 国内 2 / 国际 8
+> 10/10 · 国内 3 / 国际 7
 >
 > **1. [Side Letter: Climate catch-22](https://www.privateequityinternational.com/side-letter-climate-catch-22/)**
 > <small>Private Equity International · 国际 · 19:37</small>
@@ -108,17 +108,17 @@
 > <small>Private Equity International · 国际 · 21:29</small>
 > Today’s investors are looking beyond founders and titles to include people truly responsible for performance.
 >
-> **4. [Atlantic Street bets on HVAC with Canada’s GLP; GHK-backed WSB picks up engineering firm; LLR backs energy management biz](https://www.pehub.com/atlantic-street-bets-on-hvac-with-canadas-glp-ghk-backed-wsb-picks-up-engineering-firm-llr-backs-energy-management-biz/)**
-> <small>PE Hub · 国际 · 21:27</small>
-> Atlantic Street Capital announces majority investment in GLP, a specialty HVAC distributor serving a range of markets; WSB, a portfolio company of GHK Capital Partners, has acquired Poly, an architecture and engineering firm; LLR Partners…
->
-> **5. [McDermott on preparing for exit in a selective M&A market](https://www.buyoutsinsider.com/mcdermott-on-preparing-for-exit-in-a-selective-ma-market/)**
+> **4. [McDermott on preparing for exit in a selective M&A market](https://www.buyoutsinsider.com/mcdermott-on-preparing-for-exit-in-a-selective-ma-market/)**
 > <small>Buyouts · 国际 · 14:00</small>
 > In a more discriminating environment, pressure testing is becoming crucial to getting a sale over the line, says Frank Steinherr, global private equity co-head at McDermott Will & Schulte.
 >
-> **6. [Arcline’s DwyerOmega agrees to acquire Kansas instrumentation maker SOR Controls Group](https://www.pehub.com/arclines-dwyeromega-agrees-to-acquire-kansas-instrumentation-maker-sor-controls-group/)**
-> <small>PE Hub · 国际 · 21:31</small>
-> Founded in 1946, SOR designs and manufactures electronic and mechanical instruments that measure pressure, temperature, level and flow. The post Arcline’s DwyerOmega agrees to acquire Kansas instrumentation maker SOR Controls Group appeare…
+> **5. [BayPine-backed Relation Insurance acquires assets of Pennsylvania agency LaPlaca](https://www.pehub.com/baypine-backed-relation-insurance-acquires-assets-of-pennsylvania-agency-laplaca/)**
+> <small>PE Hub · 国际 · 22:28</small>
+> Founded in 1988, Chalfont-based LaPlaca provides business insurance, employee benefits and personal lines coverage. The post BayPine-backed Relation Insurance acquires assets of Pennsylvania agency LaPlaca appeared first on PE Hub .
+>
+> **6. [Phoenix, Quad-C, Thoma Bravo target occupational health; Pharmaceutical growth drives May River’s sale of Dickson to Blackstone and Copeland](https://www.pehub.com/phoenix-quad-c-thoma-bravo-target-occupational-health-pharmaceutical-growth-drives-may-rivers-sale-of-dickson-to-blackstone-and-copeland/)**
+> <small>PE Hub · 国际 · 21:38</small>
+> Preventing illness and injury at work has created demand for occupational health services, which is attracting PE investors; May River Capital’s sale of an environmental monitoring platform to a Blackstone portfolio company; insights on th…
 >
 > **7. [直击中国五矿控股上市公司业绩会：并购重组、在手订单引关注 - 证券时报网](https://news.google.com/rss/articles/CBMiXEFVX3lxTE16SC1EUnFobm1FUGZBUER1SnVuZTFIOGlYSDZrdXEzZFdMclExUUgwUHhtRHotWWM0OWlKVWQ1T1Eya1A1bllkZlg2U0FKRnRVd0JsWVVNd2dRU2dJ?oc=5)**
 > <small>证券时报网 · 国内 · 21:20</small>
@@ -132,9 +132,9 @@
 > <small>投中网 · 国内 · 10:32</small>
 > 真迈生物完成5.9亿元D轮融资 投中网
 >
-> **10. [MGM Resorts Is Discussing Making a Bid for People, WSJ Reports - bloomberg.com](https://news.google.com/rss/articles/CBMipwFBVV95cUxPaFlUaHVuaE5jdExuZWZqTDZPQ0J3SWlWRDZvd1lwQVRzR1RORFFKQzVnLVFjTC1ZWFVLNHFnMTZNOGY5Q3oxb3VrcEY1WGF4ZEVBcmFLTzJiQnlsUDQwZS1TNEF5b2JkemNRV2hscmxycEpoVEJjbVRHUGlYTVNseWppckdPOHpiNXMyeDg4bTM3eUJWQ2tSMnRjQjZpeVpETkQ1OUZzQQ?oc=5)**
-> <small>bloomberg.com · 国际 · 05:53 · `可能需订阅`</small>
-> MGM Resorts Is Discussing Making a Bid for People, WSJ Reports bloomberg.com
+> **10. [真迈生物完成近6亿元D轮融资，加速生命组学技术创新与全球化布局 - 投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RVDFjeG9ISGp1QVd0R045UDludXVNVHZDV0tjT0RwX0VHOTEzODgxek1zTE02LXZyd2VpWW1fa203WWNPUUpaMnBpQkN5YWxuY2x4N0dB?oc=5)**
+> <small>投资界 · 国内 · 15:00</small>
+> 真迈生物完成近6亿元D轮融资，加速生命组学技术创新与全球化布局 投资界
 >
 
 > [!warning] 抓取失败但不影响成稿的来源
