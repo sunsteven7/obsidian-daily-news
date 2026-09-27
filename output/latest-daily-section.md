@@ -16,41 +16,41 @@
 > <small>NYTimes Business · 国际 · 17:35 · `可能需订阅`</small>
 > History shows that the markets and the economy flourished when rates were even higher than today’s. But, our columnist notes, those times didn’t last.
 >
-> **3. [US Treasury yields soar most since ‘liberation day’ tariffs shook markets - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxOREpWOFBmdE5jcTF6Z3BkeTFoaWNfMnRBQTR1dnoydDJUZ05RS190M2pRU0M5RERYcDFoT1VpYi1Zb2JOTUFkMURoNEM3N1Y3NkdLcmFfeHhzaVJzXzFXZFE3N2dqTnNvbTVtTmZqWnBxa0Zxem4yQk9vX3ZVd3Y1Vjg2NFc?oc=5)**
-> <small>Financial Times · 国际 · 23:33 · `可能需订阅`</small>
-> US Treasury yields soar most since ‘liberation day’ tariffs shook markets Financial Times
->
-> **4. [香港证监会：人民币柜台纳入港股通明年7月1日前落实 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5xcXJYV1hjemJOaUV6SlFzNG9kV2ZVaHpHR2k5cUx0YnBkcm9BQlNKd1Y3ZmJ5ajJLc1drc1RtdFNFNXQ2MUFyN0hnTThDQmtURlhZQlF0UkkxclFpd3VaUkRB?oc=5)**
-> <small>财新 · 国内 · 21:34</small>
-> 香港证监会：人民币柜台纳入港股通明年7月1日前落实 财新
->
-> **5. [Philadelphia Fed's Anna Paulson says 'modest' rate moves likely ahead to tame inflation](https://www.cnbc.com/2026/09/24/philadelphia-feds-anna-paulson-says-modest-rate-moves-likely-ahead-to-tame-inflation.html)**
+> **3. [Philadelphia Fed's Anna Paulson says 'modest' rate moves likely ahead to tame inflation](https://www.cnbc.com/2026/09/24/philadelphia-feds-anna-paulson-says-modest-rate-moves-likely-ahead-to-tame-inflation.html)**
 > <small>CNBC Finance · 国际 · 01:12</small>
 > The policymaker said she and her colleagues may need to raise interest rates further to bring inflation back to target.
 >
-> **6. [Warsh's credibility is on the line this week as Trump policies put pressure on Fed to hike](https://www.cnbc.com/2026/09/14/warshs-credibility-is-on-the-line-this-week-as-trump-policies-put-pressure-on-fed-to-hike.html)**
+> **4. [Warsh's credibility is on the line this week as Trump policies put pressure on Fed to hike](https://www.cnbc.com/2026/09/14/warshs-credibility-is-on-the-line-this-week-as-trump-policies-put-pressure-on-fed-to-hike.html)**
 > <small>CNBC Finance · 国际 · 04:49</small>
 > With inflation above target and no visibility on lower oil prices or stability of tariffs, the Fed chairman needs to pass the test that has faced his predecessors
 >
-> **7. [环动科技撤回科创板上市申请 机器人赛道资本市场遇冷 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTFB5ZjRDcTdnV1pyYWUtTlY1eU9zaE5vd0JILVZQUFVYSnVIYlpnbWZzcXFFZHI0UEVnWXVoMXNVVnRfZFZtSHUxa3hCRmVha2JZT2FuRlpBeTl2SGhyVU9DTkJ3?oc=5)**
+> **5. [环动科技撤回科创板上市申请 机器人赛道资本市场遇冷 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTFB5ZjRDcTdnV1pyYWUtTlY1eU9zaE5vd0JILVZQUFVYSnVIYlpnbWZzcXFFZHI0UEVnWXVoMXNVVnRfZFZtSHUxa3hCRmVha2JZT2FuRlpBeTl2SGhyVU9DTkJ3?oc=5)**
 > <small>财新 · 国内 · 21:52</small>
 > 环动科技撤回科创板上市申请 机器人赛道资本市场遇冷 财新
 >
-> **8. [Emerging markets shrug off Iran war in record foreign borrowing spree - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNemU5c1BuV2ZlU0tSTm1fdzJIZnFSV0htTmtrb0huSnBKVVZ6VE41LXhjLVB6UHZBdU8tcVpja0lTcVRIYVpUcnZWaVJhN1JGdzVOZm1TUEpKeGV5Nmo4RG9rR0F5SVU2MVJBM3lrN0ZnWlhkb1lKdVVfMWlZa2xVQnR2aGY?oc=5)**
+> **6. [Emerging markets shrug off Iran war in record foreign borrowing spree - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNemU5c1BuV2ZlU0tSTm1fdzJIZnFSV0htTmtrb0huSnBKVVZ6VE41LXhjLVB6UHZBdU8tcVpja0lTcVRIYVpUcnZWaVJhN1JGdzVOZm1TUEpKeGV5Nmo4RG9rR0F5SVU2MVJBM3lrN0ZnWlhkb1lKdVVfMWlZa2xVQnR2aGY?oc=5)**
 > <small>Financial Times · 国际 · 12:01 · `可能需订阅`</small>
 > Emerging markets shrug off Iran war in record foreign borrowing spree Financial Times
 >
-> **9. [手持订单超5200亿元，A股造船龙头，最新发声！ - 证券时报网](https://news.google.com/rss/articles/CBMiXEFVX3lxTE40ZDhHdU12Z0dXSGZkbnNKNnk3QnRUZUxMTTRjQkJlUGV5WXNCaFF2SnoyT1lETGRidHFBQ0l0WExydEhXVjFOOHRHZ3k1cDZvaFVjaXBhMi1hZGRz?oc=5)**
+> **7. [Smart Ring Maker Oura’s IPO Is About Four Times Oversubscribed - Bloomberg](https://news.google.com/rss/articles/CBMiswFBVV95cUxNNTJWaVV3RnYtUGJiem92aG05WU1ValZldmlmNmJ6amYwYmpoeVJrTFR5c2pIUDJtcVN5TFVYNTh5T20xMFZuTEEzSGhpZldFd3dFalJCbjBWZ2tWTnBIMXJBSG1jM3ZOMWZsMXh5NGVSR0xQQTFhRDFjdkpvcDVPSXhwYzFQZzV5YXFmUTI0RFppblBpNndVTTlvQWs2Q2xfLWtkUGMxS3JLSUpLSjVIeS1WQQ?oc=5)**
+> <small>Bloomberg · 国际 · 03:32 · `可能需订阅`</small>
+> Smart Ring Maker Oura’s IPO Is About Four Times Oversubscribed Bloomberg
+>
+> **8. [手持订单超5200亿元，A股造船龙头，最新发声！ - 证券时报网](https://news.google.com/rss/articles/CBMiXEFVX3lxTE40ZDhHdU12Z0dXSGZkbnNKNnk3QnRUZUxMTTRjQkJlUGV5WXNCaFF2SnoyT1lETGRidHFBQ0l0WExydEhXVjFOOHRHZ3k1cDZvaFVjaXBhMi1hZGRz?oc=5)**
 > <small>证券时报网 · 国内 · 19:46</small>
 > 手持订单超5200亿元，A股造船龙头，最新发声！ 证券时报网
 >
-> **10. [金融强国“十五五”规划出台：央行详解货币政策、人民币国际化等改革方向 - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBERmtFOElvbV9xanlSaWViQnhjTjFiSFNqUDZPcGs0ai1YSDIyM1RLRHloTy1TWllKV3c2YkxtZjNCelVTdkFXQm5aMEp4X3U5bEgw?oc=5)**
-> <small>第一财经 · 国内 · 15:29</small>
-> 金融强国“十五五”规划出台：央行详解货币政策、人民币国际化等改革方向 第一财经
+> **9. [A股新指数，即将发布 - 证券时报网](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBhMkJ4c3dGb1dVT3FYcTVXZXdZU0FfcHR4ZWhHXzlVSk9fa01sSWJFVXh5cXE1NFZIT1dVUXF6VXp2amhCc0NIaUNDQmlKTzR2QVFSdFRLWnNCT0Y0?oc=5)**
+> <small>证券时报网 · 国内 · 11:07</small>
+> A股新指数，即将发布 证券时报网
+>
+> **10. [财新观察｜让资本市场“哨声”更响更准 - 财新周刊](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9MTUF4eUxTYjJ2Y0FfTGdHTEpKaWtIWHRjLWhFY3N4YkhSRnJSM2FpaUFkQnZycThWMXpRNjNONVJYSlJQUjBsOTB5WHdBR2k4eFlzTzM2RXI3VmIwYklGRQ?oc=5)**
+> <small>财新周刊 · 国内 · 18:31 · `可能需订阅`</small>
+> 财新观察｜让资本市场“哨声”更响更准 财新周刊
 >
 
 > [!example] 科技 / AI
-> 10/10 · 国内 1 / 国际 9
+> 10/10 · 国内 2 / 国际 8
 >
 > **1. [The AI Hype Index: AI loves cheating](https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/)**
 > <small>MIT Technology Review · 国际 · 17:00</small>
@@ -64,29 +64,29 @@
 > <small>MIT Technology Review · 国际 · 17:16</small>
 > The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called Polygraph+ or Polygraph Next, will focus on scoring algor…
 >
-> **4. [Crusoe abandons $1.25B plan to use Boom turbines at AI data centers](https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/)**
+> **4. [OpenAI pauses training of its ‘most capable models’](https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause)**
+> <small>The Verge · 国际 · 00:34</small>
+> As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the company has made the decision to pause training of its most powerful models. The decision was made after a model being tes…
+>
+> **5. [Crusoe abandons $1.25B plan to use Boom turbines at AI data centers](https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/)**
 > <small>TechCrunch · 国际 · 07:11</small>
 > Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans.
 >
-> **5. [One company is at the center of a wave of rogue AI attacks](https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google)**
-> <small>The Verge · 国际 · 00:51</small>
-> In July, OpenAI revealed that its AI agents had attacked Hugging Face without permission, sparking widespread concerns about AI safety. Since then, a string of similar incidents involving agents from Meta, Anthropic, Google, and other comp…
+> **6. [Can Cloudflare CEO Matthew Prince save the web from AI?](https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising)**
+> <small>The Verge · 国际 · 06:13</small>
+> Today, I’m talking with Matthew Prince, who is CEO of Cloudflare. This episode is part of a two-part series on the future of business. Matthew last joined us on the show about two and a half years ago, at what we thought then was a wild pi…
 >
-> **6. [OpenAI ‘agent’ hacked an Australian health service website - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ0YxZkxLQWRjekpSbGs3ekx2RW1rVkZSWDNud2c5VHBWd1Zpb1Z1M3M5TGxFNUZKNkd1enNRT1pzVFlTR3dRclFjcGZkZ0RfMEx6d0M5dlVjZF91OTYzT0loWUdkZlZpckxzY2trYS1WVTRqRU9ZQ3JWVVVqcU1mYzJGSUg?oc=5)**
-> <small>Financial Times · 国际 · 05:42 · `可能需订阅`</small>
-> OpenAI ‘agent’ hacked an Australian health service website Financial Times
->
-> **7. [China surveys Broadcom switch use in state data centers, FT reports - reuters.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxQY3ZtVXNDVWtQdDE4MHk0cVkwbXY1ZU1BTUJpcTZ4RTFOZTU0RjJoQ3oyWUxsMGJGcmZLQ19yeXFqd3VhbWFKOHVfV3ZwbzJYcVpKQ3lkOEJhYUxkV2RTUlNxMGMzbjNpcFdQZUNOTlU3QUZwdENIcERqN2ctS2JlRkk1U1BtTm1RRXluOEQ2b1lNUGJvNXhWMmdkRUh2UFFNVUpvdjEyaGpkTXhLZGNKQg?oc=5)**
-> <small>reuters.com · 国际 · 13:09</small>
-> China surveys Broadcom switch use in state data centers, FT reports reuters.com
->
-> **8. [OpenAI’s A.I. Went Rogue and Meddled With U.S. Government Websites](https://www.nytimes.com/2026/09/25/technology/openais-ai-us-government-websites.html)**
+> **7. [OpenAI’s A.I. Went Rogue and Meddled With U.S. Government Websites](https://www.nytimes.com/2026/09/25/technology/openais-ai-us-government-websites.html)**
 > <small>NYTimes Technology · 国际 · 09:37 · `可能需订阅`</small>
 > The company did not learn until recently that its technology had meddled with websites for the Education and Commerce Departments and the Securities and Exchange Commission.
 >
-> **9. [How OpenAI’s Rogue A.I. Agents Tried to Trick a Robot Detector](https://www.nytimes.com/2026/09/25/technology/openai-hugging-face-hack.html)**
+> **8. [How OpenAI’s Rogue A.I. Agents Tried to Trick a Robot Detector](https://www.nytimes.com/2026/09/25/technology/openai-hugging-face-hack.html)**
 > <small>NYTimes Technology · 国际 · 04:26 · `可能需订阅`</small>
 > A new report by a Bay Area start-up called Parse adds details to an incident that has shocked the A.I. world and led to calls for closer government regulation.
+>
+> **9. [AI开始研究Physical AI：FSD级团队亮出首版模型Simate-beta，空降RoboDojo - 量子位](https://news.google.com/rss/articles/CBMiVEFVX3lxTFBNVDk2NFRrSVd5SldMUGJVMlR1MWtrUC1XM2dEb3hzTFQ3YXV3Q3NLR1hJYi10TzlXSU5pUEJxbGw4M1RaOGZ0Z3dlQ0hZbkRZTGRSUg?oc=5)**
+> <small>量子位 · 国内 · 17:07</small>
+> AI开始研究Physical AI：FSD级团队亮出首版模型Simate-beta，空降RoboDojo 量子位
 >
 > **10. [PCIe显卡被低估了！内核补齐+通信重构，DeepSeek推理吞吐翻近7倍 - 量子位](https://news.google.com/rss/articles/CBMiVEFVX3lxTFBqSG9oR2NZVEdOcmxtTGVmeEc5eGFTRlhueWhOMGtLdXRSelpNdlpsN0tHenotR2t5a09EWGJSOGdwUVo4R0VDemN3bndteFdZc25jTw?oc=5)**
 > <small>量子位 · 国内 · 22:17</small>
@@ -94,7 +94,7 @@
 >
 
 > [!tip] 私募股权 / 投资市场
-> 10/10 · 国内 3 / 国际 7
+> 10/10 · 国内 2 / 国际 8
 >
 > **1. [Side Letter: Climate catch-22](https://www.privateequityinternational.com/side-letter-climate-catch-22/)**
 > <small>Private Equity International · 国际 · 19:37</small>
@@ -132,9 +132,9 @@
 > <small>投中网 · 国内 · 10:32</small>
 > 真迈生物完成5.9亿元D轮融资 投中网
 >
-> **10. [真迈生物完成近6亿元D轮融资，加速生命组学技术创新与全球化布局 - 投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RVDFjeG9ISGp1QVd0R045UDludXVNVHZDV0tjT0RwX0VHOTEzODgxek1zTE02LXZyd2VpWW1fa203WWNPUUpaMnBpQkN5YWxuY2x4N0dB?oc=5)**
-> <small>投资界 · 国内 · 15:00</small>
-> 真迈生物完成近6亿元D轮融资，加速生命组学技术创新与全球化布局 投资界
+> **10. [Trump Rejects Iran’s Seven-Day Ceasefire Proposal, WSJ Reports - Bloomberg](https://news.google.com/rss/articles/CBMisgFBVV95cUxPM3JfOXJHck9tUWd6Q2RheHY0WHJpaFNqMnRhVFZXaGJ4cTIwcGxOQjh4VmVRbXd5ZmUxMjdqMlh6VUl2ZWEyeUlrR3IwLW0tejEwcmkzTmdqWkFpZDVOeHRxUHpKaExaUWJJenZFSnZqb0hUY1g2Wk0wRnVTQWRQT2RLcVhaaVduUXlaU21YUXM5ejFGdGstcV9LLUJuMjJBYVV5ZkxEZFpuM2poWU5DbFJB?oc=5)**
+> <small>Bloomberg · 国际 · 16:57 · `可能需订阅`</small>
+> Trump Rejects Iran’s Seven-Day Ceasefire Proposal, WSJ Reports Bloomberg
 >
 
 > [!warning] 抓取失败但不影响成稿的来源
