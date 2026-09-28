@@ -20,81 +20,81 @@
 > <small>CNBC Finance · 国际 · 01:12</small>
 > The policymaker said she and her colleagues may need to raise interest rates further to bring inflation back to target.
 >
-> **4. [Warsh's credibility is on the line this week as Trump policies put pressure on Fed to hike](https://www.cnbc.com/2026/09/14/warshs-credibility-is-on-the-line-this-week-as-trump-policies-put-pressure-on-fed-to-hike.html)**
-> <small>CNBC Finance · 国际 · 04:49</small>
-> With inflation above target and no visibility on lower oil prices or stability of tariffs, the Fed chairman needs to pass the test that has faced his predecessors
+> **4. [香港交易所旗下的衍生产品结算所将于11月起接受中国国债、政策性金融债及财政部债券作为非现金抵押品 - 证券时报网](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1zVVBSTmI5eUZoekkwemdMMGk0LTRGT2JrR1ByYllQWHN5YlNjRlJfWlV5SmxZVzdaT09zNzd0SkRuWEtvbGc4SmlYb0Fmc1pZVWh1NE9TSXFaQzdmMXc?oc=5)**
+> <small>证券时报网 · 国内 · 21:32</small>
+> 香港交易所旗下的衍生产品结算所将于11月起接受中国国债、政策性金融债及财政部债券作为非现金抵押品 证券时报网
 >
-> **5. [环动科技撤回科创板上市申请 机器人赛道资本市场遇冷 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTFB5ZjRDcTdnV1pyYWUtTlY1eU9zaE5vd0JILVZQUFVYSnVIYlpnbWZzcXFFZHI0UEVnWXVoMXNVVnRfZFZtSHUxa3hCRmVha2JZT2FuRlpBeTl2SGhyVU9DTkJ3?oc=5)**
-> <small>财新 · 国内 · 21:52</small>
-> 环动科技撤回科创板上市申请 机器人赛道资本市场遇冷 财新
+> **5. [Big dreams and tiny revenue are the new norm for AI IPOs - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxPUmxFc0Vta2dpMDA3eEN6ZW03RmtYNUkxejFsVlk5WG83aUJsRHBfUDJiSnB3UVBEengtNTFXWEZlVUg2Y2dBaTZuUXhNam1WMVF4akFtRHJRaE4ydHEwV0ZtaXYyRElQbjMzRmRzY0F6MzBuLV9nVW9fWXdrUnVBeVNLb3M?oc=5)**
+> <small>Financial Times · 国际 · 12:03 · `可能需订阅`</small>
+> Big dreams and tiny revenue are the new norm for AI IPOs Financial Times
 >
-> **6. [Emerging markets shrug off Iran war in record foreign borrowing spree - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNemU5c1BuV2ZlU0tSTm1fdzJIZnFSV0htTmtrb0huSnBKVVZ6VE41LXhjLVB6UHZBdU8tcVpja0lTcVRIYVpUcnZWaVJhN1JGdzVOZm1TUEpKeGV5Nmo4RG9rR0F5SVU2MVJBM3lrN0ZnWlhkb1lKdVVfMWlZa2xVQnR2aGY?oc=5)**
-> <small>Financial Times · 国际 · 12:01 · `可能需订阅`</small>
-> Emerging markets shrug off Iran war in record foreign borrowing spree Financial Times
+> **6. [Smart Ring Maker Oura’s IPO Is About Four Times Oversubscribed - Bloomberg.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxNNTJWaVV3RnYtUGJiem92aG05WU1ValZldmlmNmJ6amYwYmpoeVJrTFR5c2pIUDJtcVN5TFVYNTh5T20xMFZuTEEzSGhpZldFd3dFalJCbjBWZ2tWTnBIMXJBSG1jM3ZOMWZsMXh5NGVSR0xQQTFhRDFjdkpvcDVPSXhwYzFQZzV5YXFmUTI0RFppblBpNndVTTlvQWs2Q2xfLWtkUGMxS3JLSUpLSjVIeS1WQQ?oc=5)**
+> <small>Bloomberg.com · 国际 · 03:32 · `可能需订阅`</small>
+> Smart Ring Maker Oura’s IPO Is About Four Times Oversubscribed Bloomberg.com
 >
-> **7. [Smart Ring Maker Oura’s IPO Is About Four Times Oversubscribed - Bloomberg](https://news.google.com/rss/articles/CBMiswFBVV95cUxNNTJWaVV3RnYtUGJiem92aG05WU1ValZldmlmNmJ6amYwYmpoeVJrTFR5c2pIUDJtcVN5TFVYNTh5T20xMFZuTEEzSGhpZldFd3dFalJCbjBWZ2tWTnBIMXJBSG1jM3ZOMWZsMXh5NGVSR0xQQTFhRDFjdkpvcDVPSXhwYzFQZzV5YXFmUTI0RFppblBpNndVTTlvQWs2Q2xfLWtkUGMxS3JLSUpLSjVIeS1WQQ?oc=5)**
-> <small>Bloomberg · 国际 · 03:32 · `可能需订阅`</small>
-> Smart Ring Maker Oura’s IPO Is About Four Times Oversubscribed Bloomberg
+> **7. [Bond ructions point to new danger zone in markets - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxOYnNFUXhpUGphWlN0YnpUcTZHeFBvYmJaeWpsYnp3TzJudTViR281T0p5YnFPbzllVVc3em5jNVE2ZGtIaHBwOTlUT1hnN2k5LTFwSXAwQzVUZzVQTktHT3RVdWc1Rm1DRHE0WU90V0ZyMEdrNWhHTDExUVZVV2lzVnFaODc?oc=5)**
+> <small>Financial Times · 国际 · 01:00 · `可能需订阅`</small>
+> Bond ructions point to new danger zone in markets Financial Times
 >
-> **8. [手持订单超5200亿元，A股造船龙头，最新发声！ - 证券时报网](https://news.google.com/rss/articles/CBMiXEFVX3lxTE40ZDhHdU12Z0dXSGZkbnNKNnk3QnRUZUxMTTRjQkJlUGV5WXNCaFF2SnoyT1lETGRidHFBQ0l0WExydEhXVjFOOHRHZ3k1cDZvaFVjaXBhMi1hZGRz?oc=5)**
-> <small>证券时报网 · 国内 · 19:46</small>
-> 手持订单超5200亿元，A股造船龙头，最新发声！ 证券时报网
->
-> **9. [A股新指数，即将发布 - 证券时报网](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBhMkJ4c3dGb1dVT3FYcTVXZXdZU0FfcHR4ZWhHXzlVSk9fa01sSWJFVXh5cXE1NFZIT1dVUXF6VXp2amhCc0NIaUNDQmlKTzR2QVFSdFRLWnNCT0Y0?oc=5)**
-> <small>证券时报网 · 国内 · 11:07</small>
-> A股新指数，即将发布 证券时报网
->
-> **10. [财新观察｜让资本市场“哨声”更响更准 - 财新周刊](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9MTUF4eUxTYjJ2Y0FfTGdHTEpKaWtIWHRjLWhFY3N4YkhSRnJSM2FpaUFkQnZycThWMXpRNjNONVJYSlJQUjBsOTB5WHdBR2k4eFlzTzM2RXI3VmIwYklGRQ?oc=5)**
-> <small>财新周刊 · 国内 · 18:31 · `可能需订阅`</small>
+> **8. [财新观察｜让资本市场“哨声”更响更准 - 财新周刊](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9MTUF4eUxTYjJ2Y0FfTGdHTEpKaWtIWHRjLWhFY3N4YkhSRnJSM2FpaUFkQnZycThWMXpRNjNONVJYSlJQUjBsOTB5WHdBR2k4eFlzTzM2RXI3VmIwYklGRQ?oc=5)**
+> <small>财新周刊 · 国内 · 07:58 · `可能需订阅`</small>
 > 财新观察｜让资本市场“哨声”更响更准 财新周刊
+>
+> **9. [秦皇岛汽贸公司疑似做局诈骗 有人背上贷款有人车辆无法过户 - 财新](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9tVWxqYkhlSFRvQ09EZ2dIOWR0cWFiMFREeFdFb0ZGQ0ZkUEh0VGFrNDdkZ2twOVhqS203SGhaMDNCNW9hd0FDNnMxeUUwR2ZYNVdCZ0REWFc1N2JqVWhBRzBOWW4?oc=5)**
+> <small>财新 · 国内 · 19:57</small>
+> 秦皇岛汽贸公司疑似做局诈骗 有人背上贷款有人车辆无法过户 财新
+>
+> **10. [世赛颁奖现场 中国香港选手拿下优胜奖喜极而泣 为热爱全力以赴就是最好成绩︱一览·世赛观察 - 第一财经](https://news.google.com/rss/articles/CBMiVEFVX3lxTE1jZVFWT1QxS3pLQk45VWdpYmVOSWFtOVlTZjlHV3BXejdzQ09MdGRzR3BLN3FTemVQdkNTT3pjMTh5RmlIaXhDX0dXenMyWFJkTWlCYw?oc=5)**
+> <small>第一财经 · 国内 · 07:18</small>
+> 世赛颁奖现场 中国香港选手拿下优胜奖喜极而泣 为热爱全力以赴就是最好成绩︱一览·世赛观察 第一财经
 >
 
 > [!example] 科技 / AI
-> 10/10 · 国内 2 / 国际 8
+> 10/10 · 国内 1 / 国际 9
 >
 > **1. [The AI Hype Index: AI loves cheating](https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/)**
 > <small>MIT Technology Review · 国际 · 17:00</small>
 > Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or just stole from two top mathematicians’…
 >
-> **2. [Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing](https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/)**
-> <small>TechCrunch · 国际 · 02:33</small>
-> The funding, which comes from Third Point, Nvidia, and others, will fuel the company's massive AI data center buildout.
->
-> **3. [The Pentagon wants $30 million to build an AI-powered lie detector](https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/)**
+> **2. [The Pentagon wants $30 million to build an AI-powered lie detector](https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/)**
 > <small>MIT Technology Review · 国际 · 17:16</small>
 > The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called Polygraph+ or Polygraph Next, will focus on scoring algor…
 >
-> **4. [OpenAI pauses training of its ‘most capable models’](https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause)**
+> **3. [OpenAI says governments among ‘dozens’ of organisations hacked by its agents - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNZzNqdEZLLS0zQ1d6ckpjbU5fM2hfMDdTd0pvVTdoSUFsaDdqQmMyT2JFdGRwYWM4dlFfcWdGakNqTGg5YVJlUzZuU2pzMUpnb3RIWDJpUHM3dDV0ZUFrbmFVejM3Rm5uS0FYaGtlbWRYQWp2LU1FT3dQNHlpUFUwUzZzajk?oc=5)**
+> <small>Financial Times · 国际 · 06:18 · `可能需订阅`</small>
+> OpenAI says governments among ‘dozens’ of organisations hacked by its agents Financial Times
+>
+> **4. [Thieves Stole ‘Nvidia’ Trailers. They Got 20 Tons of Sand - WIRED](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeXQ4TFBMTVIyZEZWZXYwNGxFVkxLeXItT1ZUQWFCOTJjSHZxazQzT0tmc3V5NHFVTVVYV2pJYzJ4cGh1VWpUYk0zVXBQY2ZvamI4Nm1xX0ZuUVNERHh5MnZYTjNCMzl6dVdja3pwY2paT2xPZTFjRURXMWRQY3dXU0h5ZlA2NkhoZGtj?oc=5)**
+> <small>WIRED · 国际 · 04:30</small>
+> Thieves Stole ‘Nvidia’ Trailers. They Got 20 Tons of Sand WIRED
+>
+> **5. [Can Muse overcome Meta’s trust issues?](https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/)**
+> <small>TechCrunch · 国际 · 03:57</small>
+> On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.
+>
+> **6. [OpenAI agents tried to ‘bruteforce’ a UN website](https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website)**
+> <small>The Verge · 国际 · 01:21</small>
+> Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNCTAD) statistics site over 16,000 times between April and June. While the incident doesn't quite rise to the level of th…
+>
+> **7. [OpenAI pauses training of its ‘most capable models’](https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause)**
 > <small>The Verge · 国际 · 00:34</small>
 > As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the company has made the decision to pause training of its most powerful models. The decision was made after a model being tes…
 >
-> **5. [Crusoe abandons $1.25B plan to use Boom turbines at AI data centers](https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/)**
+> **8. [Crusoe abandons $1.25B plan to use Boom turbines at AI data centers](https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/)**
 > <small>TechCrunch · 国际 · 07:11</small>
 > Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans.
 >
-> **6. [Can Cloudflare CEO Matthew Prince save the web from AI?](https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising)**
-> <small>The Verge · 国际 · 06:13</small>
-> Today, I’m talking with Matthew Prince, who is CEO of Cloudflare. This episode is part of a two-part series on the future of business. Matthew last joined us on the show about two and a half years ago, at what we thought then was a wild pi…
+> **9. [The Data Center Backlash Should Also Be a Climate Reckoning. It Isn’t Yet - WIRED](https://news.google.com/rss/articles/CBMidkFVX3lxTE1uVnc4QnJ6cmxKaGJYT2tsOVhrc1ZTSzNyVEpzV2ljandobXAzUzc1d0pLWHMzNkk3MDZvUkc5TnFfdDg1bVZOakdvbGxfM1FHVy16ZlljZWZoc3lLZ2VvX3htRnRZeFl1dE9HMWI1UTBmQTV2MWc?oc=5)**
+> <small>WIRED · 国际 · 18:00</small>
+> The Data Center Backlash Should Also Be a Climate Reckoning. It Isn’t Yet WIRED
 >
-> **7. [OpenAI’s A.I. Went Rogue and Meddled With U.S. Government Websites](https://www.nytimes.com/2026/09/25/technology/openais-ai-us-government-websites.html)**
-> <small>NYTimes Technology · 国际 · 09:37 · `可能需订阅`</small>
-> The company did not learn until recently that its technology had meddled with websites for the Education and Commerce Departments and the Securities and Exchange Commission.
->
-> **8. [How OpenAI’s Rogue A.I. Agents Tried to Trick a Robot Detector](https://www.nytimes.com/2026/09/25/technology/openai-hugging-face-hack.html)**
-> <small>NYTimes Technology · 国际 · 04:26 · `可能需订阅`</small>
-> A new report by a Bay Area start-up called Parse adds details to an incident that has shocked the A.I. world and led to calls for closer government regulation.
->
-> **9. [AI开始研究Physical AI：FSD级团队亮出首版模型Simate-beta，空降RoboDojo - 量子位](https://news.google.com/rss/articles/CBMiVEFVX3lxTFBNVDk2NFRrSVd5SldMUGJVMlR1MWtrUC1XM2dEb3hzTFQ3YXV3Q3NLR1hJYi10TzlXSU5pUEJxbGw4M1RaOGZ0Z3dlQ0hZbkRZTGRSUg?oc=5)**
+> **10. [AI开始研究Physical AI：FSD级团队亮出首版模型Simate-beta，空降RoboDojo - 量子位](https://news.google.com/rss/articles/CBMiVEFVX3lxTFBNVDk2NFRrSVd5SldMUGJVMlR1MWtrUC1XM2dEb3hzTFQ3YXV3Q3NLR1hJYi10TzlXSU5pUEJxbGw4M1RaOGZ0Z3dlQ0hZbkRZTGRSUg?oc=5)**
 > <small>量子位 · 国内 · 17:07</small>
 > AI开始研究Physical AI：FSD级团队亮出首版模型Simate-beta，空降RoboDojo 量子位
 >
-> **10. [PCIe显卡被低估了！内核补齐+通信重构，DeepSeek推理吞吐翻近7倍 - 量子位](https://news.google.com/rss/articles/CBMiVEFVX3lxTFBqSG9oR2NZVEdOcmxtTGVmeEc5eGFTRlhueWhOMGtLdXRSelpNdlpsN0tHenotR2t5a09EWGJSOGdwUVo4R0VDemN3bndteFdZc25jTw?oc=5)**
-> <small>量子位 · 国内 · 22:17</small>
-> PCIe显卡被低估了！内核补齐+通信重构，DeepSeek推理吞吐翻近7倍 量子位
->
 
 > [!tip] 私募股权 / 投资市场
-> 10/10 · 国内 2 / 国际 8
+> 10/10 · 国内 0 / 国际 10
 >
 > **1. [Side Letter: Climate catch-22](https://www.privateequityinternational.com/side-letter-climate-catch-22/)**
 > <small>Private Equity International · 国际 · 19:37</small>
@@ -120,21 +120,21 @@
 > <small>PE Hub · 国际 · 21:38</small>
 > Preventing illness and injury at work has created demand for occupational health services, which is attracting PE investors; May River Capital’s sale of an environmental monitoring platform to a Blackstone portfolio company; insights on th…
 >
-> **7. [直击中国五矿控股上市公司业绩会：并购重组、在手订单引关注 - 证券时报网](https://news.google.com/rss/articles/CBMiXEFVX3lxTE16SC1EUnFobm1FUGZBUER1SnVuZTFIOGlYSDZrdXEzZFdMclExUUgwUHhtRHotWWM0OWlKVWQ1T1Eya1A1bllkZlg2U0FKRnRVd0JsWVVNd2dRU2dJ?oc=5)**
-> <small>证券时报网 · 国内 · 21:20</small>
-> 直击中国五矿控股上市公司业绩会：并购重组、在手订单引关注 证券时报网
->
-> **8. [Public pensions lifted PE commitments 24% last year to $100.9bn, despite exit squeeze](https://www.altassets.net/featured/public-pensions-lifted-pe-commitments-24-to-100-9bn-despite-exit-squeeze.html)**
+> **7. [Public pensions lifted PE commitments 24% last year to $100.9bn, despite exit squeeze](https://www.altassets.net/featured/public-pensions-lifted-pe-commitments-24-to-100-9bn-despite-exit-squeeze.html)**
 > <small>AltAssets · 国际 · 16:54</small>
 > US public pension funds increased private equity commitments by 24% last year despite continuing pressure from weak distributions, putting $100.9bn into the asset class during 2025, according to new Nasdaq eVestment data. The post Public p…
 >
-> **9. [真迈生物完成5.9亿元D轮融资 - 投中网](https://news.google.com/rss/articles/CBMia0FVX3lxTE1pdllaUUkwaXBnZk1xd0NDRGo2bUxCbHRLcmc1NWVudjlaczVpUXVfUzJmVXZpM2tCeURNeEgyU3lRZFFNZ1p4OU9mRnFvRXVRd081R1pVbVA4cnFVbUZWSzZwSWJDTnZiUFRJ?oc=5)**
-> <small>投中网 · 国内 · 10:32</small>
-> 真迈生物完成5.9亿元D轮融资 投中网
+> **8. [Blackstone’s top private equity executive prepares exit for possible public service move - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxQZEctcnRqZ3Z3djR6Tm9QbnZvc0M4V0RzQ1NWRGJRelJ0MTJQNzVJaU04eUVmUUJpWVlxYW9zMnoyV2o5eC1Td0tRaS0xRHkzRUhXZ1NxLTZQWUFKU3RnVEcxQ09JWUNxLVltQ1hhTks5Y2pCMjFYQTlaSncwUlNRUm82WDQ?oc=5)**
+> <small>Financial Times · 国际 · 04:10 · `可能需订阅`</small>
+> Blackstone’s top private equity executive prepares exit for possible public service move Financial Times
 >
-> **10. [Trump Rejects Iran’s Seven-Day Ceasefire Proposal, WSJ Reports - Bloomberg](https://news.google.com/rss/articles/CBMisgFBVV95cUxPM3JfOXJHck9tUWd6Q2RheHY0WHJpaFNqMnRhVFZXaGJ4cTIwcGxOQjh4VmVRbXd5ZmUxMjdqMlh6VUl2ZWEyeUlrR3IwLW0tejEwcmkzTmdqWkFpZDVOeHRxUHpKaExaUWJJenZFSnZqb0hUY1g2Wk0wRnVTQWRQT2RLcVhaaVduUXlaU21YUXM5ejFGdGstcV9LLUJuMjJBYVV5ZkxEZFpuM2poWU5DbFJB?oc=5)**
-> <small>Bloomberg · 国际 · 16:57 · `可能需订阅`</small>
-> Trump Rejects Iran’s Seven-Day Ceasefire Proposal, WSJ Reports Bloomberg
+> **9. [MGM Resorts Is Discussing Making a Bid for People, WSJ Reports - Bloomberg.com](https://news.google.com/rss/articles/CBMipwFBVV95cUxPaFlUaHVuaE5jdExuZWZqTDZPQ0J3SWlWRDZvd1lwQVRzR1RORFFKQzVnLVFjTC1ZWFVLNHFnMTZNOGY5Q3oxb3VrcEY1WGF4ZEVBcmFLTzJiQnlsUDQwZS1TNEF5b2JkemNRV2hscmxycEpoVEJjbVRHUGlYTVNseWppckdPOHpiNXMyeDg4bTM3eUJWQ2tSMnRjQjZpeVpETkQ1OUZzQQ?oc=5)**
+> <small>Bloomberg.com · 国际 · 05:53 · `可能需订阅`</small>
+> MGM Resorts Is Discussing Making a Bid for People, WSJ Reports Bloomberg.com
+>
+> **10. [Arkansas injury firm is latest to get private equity backing through MSO deal - Reuters](https://news.google.com/rss/articles/CBMiygFBVV95cUxNd1YyUDBIVWRINVZMdkpoM3lzRDNpcVFEQ0dMenpfQjVWVE5qaXFQRG9wNGtxQVpNYVEtSXFEV2F6dHVnTUs2aXkzbDFTTEJhTFJ0VEVjWEJYckI2SEQzUkVIZXRXQmJPbU1Yd3dWczY3SUJMRU5tQ2lJUl9ZamZGVE5jWTdTOGJ6bHVQOGdjWWE4d1BUaGI1a29SdUY3QmVzcGppMW5EWXBfT1dTM2o2VTJ3UUN0VHREV3JObE4tVUdKZ1JweTNJX1F3?oc=5)**
+> <small>Reuters · 国际 · 01:05</small>
+> Arkansas injury firm is latest to get private equity backing through MSO deal Reuters
 >
 
 > [!warning] 抓取失败但不影响成稿的来源
