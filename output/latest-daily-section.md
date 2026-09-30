@@ -6,139 +6,99 @@
 > 摘要来自 RSS/新闻源描述，保留原文语言；`可能需订阅` 表示该来源可能有付费墙。
 
 > [!quote] 财经 / 金融
-> 10/10 · 国内 4 / 国际 6
+> 4/10 · 国内 0 / 国际 4
 >
 > **1. [Fed Faces Prospect of Another Interest Rate Increase Just Before Midterm Elections](https://www.nytimes.com/2026/09/25/business/fed-interest-rates-midterms.html)**
 > <small>NYTimes Business · 国际 · 23:38 · `可能需订阅`</small>
 > Financial markets are placing nearly 70 percent odds on the Federal Reserve raising interest rates in late October.
 >
-> **2. [Rising Interest Rates Are Causing Alarm. Here’s What to Know.](https://www.nytimes.com/2026/09/25/business/interest-rates-economy-markets-inflation-mortgages.html)**
-> <small>NYTimes Business · 国际 · 17:35 · `可能需订阅`</small>
-> History shows that the markets and the economy flourished when rates were even higher than today’s. But, our columnist notes, those times didn’t last.
+> **2. [What’s In Anthropic’s I.P.O. Filing](https://www.nytimes.com/2026/09/29/business/dealbook/anthropic-ipo-filing-s1.html)**
+> <small>NYTimes Business · 国际 · 19:58 · `可能需订阅`</small>
+> The artificial intelligence giant reportedly believes that it’s on track for a record-breaking stock market listing, according to a prospectus seen by Reuters.
 >
-> **3. [Snapdeal parent's India IPO fully subscribed on second day - Reuters](https://news.google.com/rss/articles/CBMipAFBVV95cUxNaGVKa2NkRlF4NUE0bWVoZnY0SEcyejVpc1ZDOUFfaE1QUzRmZF9SSFRpZVhoOHdXbkNZVnFIa0dXb2M3eU1Iem1MVU1heUJPT3N1YjBOckpFZnM4alIzMzZGTHl2bHNfOTR3WDNZU1c5ZjQ0d09qRElCTmVYYWpHQ3RwLUh4Q29uZGdqZVVOLWNtSmZ3U2lMMk1OSEVIM2VUN0RZUg?oc=5)**
-> <small>Reuters · 国际 · 18:41</small>
-> Snapdeal parent's India IPO fully subscribed on second day Reuters
->
-> **4. [Philadelphia Fed's Anna Paulson says 'modest' rate moves likely ahead to tame inflation](https://www.cnbc.com/2026/09/24/philadelphia-feds-anna-paulson-says-modest-rate-moves-likely-ahead-to-tame-inflation.html)**
+> **3. [Philadelphia Fed's Anna Paulson says 'modest' rate moves likely ahead to tame inflation](https://www.cnbc.com/2026/09/24/philadelphia-feds-anna-paulson-says-modest-rate-moves-likely-ahead-to-tame-inflation.html)**
 > <small>CNBC Finance · 国际 · 01:12</small>
 > The policymaker said she and her colleagues may need to raise interest rates further to bring inflation back to target.
 >
-> **5. [Anthropic warns of ‘existential risks to humanity’ in IPO prospectus - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxQSy1KbEtmZ1NBTnFEd3Fkck9jajdOcHNMRnhrRDAzNEV6UWRVaWk4LWZLdlNCeHQ2U29rWUQzaFpmd3ZfUzNQWXQxMVhmX01ELXYyMEk4MzBLRjlrRGdPT0dEMlBsZUU0UFdmZ0VmYVNhTmFtRTJtaXRPNjc5MVBCcFNNaHY?oc=5)**
-> <small>Financial Times · 国际 · 09:06 · `可能需订阅`</small>
-> Anthropic warns of ‘existential risks to humanity’ in IPO prospectus Financial Times
->
-> **6. [Shein shares sink after profits disappoint in first results since IPO - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNWDBOZG5aNi1yRmlvcm1LUzVFN3d5UTVmdkRKcmd4aVdJYVAxWG9reDZHZkZFMVFKWUJhckpmLUh6REVNb3FiVjh2and1anIxcDVQblI1MFI2dXI5ZWxVbEJIZWhwT0NvdTVidUZQN2phaExERC1xSFBfSmhfbDZUUDVVdDQ?oc=5)**
-> <small>Financial Times · 国际 · 23:42 · `可能需订阅`</small>
-> Shein shares sink after profits disappoint in first results since IPO Financial Times
->
-> **7. [4只A股连板股，集体提示风险 - 证券时报网](https://news.google.com/rss/articles/CBMiV0FVX3lxTE02Q2haVXFFbFNXc09NVURwdTFZQTZGZmZxU19aQWxtZTBnMzlJTVB1OXdtT01CcGM1UTVKR1lvRGZyUGpYdU1zZ19aU1pLUnhJVTlDUUtWcw?oc=5)**
-> <small>证券时报网 · 国内 · 16:21</small>
-> 4只A股连板股，集体提示风险 证券时报网
->
-> **8. [全球金融变局下的香港机遇 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBwRVlpd3RFekdqbDVIZzdCNG5EN0EtSW9rd3F3YXUxNWZpRG5yUTRodXZ0NDVTR1YtWDRPQzdFbE1vRWd1Snl0SjNFbGgxQWhqdVpNZ2xQV080TUdBNGtxanRR?oc=5)**
-> <small>财新 · 国内 · 10:42</small>
-> 全球金融变局下的香港机遇 财新
->
-> **9. [没有能离开消费的经济增长 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5NcEQ0VHNGRjl5MnFXWUtMM1VWVUgxOU5lLTY5cVBndG5wdzdac1lUakVNcEtpVzBLRGx2My1ZREZjQ3JiMzRUbm5CSzFEaGZXaVNvTnJFM1BncTM0Z3BZU2p3?oc=5)**
-> <small>财新 · 国内 · 10:07</small>
-> 没有能离开消费的经济增长 财新
->
-> **10. [财新观察｜让资本市场“哨声”更响更准 - 财新周刊](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9MTUF4eUxTYjJ2Y0FfTGdHTEpKaWtIWHRjLWhFY3N4YkhSRnJSM2FpaUFkQnZycThWMXpRNjNONVJYSlJQUjBsOTB5WHdBR2k4eFlzTzM2RXI3VmIwYklGRQ?oc=5)**
-> <small>财新周刊 · 国内 · 07:58 · `可能需订阅`</small>
-> 财新观察｜让资本市场“哨声”更响更准 财新周刊
+> **4. [China has three new criteria for humanoid robot IPOs. Few, if any, meet them](https://www.cnbc.com/2026/09/29/china-criteria-humanoid-robot-ipos.html)**
+> <small>CNBC Finance · 国际 · 10:50</small>
+> China's securities regulator is raising the bar for public listings of humanoid robot startups with three specific criteria, according to three sources.
 >
 
 > [!example] 科技 / AI
-> 10/10 · 国内 0 / 国际 10
+> 8/10 · 国内 0 / 国际 8
 >
-> **1. [OpenAI reportedly ditches model over safety concerns](https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/)**
-> <small>TechCrunch · 国际 · 07:39</small>
-> A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders.
+> **1. [Making AI an asset, not an expense](https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/)**
+> <small>MIT Technology Review · 国际 · 18:43</small>
+> When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that level of capability? Not necessarily. But that is often whe…
 >
 > **2. [When can we say AI made a scientific discovery?](https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/)**
 > <small>MIT Technology Review · 国际 · 01:03</small>
 > This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Wednesday, Anthropic announced that earlier this year it had launched a molecular biology lab, w…
 >
-> **3. [Who’s liable when AI agents go rogue?](https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/)**
-> <small>MIT Technology Review · 国际 · 16:06</small>
-> MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Over the past few months, a cascade of cyberattacks by AI ag…
+> **3. [Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents](https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/)**
+> <small>TechCrunch · 国际 · 02:35</small>
+> OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned.
 >
-> **4. [The AI boom took over Climate Week and not everyone is happy about it](https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/)**
-> <small>TechCrunch · 国际 · 03:21</small>
-> Just like the rest of the U.S., data centers and AI are dividing climate tech founders and investors.
+> **4. [OpenAI gives Codex reusable cloud environments that work across devices](https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/)**
+> <small>TechCrunch · 国际 · 01:15</small>
+> OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools, and a security-focused product for scanning repositories and preparing fixes.
 >
-> **5. [Florida seeks a ban on ChatGPT acting like a person](https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids)**
-> <small>The Verge · 国际 · 02:42</small>
-> Florida Attorney General James Uthmeier is calling for a judge to block OpenAI from "giving ChatGPT false human attributes," a few months after Florida sued the AI company over safety concerns. According to Uthmeier, users are lulled into…
+> **5. [Sam Altman says OpenAI won’t go public until its models are safe](https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety)**
+> <small>The Verge · 国际 · 08:26</small>
+> For months, people have wondered when OpenAI will go public. CEO Sam Altman says it won't happen until the company can make better promises about model safety, with no firm timeline in sight. "We intend to continue with AI progress … but a…
 >
-> **6. [OpenAI’s AI agents need to catch up](https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent)**
-> <small>The Verge · 国际 · 02:40</small>
-> OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one of the industry's hottest categories: continuously running, consumer-facing AI agents. On Tuesday, it will likely try t…
+> **6. [OpenAI launches Dots, its Muse competitor](https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor)**
+> <small>The Verge · 国际 · 04:55</small>
+> OpenAI is responding to Meta's buzzy Muse AI with agentic helpers of its own: Dots. During its DevDay keynote on Tuesday, OpenAI announced that Dots will serve as always-on AI assistants that can "do nearly anything" across connected apps…
 >
-> **7. [OpenAI Says It Will Not Release Newest Astra A.I. Model Over Safety Concerns](https://www.nytimes.com/2026/09/28/technology/openai-astra-safety.html)**
-> <small>NYTimes Technology · 国际 · 08:32 · `可能需订阅`</small>
-> The company’s researchers raised questions about the security of the model, known as GPT-6.1 Astra.
+> **7. [At A.I. Event, Trump Asks Meta, OpenAI and Microsoft to Make Safety Decisions Themselves](https://www.nytimes.com/2026/09/29/us/politics/ai-trump-meta-microsoft-openai.html)**
+> <small>NYTimes Technology · 国际 · 07:20 · `可能需订阅`</small>
+> President Trump’s meetings with tech leaders produced some voluntary safeguards and a commitment to rebrand artificial intelligence as “super intelligence,” the term that Mr. Trump prefers.
 >
-> **8. [Nvidia Adds $150 Billion to Massive Stock Buyback, the Largest Ever](https://www.nytimes.com/2026/09/28/business/nvidia-stock-buyback.html)**
-> <small>NYTimes Technology · 国际 · 04:11 · `可能需订阅`</small>
-> The increase comes four months after the chip giant added $80 billion to its buyback program, bringing the total remaining authorized amount to $235 billion.
->
-> **9. [The Data Center Backlash Should Also Be a Climate Reckoning. It Isn’t Yet - WIRED](https://news.google.com/rss/articles/CBMidkFVX3lxTE1uVnc4QnJ6cmxKaGJYT2tsOVhrc1ZTSzNyVEpzV2ljandobXAzUzc1d0pLWHMzNkk3MDZvUkc5TnFfdDg1bVZOakdvbGxfM1FHVy16ZlljZWZoc3lLZ2VvX3htRnRZeFl1dE9HMWI1UTBmQTV2MWc?oc=5)**
-> <small>WIRED · 国际 · 18:00</small>
-> The Data Center Backlash Should Also Be a Climate Reckoning. It Isn’t Yet WIRED
->
-> **10. [The rules of AI etiquette - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNS3pBOGVPbjNqQ3lBTTZ0a2l2VlBBSjhZTmtUT0MtOEVJcWVOTDJFWGhPSEVaS25CTGVPRWhZZ1Q4YUhTblJIdXpPNjJQeDlKcDVtZ2RzRWNzY1lzZWk0bmFXQld1LUFhM0J2eVA1Ym5wZXdydWl2ekRBT1pzNDZ5OUs5NHQ?oc=5)**
-> <small>Financial Times · 国际 · 12:03 · `可能需订阅`</small>
-> The rules of AI etiquette Financial Times
+> **8. [OpenAI Ignored Employees’ Warnings About Safely Testing A.I. Models](https://www.nytimes.com/2026/09/29/technology/openai-warnings-security.html)**
+> <small>NYTimes Technology · 国际 · 06:53 · `可能需订阅`</small>
+> Employees and security researchers said that they had cautioned the company on safely testing its A.I. models and strengthening its corporate infrastructure, but that OpenAI did not listen.
 >
 
 > [!tip] 私募股权 / 投资市场
-> 10/10 · 国内 0 / 国际 10
+> 8/10 · 国内 0 / 国际 8
 >
-> **1. [Japanese GP returns entire debut fund with first exit](https://www.privateequityinternational.com/japanese-gp-returns-entire-debut-fund-with-first-exit/)**
+> **1. [Blackstone private equity chief Joseph Baratta said to prep exit after almost three decades](https://www.altassets.net/private-equity-news/by-region/global-by-region/blackstone-private-equity-chief-joseph-baratta-said-to-prep-exit-after-almost-three-decades.html)**
+> <small>AltAssets · 国际 · 19:56</small>
+> Blackstone global private equity head Joseph Baratta is preparing to leave the alternatives giant by the end of the year after almost three decades at the firm, according to reports from the Wall Street Journal and Financial Times. The pos…
+>
+> **2. [Japanese GP returns entire debut fund with first exit](https://www.privateequityinternational.com/japanese-gp-returns-entire-debut-fund-with-first-exit/)**
 > <small>Private Equity International · 国际 · 09:12</small>
 > Nihon PMI’s 2022-vintage Fund I has already delivered a more than 1x DPI, PEI understands.
->
-> **2. [Side Letter: Climate catch-22](https://www.privateequityinternational.com/side-letter-climate-catch-22/)**
-> <small>Private Equity International · 国际 · 19:37</small>
-> In today's edition, why climate risk is leaving LPs in a catch-22; Australia's SWF turns secondaries buyer; a mid-market firm reaches final close.
 >
 > **3. [Why it pays to play ball during LP-leds](https://www.buyoutsinsider.com/why-it-pays-to-play-ball-during-lp-leds/)**
 > <small>Buyouts · 国际 · 21:00</small>
 > Being a ‘co-operative partner’ during LP-led transactions can have hidden benefits, a private equity GP tells PEI Group’s Commitment Issues podcast.
 >
-> **4. [Renovus Capital’s TJP acquires life sciences market researcher Evolution Consulting & Research](https://www.pehub.com/renovus-capitals-tjp-acquires-life-sciences-market-researcher-evolution-consulting-research/)**
-> <small>PE Hub · 国际 · 03:23</small>
-> Evolution provides qualitative and quantitative market research to pharmaceutical and biotech manufacturers. The post Renovus Capital’s TJP acquires life sciences market researcher Evolution Consulting & Research appeared first on PE Hub .
+> **4. [Investor Intentions: CNPADC seeks investment consultants](https://www.privateequityinternational.com/investor-intentions-cnpadc-seeks-investment-consultants/)**
+> <small>Private Equity International · 国际 · 23:09</small>
+> The Italian private pension fund has issued a request for proposal for investment consulting services.
 >
 > **5. [McDermott on preparing for exit in a selective M&A market](https://www.buyoutsinsider.com/mcdermott-on-preparing-for-exit-in-a-selective-ma-market/)**
 > <small>Buyouts · 国际 · 14:00</small>
 > In a more discriminating environment, pressure testing is becoming crucial to getting a sale over the line, says Frank Steinherr, global private equity co-head at McDermott Will & Schulte.
 >
-> **6. [Blackstone’s private equity head Joseph Baratta to retire at end of year](https://www.pehub.com/blackstones-private-equity-head-joseph-baratta-to-retire-at-end-of-year/)**
-> <small>PE Hub · 国际 · 02:20</small>
-> Baratta joined Blackstone in 1998. The post Blackstone’s private equity head Joseph Baratta to retire at end of year appeared first on PE Hub .
+> **6. [Bain Capital’s Matt Evans details partial exit of MRO Holdings](https://www.pehub.com/bain-capitals-matt-evans-details-partial-exit-of-mro-holdings/)**
+> <small>PE Hub · 国际 · 00:32</small>
+> The deal valuation represents 10.7x MRO Holdings’ forecast full calendar year 2026 adjusted EBITDA. The post Bain Capital’s Matt Evans details partial exit of MRO Holdings appeared first on PE Hub .
 >
-> **7. [Trump Rejects Iran’s Seven-Day Ceasefire Proposal, WSJ Reports - Bloomberg.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxPM3JfOXJHck9tUWd6Q2RheHY0WHJpaFNqMnRhVFZXaGJ4cTIwcGxOQjh4VmVRbXd5ZmUxMjdqMlh6VUl2ZWEyeUlrR3IwLW0tejEwcmkzTmdqWkFpZDVOeHRxUHpKaExaUWJJenZFSnZqb0hUY1g2Wk0wRnVTQWRQT2RLcVhaaVduUXlaU21YUXM5ejFGdGstcV9LLUJuMjJBYVV5ZkxEZFpuM2poWU5DbFJB?oc=5)**
-> <small>Bloomberg.com · 国际 · 16:57 · `可能需订阅`</small>
-> Trump Rejects Iran’s Seven-Day Ceasefire Proposal, WSJ Reports Bloomberg.com
+> **7. [Bain Capital takes minority stake in Kahua at valuation above $1bn](https://www.pehub.com/bain-capital-takes-minority-stake-in-kahua-at-valuation-above-1bn/)**
+> <small>PE Hub · 国际 · 00:08</small>
+> Alpharetta, Georgia-based Kahua runs an AI construction management platform for complex capital programs, serving more than 2,500 customers. The post Bain Capital takes minority stake in Kahua at valuation above $1bn appeared first on PE H…
 >
-> **8. [Blackstone’s top private equity executive prepares exit for possible public service move - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxQZEctcnRqZ3Z3djR6Tm9QbnZvc0M4V0RzQ1NWRGJRelJ0MTJQNzVJaU04eUVmUUJpWVlxYW9zMnoyV2o5eC1Td0tRaS0xRHkzRUhXZ1NxLTZQWUFKU3RnVEcxQ09JWUNxLVltQ1hhTks5Y2pCMjFYQTlaSncwUlNRUm82WDQ?oc=5)**
-> <small>Financial Times · 国际 · 04:10 · `可能需订阅`</small>
-> Blackstone’s top private equity executive prepares exit for possible public service move Financial Times
->
-> **9. [MGM Resorts Is Discussing Making a Bid for People, WSJ Reports - Bloomberg.com](https://news.google.com/rss/articles/CBMipwFBVV95cUxPaFlUaHVuaE5jdExuZWZqTDZPQ0J3SWlWRDZvd1lwQVRzR1RORFFKQzVnLVFjTC1ZWFVLNHFnMTZNOGY5Q3oxb3VrcEY1WGF4ZEVBcmFLTzJiQnlsUDQwZS1TNEF5b2JkemNRV2hscmxycEpoVEJjbVRHUGlYTVNseWppckdPOHpiNXMyeDg4bTM3eUJWQ2tSMnRjQjZpeVpETkQ1OUZzQQ?oc=5)**
-> <small>Bloomberg.com · 国际 · 05:53 · `可能需订阅`</small>
-> MGM Resorts Is Discussing Making a Bid for People, WSJ Reports Bloomberg.com
->
-> **10. [Arkansas injury firm is latest to get private equity backing through MSO deal - Reuters](https://news.google.com/rss/articles/CBMiygFBVV95cUxNd1YyUDBIVWRINVZMdkpoM3lzRDNpcVFEQ0dMenpfQjVWVE5qaXFQRG9wNGtxQVpNYVEtSXFEV2F6dHVnTUs2aXkzbDFTTEJhTFJ0VEVjWEJYckI2SEQzUkVIZXRXQmJPbU1Yd3dWczY3SUJMRU5tQ2lJUl9ZamZGVE5jWTdTOGJ6bHVQOGdjWWE4d1BUaGI1a29SdUY3QmVzcGppMW5EWXBfT1dTM2o2VTJ3UUN0VHREV3JObE4tVUdKZ1JweTNJX1F3?oc=5)**
-> <small>Reuters · 国际 · 01:05</small>
-> Arkansas injury firm is latest to get private equity backing through MSO deal Reuters
+> **8. [Deal Roundup: Third Point leads $3.36bn Nscale financing; Audax exits GCG to Rexel for $1.4bn](https://www.altassets.net/private-equity-news/by-region/global-by-region/deal-roundup-third-point-leads-3-36bn-nscale-financing-audax-exits-gcg-to-rexel-for-1-4bn.html)**
+> <small>AltAssets · 国际 · 18:25</small>
+> Third Point has led a $3.36bn pre-IPO convertible financing for British AI infrastructure business Nscale, with Nvidia, funds managed by Apollo, Citadel, Hudson Bay Capital, Abu Dhabi Investment Council and 8090 Industries among the invest…
 >
 
 > [!warning] 抓取失败但不影响成稿的来源
-> 36氪 (ParseError)
+> Google News Global Finance (HTTPError)、Google News China Finance (HTTPError)、Google News China Macro (HTTPError)、Google News Global AI (HTTPError)、36氪 (ParseError)、Google News China AI (HTTPError)、Google News China Tech Finance (HTTPError)、Google News Global PE (HTTPError)、Google News China PE Fundraising (HTTPError)、Google News China PE Deals (HTTPError)、Google News China PE Exits (HTTPError)、Google News China Startup Funding (HTTPError)、Google News China Fundraising Simple (HTTPError)、Google News China Exit Simple (HTTPError)
 
 #daily-news
 <!-- daily-news-digest:end -->
