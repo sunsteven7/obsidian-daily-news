@@ -6,19 +6,19 @@
 > 摘要来自 RSS/新闻源描述，保留原文语言；`可能需订阅` 表示该来源可能有付费墙。
 
 > [!quote] 财经 / 金融
-> 10/10 · 国内 3 / 国际 7
+> 10/10 · 国内 4 / 国际 6
 >
-> **1. [Fed's Kashkari says inflation is 'still too high' even after softer-than-expected PCE data, labor market is 'pretty good'](https://www.cnbc.com/2026/09/30/watch-minneapolis-fed-president-neel-kashkari.html)**
+> **1. [The Powerful Yet Fragile Force Propping Up Stocks and the Economy](https://www.nytimes.com/2026/10/02/business/ai-stocks-bonds-economy.html)**
+> <small>NYTimes Business · 国际 · 04:36 · `可能需订阅`</small>
+> The artificial intelligence boom has pushed up the stock market, even as interest rates have pulled it down, our columnist says.
+>
+> **2. [Hiring Slows as U.S. Jobs Report Shows Labor Market Shifting Into Lower Gear](https://www.nytimes.com/2026/10/02/business/economy/jobs-report-unemployment.html)**
+> <small>NYTimes Business · 国际 · 01:09 · `可能需订阅`</small>
+> The economy added fewer jobs in September and unemployment ticked up, while inflation has maintained pressure on markets and raised costs.
+>
+> **3. [Fed's Kashkari says inflation is 'still too high' even after softer-than-expected PCE data, labor market is 'pretty good'](https://www.cnbc.com/2026/09/30/watch-minneapolis-fed-president-neel-kashkari.html)**
 > <small>CNBC Finance · 国际 · 07:44</small>
 > Kashkari sat down with CNBC's Steve Liesman for an exclusive conversation Wednesday night.
->
-> **2. [Smart Ring Maker Oura Delays IPO Due to Market ‘Uncertainty’ - Bloomberg.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxQTWFQT09lTTlhTTZ1aEg1WnBaVUhHVGhEVnNNRU9TTTZQMmVwMnR2S0Ywd2tYTE4zRFk4Z081NWROWXZUS25wb3JyeFJQUElWOURrM1kxWjhqbGxRODdmR1JGNWdpR1FHRERVM1E0cllCN1FNcDFMNmo4UEx1WmFHVHU4WG1TSVlVcGYwX0owN2xEd1EyUUNKRENGcE8zNWtXZE51MW5yTGE1Rm9ZVjhjOExB?oc=5)**
-> <small>Bloomberg.com · 国际 · 20:53 · `可能需订阅`</small>
-> Smart Ring Maker Oura Delays IPO Due to Market ‘Uncertainty’ Bloomberg.com
->
-> **3. [What’s In Anthropic’s I.P.O. Filing](https://www.nytimes.com/2026/09/29/business/dealbook/anthropic-ipo-filing-s1.html)**
-> <small>NYTimes Business · 国际 · 19:58 · `可能需订阅`</small>
-> The artificial intelligence giant reportedly believes that it’s on track for a record-breaking stock market listing, according to a prospectus seen by Reuters.
 >
 > **4. [Philadelphia Fed's Anna Paulson says 'modest' rate moves likely ahead to tame inflation](https://www.cnbc.com/2026/09/24/philadelphia-feds-anna-paulson-says-modest-rate-moves-likely-ahead-to-tame-inflation.html)**
 > <small>CNBC Finance · 国际 · 01:12</small>
@@ -28,105 +28,113 @@
 > <small>Financial Times · 国际 · 12:00 · `可能需订阅`</small>
 > Auditor RSM explores IPO to ward off private equity-backed rivals Financial Times
 >
-> **6. [SEC proposes performance fees for retail funds in private markets push - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNWFJXc2FoajNXZkcwMHlHOUxILVZLV0VOQ3g5UnFQRmd5NzR5WWtxZkJsbFhEN19Qb0ttUjJJN2hHWlFyTXVfMjFHMHJiVV8xSGJDSEF4NWFLOUQ0eWFhVXd4WDROS1Fobm1DNFFITE9XSWZrRVJwZzRyeW1oOTBVNHUyWnU?oc=5)**
+> **6. [美国8月核心PCE大幅回落 二季度GDP增速由1.5%上修至2.2% - 财新](https://news.google.com/rss/articles/CBMiakFVX3lxTFA3RG1jZXBwSTNSZWx0amdQWFFWaFZPdzZOSTZpSlk3Sy02RE91MGcxTWNvWUc5VWpXc3U2MkFKVXVPc2I3V195OHRkZmE1d054c2JGTkZJQjVFX3JyTUxUaTQzbC1SWDI1ZGc?oc=5)**
+> <small>财新 · 国内 · 08:00</small>
+> 美国8月核心PCE大幅回落 二季度GDP增速由1.5%上修至2.2% 财新
+>
+> **7. [SEC proposes performance fees for retail funds in private markets push - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNWFJXc2FoajNXZkcwMHlHOUxILVZLV0VOQ3g5UnFQRmd5NzR5WWtxZkJsbFhEN19Qb0ttUjJJN2hHWlFyTXVfMjFHMHJiVV8xSGJDSEF4NWFLOUQ0eWFhVXd4WDROS1Fobm1DNFFITE9XSWZrRVJwZzRyeW1oOTBVNHUyWnU?oc=5)**
 > <small>Financial Times · 国际 · 23:10 · `可能需订阅`</small>
 > SEC proposes performance fees for retail funds in private markets push Financial Times
 >
-> **7. [央行加码结构性政策工具：PSL降息扩围、科创与民企再贷款增加额度 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBqOVcwSzE4M0xCV01oNjNFLWlqaUtXYkZRRlJpVW9HUnZZdTZibzZXRGc3Y1BNQTg0clAzejZ1NlhOTEtieFdvdzU5UDFpbHZTZEF1QjVxaDVnNlNZLWR6aDVn?oc=5)**
-> <small>财新 · 国内 · 20:18</small>
-> 央行加码结构性政策工具：PSL降息扩围、科创与民企再贷款增加额度 财新
+> **8. [招商证券总裁落定 副总裁刘波接任 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9JUXRWT1cyZnR3RFRIWkwzQXZvTXhCekhidXAyeXM1cnJ1Ynh1bGIzZTVZM0dRNjRTdFBwTGM3UVpYSVQ0YUlDVnVnaU81RklVSDdMT1dEVjdnMkV5V3dzQ2V3?oc=5)**
+> <small>财新 · 国内 · 19:08</small>
+> 招商证券总裁落定 副总裁刘波接任 财新
 >
-> **8. [央行等部署金融支持轻资产服务业 满足AI研发、算力布局等融资需求 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBFX1hUdkNDUU9zdUNfQUdtcTVWZnhJLVMxVGZRYmVQdXBVNDdPSmRTYjhRakg5S1BSbU1WUUI0cGRjQ1B5WmFXdEEwdWQ0QUFlRzBvLXYxTklxTU84R1ZqRkVn?oc=5)**
-> <small>财新 · 国内 · 16:15</small>
-> 央行等部署金融支持轻资产服务业 满足AI研发、算力布局等融资需求 财新
+> **9. [专项债“自审自发”试点扩围至14省份，有何影响？ - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5QLXNLbFQta2RFMGJSOHE0elJZNjNiN1F1Ti1TYjloZDAzSWoxSmUyV2k3VzVmQnphMkpvR0E3dlZod3BfZU10TVoxOGhCeXlucXk4?oc=5)**
+> <small>第一财经 · 国内 · 07:02</small>
+> 专项债“自审自发”试点扩围至14省份，有何影响？ 第一财经
 >
-> **9. [Trump Dangles Alaska Gas Project as Part of Korean Investment Package](https://www.nytimes.com/2026/09/30/business/economy/alaska-lng-south-korea-trump.html)**
-> <small>NYTimes Business · 国际 · 21:49 · `可能需订阅`</small>
-> The long-delayed project, which the developer has not yet formally greenlit, would deliver Alaskan gas to Asian markets but take several years to construct.
->
-> **10. [最新财新周刊｜信贷分化中 - 财新周刊](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5zU2lYRGVGRFpXOTJveTlpelRZLVd5emNhR0JlRXo4S3JhbWZ5NWFhVGlmeXVqUDlWVXo4cWN4dFJYT2FUR215TzhuOFFRQ1dFdFdmNWtIVkZkT2hOSGNtRw?oc=5)**
-> <small>财新周刊 · 国内 · 15:33 · `可能需订阅`</small>
-> 最新财新周刊｜信贷分化中 财新周刊
+> **10. [全球技能大比拼背后，技术创新与人才培养共生共进 - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wdGFYVk5lRExEbzQtZkdWdVlKMWRaSnVqRUtSZ0xtOEVnT0lKODFrNnZCYURSRG9feV80Y0hVeEd6VVMzY1lzU1BCUVNfdThsSjFB?oc=5)**
+> <small>第一财经 · 国内 · 04:06</small>
+> 全球技能大比拼背后，技术创新与人才培养共生共进 第一财经
 >
 
 > [!example] 科技 / AI
-> 8/10 · 国内 0 / 国际 8
+> 10/10 · 国内 1 / 国际 9
 >
 > **1. [“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer](https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/)**
 > <small>MIT Technology Review · 国际 · 18:40</small>
 > Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires. A steady drip of disclosures about other hacks in…
 >
-> **2. [Making AI an asset, not an expense](https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/)**
-> <small>MIT Technology Review · 国际 · 18:43</small>
-> When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that level of capability? Not necessarily. But that is often whe…
+> **2. [Redefining enterprise intelligence with autonomous AI](https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/)**
+> <small>MIT Technology Review · 国际 · 23:49</small>
+> Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to fall. Globally, AI investment is set to…
 >
-> **3. [OpenAI cuts ties with 3 safety researchers, WSJ reports](https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/)**
-> <small>TechCrunch · 国际 · 02:14</small>
-> OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.
+> **3. [央行等部署金融支持轻资产服务业 满足AI研发、算力布局等融资需求 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBFX1hUdkNDUU9zdUNfQUdtcTVWZnhJLVMxVGZRYmVQdXBVNDdPSmRTYjhRakg5S1BSbU1WUUI0cGRjQ1B5WmFXdEEwdWQ0QUFlRzBvLXYxTklxTU84R1ZqRkVn?oc=5)**
+> <small>财新 · 国内 · 16:15</small>
+> 央行等部署金融支持轻资产服务业 满足AI研发、算力布局等融资需求 财新
 >
-> **4. [ChatGPT can now virtually try on clothes for you](https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/)**
-> <small>TechCrunch · 国际 · 03:21</small>
-> OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites library.
+> **4. [JERA teams up with Dell, RHAELM on Japan's AI infrastructure, building data centre near Tokyo - Reuters](https://news.google.com/rss/articles/CBMiugFBVV95cUxOaDd4bm5ObWlRUzdnSXo0cmRnVkRwVm5ZMmFZY0V0Q0dsWUxaZXd0eTNZbjVrWVBlVmdqbzlSdjZITk5aM3U3X3BUcFhyX29DR3ZMRml4MGtyZUhYYkVQUGF6alpPNjRyRTR2Y0pkMDByWVJCUGZSTElUT01UMjcxZ1Z0ak9NVVBpbjltaENVeWdxd0diMmc4Z2s2WUVReXJKenFPOW1QWGExeFU2c2dxUkJTYmtJMEZIRmc?oc=5)**
+> <small>Reuters · 国际 · 14:31</small>
+> JERA teams up with Dell, RHAELM on Japan's AI infrastructure, building data centre near Tokyo Reuters
 >
-> **5. [When Data Centers Cluster Together, How Dirty Are They? One County Wants Answers.](https://www.nytimes.com/2026/10/01/climate/data-center-pollution-study-pennsylvania.html)**
+> **5. [OpenAI’s Dot agent is enterprise software that can also order your dinner](https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent)**
+> <small>The Verge · 国际 · 01:56</small>
+> It's a tale as old as last week: OpenAI's new agent platform, called Dots, is full of cute little guys who can do your bidding. But unlike the ultra-approachable Meta Muse, Dots feel very much like using workplace software that happens to…
+>
+> **6. [Dots get up in Muse’s business](https://www.theverge.com/podcast/1004059/openai-dots-kindle-homepad-cybercab-vergecast)**
+> <small>The Verge · 国际 · 23:47</small>
+> OpenAI's answer to Muse arrived this week, and it looks a whole lot like Muse dressed up in a suit and tie. Dots is a business-first product - for now, at least - costing a minimum of $100 per month. And sure, you can make a cute little Do…
+>
+> **7. [When Data Centers Cluster Together, How Dirty Are They? One County Wants Answers.](https://www.nytimes.com/2026/10/01/climate/data-center-pollution-study-pennsylvania.html)**
 > <small>NYTimes Technology · 国际 · 17:02 · `可能需订阅`</small>
 > An unusual study aims to estimate the pollution and health costs from a cluster of proposed data centers, instead of considering each one separately.
 >
-> **6. [OpenAI’s Greg Brockman Backs Out of Second $25 Million Donation to A.I. Super PAC](https://www.nytimes.com/2026/09/30/technology/openai-brockman-super-pac-leading-the-future.html)**
+> **8. [OpenAI’s Greg Brockman Backs Out of Second $25 Million Donation to A.I. Super PAC](https://www.nytimes.com/2026/09/30/technology/openai-brockman-super-pac-leading-the-future.html)**
 > <small>NYTimes Technology · 国际 · 06:27 · `可能需订阅`</small>
 > Greg Brockman, OpenAI’s president and co-founder, said internally that the super PAC, Leading the Future, had become a “distraction” for the A.I. company.
 >
-> **7. [Steam Deck 2: Is AMD Gainsborough the chip Valve’s been waiting for?](https://www.theverge.com/games/1003593/steam-deck-2-is-amd-gainsborough-the-chip-valves-been-waiting-for)**
-> <small>The Verge · 国际 · 05:33</small>
-> The Steam Deck is four and a half years old, and handheld gamers are eagerly awaiting a Steam Deck 2 - but Valve has consistently said it needs a new chip with a "generational leap" in performance and efficiency before building the sequel.…
+> **9. [Sean Parker is rebuilding Stability AI around music](https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/)**
+> <small>TechCrunch · 国际 · 05:09</small>
+> Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.
 >
-> **8. [Google’s new Guided Vision feature can help you read the fine print](https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision)**
-> <small>The Verge · 国际 · 03:47</small>
-> Guided Vision is launching in Gemini Live on compatible Android devices today to use AI to give real-time audio descriptions of anything you point your phone's camera at. By sharing your camera in Gemini Live, you can have Google's AI help…
+> **10. [Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents](https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/)**
+> <small>TechCrunch · 国际 · 02:11</small>
+> Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier.
 >
 
 > [!tip] 私募股权 / 投资市场
-> 10/10 · 国内 2 / 国际 8
+> 10/10 · 国内 0 / 国际 10
 >
 > **1. [The governance blind spot in the Total Portfolio Approach](https://www.privateequityinternational.com/the-governance-blind-spot-in-the-total-portfolio-approach/)**
 > <small>Private Equity International · 国际 · 19:00</small>
 > Sovereign and pension funds are abandoning fixed asset-class targets for a single risk budget. It works — until private assets enter the picture.
 >
-> **2. [California pension weighs merits of adding co-investment program](https://www.buyoutsinsider.com/california-pension-weighs-merits-of-adding-co-investment-program/)**
+> **2. [Lender, not owner: NYC pension leans into credit amid PE slump](https://www.buyoutsinsider.com/lender-not-owner-nyc-pension-leans-into-credit-amid-pe-slump/)**
+> <small>Buyouts · 国际 · 21:00</small>
+> Deeper moves into private credit would be both an offensive play and a defensive rotation while private equity recovers, according to Sanford Rich, executive director of the NYC Board of Education Retirement System.
+>
+> **3. [California pension weighs merits of adding co-investment program](https://www.buyoutsinsider.com/california-pension-weighs-merits-of-adding-co-investment-program/)**
 > <small>Buyouts · 国际 · 04:06</small>
 > For San Mateo County, a major reason for creating a co-investment fund is the promise of improving performance from the private equity asset class.
 >
-> **3. [Medtech moves into private equity’s sweet spot](https://www.buyoutsinsider.com/medtech-moves-into-private-equitys-sweet-spot/)**
-> <small>Buyouts · 国际 · 14:00</small>
-> Lower valuations, corporate carve-outs and resilience to AI disruption are opening up medtech to buyout firms after years of limited access.
+> **4. [HealthEdge, MPK Equity, TowerBrook target skincare; AI demand in veterinary care drives Chicago Pacific’s CoVetAI exit](https://www.pehub.com/healthedge-mpk-equity-towerbrook-target-skincare-ai-demand-in-veterinary-care-drives-chicago-pacifics-covetai-exit/)**
+> <small>PE Hub · 国际 · 21:44</small>
+> Skincare brands enjoy steady demand and private equity has taken note; pets are living longer, which means more work for vets and a growing need for AI to lighten the load. The post HealthEdge, MPK Equity, TowerBrook target skincare; AI de…
 >
-> **4. [KKR completes majority stake deal for Thomson Reuters’ print business](https://www.pehub.com/kkr-completes-majority-stake-deal-for-thomson-reuters-print-business/)**
-> <small>PE Hub · 国际 · 22:53</small>
-> Now operating as Westbridge Print, the business serves legal and tax professionals across 13 countries and provides commercial printing to book publishers. The post KKR completes majority stake deal for Thomson Reuters’ print business appe…
+> **5. [Investor Intentions: Korea Venture Investment Corporation seeks domestic blind-pool VC funds for 2026](https://www.privateequityinternational.com/investor-intentions-korea-venture-investment-corporation-seeks-domestic-blind-pool-vc-funds-for-2026/)**
+> <small>Private Equity International · 国际 · 16:13</small>
+> KVIC looks to commit 30 billion Korean won to domestic blind-pool venture capital funds.
 >
-> **5. [Encore Consumer Capital hires ex-Riverside principal Caroline Shettle as director](https://www.pehub.com/encore-consumer-capital-hires-ex-riverside-principal-caroline-shettle-as-director/)**
-> <small>PE Hub · 国际 · 02:15</small>
-> Shettle will focus on deal origination, execution and portfolio oversight at the consumer products-focused private equity firm. The post Encore Consumer Capital hires ex-Riverside principal Caroline Shettle as director appeared first on PE…
->
-> **6. [Flipping the OP script](https://www.privateequityinternational.com/flipping-the-op-script/)**
-> <small>Private Equity International · 国际 · 01:32</small>
-> Now is the time for operating partners to reconsider the skills they need to succeed.
->
-> **7. [Deal Roundup: Harrison Street agrees $2.92bn Vicinity Energy buyout; IGP completes $1.07bn Prince & Izant exit](https://www.altassets.net/private-equity-news/by-region/global-by-region/deal-roundup-harrison-street-agrees-2-92bn-vicinity-energy-buyout-igp-completes-1-07bn-prince-izant-exit.html)**
+> **6. [Deal Roundup: Harrison Street agrees $2.92bn Vicinity Energy buyout; IGP completes $1.07bn Prince & Izant exit](https://www.altassets.net/private-equity-news/by-region/global-by-region/deal-roundup-harrison-street-agrees-2-92bn-vicinity-energy-buyout-igp-completes-1-07bn-prince-izant-exit.html)**
 > <small>AltAssets · 国际 · 17:41</small>
 > Harrison Street Asset Management has agreed to acquire a majority stake in Antin Infrastructure Partners-backed Vicinity Energy in a transaction valuing the US district energy business at $2.92bn. The post Deal Roundup: Harrison Street agr…
 >
-> **8. [Deal Roundup: Apollo completes record $3.7bn Japan buyout; Bain backs Kahua at $1bn-plus valuation](https://www.altassets.net/private-equity-news/by-region/global-by-region/deal-roundup-apollo-completes-record-3-7bn-japan-buyout-bain-backs-kahua-at-1bn-plus-valuation.html)**
-> <small>AltAssets · 国际 · 21:26</small>
-> Apollo has completed its acquisition of Nippon Sheet Glass in a transaction carrying an enterprise value of almost $3.7bn, completing what the alternatives giant says is its largest private equity investment in Japan to date. The post Deal…
+> **7. [Vestar-backed Roland Foods agrees to acquire Savor Brands from Dot Foods](https://www.pehub.com/vestar-backed-roland-foods-agrees-to-acquire-savor-brands-from-dot-foods/)**
+> <small>PE Hub · 国际 · 20:13</small>
+> Chesterfield, Missouri-based Savor Brands supplies global ingredients and frozen products to food industry customers. The post Vestar-backed Roland Foods agrees to acquire Savor Brands from Dot Foods appeared first on PE Hub .
 >
-> **9. [飞钛智造完成A轮数千万元融资 - 投中网](https://news.google.com/rss/articles/CBMia0FVX3lxTE5LSVlTT1c3RXJlV3NCSm5TOXNoNUNhSnpJQXJCVllTdFVDRjVDZXJlSkNBYjBySWJxcUpydlNtZzBOYUpxYXllSWtfMk5rNm5vRXcyZWVqZU9lUnhqTkU0VXJCbEc5QkR3d3RJ?oc=5)**
-> <small>投中网 · 国内 · 16:24</small>
-> 飞钛智造完成A轮数千万元融资 投中网
+> **8. [Deal Roundup: SoftBank completes $3.1bn DigitalBridge buyout, Wendel seals €2.1bn Stahl exit](https://www.altassets.net/private-equity-news/by-region/global-by-region/deal-roundup-softbank-completes-3-1bn-digitalbridge-buyout-wendel-seals-e2-1bn-stahl-exit.html)**
+> <small>AltAssets · 国际 · 18:55</small>
+> SoftBank Group has completed its $3.1bn acquisition of DigitalBridge, taking the digital infrastructure specialist private and making it a controlled subsidiary of the Japanese investment group. The post Deal Roundup: SoftBank completes $3…
 >
-> **10. [引航生物完成4.5亿元Pre-IPO融资，提速新品产业化与市场开拓 - 动脉网](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1mandSaTk1NjRzbWNXM0xWVTR0WWR4WjZmMEd2TjlvUjV6UVlzQS1qUzdVa2FKMEgxUnN4QTJoc210SnV2VTRPaGVJMkxOMXNueTlZ?oc=5)**
-> <small>动脉网 · 国内 · 12:00</small>
-> 引航生物完成4.5亿元Pre-IPO融资，提速新品产业化与市场开拓 动脉网
+> **9. [Auditor RSM explores IPO to ward off private equity-backed rivals - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxPeFpSQkI3M3FGX09qa0xrbUZQY3FVLVM1MDNVd21ydjdDekktbDJfaDJ5ckVsR3RRSGVGNFFDbUhTSVh6NDgzOHlZYjZTX25BNnZzdWZpVDhwazlWT21kcGtPdFZvaFBudmpKdWNOMlQ5SV9OVV9iR1cySlhwSTZacXhXZmg?oc=5)**
+> <small>Financial Times · 国际 · 12:00 · `可能需订阅`</small>
+> Auditor RSM explores IPO to ward off private equity-backed rivals Financial Times
+>
+> **10. [Private Equity Daily: The SEC Wants to Help Private Equity Fundraise - WSJ](https://news.google.com/rss/articles/CBMitgFBVV95cUxNZVlGVzJUcG9sck9nR1dOMjlaYVUyd1BJa21zOTFEa3JpaHNscVJ2OGhLQUNXQ3NNLWh0Y1FPUG1WS1ltS1cxSzlpa0pTX2JENlF5RGdjOXRUREtMS3BjMm0xTkY3c0RzYU5lSnd5WERwQWk5OHpQdnpTMlF4YnhyblBobl9haUpndVAzZ3lCa1dwVTVYdGNvVGdMNWs4TGVNZkNKbzcta0szRDNxcDB0b2xQcTNpQQ?oc=5)**
+> <small>WSJ · 国际 · 19:29 · `可能需订阅`</small>
+> Private Equity Daily: The SEC Wants to Help Private Equity Fundraise WSJ
 >
 
 > [!warning] 抓取失败但不影响成稿的来源
