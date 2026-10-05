@@ -6,19 +6,19 @@
 > 摘要来自 RSS/新闻源描述，保留原文语言；`可能需订阅` 表示该来源可能有付费墙。
 
 > [!quote] 财经 / 金融
-> 10/10 · 国内 2 / 国际 8
+> 10/10 · 国内 1 / 国际 9
 >
 > **1. [The Powerful Yet Fragile Force Propping Up Stocks and the Economy](https://www.nytimes.com/2026/10/02/business/ai-stocks-bonds-economy.html)**
 > <small>NYTimes Business · 国际 · 04:36 · `可能需订阅`</small>
 > The artificial intelligence boom has pushed up the stock market, even as interest rates have pulled it down, our columnist says.
 >
-> **2. [$5 billion Firmus IPO divides investors after valuation triples in two months - Reuters](https://news.google.com/rss/articles/CBMiugFBVV95cUxPUWFEamJaVWxsTk1DbjFBN1Y1Z1Znb3ZGUG9nRmVjYlFRX29qVGxRc2l3WUlPb3IxbzFnTlRpVjRZQjlUcEF5SG5aeXNWWnVaWEtCVVRDY29wUkFpNHE2bmV3cFRJdThxcFVvYjhjRDVzRm4yMDBkamNqeHNMaUNqejNVb2VJVVE2MzRYX1dMTmkwOU81OHZwbllEOEtUNmh6eGpBbVZyRENVQ21UaFhyLTRyNy1pQ1NlZHc?oc=5)**
-> <small>Reuters · 国际 · 02:29</small>
-> $5 billion Firmus IPO divides investors after valuation triples in two months Reuters
->
-> **3. [Hiring Slows as U.S. Jobs Report Shows Labor Market Shifting Into Lower Gear](https://www.nytimes.com/2026/10/02/business/economy/jobs-report-unemployment.html)**
+> **2. [Hiring Slows as U.S. Jobs Report Shows Labor Market Shifting Into Lower Gear](https://www.nytimes.com/2026/10/02/business/economy/jobs-report-unemployment.html)**
 > <small>NYTimes Business · 国际 · 01:09 · `可能需订阅`</small>
 > The economy added fewer jobs in September and unemployment ticked up, while inflation has maintained pressure on markets and raised costs.
+>
+> **3. [$5 billion Firmus IPO divides investors after valuation triples in two months - Reuters](https://news.google.com/rss/articles/CBMiugFBVV95cUxPUWFEamJaVWxsTk1DbjFBN1Y1Z1Znb3ZGUG9nRmVjYlFRX29qVGxRc2l3WUlPb3IxbzFnTlRpVjRZQjlUcEF5SG5aeXNWWnVaWEtCVVRDY29wUkFpNHE2bmV3cFRJdThxcFVvYjhjRDVzRm4yMDBkamNqeHNMaUNqejNVb2VJVVE2MzRYX1dMTmkwOU81OHZwbllEOEtUNmh6eGpBbVZyRENVQ21UaFhyLTRyNy1pQ1NlZHc?oc=5)**
+> <small>Reuters · 国际 · 17:32</small>
+> $5 billion Firmus IPO divides investors after valuation triples in two months Reuters
 >
 > **4. [Fed's Kashkari says inflation is 'still too high' even after softer-than-expected PCE data, labor market is 'pretty good'](https://www.cnbc.com/2026/09/30/watch-minneapolis-fed-president-neel-kashkari.html)**
 > <small>CNBC Finance · 国际 · 07:44</small>
@@ -28,29 +28,29 @@
 > <small>CNBC Finance · 国际 · 01:12</small>
 > The policymaker said she and her colleagues may need to raise interest rates further to bring inflation back to target.
 >
-> **6. [Why does Anthropic’s IPO feel so weird? - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxQUk83bVFSQWdpM2N2eXFCRlhJQkVxOWo3V3p1UUFBMDJ2ZWdnRWhqWUNKWXJ2UnljVkFySHdfWF8tcGlRMC0yeWRxY2kyVHZ0ZC1pbXd0dFd5YWpYQ1hxYU1NaTNZem1TR3dEbjYtUHJDWlF6ZzNXbGFzcjNMYXhIWFVrOFk?oc=5)**
-> <small>Financial Times · 国际 · 23:21 · `可能需订阅`</small>
-> Why does Anthropic’s IPO feel so weird? Financial Times
+> **6. [Tech Can’t Shield Stocks From Bonds Forever - Bloomberg.com](https://news.google.com/rss/articles/CBMiygFBVV95cUxNdTJlU2Z6LVBWa2d0TWg2LTJfcUZwanlGWlFWLWswT0dEd2RnVHp1aGNlcjBuVUNlT3lROFdVQ1dZM0lEb2NVaHlVbjdON3pvVXkxYmRsNGJ2OEVRcWVqWVBKNFdLYTlLSnlCdlk2RDZoYmJFbHY3OFUzUFNvMEYtM2VwSmdONHRpVDNOWk9YMkdCNVktTm9ZWGFENFVwUDNBUHVFSDZIblFXa0x5a0k2RjlwdDdkTFVIZTlaNEJqY2xCR2xqZ3c5NmZR?oc=5)**
+> <small>Bloomberg.com · 国际 · 12:00 · `可能需订阅`</small>
+> Tech Can’t Shield Stocks From Bonds Forever Bloomberg.com
 >
-> **7. [Goldman Sachs bought Shein shares worth $220mn after dismal IPO - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxPd3l5TUFvRWZES0VMQlRhanB0QmNHclZLVU5ERXRJUnNaMExVcVdDTUFuWWdCUmZxWnVaME42MHlteWtBYkdWdDRVbE5teWx0MXozcmtNN1pHUWlZVUN6X2FaN2gwclJELXJCVmEtSTR5R2VzcG9CREJ6VHAta3c4WE01Y1U?oc=5)**
-> <small>Financial Times · 国际 · 16:32 · `可能需订阅`</small>
-> Goldman Sachs bought Shein shares worth $220mn after dismal IPO Financial Times
+> **7. [国庆上万玩家登岛 3个月集聚400家OPC 复兴岛如何从“留白岛”蝶变“全球创客岛”？ ︱一探 - 第一财经](https://news.google.com/rss/articles/CBMiVEFVX3lxTE0yd0gzc05fNmJ4U2hzR3RnVVh6RGdEOXdLV1lzQmI1U3hlXzczYk1USVRxMU1iZ29TQ1VDaV9IZVVMRi1KMzJwOUlOUDVzbm5lNHhCWg?oc=5)**
+> <small>第一财经 · 国内 · 11:07</small>
+> 国庆上万玩家登岛 3个月集聚400家OPC 复兴岛如何从“留白岛”蝶变“全球创客岛”？ ︱一探 第一财经
 >
-> **8. [富途老虎期权内幕交易案大反转 两家做市商拟撤诉 - 财新](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9QQld6UnlXS3pBUkttakduaXJqdWszV2xlaTR2Y3ZEU0M1V3JLbEhwY0dMZWNjVXZjbEtTQ3hhdFNBNEtlS2NJMnhjOTZfNGpOMU0ycVpuN3BfUFMzUmhUdQ?oc=5)**
-> <small>财新 · 国内 · 18:10</small>
-> 富途老虎期权内幕交易案大反转 两家做市商拟撤诉 财新
+> **8. [UK Expected to Follow EU With Tariffs on Chinese EVs, Times Says - Bloomberg.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxPMVRFZ2liSUUtX0ctTU1RbzA3V0ZKRU0wZ1lUUXh5bmp5ODljRVJwb2NmUHdHd2lyZEtIQVZFclVHWm9URzg5WGJzd3B5eEVkSi11WlFBQk1mYWVCVl9KTmdiSjI2UHBXOXgwSEdTS3ZLVzlscVJ5TzU3dlpLY2U3VE9vbXRzMmRwRmNYb2JsYmR0Y2hEMGhNcEtVQkFwTDBWWmZWcnJYdzJwZ0tqWmNyRWk3Zk4?oc=5)**
+> <small>Bloomberg.com · 国际 · 05:22 · `可能需订阅`</small>
+> UK Expected to Follow EU With Tariffs on Chinese EVs, Times Says Bloomberg.com
 >
-> **9. [Financial Services Roundup: Market Talk - WSJ](https://news.google.com/rss/articles/CBMiggFBVV95cUxQVFppSGNYRVVocVllS2lLeFRlejNqOEhfQkxfWmxpV3lONnBvMmsyYzFxaXBteE0zU2xLLVZLNWxDeVZQc3FCLVBTTW0zVlRURlh5V0ZIYnNtaFhHdlVudFk0Y0RzRUx5Q0NWWnBBTHVSM3RwdGhDd0FIRjVGUWJseENn?oc=5)**
-> <small>WSJ · 国际 · 03:09 · `可能需订阅`</small>
-> Financial Services Roundup: Market Talk WSJ
+> **9. [AI's race to transform the world before the money runs out - Reuters](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV2NqbWtDbjVfc2dZYWtJWEp3ZnI5M1o5UWhkQndYZV83T3BxTE1VeDFNclNIeUZCMnV2a1NIVXc2enlzV3lFWktoWE11NUF0RlNjTGk1c1RTSEVsUEtGUU9HZlVuRVVhQ2ZFZTU2UHBoRVozX3pJeS1vRmtoM0w5dndmWnJ2YjQxYi03TDl4X3ZQNlhWdXBfQnRsRjByYllpaXF3VlEzWVdrS28?oc=5)**
+> <small>Reuters · 国际 · 13:08</small>
+> AI's race to transform the world before the money runs out Reuters
 >
-> **10. [锚定3.5万亿目标，哪些创新药企业，将取得突破！ - 证券时报网](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1FMDkzYmszMld1eWNRbEdtelI2UkMzb3dWeGpuRjg2WG9oQ1lpTmFRT0Z0WGhYcU53SVJmRTRhN1k4M2dPSnhiZjRFX2w1TG0tbTAxc1pPTkRUVUJN?oc=5)**
-> <small>证券时报网 · 国内 · 18:18</small>
-> 锚定3.5万亿目标，哪些创新药企业，将取得突破！ 证券时报网
+> **10. [Five Things I Learned in Hiring a Financial Adviser - WSJ](https://news.google.com/rss/articles/CBMigAFBVV95cUxPcDFMNXNza2hzak1HNGNLcUc2OGNNZ0FNdWJmU01VU29Oc0labnJIY1ZTVjU1Z3BCODh6STN4a0tkeXdUcU1adzY5cGx2VUJtRjFSOGQ3U2xLUTRQM0ZWNGpYb2RMeEZGYnhHUjF4bWdadmZqMGZ4OGs0ZF9mYjczYw?oc=5)**
+> <small>WSJ · 国际 · 22:00 · `可能需订阅`</small>
+> Five Things I Learned in Hiring a Financial Adviser WSJ
 >
 
 > [!example] 科技 / AI
-> 9/10 · 国内 0 / 国际 9
+> 8/10 · 国内 0 / 国际 8
 >
 > **1. [“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer](https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/)**
 > <small>MIT Technology Review · 国际 · 18:40</small>
@@ -60,9 +60,9 @@
 > <small>MIT Technology Review · 国际 · 23:49</small>
 > Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to fall. Globally, AI investment is set to…
 >
-> **3. [JERA teams up with Dell, RHAELM on Japan's AI infrastructure, building data centre near Tokyo - Reuters](https://news.google.com/rss/articles/CBMiugFBVV95cUxOaDd4bm5ObWlRUzdnSXo0cmRnVkRwVm5ZMmFZY0V0Q0dsWUxaZXd0eTNZbjVrWVBlVmdqbzlSdjZITk5aM3U3X3BUcFhyX29DR3ZMRml4MGtyZUhYYkVQUGF6alpPNjRyRTR2Y0pkMDByWVJCUGZSTElUT01UMjcxZ1Z0ak9NVVBpbjltaENVeWdxd0diMmc4Z2s2WUVReXJKenFPOW1QWGExeFU2c2dxUkJTYmtJMEZIRmc?oc=5)**
-> <small>Reuters · 国际 · 20:25</small>
-> JERA teams up with Dell, RHAELM on Japan's AI infrastructure, building data centre near Tokyo Reuters
+> **3. [An AI couldn’t beat humans at StarCraft, so it decided to cheat](https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft)**
+> <small>The Verge · 国际 · 00:47</small>
+> StarSkirmish pits AI-made StarCraft-playing bots against one another, as well as against human-made bots. OpenAI's GPT-6 Astra and Claude Opus 5.5 were essentially tied as the best-performing AI-made bots, but they couldn't top Stardust, t…
 >
 > **4. [Amazon responds to data center backlash, says it no longer uses NDAs](https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/)**
 > <small>TechCrunch · 国际 · 02:43</small>
@@ -72,45 +72,41 @@
 > <small>TechCrunch · 国际 · 00:30</small>
 > By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.
 >
-> **6. [An OpenAI safety employee has quit and is sounding the alarm](https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm)**
-> <small>The Verge · 国际 · 22:31</small>
-> David Robinson used to write the safety reports that accompanied every major model release at OpenAI. This week, he resigned from his position and is now speaking out in an editorial in The Atlantic. It's understandable if you're feeling a…
->
-> **7. [OpenAI’s Dot agent is enterprise software that can also order your dinner](https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent)**
-> <small>The Verge · 国际 · 01:56</small>
-> It's a tale as old as last week: OpenAI's new agent platform, called Dots, is full of cute little guys who can do your bidding. But unlike the ultra-approachable Meta Muse, Dots feel very much like using workplace software that happens to…
->
-> **8. [When Data Centers Cluster Together, How Dirty Are They? One County Wants Answers.](https://www.nytimes.com/2026/10/01/climate/data-center-pollution-study-pennsylvania.html)**
+> **6. [When Data Centers Cluster Together, How Dirty Are They? One County Wants Answers.](https://www.nytimes.com/2026/10/01/climate/data-center-pollution-study-pennsylvania.html)**
 > <small>NYTimes Technology · 国际 · 17:02 · `可能需订阅`</small>
 > An unusual study aims to estimate the pollution and health costs from a cluster of proposed data centers, instead of considering each one separately.
 >
-> **9. [OpenAI’s Greg Brockman Backs Out of Second $25 Million Donation to A.I. Super PAC](https://www.nytimes.com/2026/09/30/technology/openai-brockman-super-pac-leading-the-future.html)**
+> **7. [OpenAI’s Greg Brockman Backs Out of Second $25 Million Donation to A.I. Super PAC](https://www.nytimes.com/2026/09/30/technology/openai-brockman-super-pac-leading-the-future.html)**
 > <small>NYTimes Technology · 国际 · 06:27 · `可能需订阅`</small>
 > Greg Brockman, OpenAI’s president and co-founder, said internally that the super PAC, Leading the Future, had become a “distraction” for the A.I. company.
 >
+> **8. [NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment](https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true)**
+> <small>The Verge · 国际 · 02:00</small>
+> New Jersey's lieutenant governor Dale Caldwell was forced to resign on September 25th after an investigation found he had sexually harassed a staffer and repeatedly violated ethics rules. The now-former Lt. governor has been making the med…
+>
 
 > [!tip] 私募股权 / 投资市场
-> 10/10 · 国内 1 / 国际 9
+> 10/10 · 国内 0 / 国际 10
 >
-> **1. [The governance blind spot in the Total Portfolio Approach](https://www.privateequityinternational.com/the-governance-blind-spot-in-the-total-portfolio-approach/)**
-> <small>Private Equity International · 国际 · 19:00</small>
-> Sovereign and pension funds are abandoning fixed asset-class targets for a single risk budget. It works — until private assets enter the picture.
+> **1. [Private market relationships take new shape, say Davis Polk](https://www.privateequityinternational.com/private-market-relationships-take-new-shape-say-davis-polk/)**
+> <small>Private Equity International · 国际 · 09:00</small>
+> Challenging fundraising conditions and the growth of secondaries are leading to shifts in the LP-GP dynamic, say Davis Polk’s Sijia Cai and Alisa Waxman.
 >
-> **2. [Lender, not owner: NYC pension leans into credit amid PE slump](https://www.buyoutsinsider.com/lender-not-owner-nyc-pension-leans-into-credit-amid-pe-slump/)**
+> **2. [Download Private Equity International’s 2026 Women in Private Funds report](https://www.privateequityinternational.com/download-private-equity-internationals-2026-women-in-private-funds-report/)**
+> <small>Private Equity International · 国际 · 09:00</small>
+> In the report: Meet 42 women lighting a path across the alternative assets ecosystem; How women-led funds are finding a way in a tough fundraising climate; Career highlights from this year's Women of Influence; Plus, expert insight from Da…
+>
+> **3. [Lender, not owner: NYC pension leans into credit amid PE slump](https://www.buyoutsinsider.com/lender-not-owner-nyc-pension-leans-into-credit-amid-pe-slump/)**
 > <small>Buyouts · 国际 · 21:00</small>
 > Deeper moves into private credit would be both an offensive play and a defensive rotation while private equity recovers, according to Sanford Rich, executive director of the NYC Board of Education Retirement System.
 >
-> **3. [California pension weighs merits of adding co-investment program](https://www.buyoutsinsider.com/california-pension-weighs-merits-of-adding-co-investment-program/)**
+> **4. [California pension weighs merits of adding co-investment program](https://www.buyoutsinsider.com/california-pension-weighs-merits-of-adding-co-investment-program/)**
 > <small>Buyouts · 国际 · 04:06</small>
 > For San Mateo County, a major reason for creating a co-investment fund is the promise of improving performance from the private equity asset class.
 >
-> **4. [HealthEdge, MPK Equity, TowerBrook target skincare; AI demand in veterinary care drives Chicago Pacific’s CoVetAI exit](https://www.pehub.com/healthedge-mpk-equity-towerbrook-target-skincare-ai-demand-in-veterinary-care-drives-chicago-pacifics-covetai-exit/)**
+> **5. [HealthEdge, MPK Equity, TowerBrook target skincare; AI demand in veterinary care drives Chicago Pacific’s CoVetAI exit](https://www.pehub.com/healthedge-mpk-equity-towerbrook-target-skincare-ai-demand-in-veterinary-care-drives-chicago-pacifics-covetai-exit/)**
 > <small>PE Hub · 国际 · 21:44</small>
 > Skincare brands enjoy steady demand and private equity has taken note; pets are living longer, which means more work for vets and a growing need for AI to lighten the load. The post HealthEdge, MPK Equity, TowerBrook target skincare; AI de…
->
-> **5. [Investor Intentions: Korea Venture Investment Corporation seeks domestic blind-pool VC funds for 2026](https://www.privateequityinternational.com/investor-intentions-korea-venture-investment-corporation-seeks-domestic-blind-pool-vc-funds-for-2026/)**
-> <small>Private Equity International · 国际 · 16:13</small>
-> KVIC looks to commit 30 billion Korean won to domestic blind-pool venture capital funds.
 >
 > **6. [Deal Roundup: Harrison Street agrees $2.92bn Vicinity Energy buyout; IGP completes $1.07bn Prince & Izant exit](https://www.altassets.net/private-equity-news/by-region/global-by-region/deal-roundup-harrison-street-agrees-2-92bn-vicinity-energy-buyout-igp-completes-1-07bn-prince-izant-exit.html)**
 > <small>AltAssets · 国际 · 17:41</small>
@@ -124,13 +120,13 @@
 > <small>AltAssets · 国际 · 18:55</small>
 > SoftBank Group has completed its $3.1bn acquisition of DigitalBridge, taking the digital infrastructure specialist private and making it a controlled subsidiary of the Japanese investment group. The post Deal Roundup: SoftBank completes $3…
 >
-> **9. [Auditor RSM explores IPO to ward off private equity-backed rivals - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxPeFpSQkI3M3FGX09qa0xrbUZQY3FVLVM1MDNVd21ydjdDekktbDJfaDJ5ckVsR3RRSGVGNFFDbUhTSVh6NDgzOHlZYjZTX25BNnZzdWZpVDhwazlWT21kcGtPdFZvaFBudmpKdWNOMlQ5SV9OVV9iR1cySlhwSTZacXhXZmg?oc=5)**
-> <small>Financial Times · 国际 · 12:00 · `可能需订阅`</small>
-> Auditor RSM explores IPO to ward off private equity-backed rivals Financial Times
+> **9. [Weil to Lose Key UK Private Equity Partners as Exits Mount (1) - Bloomberg Law News](https://news.google.com/rss/articles/CBMitgFBVV95cUxQUFVJR3BKNmcyYnNveFljdmF3OVFSRFpqTngwYnhDNnNoSTdMXzZLcG16QzUwbEtreGFPUWJOV3l2a3RDZmctd1owQ09jNnV4YTBDbHlmbjVnMjNLOUNYbHFsdEJGdFhpT3N4QlpnWVJoLUs4M0t0b1JFR19mQVdtQUtXRmFWOGh4OENlN0pDdW9QX292LXU1aDQ4dWFzd05KRWRnZGNwR3Q4MngyYmJ0dFE4a1dZQQ?oc=5)**
+> <small>Bloomberg Law News · 国际 · 23:12 · `可能需订阅`</small>
+> Weil to Lose Key UK Private Equity Partners as Exits Mount (1) Bloomberg Law News
 >
-> **10. [引航生物完成4.5亿元Pre-IPO融资，提速新品产业化与市场开拓 - 动脉网](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1mandSaTk1NjRzbWNXM0xWVTR0WWR4WjZmMEd2TjlvUjV6UVlzQS1qUzdVa2FKMEgxUnN4QTJoc210SnV2VTRPaGVJMkxOMXNueTlZ?oc=5)**
-> <small>动脉网 · 国内 · 12:00</small>
-> 引航生物完成4.5亿元Pre-IPO融资，提速新品产业化与市场开拓 动脉网
+> **10. [Private Equity Daily: Apax Joins a Crowded European Fundraising Field - WSJ](https://news.google.com/rss/articles/CBMitwFBVV95cUxNQW5QMmNtTW1aUDVxaWpZX0lObUthQnlGazJ3djlJNDZla196Z1dnMVp5MTV1RHdZR3BPOFducUlEMy1ia1pGSWZWWDZtNHdadUp3MThYREtJU2I3UWVuWlFaUWkxZEZFMF9aQ0dXbHlEWEdhQUVlaUczSHFHVnQ1a2tCbFFuQXgyeDAtb3ZhRDNSTTZ2WmFqbS1tUTJKSWpSbDlfQU9iVFpLT2FkaDR0ZDRVRmltcE0?oc=5)**
+> <small>WSJ · 国际 · 19:39 · `可能需订阅`</small>
+> Private Equity Daily: Apax Joins a Crowded European Fundraising Field WSJ
 >
 
 > [!warning] 抓取失败但不影响成稿的来源
