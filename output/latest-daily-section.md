@@ -12,81 +12,77 @@
 > <small>Reuters · 国际 · 03:01</small>
 > Nvidia-backed Lambda targets $4 billion raise ahead of planned IPO, WSJ reports Reuters
 >
-> **2. [$5 billion Firmus IPO divides investors after valuation triples in two months - Reuters](https://news.google.com/rss/articles/CBMiugFBVV95cUxPUWFEamJaVWxsTk1DbjFBN1Y1Z1Znb3ZGUG9nRmVjYlFRX29qVGxRc2l3WUlPb3IxbzFnTlRpVjRZQjlUcEF5SG5aeXNWWnVaWEtCVVRDY29wUkFpNHE2bmV3cFRJdThxcFVvYjhjRDVzRm4yMDBkamNqeHNMaUNqejNVb2VJVVE2MzRYX1dMTmkwOU81OHZwbllEOEtUNmh6eGpBbVZyRENVQ21UaFhyLTRyNy1pQ1NlZHc?oc=5)**
-> <small>Reuters · 国际 · 15:00</small>
-> $5 billion Firmus IPO divides investors after valuation triples in two months Reuters
+> **2. [France to be 'strategic' on new debt issues, finance minister tells WSJ - Reuters](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTFB5RTdMeVZGUzIxd3VFU0gzVkxjTHl6ODRwY3JGZE91Y3lHaVNDZzZic2pDdWJ1YmFXOXV2Z2JjQ3FrR0VGZFZQY3JkSll4SU5YZ2J4UWIxampVejYzc0tuQ3g4Y0FBU0Z6WERYbnYwZ1QyVW96Rnhfa3hCSDRKcWxZeXRENV9pRjhnUHltbGo2OU9rMU1sR3AzdGFSUFo3S0RkdUtuSU1nQ1JsLXp4alQ4Ul9SaWIxemRIdU5wamFkMlE?oc=5)**
+> <small>Reuters · 国际 · 01:56</small>
+> France to be 'strategic' on new debt issues, finance minister tells WSJ Reuters
 >
-> **3. [Hiring Slows as U.S. Jobs Report Shows Labor Market Shifting Into Lower Gear](https://www.nytimes.com/2026/10/02/business/economy/jobs-report-unemployment.html)**
-> <small>NYTimes Business · 国际 · 01:09 · `可能需订阅`</small>
-> The economy added fewer jobs in September and unemployment ticked up, while inflation has maintained pressure on markets and raised costs.
->
-> **4. [Why the IPO market is booming and busting - Financial Times](https://news.google.com/rss/articles/CBMicEFVX3lxTE1LUTlOR2Nlb0ZGN0wzbTZlbWRTUWZvT1ltcTE4YjJWTExZUUgwNXhuelB6S1NUaFF4V05hVUtNSThBdHdKTTZlTm9IV0lNQjh6QWJVSktoZnpXMjRCdWJyZ2Z3WEwtQVFyUXhMN2kzVXY?oc=5)**
-> <small>Financial Times · 国际 · 17:29 · `可能需订阅`</small>
-> Why the IPO market is booming and busting Financial Times
->
-> **5. [Fed's Kashkari says inflation is 'still too high' even after softer-than-expected PCE data, labor market is 'pretty good'](https://www.cnbc.com/2026/09/30/watch-minneapolis-fed-president-neel-kashkari.html)**
+> **3. [Fed's Kashkari says inflation is 'still too high' even after softer-than-expected PCE data, labor market is 'pretty good'](https://www.cnbc.com/2026/09/30/watch-minneapolis-fed-president-neel-kashkari.html)**
 > <small>CNBC Finance · 国际 · 07:44</small>
 > Kashkari sat down with CNBC's Steve Liesman for an exclusive conversation Wednesday night.
 >
-> **6. [High Interest Rates Aren’t Slowing the A.I. Boom. That’s a Problem for the Fed.](https://www.nytimes.com/2026/10/05/business/ai-boom-interest-rates-fed.html)**
+> **4. [财经早知道｜假期海外市场整体偏暖，节后A股怎么走？ - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE4yTERoREhzREFOWHhyY2VFMl92OWQtWUxFMFcwNXBpVlo5anYtLVdoWXBHZmtDelJOVzltT0dtU3JpWldxR2hwYjBSd2YxMVBkSXBwUXJLam9QZEtCOURlRHRR?oc=5)**
+> <small>财新 · 国内 · 07:53</small>
+> 财经早知道｜假期海外市场整体偏暖，节后A股怎么走？ 财新
+>
+> **5. [Why Markets Are Buoyant — and Under Pressure](https://www.nytimes.com/2026/10/07/business/dealbook/stocks-record-energy-ai.html)**
+> <small>NYTimes Business · 国际 · 23:01 · `可能需订阅`</small>
+> Energy and technology companies’ earnings are expected to keep driving up stock indexes. But what’s driving up their profits are weighing on the economy.
+>
+> **6. [Exclusive | AI-Computing Startup Lambda Is Raising $4 Billion in Final Round Before Planned IPO - WSJ](https://news.google.com/rss/articles/CBMirwFBVV95cUxQVFNPcU92cHZuUkpRX3VkcGpra2MwTnFZbXY0VjhjSXNfYU5Ya3FidG9YTnM5MXVNb2F5NkZJNGpCU1psbGhJM1loeTlFWnU5bDEyUEFMQi1VbjZ5RWdJU24zR29tZ0ZnWTQwUXdtUXBYUnhvNWFxQ0R6LWVJVG1LdWZHQW9iZWNLMXJKUkNVdUFMN0RUZzRUb09oel8wQWhXMWpLOEQzbnRlQ2trZDhv?oc=5)**
+> <small>WSJ · 国际 · 01:28 · `可能需订阅`</small>
+> Exclusive | AI-Computing Startup Lambda Is Raising $4 Billion in Final Round Before Planned IPO WSJ
+>
+> **7. [High Interest Rates Aren’t Slowing the A.I. Boom. That’s a Problem for the Fed.](https://www.nytimes.com/2026/10/05/business/ai-boom-interest-rates-fed.html)**
 > <small>NYTimes Business · 国际 · 04:05 · `可能需订阅`</small>
 > Rising borrowing costs are taking a toll on households and businesses. But they are doing little to dampen enthusiasm for investments in A.I. infrastructure, which are contributing to inflation.
 >
-> **7. [从资金链看政策空间 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9DTE5hTlRUVjJHOVhxRDl4ejVSb0FrRWdmelJXalZJRmtsSEc2ZFBCcE5Ic2R4OHFrb2x4cjRHcXFXb2JHRzVOZGJBRmkwRHFlTHhmOGk2QU8waFplVmhkQk1n?oc=5)**
-> <small>财新 · 国内 · 14:26</small>
-> 从资金链看政策空间 财新
+> **8. [今日开盘：小幅低开 沪指跌幅0.08% - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE4tVVFBUHlIZjFWb2FvT1FTcy1vckFQSDVoVHJrNWFrSHZIUWZCQU4ycGtlQ3R3N3VrSUp3Y1NyQmZqRS1hZVVaR1JHWFRCN3gwYU1jVDBMbE01SHFGZGp5RlpR?oc=5)**
+> <small>财新 · 国内 · 09:29</small>
+> 今日开盘：小幅低开 沪指跌幅0.08% 财新
 >
-> **8. [巴西大选选情胶着！25日卢拉与博索纳罗之子将进行第二轮角逐 - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5vZkdJYVdOWk5jNFEtWXZzM3o5OFZqbDBtb1VTRkgzOUl3UDVISnNKczhnOEROQVNUZE9XdzFwazd2Z2RnYWJxdloyQ1kzMlVnaVlR?oc=5)**
-> <small>第一财经 · 国内 · 08:47</small>
-> 巴西大选选情胶着！25日卢拉与博索纳罗之子将进行第二轮角逐 第一财经
+> **9. [不到30小时，宁夏牛肉“直奔”长三角餐桌 ｜活力中国调研行 - 第一财经](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5jUXFYcGVJYWpHdmh1LVBpcGNhc0xvVWlOY3pHamxVNXluYkg4QnpfTE9iemhPY0NRV1BGbllMQ0ZlV1FlRXJvN1BYUjQweE9j?oc=5)**
+> <small>第一财经 · 国内 · 09:26</small>
+> 不到30小时，宁夏牛肉“直奔”长三角餐桌 ｜活力中国调研行 第一财经
 >
-> **9. [孟加拉国将从“最不发达国家”毕业，投资窗口打开了吗？|问海 - 第一财经](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9VenJfQ2RJakg1cW9ydWlpaTY3OGxhenZmdVE5YnBjeko1REprbllOV0x0U3BqMWxyNmRSWDYzaFUtbE91cDR1cXlBS1ZkVzRZ?oc=5)**
-> <small>第一财经 · 国内 · 02:25</small>
-> 孟加拉国将从“最不发达国家”毕业，投资窗口打开了吗？|问海 第一财经
->
-> **10. [南向资金连续4个月净买入！净买入这只股近80亿港元！ - 证券时报网](https://news.google.com/rss/articles/CBMiXEFVX3lxTE4xQ2JMWklYSkxlMl9naXZOLVpkQmtzYzRZWDd4b2swUkJKZndUWlFnUDFDejFDblVLUzlldENWTW0wMC1SSklUYTZPWGgyWTRwSl91YkxiYndrZUNB?oc=5)**
-> <small>证券时报网 · 国内 · 08:02</small>
-> 南向资金连续4个月净买入！净买入这只股近80亿港元！ 证券时报网
+> **10. [国庆上万玩家登岛 3个月集聚400家OPC 复兴岛如何从“留白岛”蝶变“全球创客岛”？ ︱一探 - 第一财经](https://news.google.com/rss/articles/CBMiVEFVX3lxTE0yd0gzc05fNmJ4U2hzR3RnVVh6RGdEOXdLV1lzQmI1U3hlXzczYk1USVRxMU1iZ29TQ1VDaV9IZVVMRi1KMzJwOUlOUDVzbm5lNHhCWg?oc=5)**
+> <small>第一财经 · 国内 · 02:24</small>
+> 国庆上万玩家登岛 3个月集聚400家OPC 复兴岛如何从“留白岛”蝶变“全球创客岛”？ ︱一探 第一财经
 >
 
 > [!example] 科技 / AI
-> 9/10 · 国内 2 / 国际 7
+> 8/10 · 国内 0 / 国际 8
 >
-> **1. [AI computing startup Lambda to raise $4B ahead of planned IPO](https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/)**
-> <small>TechCrunch · 国际 · 04:00</small>
-> Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.
+> **1. [Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11](https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/)**
+> <small>TechCrunch · 国际 · 04:22</small>
+> Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.
 >
-> **2. [OpenAI drops another batch of mathematical breakthroughs](https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github)**
-> <small>The Verge · 国际 · 07:26</small>
-> OpenAI has revealed solutions to a number of long-standing mathematics problems produced by an unreleased frontier model in a batch of 722 manuscripts, covering 372 result families that group related papers. It extends a run of breakthroug…
+> **2. [Artificial film review — Andrew Garfield is a strangely likeable Sam Altman in OpenAI origin story Artificial - Financial Times](https://news.google.com/rss/articles/CBMicEFVX3lxTE50SmNKbkNmbGdubGlPVmxFRTZ3SXdSR090cEdMQkhKVGZLQnk1eWJ4X2VFRm5VZUZjYU1JMGhqRGdyQnNCdkZwZS1Rc0V5WnNCWWZIRGZRSXU0M0VsTURLb0dDdmVaMVN1VXpSMDFBMXU?oc=5)**
+> <small>Financial Times · 国际 · 21:32 · `可能需订阅`</small>
+> Artificial film review — Andrew Garfield is a strangely likeable Sam Altman in OpenAI origin story Artificial Financial Times
 >
-> **3. [Rural Data Centers Are in for a Big Federal Tax Break - WIRED](https://news.google.com/rss/articles/CBMiigFBVV95cUxOQ2tSbFBoQl9ibDl5ZXBqMHdxNEVDcmcwVXBzd0ZsTjhnUXFHeU5ndXgzZHFEcDA1c0VfOVhvVE00MUZCR183MzNweGdycHpEZ3JMRmxDRHRxb0xuTlNSS0lTRUtXV2h1UUxYaXkxdnRlbk1UeFNxbTNxRmRFLW5CUXl1V2Z3V3M0WVE?oc=5)**
-> <small>WIRED · 国际 · 18:00</small>
-> Rural Data Centers Are in for a Big Federal Tax Break WIRED
+> **3. [Everything announced at Microsoft’s Surface Laptop Ultra event](https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced)**
+> <small>The Verge · 国际 · 06:15</small>
+> Microsoft just wrapped up a big Windows and Surface-focused keynote in San Francisco. The biggest announcement was arguably the release details about the Surface Laptop Ultra, its new laptop that’s powered by Nvidia’s RTX Spark Arm-based c…
 >
-> **4. [When Data Centers Cluster Together, How Dirty Are They? One County Wants Answers.](https://www.nytimes.com/2026/10/01/climate/data-center-pollution-study-pennsylvania.html)**
+> **4. [ChatGPT’s ‘Intelligent UI’ update fills its responses with pictures, charts, and buttons](https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6)**
+> <small>The Verge · 国际 · 03:10</small>
+> OpenAI is launching a new Intelligent UI feature in ChatGPT that allows the chatbot to answer your questions with interactive visuals. The update, which is rolling out to all users alongside GPT-6, gives ChatGPT the ability to combine a te…
+>
+> **5. [ChatGPT is getting a lot more visual, with the launch of a new interface](https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/)**
+> <small>TechCrunch · 国际 · 02:00</small>
+> OpenAI is launching a new user interface that will bring interactive visuals to ChatGPT.
+>
+> **6. [China races to build AI data centres across energy-rich hinterland - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNSnFlU2FKUTIyWjZVV3BYWmpMZ2g2cGwwSDJMVUtXdEcyWGFyUG1wVUZkcVRsaGdXQk5rYWhlM2tEVEc3SXBrUUVKczh0ZDZmdDIyRzhpaXpoYnRkcEdLWmRTLUFEMEJDWkdkZXhEeUhId2ZFS0pBclAyUjhVODNXamQ2WXk?oc=5)**
+> <small>Financial Times · 国际 · 08:15 · `可能需订阅`</small>
+> China races to build AI data centres across energy-rich hinterland Financial Times
+>
+> **7. [Why My Conversations with OpenAI’s ‘ChatGPT for Teens’ Made Me Very Worried](https://www.nytimes.com/2026/10/07/technology/personaltech/chatgpt-teens-openai.html)**
+> <small>NYTimes Technology · 国际 · 17:07 · `可能需订阅`</small>
+> A new mode includes a study tool, but it still does a user’s homework. And a children’s safety nonprofit says the chatbot flunked its tests.
+>
+> **8. [When Data Centers Cluster Together, How Dirty Are They? One County Wants Answers.](https://www.nytimes.com/2026/10/01/climate/data-center-pollution-study-pennsylvania.html)**
 > <small>NYTimes Technology · 国际 · 17:02 · `可能需订阅`</small>
 > An unusual study aims to estimate the pollution and health costs from a cluster of proposed data centers, instead of considering each one separately.
->
-> **5. [OpenAI’s Greg Brockman Backs Out of Second $25 Million Donation to A.I. Super PAC](https://www.nytimes.com/2026/09/30/technology/openai-brockman-super-pac-leading-the-future.html)**
-> <small>NYTimes Technology · 国际 · 06:27 · `可能需订阅`</small>
-> Greg Brockman, OpenAI’s president and co-founder, said internally that the super PAC, Leading the Future, had become a “distraction” for the A.I. company.
->
-> **6. [OpenAI一夜甩出722篇数学论文！黎曼霍奇BSD全上阵，数学家：读不过来 - 量子位 QbitAI](https://news.google.com/rss/articles/CBMiVEFVX3lxTFB5UGp2NnF5MzlFNHg1a3F6ZE9ROGt6V0xtZE10SWJfRm9vUDhWWWNGWVJTSlJ5bkpVWndQVHUwSHdUeFdBVVR6eW1heC1reDloUjJ2bA?oc=5)**
-> <small>量子位 QbitAI · 国内 · 09:05</small>
-> OpenAI一夜甩出722篇数学论文！黎曼霍奇BSD全上阵，数学家：读不过来 量子位 QbitAI
->
-> **7. [Silicon Valley’s AI wunderkind launches Underdog, the most private Instinct/Muse competitor yet](https://techcrunch.com/2026/10/06/silicon-valleys-ai-wunderkind-launches-underdog-the-most-private-instinct-muse-competitor-yet/)**
-> <small>TechCrunch · 国际 · 04:47</small>
-> Sigil Wen, backed by a Silicon Valley who's who, has built an on-device AI assistant that promises to be free, fully private, and capable for everyday tasks.
->
-> **8. [Google’s power-hungry data centers crave nuclear energy](https://www.theverge.com/science/1006082/google-nuclear-energy-power-purchase-agreement-constellation)**
-> <small>The Verge · 国际 · 04:32</small>
-> Google announced a new agreement to update six nuclear power plant sites across the US as the tech giant seeks to generate more electricity for its power-hungry data centers. Google signed the 20-year deal with Constellation, the leading n…
->
-> **9. [限时28天！OpenAI承诺没新功能就重置，网友：只想要Opus - 量子位 QbitAI](https://news.google.com/rss/articles/CBMiVEFVX3lxTE1DYVo3aFFsR1ZJMjdRRlNEVDVhQXdxYzdDMVMzNTA5SzRzUHdWUXBsQUdrdF9RN3pSYzlhOHFvTm02Q243X05XNFcxdTI4Nl9UQVRvaA?oc=5)**
-> <small>量子位 QbitAI · 国内 · 10:50</small>
-> 限时28天！OpenAI承诺没新功能就重置，网友：只想要Opus 量子位 QbitAI
 >
 
 > [!tip] 私募股权 / 投资市场
@@ -96,37 +92,37 @@
 > <small>Private Equity International · 国际 · 14:00</small>
 > Human capital issues can make or break an exit, but managing relationships with the full spectrum of stakeholders is more art than science. In this podcast, we offer some guidance to ensure the people involved remain an asset, not a liabil…
 >
-> **2. [Investor Intentions: Illinois TRS seeks private equity secondaries market advisory services](https://www.privateequityinternational.com/investor-intentions-illinois-trs-seeks-private-equity-secondaries-market-advisory-services/)**
-> <small>Private Equity International · 国际 · 17:34</small>
-> The public pension fund is interested in firms who can provide advisory services related to the sale of markets assets through secondaries transactions.
+> **2. [LGPS Central partner funds commit an additional £2bn to private markets](https://www.privateequityinternational.com/lgps-central-partner-funds-commit-an-additional-2bn-to-private-markets/)**
+> <small>Private Equity International · 国际 · 16:00</small>
+> The £108bn pension pool expanded its private markets portfolio during the financial year ending 31 March, with co-investment remaining a key area of focus, according to its latest annual report.
 >
 > **3. [Cook County pension to tick up private equity allocation](https://www.buyoutsinsider.com/cook-county-pension-to-tick-up-private-equity-allocation/)**
 > <small>Buyouts · 国际 · 01:12</small>
 > The increase to the private equity asset class is a rare uptick for a steady and reliable part of the pension's portfolio.
 >
-> **4. [LP-backed Collective Global eyes $1bn for sophomore GP stakes fund](https://www.buyoutsinsider.com/lp-backed-collective-global-eyes-1bn-for-sophomore-gp-stakes-fund/)**
-> <small>Buyouts · 国际 · 05:25</small>
-> A key objective of the firm’s GP staking is to help LPs secure access to leading venture and growth managers.
+> **4. [PennSERS lowers PE target due to lack of ‘options’ in current market](https://www.buyoutsinsider.com/pennsers-lowers-pe-target-due-to-lack-of-options-in-current-market/)**
+> <small>Buyouts · 国际 · 04:55</small>
+> Much of the conversation around PennSERS’ private equity portfolio is indicative of the dramatic shift in the state of the private markets over the last five years.
 >
-> **5. [Antin’s Stephan Feilhauer on opportunities in aerial firefighting; Broad Sky’s Adam Glucksman reveals growth strategy for Frontline Managed Services](https://www.pehub.com/antins-stephan-feilhauer-on-opportunities-in-aerial-firefighting-broad-skys-adam-glucksman-reveals-growth-strategy-for-frontline-managed-services/)**
-> <small>PE Hub · 国际 · 21:39</small>
-> A look at the two main drivers behind Antin Infrastructure Partners' recent majority investment in High Performance Helicopters; Broad Sky Partners portfolio company, Frontline Managed Services, makes its first add-on with the acquisition…
+> **5. [Altaris completes carve-out of Clarivate’s life sciences and healthcare business](https://www.pehub.com/altaris-completes-carve-out-of-clarivates-life-sciences-and-healthcare-business/)**
+> <small>PE Hub · 国际 · 00:41</small>
+> The business provides AI-enabled data intelligence and decision-support tools for R&D and commercialization to the pharmaceutical, biotechnology and medical technology industries. The post Altaris completes carve-out of Clarivate’s life sc…
 >
-> **6. [Vance Street’s Fumex acquires Montreal air filtration firm Filtrabox](https://www.pehub.com/vance-streets-fumex-acquires-montreal-air-filtration-firm-filtrabox/)**
-> <small>PE Hub · 国际 · 23:15</small>
-> Filtrabox, by PAT Technology Systems, is a founder-owned Montreal designer and manufacturer of engineered systems that protect people, equipment and environments from airborne pollutants. The post Vance Street’s Fumex acquires Montreal air…
+> **6. [BDT & MSD agrees to acquire Sunrise Senior Living from PSP Investments](https://www.pehub.com/bdt-msd-agrees-to-acquire-sunrise-senior-living-from-psp-investments/)**
+> <small>PE Hub · 国际 · 00:45</small>
+> Sunrise operates more than 230 senior living communities across the US and Canada, serving more than 22,000 residents. The post BDT & MSD agrees to acquire Sunrise Senior Living from PSP Investments appeared first on PE Hub .
 >
-> **7. [Deal Roundup: KKR strikes $5.1bn Gen II buyout; TDR takes OCU from Triton after fourfold revenue growth](https://www.altassets.net/private-equity-news/by-region/global-by-region/deal-roundup-kkr-strikes-5-1bn-gen-ii-buyout-tdr-takes-ocu-from-triton-after-fourfold-revenue-growth.html)**
+> **7. [Permira’s Ruder Says AI Mega-IPOs Crowding Out Some Private Equity Exits - Bloomberg.com](https://news.google.com/rss/articles/CBMixAFBVV95cUxQckZIeURFRjlRa19LZDZVQ3ZhZHhRYjBsakJFZmdjNUFlOGlSU2ZheFM5WmJLN2FwdkVqQVFwejlBQ3VzaDV5TmtHRDQ4cEFvaHZjNE92SmRwZ3pTZ01uNHlvMHhTeGQ2Sk02WFVpRUVyMFNtdGRPc3JWdjJVd2ZBQWE4d3kybW9fTFFoNlFYaVZnQ2lBVE42V1FJdHVlRE1uanlsUnVBWnh5Q2FoOHE1Snc2OWgtbVRGbHFkQ3FkWTg4NGlt?oc=5)**
+> <small>Bloomberg.com · 国际 · 00:11 · `可能需订阅`</small>
+> Permira’s Ruder Says AI Mega-IPOs Crowding Out Some Private Equity Exits Bloomberg.com
+>
+> **8. [Deal Roundup: KKR strikes $5.1bn Gen II buyout; TDR takes OCU from Triton after fourfold revenue growth](https://www.altassets.net/private-equity-news/by-region/global-by-region/deal-roundup-kkr-strikes-5-1bn-gen-ii-buyout-tdr-takes-ocu-from-triton-after-fourfold-revenue-growth.html)**
 > <small>AltAssets · 国际 · 19:40</small>
 > KKR has agreed to acquire private capital fund administrator Gen II Fund Services from Hg, General Atlantic and other minority investors for a $5.1bn enterprise value through its Core Private Equity strategy.Gen II administers more than $2…
 >
-> **8. [2家A股公司，筹划重要收购！ - 证券时报网](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1IYWdYVG50bHduRkhPQlB0eXVyOUpDOTZPU0xZbUJlUS0xSmRNaHZVV2JJd0txeFN4SVpsYzJEdk00ajZMX1VOX1NZSkJwUmk4VzFBUV9OTzd3UTRB?oc=5)**
+> **9. [2家A股公司，筹划重要收购！ - 证券时报网](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1IYWdYVG50bHduRkhPQlB0eXVyOUpDOTZPU0xZbUJlUS0xSmRNaHZVV2JJd0txeFN4SVpsYzJEdk00ajZMX1VOX1NZSkJwUmk4VzFBUV9OTzd3UTRB?oc=5)**
 > <small>证券时报网 · 国内 · 15:51</small>
 > 2家A股公司，筹划重要收购！ 证券时报网
->
-> **9. [Niobrara Capital beats debut fund target by 50% with $1.1bn close](https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/niobrara-beats-debut-fund-target-by-50-with-1-1bn-close.html)**
-> <small>AltAssets · 国际 · 21:25</small>
-> Technology-focused private equity newcomer Niobrara Capital Partners has beaten its target by about 50% to raise more than $1.1bn for its debut buyout fund, less than two-and-a-half years after launching the firm. The post Niobrara Capital…
 >
 > **10. [《广州市南沙区科技创新母基金管理办法（2026年修订版）》 - 投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1KdnV5Q1lIRC1xbjFmYWo0WHBmU0tGc3d2VE1VTVY1OEZNMDVldElGTHB1QlkzNDVjSlFiM0ZJUUxiTHNhZ1dLckV1NmZnUjMteUtGQUhR?oc=5)**
 > <small>投资界 · 国内 · 14:03</small>
