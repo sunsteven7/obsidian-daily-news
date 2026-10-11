@@ -12,13 +12,13 @@
 > <small>Reuters · 国际 · 06:33</small>
 > Kalshi probes suspicious trades tied to Trump press secretary pick, WSJ reports Reuters
 >
-> **2. [Wells Fargo faces potential probe over Black homeownership commitments, WSJ reports - Reuters](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVlVmckRQYk5jUDFDNU92T1E2VGtoNG1hOFJUSmxKeV81dllmT1lOQ3A5enNfOE9ONTQ1ekVpUUpwSEppU2VXVlByMHlZcjZNR1FhX2JEQ1FXdTM3SmpndWVHbldnYnd5bF9mWFZmc2pIazZ0ZXpYWjhCbUtqZkVtb2YtaHhaRm1pY1lQS3pkVkhhbWthVWxjUmRnbzdIdnFaYkhBOTZaai1pbDZ3NDhRQWROMElGSDZwU0plWVU4S3BYaUhBdnNlcQ?oc=5)**
-> <small>Reuters · 国际 · 01:39</small>
-> Wells Fargo faces potential probe over Black homeownership commitments, WSJ reports Reuters
->
-> **3. [财经早知道｜央行阐明人民币汇率政策立场 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5jR3JCX1d2Ym1PRm9tR2ZmUTNqS3ZvYXBXd3dIWkRjTWxxRHc4M3RGRklBWVlEMktuOG5qLUpvYnF3UVlrOXFFUEhvLXFaaWhnWnJvQ1BPSzdnYjBKUy1zTmlR?oc=5)**
+> **2. [财经早知道｜央行阐明人民币汇率政策立场 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5jR3JCX1d2Ym1PRm9tR2ZmUTNqS3ZvYXBXd3dIWkRjTWxxRHc4M3RGRklBWVlEMktuOG5qLUpvYnF3UVlrOXFFUEhvLXFaaWhnWnJvQ1BPSzdnYjBKUy1zTmlR?oc=5)**
 > <small>财新 · 国内 · 07:00</small>
 > 财经早知道｜央行阐明人民币汇率政策立场 财新
+>
+> **3. [Airtel Money slips below IPO offer price in $7 billion London debut - Reuters](https://news.google.com/rss/articles/CBMilAFBVV95cUxNSktsa3k5T3VhQ3VBTTJTYW5ka2NRQl83Y0FqeFpYeHoxTFZMSXNTbnduQ2RjMlN5RG81ZlRMZzRKbjZVajI0aG1DS2Q2eHRvZkNKdFFVaHJ3QjdpLWFnaUxOVnNtQVdtTHlTdnVVaGZhT2lvQWF4dUtmVm1haEN1eTlQLWZ0Z3dJVkpHSU14QXNQTURv?oc=5)**
+> <small>Reuters · 国际 · 20:05</small>
+> Airtel Money slips below IPO offer price in $7 billion London debut Reuters
 >
 > **4. [央行：全球失衡不能简单归因汇率，需各方共同应对 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQUFZjdUZ4c2dELWR5S2l2QjJ4TGdHLUdOYXZQSjQ0ODJWQVJJQXMyZ1pXNVJaeWFKaXhLWWs5WWhCbkRfd25majRJY29MRWRPdXVSNmxsZGwwUGtDSmFLd0hn?oc=5)**
 > <small>财新 · 国内 · 19:01</small>
@@ -33,7 +33,7 @@
 > 央行文件首次全面、系统阐述人民币汇率的政策立场 第一财经
 >
 > **7. [Big investors ‘bottom fish’ in Eurozone bond markets after France sell-off - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxPeV9Kdk9rNFl1b2F3ck1idThEdDIwR2o2dlVRVkd4WjlkLVM2ZkpyTVZGYlJESS13TUFyeGdtWnZLVXB2QlQ5U0stdVJORk9DQXlhS0RkRlVYcG1XRFFPdDZHWjJfWE1OQmZZbUtUM0FKa0JacEs3Z2Z6b1g4UFVHNWFhbnA?oc=5)**
-> <small>Financial Times · 国际 · 17:25 · `可能需订阅`</small>
+> <small>Financial Times · 国际 · 00:06 · `可能需订阅`</small>
 > Big investors ‘bottom fish’ in Eurozone bond markets after France sell-off Financial Times
 >
 > **8. [A Top Fed Official Casts Further Doubt on a Rate Rise This Month](https://www.nytimes.com/2026/10/08/business/federal-reserve-christopher-waller-rates.html)**
@@ -64,33 +64,33 @@
 > <small>TechCrunch · 国际 · 00:40</small>
 > "When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us," Dr. Sherry Turkle writes. "And we are wired to care for it in return."
 >
-> **4. [‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop](https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos)**
-> <small>The Verge · 国际 · 03:11</small>
-> "Staggering." "Overwhelming." "Unprecedented." "Surreal." "Pure insanity." Those were among the descriptions more than three dozen mathematicians reached for in conversations with The Verge as they tried to make sense of the flood of mathe…
+> **4. [Breakingviews - COMMENTARY: Failed AI IPO puts fear before FOMO - Reuters](https://news.google.com/rss/articles/CBMinAFBVV95cUxNTW1rWkJDakhDNW9vbEdSYklkVmdXd1VVYkJRX2NLTHJfazRRN1lndlhnX0V2RHJmLWhDMTFPeWFGZ2M1THo1aGJiT3RzTkxDTXJCVDRkMFFoS0kycVY0RXdDQ3ZQTWNRLVBNY3Y0V0NQOVpUODVtOXZ2U1FxektBYnVDZGROWUtzN0tMcHNtLUhMSnNlQzVVX1A1U04?oc=5)**
+> <small>Reuters · 国际 · 11:53</small>
+> Breakingviews - COMMENTARY: Failed AI IPO puts fear before FOMO Reuters
 >
-> **5. [Amazon and others are done keeping data center deals secret. Is it enough to build trust?](https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/)**
-> <small>TechCrunch · 国际 · 00:56</small>
-> Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition lead…
+> **5. [EXCLUSIVE: AI surveillance startup Flock Safety to cut several hundred jobs amid backlash, sources say - Reuters](https://news.google.com/rss/articles/CBMivAFBVV95cUxNZjJDODBjeFVYRENLMm9RSjJLOTdUUjBHcDMtWXRCM1VtRDFBbVRsdjRpMEtrU3p6Ym1udmhHODU4NHlCdVVfQ0dCcXpteXduRE9ULXFzVWFDRXBhS3gwQ21GdkJlc3hqRzBPV0tjSmQwZ0RCQWVJX1AzblVvVGkwNzY1RWpnMVFZYnAwc3JQT0hHSmx2d2d4Z2otMzdFYnV3bkVfQWRldk1rWW5NZWU2Y1dWRkp1LUtyQ1ZEZw?oc=5)**
+> <small>Reuters · 国际 · 08:09</small>
+> EXCLUSIVE: AI surveillance startup Flock Safety to cut several hundred jobs amid backlash, sources say Reuters
 >
-> **6. [Claude新模型发布！跑分暴击GPT-6 Luna，价格比梁文谷还便宜，OpenAI只能送重置卡挽尊 - 量子位 QbitAI](https://news.google.com/rss/articles/CBMiVEFVX3lxTE04YllTM0djSzg2cU1GNlRfMVNYVnNzQ2pUSzZBOG5ReVFOWVJIRU9oWVFaRFVBS2txa2NyUUx6MjBpcjdHRENCWlg1MFdXSVBHUU9qVw?oc=5)**
-> <small>量子位 QbitAI · 国内 · 09:04</small>
-> Claude新模型发布！跑分暴击GPT-6 Luna，价格比梁文谷还便宜，OpenAI只能送重置卡挽尊 量子位 QbitAI
+> **6. [AI agent makers are promising privacy — will they deliver?](https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots)**
+> <small>The Verge · 国际 · 05:26</small>
+> At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots - and told the crowd that the company wants to "set a new standard for privacy in frontier AI." OpenAI would spend the day taking veiled shots at Meta's…
 >
-> **7. [OpenAI营收预期缩水，Manus却融资5亿美元：AI赛道风向变了 - 36氪](https://news.google.com/rss/articles/CBMiTkFVX3lxTFBvMkJLQ2t4bWtBZ2xCVzFKb2VJQkw5bl9WNUhmdFE0UnAtMGc4aWFMRGlYMTYwakUzSEtETmR5X29OeElZRF9oSHZyZFVSUQ?oc=5)**
-> <small>36氪 · 国内 · 20:20</small>
-> OpenAI营收预期缩水，Manus却融资5亿美元：AI赛道风向变了 36氪
+> **7. [AI灾难恐在一年内发生，OpenAI和Anthropic已在推演应对方案 - 36氪](https://news.google.com/rss/articles/CBMiTkFVX3lxTE9DdU1WTk9oRkVyUnJNVkdjQU1FUmxYLVRJelc0aVYzcFNUcWZXcE9rV05nQUtxRFl6MnBFaXpucmVpTG5LNUF2WTdaZHdNZw?oc=5)**
+> <small>36氪 · 国内 · 16:49</small>
+> AI灾难恐在一年内发生，OpenAI和Anthropic已在推演应对方案 36氪
 >
-> **8. [Why My Conversations with OpenAI’s ‘ChatGPT for Teens’ Made Me Very Worried](https://www.nytimes.com/2026/10/07/technology/personaltech/chatgpt-teens-openai.html)**
-> <small>NYTimes Technology · 国际 · 17:07 · `可能需订阅`</small>
-> A new mode includes a study tool, but it still does a user’s homework. And a children’s safety nonprofit says the chatbot flunked its tests.
+> **8. [陶哲轩带头宣战！人类数学家联合抵制OpenAI - 量子位](https://news.google.com/rss/articles/CBMiVEFVX3lxTE1oZGdrUk9BQkNSem1QYnlEbkhtZVlHZ1ZxQU1CZHRabk1FS1B5YUZaYUhvTy01bWl4VENDVm1uVzIzY2V3VDFFcFBXVWRFZUhTTE1jQg?oc=5)**
+> <small>量子位 · 国内 · 08:35</small>
+> 陶哲轩带头宣战！人类数学家联合抵制OpenAI 量子位
 >
-> **9. [陶哲轩带头宣战！人类数学家联合抵制OpenAI - 量子位 QbitAI](https://news.google.com/rss/articles/CBMiVEFVX3lxTE1oZGdrUk9BQkNSem1QYnlEbkhtZVlHZ1ZxQU1CZHRabk1FS1B5YUZaYUhvTy01bWl4VENDVm1uVzIzY2V3VDFFcFBXVWRFZUhTTE1jQg?oc=5)**
-> <small>量子位 QbitAI · 国内 · 08:35</small>
-> 陶哲轩带头宣战！人类数学家联合抵制OpenAI 量子位 QbitAI
+> **9. [陶哲轩带头宣战，人类数学家联合抵制OpenAI - 36氪](https://news.google.com/rss/articles/CBMiTkFVX3lxTE9NaXBPZTFnUXM5YVRDQ3Y5S2FZaE5POVFWQnBULW9yMmR1cThkLW94QUJKOTRlUU50Rm0yRmFnUTMwT21NcERjV242T3Qwdw?oc=5)**
+> <small>36氪 · 国内 · 18:15</small>
+> 陶哲轩带头宣战，人类数学家联合抵制OpenAI 36氪
 >
-> **10. [刚刚，OpenAI撤回了三篇AI数学论文，竟是因为符号写错了 - 36氪](https://news.google.com/rss/articles/CBMiTkFVX3lxTE5TSzIzZDdiVGxLTlF4aVJWdFN3WkxvcGw0TGxIWXBMcGlKeGcyUDJKVDVrSlFEY25uVUZhWk9mNDEwNFVVNzJZZ1AtT2ZvQQ?oc=5)**
-> <small>36氪 · 国内 · 06:51</small>
-> 刚刚，OpenAI撤回了三篇AI数学论文，竟是因为符号写错了 36氪
+> **10. [《柳叶刀》研究表明：AI 有望改善医患关系 - 量子位](https://news.google.com/rss/articles/CBMiVEFVX3lxTE5rMEpHLWdZYTQwOVhXQlgzU3JmZGJfQnpRSmZ0U3FlNDNxU2tDdVpXWTFoTDV3YnR2Mlh0WlZDSlZnQXZZQkVjZ1dJNThHYnp4Y1d3cA?oc=5)**
+> <small>量子位 · 国内 · 14:28</small>
+> 《柳叶刀》研究表明：AI 有望改善医患关系 量子位
 >
 
 > [!tip] 私募股权 / 投资市场
@@ -128,13 +128,13 @@
 > <small>证券时报网 · 国内 · 15:51</small>
 > 2家A股公司，筹划重要收购！ 证券时报网
 >
-> **9. [微玖光电完成数亿元Pre-A轮融资，加快Micro LED量产布局 - 投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5GTUo5TVNyT0Q3Skxra3h2RmlDREVmeks4MjNya3pHc3RZZjNzSDJPWENwcUdQQW5BdUdlYVd1V1l5bW9XckhnbVhzdW1yb1phLVhLeWR3?oc=5)**
+> **9. [经纬创投70亿新基金出炉，LP排队出资 - 投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBVNWJkUkJKOWRackZfUXlyY0RpNU44X2N4RWgzVnBiZjhjbXd0OHliemh1Rlh4bExmemRycW5NMlg4SjVjZWwxOVBKNXh0NkhRYVMzdFFB?oc=5)**
+> <small>投资界 · 国内 · 16:59</small>
+> 经纬创投70亿新基金出炉，LP排队出资 投资界
+>
+> **10. [微玖光电完成数亿元Pre-A轮融资，加快Micro LED量产布局 - 投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5GTUo5TVNyT0Q3Skxra3h2RmlDREVmeks4MjNya3pHc3RZZjNzSDJPWENwcUdQQW5BdUdlYVd1V1l5bW9XckhnbVhzdW1yb1phLVhLeWR3?oc=5)**
 > <small>投资界 · 国内 · 17:09</small>
 > 微玖光电完成数亿元Pre-A轮融资，加快Micro LED量产布局 投资界
->
-> **10. [百趣生物完成近亿元B轮融资，加码多组学+AI4S研发与全球布局 - 投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTFAtdjM4X2E1TzJPQUIwMWttQnRnNEh1bEM1VktVby1VUXhyYTZRdDlmYnlSMnJlcEt3QzNPNndvNy1DZ0VEVmZ3cnJtR3JtV3dJS1V5NkVB?oc=5)**
-> <small>投资界 · 国内 · 09:59</small>
-> 百趣生物完成近亿元B轮融资，加码多组学+AI4S研发与全球布局 投资界
 >
 
 > [!warning] 抓取失败但不影响成稿的来源
