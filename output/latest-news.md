@@ -1,8 +1,8 @@
 ---
 type: daily-news
-date: 2026-10-11
+date: 2026-10-12
 generated: true
-generated_at: 2026-10-11T12:17:43+08:00
+generated_at: 2026-10-12T12:34:33+08:00
 categories:
   - finance
   - tech-ai
@@ -24,45 +24,45 @@ tags:
 > <small>Reuters · 国际 · 06:33</small>
 > Kalshi probes suspicious trades tied to Trump press secretary pick, WSJ reports Reuters
 >
-> **2. [财经早知道｜央行阐明人民币汇率政策立场 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5jR3JCX1d2Ym1PRm9tR2ZmUTNqS3ZvYXBXd3dIWkRjTWxxRHc4M3RGRklBWVlEMktuOG5qLUpvYnF3UVlrOXFFUEhvLXFaaWhnWnJvQ1BPSzdnYjBKUy1zTmlR?oc=5)**
-> <small>财新 · 国内 · 07:00</small>
-> 财经早知道｜央行阐明人民币汇率政策立场 财新
->
-> **3. [Airtel Money slips below IPO offer price in $7 billion London debut - Reuters](https://news.google.com/rss/articles/CBMilAFBVV95cUxNSktsa3k5T3VhQ3VBTTJTYW5ka2NRQl83Y0FqeFpYeHoxTFZMSXNTbnduQ2RjMlN5RG81ZlRMZzRKbjZVajI0aG1DS2Q2eHRvZkNKdFFVaHJ3QjdpLWFnaUxOVnNtQVdtTHlTdnVVaGZhT2lvQWF4dUtmVm1haEN1eTlQLWZ0Z3dJVkpHSU14QXNQTURv?oc=5)**
-> <small>Reuters · 国际 · 20:05</small>
-> Airtel Money slips below IPO offer price in $7 billion London debut Reuters
->
-> **4. [央行：全球失衡不能简单归因汇率，需各方共同应对 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQUFZjdUZ4c2dELWR5S2l2QjJ4TGdHLUdOYXZQSjQ0ODJWQVJJQXMyZ1pXNVJaeWFKaXhLWWs5WWhCbkRfd25majRJY29MRWRPdXVSNmxsZGwwUGtDSmFLd0hn?oc=5)**
-> <small>财新 · 国内 · 19:01</small>
-> 央行：全球失衡不能简单归因汇率，需各方共同应对 财新
->
-> **5. [Fed's Kashkari says inflation is 'still too high' even after softer-than-expected PCE data, labor market is 'pretty good'](https://www.cnbc.com/2026/09/30/watch-minneapolis-fed-president-neel-kashkari.html)**
+> **2. [Fed's Kashkari says inflation is 'still too high' even after softer-than-expected PCE data, labor market is 'pretty good'](https://www.cnbc.com/2026/09/30/watch-minneapolis-fed-president-neel-kashkari.html)**
 > <small>CNBC Finance · 国际 · 07:44</small>
 > Kashkari sat down with CNBC's Steve Liesman for an exclusive conversation Wednesday night.
 >
-> **6. [央行文件首次全面、系统阐述人民币汇率的政策立场 - 第一财经](https://news.google.com/rss/articles/CBMiVEFVX3lxTE1md3kyUXJKS0VBTTdieEdYb2d4UElkR3RlVlVnVk5wWkl2aGg2YzdHQVpOcGN5U3RTNU5pRWx5d0FXTU5mTTFQWXl6U25YcE43aGszMQ?oc=5)**
-> <small>第一财经 · 国内 · 18:39</small>
-> 央行文件首次全面、系统阐述人民币汇率的政策立场 第一财经
+> **3. [证监会召开资本市场和金融形势专家座谈会证监会主席吴清：共同把资本市场建设好更好回报广大投资者 - 证券时报网](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9iU1V3V2JoaEpPMlpXS09YMEM0clI3U1NTSHRrVE5LTHBHUmNPTi1hTnJkMk9hWUtTaV9pT0RWU3F4N2ZVNVJaUmFUQ1Y5b3NLNjI0a0ZGTk42LUhoX0E?oc=5)**
+> <small>证券时报网 · 国内 · 09:14</small>
+> 证监会召开资本市场和金融形势专家座谈会证监会主席吴清：共同把资本市场建设好更好回报广大投资者 证券时报网
 >
-> **7. [Big investors ‘bottom fish’ in Eurozone bond markets after France sell-off - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxPeV9Kdk9rNFl1b2F3ck1idThEdDIwR2o2dlVRVkd4WjlkLVM2ZkpyTVZGYlJESS13TUFyeGdtWnZLVXB2QlQ5U0stdVJORk9DQXlhS0RkRlVYcG1XRFFPdDZHWjJfWE1OQmZZbUtUM0FKa0JacEs3Z2Z6b1g4UFVHNWFhbnA?oc=5)**
-> <small>Financial Times · 国际 · 00:06 · `可能需订阅`</small>
-> Big investors ‘bottom fish’ in Eurozone bond markets after France sell-off Financial Times
->
-> **8. [A Top Fed Official Casts Further Doubt on a Rate Rise This Month](https://www.nytimes.com/2026/10/08/business/federal-reserve-christopher-waller-rates.html)**
+> **4. [A Top Fed Official Casts Further Doubt on a Rate Rise This Month](https://www.nytimes.com/2026/10/08/business/federal-reserve-christopher-waller-rates.html)**
 > <small>NYTimes Business · 国际 · 16:38 · `可能需订阅`</small>
 > The Federal Reserve is poised to raise interest rates further as it seeks to tame inflation, but that is unlikely to happen until the end of the year.
 >
-> **9. [Why Markets Are Buoyant — and Under Pressure](https://www.nytimes.com/2026/10/07/business/dealbook/stocks-record-energy-ai.html)**
+> **5. [Why Markets Are Buoyant — and Under Pressure](https://www.nytimes.com/2026/10/07/business/dealbook/stocks-record-energy-ai.html)**
 > <small>NYTimes Business · 国际 · 23:01 · `可能需订阅`</small>
 > Energy and technology companies’ earnings are expected to keep driving up stock indexes. But what’s driving up their profits are weighing on the economy.
 >
-> **10. [央行9月公开市场国债买卖净投放1000亿元 - 证券时报网](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9HVzVPTWMyMlJ0UC1KRDlDWDVfTFdGNDZFUVhJc2t0MDNIWEtXa0U5cGtHQUFraWM3eTB4WF9Od24wU1ktSVA5SkJELW9BUi1GbXlyREJtajVSOVVt?oc=5)**
-> <small>证券时报网 · 国内 · 09:25</small>
-> 央行9月公开市场国债买卖净投放1000亿元 证券时报网
+> **6. [After a yearslong slump, China's real estate market may be set for a turnaround](https://www.cnbc.com/2026/10/08/chinas-real-estate-market-may-be-set-for-a-turnaround-sp-says.html)**
+> <small>CNBC Finance · 国际 · 17:27</small>
+> A recovery in China's largest cities real estate markets could come as soon as next year, the S&P ratings agency said.
+>
+> **7. [从IMF报告看中国增长模式转型的关键 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE83X1BvUTk5N3ZjSER1enV5cXNoTHdCMW9LN2hSYnRrQUxaS1A0bXVNNUtucDBHY29FR2JoR3RGS2FuRnhGMGVIMEdzOHNWZDdjTG02bzI5U2NOaHlPa0ZHS0t3?oc=5)**
+> <small>财新 · 国内 · 11:23</small>
+> 从IMF报告看中国增长模式转型的关键 财新
+>
+> **8. [财经早知道｜事关人工智能等新质生产力，国务院发布重磅文件 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Ra29EVmdIQXlPcDNVR0NCcWNnM21fT1BoZUUyRFZKYVh5eVp3YXZCM0xXbi1QdkZEU0ExTWVYVlJoNU5PclQxcDBieWlCR0VsblB4X3VGd1d4RXlsdWsxYWV3?oc=5)**
+> <small>财新 · 国内 · 07:02</small>
+> 财经早知道｜事关人工智能等新质生产力，国务院发布重磅文件 财新
+>
+> **9. [Trump agrees deal with Putin for Russia to release diesel on to global market - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxPVEpfQUt4N0dsSkdPd0R3NnBQYnpPY01HdDBXbDU3MkRhVnF4RElJZldwd1NmTFdGSzQwSm4wbWRRZ2dOVUI1VmdVQ2QzWVUycjk4Y1dGU01mbGp0WTlSMXVRZm96blV6R040cUhmcUZoMHdMZGJfY1RuMkEzQk41bmRuNnE?oc=5)**
+> <small>Financial Times · 国际 · 03:01 · `可能需订阅`</small>
+> Trump agrees deal with Putin for Russia to release diesel on to global market Financial Times
+>
+> **10. [上海楼市新政持续“上分”：有新盘认筹率超300% 买房人压力小底气足开发商也要拿出真本事｜一探 - 第一财经](https://news.google.com/rss/articles/CBMiVEFVX3lxTE1TaW9walQxZjR0THdQMmc4RkpOOWY4ZjMzazMwa21JS2MzZXo0RHdZaDliWFRGZlhwbFhoQXNldVQ1WFJIanpkemdMekpQb2E0QnVlZA?oc=5)**
+> <small>第一财经 · 国内 · 05:59</small>
+> 上海楼市新政持续“上分”：有新盘认筹率超300% 买房人压力小底气足开发商也要拿出真本事｜一探 第一财经
 >
 
 > [!example] 科技 / AI
-> 10/10 · 国内 4 / 国际 6
+> 10/10 · 国内 3 / 国际 7
 >
 > **1. [AI breakthroughs in robotics won’t change your life any time soon](https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/)**
 > <small>MIT Technology Review · 国际 · 17:00</small>
@@ -72,33 +72,33 @@ tags:
 > <small>MIT Technology Review · 国际 · 17:00</small>
 > Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of robotic disobedience.…
 >
-> **3. [We can’t help treating AI like it’s human. But should we?](https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/)**
-> <small>TechCrunch · 国际 · 00:40</small>
-> "When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us," Dr. Sherry Turkle writes. "And we are wired to care for it in return."
+> **3. [Nvidia in talks to invest further in Reflection AI or buy it, FT reports - Reuters](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQXpmTnVsdlhWdUt0a0hnSUg1YUVoRWNhT2JSQ24yeHFvRWVPdG5SNzNsWkNLVS0zbng0UWZrMS1zaGtXRmNzRThMamRUNXJPUGRwX09vN2J0dXFSUW9ZSThFeGZ6bTg5bnFqVVktSk91RzBNMkN0MGFOX2FSSEFZMzZ4TXhMb1dsc1hpLUwtY1pmeERoMnE0M2llTEI0X1V2cGxRc1UtMnpYUmc?oc=5)**
+> <small>Reuters · 国际 · 03:33</small>
+> Nvidia in talks to invest further in Reflection AI or buy it, FT reports Reuters
 >
-> **4. [Breakingviews - COMMENTARY: Failed AI IPO puts fear before FOMO - Reuters](https://news.google.com/rss/articles/CBMinAFBVV95cUxNTW1rWkJDakhDNW9vbEdSYklkVmdXd1VVYkJRX2NLTHJfazRRN1lndlhnX0V2RHJmLWhDMTFPeWFGZ2M1THo1aGJiT3RzTkxDTXJCVDRkMFFoS0kycVY0RXdDQ3ZQTWNRLVBNY3Y0V0NQOVpUODVtOXZ2U1FxektBYnVDZGROWUtzN0tMcHNtLUhMSnNlQzVVX1A1U04?oc=5)**
-> <small>Reuters · 国际 · 11:53</small>
-> Breakingviews - COMMENTARY: Failed AI IPO puts fear before FOMO Reuters
+> **4. [Can the AI industry persuade data center opponents by getting rid of NDAs?](https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/)**
+> <small>TechCrunch · 国际 · 00:52</small>
+> On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.
 >
-> **5. [EXCLUSIVE: AI surveillance startup Flock Safety to cut several hundred jobs amid backlash, sources say - Reuters](https://news.google.com/rss/articles/CBMivAFBVV95cUxNZjJDODBjeFVYRENLMm9RSjJLOTdUUjBHcDMtWXRCM1VtRDFBbVRsdjRpMEtrU3p6Ym1udmhHODU4NHlCdVVfQ0dCcXpteXduRE9ULXFzVWFDRXBhS3gwQ21GdkJlc3hqRzBPV0tjSmQwZ0RCQWVJX1AzblVvVGkwNzY1RWpnMVFZYnAwc3JQT0hHSmx2d2d4Z2otMzdFYnV3bkVfQWRldk1rWW5NZWU2Y1dWRkp1LUtyQ1ZEZw?oc=5)**
-> <small>Reuters · 国际 · 08:09</small>
-> EXCLUSIVE: AI surveillance startup Flock Safety to cut several hundred jobs amid backlash, sources say Reuters
+> **5. [Learning to use local AI is exciting, overwhelming, and frustrating](https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress)**
+> <small>The Verge · 国际 · 12:53</small>
+> I'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services has been a major hold up for me, but it's increasingly possible to run powerful models locally…
 >
-> **6. [AI agent makers are promising privacy — will they deliver?](https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots)**
-> <small>The Verge · 国际 · 05:26</small>
-> At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots - and told the crowd that the company wants to "set a new standard for privacy in frontier AI." OpenAI would spend the day taking veiled shots at Meta's…
+> **6. [Why My Conversations with OpenAI’s ‘ChatGPT for Teens’ Made Me Very Worried](https://www.nytimes.com/2026/10/07/technology/personaltech/chatgpt-teens-openai.html)**
+> <small>NYTimes Technology · 国际 · 11:00 · `可能需订阅`</small>
+> A new mode includes a study tool, but it still does a user’s homework. And a children’s safety nonprofit says the chatbot flunked its tests.
 >
-> **7. [AI灾难恐在一年内发生，OpenAI和Anthropic已在推演应对方案 - 36氪](https://news.google.com/rss/articles/CBMiTkFVX3lxTE9DdU1WTk9oRkVyUnJNVkdjQU1FUmxYLVRJelc0aVYzcFNUcWZXcE9rV05nQUtxRFl6MnBFaXpucmVpTG5LNUF2WTdaZHdNZw?oc=5)**
-> <small>36氪 · 国内 · 16:49</small>
-> AI灾难恐在一年内发生，OpenAI和Anthropic已在推演应对方案 36氪
+> **7. [The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know](https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/)**
+> <small>TechCrunch · 国际 · 08:59</small>
+> TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that.
 >
-> **8. [陶哲轩带头宣战！人类数学家联合抵制OpenAI - 量子位](https://news.google.com/rss/articles/CBMiVEFVX3lxTE1oZGdrUk9BQkNSem1QYnlEbkhtZVlHZ1ZxQU1CZHRabk1FS1B5YUZaYUhvTy01bWl4VENDVm1uVzIzY2V3VDFFcFBXVWRFZUhTTE1jQg?oc=5)**
-> <small>量子位 · 国内 · 08:35</small>
-> 陶哲轩带头宣战！人类数学家联合抵制OpenAI 量子位
+> **8. [硅谷AI现状：谁有算力谁是爹 - 量子位](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9DQnVJQjVxT3BKeER2UUcta21MMHVIRzZsX1FlRjU3eGxuaWNWMXNuZFJMTjRtN2hpWGRSNzU2V0J3VUZSQjY5TTVLVmVPUWNIY2dvMw?oc=5)**
+> <small>量子位 · 国内 · 13:22</small>
+> 硅谷AI现状：谁有算力谁是爹 量子位
 >
-> **9. [陶哲轩带头宣战，人类数学家联合抵制OpenAI - 36氪](https://news.google.com/rss/articles/CBMiTkFVX3lxTE9NaXBPZTFnUXM5YVRDQ3Y5S2FZaE5POVFWQnBULW9yMmR1cThkLW94QUJKOTRlUU50Rm0yRmFnUTMwT21NcERjV242T3Qwdw?oc=5)**
-> <small>36氪 · 国内 · 18:15</small>
-> 陶哲轩带头宣战，人类数学家联合抵制OpenAI 36氪
+> **9. [AI数据中心用电狂飙，美国密西西比州发出电力预警 - 36氪](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5EcFR4OE11X2hTR2wtZmZuOW5Bai1ndXNzMzEtVjBxU1RNZDAtc2paZmtoNzMxZHZxUkVuZi14a05nRXFqaEVWQ3lWN0NQUnVGaEdtVWJpT2RzZTNiR1E?oc=5)**
+> <small>36氪 · 国内 · 12:49</small>
+> AI数据中心用电狂飙，美国密西西比州发出电力预警 36氪
 >
 > **10. [《柳叶刀》研究表明：AI 有望改善医患关系 - 量子位](https://news.google.com/rss/articles/CBMiVEFVX3lxTE5rMEpHLWdZYTQwOVhXQlgzU3JmZGJfQnpRSmZ0U3FlNDNxU2tDdVpXWTFoTDV3YnR2Mlh0WlZDSlZnQXZZQkVjZ1dJNThHYnp4Y1d3cA?oc=5)**
 > <small>量子位 · 国内 · 14:28</small>
@@ -106,7 +106,7 @@ tags:
 >
 
 > [!tip] 私募股权 / 投资市场
-> 10/10 · 国内 3 / 国际 7
+> 10/10 · 国内 4 / 国际 6
 >
 > **1. [LGPS Central partner funds commit an additional £2bn to private markets](https://www.privateequityinternational.com/lgps-central-partner-funds-commit-an-additional-2bn-to-private-markets/)**
 > <small>Private Equity International · 国际 · 16:00</small>
@@ -132,21 +132,21 @@ tags:
 > <small>AltAssets · 国际 · 17:50</small>
 > SpaceX has agreed to acquire a nationwide portfolio of 800 MHz wireless spectrum licences from digital infrastructure investment firm Grain Management in a transaction valued at about $8bn, according to Reuters. The agreement covers 100% o…
 >
-> **7. [Global PE exits surge 65% in value, fundraising keeps shrinking as recovery concentrates in megadeals](https://www.altassets.net/featured/global-pe-exits-surge-65-in-value-fundraising-keeps-shrinking-as-recovery-concentrates-in-megadeals.html)**
-> <small>AltAssets · 国际 · 18:10</small>
-> Global private equity exit value jumped 65% in the third quarter to $481.6bn, but the number of completed exits rose by less than 10%, according to new PitchBook data highlighting the concentration of the industry's recovery in larger tran…
+> **7. [腾讯重仓，深圳超级IPO要来了 - 投中网](https://news.google.com/rss/articles/CBMibkFVX3lxTFBlYUxTeFZMbG1HTXBmM0lVR25IZ0dtTW80R2VKZDVab18tR2dlZjI5ZV9BakNTN205Y05Tclo1Wm1qTWxfRGY5WU81NUthU082N0dwandPRHhpamMyd1hzSWd4NDNCSXZZNjN3NEVn?oc=5)**
+> <small>投中网 · 国内 · 10:20</small>
+> 腾讯重仓，深圳超级IPO要来了 投中网
 >
 > **8. [2家A股公司，筹划重要收购！ - 证券时报网](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1IYWdYVG50bHduRkhPQlB0eXVyOUpDOTZPU0xZbUJlUS0xSmRNaHZVV2JJd0txeFN4SVpsYzJEdk00ajZMX1VOX1NZSkJwUmk4VzFBUV9OTzd3UTRB?oc=5)**
 > <small>证券时报网 · 国内 · 15:51</small>
 > 2家A股公司，筹划重要收购！ 证券时报网
 >
-> **9. [经纬创投70亿新基金出炉，LP排队出资 - 投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBVNWJkUkJKOWRackZfUXlyY0RpNU44X2N4RWgzVnBiZjhjbXd0OHliemh1Rlh4bExmemRycW5NMlg4SjVjZWwxOVBKNXh0NkhRYVMzdFFB?oc=5)**
-> <small>投资界 · 国内 · 16:59</small>
-> 经纬创投70亿新基金出炉，LP排队出资 投资界
->
-> **10. [微玖光电完成数亿元Pre-A轮融资，加快Micro LED量产布局 - 投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5GTUo5TVNyT0Q3Skxra3h2RmlDREVmeks4MjNya3pHc3RZZjNzSDJPWENwcUdQQW5BdUdlYVd1V1l5bW9XckhnbVhzdW1yb1phLVhLeWR3?oc=5)**
+> **9. [微玖光电完成数亿元Pre-A轮融资，加快Micro LED量产布局 - 投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5GTUo5TVNyT0Q3Skxra3h2RmlDREVmeks4MjNya3pHc3RZZjNzSDJPWENwcUdQQW5BdUdlYVd1V1l5bW9XckhnbVhzdW1yb1phLVhLeWR3?oc=5)**
 > <small>投资界 · 国内 · 17:09</small>
 > 微玖光电完成数亿元Pre-A轮融资，加快Micro LED量产布局 投资界
+>
+> **10. [百趣生物完成近亿元B轮融资，加码多组学+AI4S研发与全球布局 - 投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTFAtdjM4X2E1TzJPQUIwMWttQnRnNEh1bEM1VktVby1VUXhyYTZRdDlmYnlSMnJlcEt3QzNPNndvNy1DZ0VEVmZ3cnJtR3JtV3dJS1V5NkVB?oc=5)**
+> <small>投资界 · 国内 · 09:59</small>
+> 百趣生物完成近亿元B轮融资，加码多组学+AI4S研发与全球布局 投资界
 >
 
 > [!warning] 抓取失败但不影响成稿的来源
