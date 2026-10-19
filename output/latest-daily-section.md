@@ -12,85 +12,81 @@
 > <small>NYTimes Business · 国际 · 02:06 · `可能需订阅`</small>
 > The Federal Reserve chairman stuck to his pledge to avoid providing guidance about the path forward for interest rates, but did nothing to convey an urgency to raise them later this month.
 >
-> **2. [A股跌破3700点 科技股腰斩、翻倍基金收益全部转负 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5oQU1zTElxN005N3luNU1qWTBpTXhuYWhiV3NtcW9oeVJCM05DVkc1bkxlb1NlZ1hwcFdtcnlja0N5ZnpSblRtRkpQek94Zkt6NlZ3aWQwX0JKN1ZhX1NqYVVB?oc=5)**
-> <small>财新 · 国内 · 21:03</small>
-> A股跌破3700点 科技股腰斩、翻倍基金收益全部转负 财新
->
-> **3. [被指数剔除只是开始？茶百道IPO包盘案两大团伙渐渐浮出水面 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBmejBJRDR5MGRUYS16TTA0MWdKQkVfUU5oc0twRWFUbjhiNWZPUmhJdHN0RlNFTHRuOWJFcmhJTFNPVGhocXZfYkh0ME1FTmNieERoZ2NYcnF4bEhzRHJkOHZn?oc=5)**
-> <small>财新 · 国内 · 13:33</small>
-> 被指数剔除只是开始？茶百道IPO包盘案两大团伙渐渐浮出水面 财新
->
-> **4. [The data centre IPO debacle that sparked a market meltdown - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxOSmk5ejd0SFBvajRsVWlCUWR2OFpiT0dfLUtrQ0NlOFo3MlJZR2IxM2JCZ3I1V2tMNUk5OGpGOWJ0VllLR1Bycm5GZmJhOHlCTVVTcTJRSGx6STlObHJmN3RrcmZ2cUFKaW4zR2kySHZERFBLQzRuQmdjN19MbF80bWw2WFM?oc=5)**
+> **2. [The data centre IPO debacle that sparked a market meltdown - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxOSmk5ejd0SFBvajRsVWlCUWR2OFpiT0dfLUtrQ0NlOFo3MlJZR2IxM2JCZ3I1V2tMNUk5OGpGOWJ0VllLR1Bycm5GZmJhOHlCTVVTcTJRSGx6STlObHJmN3RrcmZ2cUFKaW4zR2kySHZERFBLQzRuQmdjN19MbF80bWw2WFM?oc=5)**
 > <small>Financial Times · 国际 · 12:56 · `可能需订阅`</small>
 > The data centre IPO debacle that sparked a market meltdown Financial Times
 >
-> **5. [Williams says Fed may not have to hike rates in 2027, at odds with traders](https://www.cnbc.com/2026/10/13/john-williams-fed-rate-hikes-2027.html)**
+> **3. [Williams says Fed may not have to hike rates in 2027, at odds with traders](https://www.cnbc.com/2026/10/13/john-williams-fed-rate-hikes-2027.html)**
 > <small>CNBC Finance · 国际 · 03:46</small>
 > New York Fed President John Williams sees one more rate hike in 2026 but no additional increase in 2027 as inflation pressures ease.
 >
-> **6. [Higher rates could be needed to avoid 'inflationary mindset' taking hold, says Fed's Hammack](https://www.cnbc.com/2026/10/12/beth-hammack-fed-inflation-policy.html)**
+> **4. [Higher rates could be needed to avoid 'inflationary mindset' taking hold, says Fed's Hammack](https://www.cnbc.com/2026/10/12/beth-hammack-fed-inflation-policy.html)**
 > <small>CNBC Finance · 国际 · 10:58</small>
 > The Cleveland Fed president said that tighter monetary policy would be needed to bring down inflation.
 >
-> **7. [Why Bad News in the Bond Market May Be Good News for Investors](https://www.nytimes.com/2026/10/16/business/bonds-investors-interest-rates.html)**
+> **5. [Why Bad News in the Bond Market May Be Good News for Investors](https://www.nytimes.com/2026/10/16/business/bonds-investors-interest-rates.html)**
 > <small>NYTimes Business · 国际 · 04:55 · `可能需订阅`</small>
 > In the contrarian logic of investing, rising interest rates have made bonds much more attractive, our columnist says.
 >
-> **8. [Indonesia stocks plunge after MSCI says market could be cut from indices - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxPZnU4YTEwTkF0aUpWOTQ4YWFQem9tVUhiN2w3ZnBrX2VEckE4aktXUnJySWhBR1FjR3QybndOc1JXQzd2SnAxNGdtVTZJVlJCTzdJc3VrMWdPVmFaY2ViLWh3OTZkMUd4NzRxZ0dsX2wzalFPWnMtYUJjeGpCMEhFYlhUODk?oc=5)**
-> <small>Financial Times · 国际 · 18:16 · `可能需订阅`</small>
+> **6. [Indonesia stocks plunge after MSCI says market could be cut from indices - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxPZnU4YTEwTkF0aUpWOTQ4YWFQem9tVUhiN2w3ZnBrX2VEckE4aktXUnJySWhBR1FjR3QybndOc1JXQzd2SnAxNGdtVTZJVlJCTzdJc3VrMWdPVmFaY2ViLWh3OTZkMUd4NzRxZ0dsX2wzalFPWnMtYUJjeGpCMEhFYlhUODk?oc=5)**
+> <small>Financial Times · 国际 · 18:06 · `可能需订阅`</small>
 > Indonesia stocks plunge after MSCI says market could be cut from indices Financial Times
 >
-> **9. [广交会“三蹦子”全球爆单海外个人客户也想批发去卖有公司一年出口了十几万辆展商：欧洲客户变多了｜一探 - 第一财经](https://news.google.com/rss/articles/CBMiVEFVX3lxTE96M0tZZHU3X0gwUjRaUjBheElRcXhPMXNPTU5IUDN2bW9UWFd3cVZDVW4xbmd3ZlY5clIweDBUTFZmVHFBcjV5dkVVXzZWeEE4SGE4dg?oc=5)**
-> <small>第一财经 · 国内 · 20:10</small>
-> 广交会“三蹦子”全球爆单海外个人客户也想批发去卖有公司一年出口了十几万辆展商：欧洲客户变多了｜一探 第一财经
+> **7. [金融数据的三个变化 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTFA2V1lZTlYwbXFoWWlGQmNyUDVJb1N6WkktdzVSSkFvWV8wT2RMQkFJNUNkbE90azQyMjZLbmt5LVdaTThQbU40ZHpKVXJ3S1F6ZWI1OUgyMmVybWYycU5ZejRB?oc=5)**
+> <small>财新 · 国内 · 11:03</small>
+> 金融数据的三个变化 财新
 >
-> **10. [实探华强北iPhone Duo行情首批货源紧张单店仅几台捆绑配件销售溢价最高破万线上订单已排队至明年提货｜一探 - 第一财经](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9qS0NxRFpsZVAxaU5MM1FjN2FDQ3Ricm1yQno1UFFkZmowWWlaOVhtbTYzUlBqa3duLTRvbjdWZlF3aDRURUdFU0s1SFotNWdTZzRGbw?oc=5)**
-> <small>第一财经 · 国内 · 18:22</small>
-> 实探华强北iPhone Duo行情首批货源紧张单店仅几台捆绑配件销售溢价最高破万线上订单已排队至明年提货｜一探 第一财经
+> **8. [潘功胜：IMF应加强对发达经济体财政风险及其溢出效应的监督 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1rLUJzRG9ZaGtVX0poZU9PNUs1NWUxRVNES09WN1dobk1DQndvTnU5QTdhRkJGUTA2Nkd3VGc5RnhIVGxCd3B5YklNOXItdlRHN1JUaWNYY2JaVTNOcUZRYmhn?oc=5)**
+> <small>财新 · 国内 · 10:21</small>
+> 潘功胜：IMF应加强对发达经济体财政风险及其溢出效应的监督 财新
+>
+> **9. [最新财新周刊｜2026年诺贝尔经济学奖：理解组成宏观的微观个体 - 财新周刊](https://news.google.com/rss/articles/CBMiYEFVX3lxTE96RzRRWlFFMG1nZEh0dng5VF9oWFozZUxjRXlXZk1kRV90YkJBOFhiLUwzRzVHVG5BdFJwaXNOa3dCYWlrUG5SMXhGNFVVMnZ2d2cyeXRoYUotSVRqMzNxQQ?oc=5)**
+> <small>财新周刊 · 国内 · 22:30 · `可能需订阅`</small>
+> 最新财新周刊｜2026年诺贝尔经济学奖：理解组成宏观的微观个体 财新周刊
+>
+> **10. [宇树上市后首次演讲，王兴兴谈“让机器人自己写代码进化” - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9hVmY0ZzJxekxUOGtYZlZRR0FfeE1NWVVoZ2pSYzJPcG1QUjVOYVhRVVFTa19QQVg2bFBXaUJMNFE2WWQyZ2JxX0oxejk0S2tpZU1Z?oc=5)**
+> <small>第一财经 · 国内 · 17:55</small>
+> 宇树上市后首次演讲，王兴兴谈“让机器人自己写代码进化” 第一财经
 >
 
 > [!example] 科技 / AI
-> 10/10 · 国内 3 / 国际 7
+> 9/10 · 国内 2 / 国际 7
 >
 > **1. [Roundtables: A Conversation With the Creator of AI-Designed Viruses](https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/)**
 > <small>MIT Technology Review · 国际 · 02:00</small>
 > Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viru…
 >
-> **2. [国产芯片公司算苗科技一年融资近20亿元 预计第一代产品2027 年量产 - 财新](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1xQVd6ZE1DeFZWbklRb3RRR1dhajN3dUpMSHJScTBTZF9PcE9JQnUtb0wtc3hEQ19IcFJORDZRNzFRQ3NENk0xN3JON01KSFc5eFZWNzdYdEt2Qjhy?oc=5)**
-> <small>财新 · 国内 · 17:39</small>
-> 国产芯片公司算苗科技一年融资近20亿元 预计第一代产品2027 年量产 财新
->
-> **3. [Replit makes OpenAI its default over Anthropic, CEO says](https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/)**
+> **2. [Replit makes OpenAI its default over Anthropic, CEO says](https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/)**
 > <small>TechCrunch · 国际 · 02:48</small>
 > Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.
 >
-> **4. [Websites are closing their doors to AI agents](https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web)**
-> <small>The Verge · 国际 · 06:31</small>
-> Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying ne…
->
-> **5. [India becomes the latest country to report rogue AI agent activity](https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/)**
+> **3. [India becomes the latest country to report rogue AI agent activity](https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/)**
 > <small>TechCrunch · 国际 · 01:52</small>
 > The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.
 >
-> **6. [OpenAI Engineer, Who Is Charged With Planting Bug, Advised Saudis](https://www.nytimes.com/2026/10/14/technology/openai-engineer-hidden-device-saudi-government.html)**
+> **4. [OpenAI Engineer, Who Is Charged With Planting Bug, Advised Saudis](https://www.nytimes.com/2026/10/14/technology/openai-engineer-hidden-device-saudi-government.html)**
 > <small>NYTimes Technology · 国际 · 22:51 · `可能需订阅`</small>
 > The employee, now fired, had said he advised government agencies in Saudi Arabia. He was also listed as a partner at a venture firm with a Saudi prince.
 >
-> **7. [AI Oversight Is a Fiduciary Duty Before It’s a Technology Issue - Bloomberg Law News](https://news.google.com/rss/articles/CBMiywFBVV95cUxPbkV0UHVHZ2UxUHdyM01qY2swRl9HRG90VkJmU0VoNWtBbGhUeVllOXk5SzFJTnczdmhGczJBanVjVjlBb2hsWWk2N1BEcm5HZW4yQ053d0J3Z3F4N0gweEYzRU41ZUNhWVRMTXFFZi1DWGwwd0U1UUhPM2ZFVFV1dzd5NWc2WHZTbUZCbHRVX2Zta1RSc2NOWVE3MGRZY1BkSFo5UGRmakdLZ1BVMWgzdUc4MzZhTTBVUGUxZ1VTWXgxNWdMSEIyLU9zYw?oc=5)**
-> <small>Bloomberg Law News · 国际 · 16:30 · `可能需订阅`</small>
-> AI Oversight Is a Fiduciary Duty Before It’s a Technology Issue Bloomberg Law News
->
-> **8. [F.B.I. Arrests OpenAI Employee Accused of Planting Bug in Office](https://www.nytimes.com/2026/10/13/technology/openai-worker-arrested-bugging.html)**
+> **5. [F.B.I. Arrests OpenAI Employee Accused of Planting Bug in Office](https://www.nytimes.com/2026/10/13/technology/openai-worker-arrested-bugging.html)**
 > <small>NYTimes Technology · 国际 · 09:33 · `可能需订阅`</small>
 > OpenAI said that the employee had placed a device built to evade detection and that he had planned to secretly record meetings in other sensitive spaces.
 >
-> **9. [库克：苹果智能接入阿里千问大模型，10月底在中国发布测试版本 - 量子位](https://news.google.com/rss/articles/CBMiVEFVX3lxTE1IbXNrNjhGSC1iLWszU1hCZG9mYi1keGlxODltMW9RRmhjaDRVMlY1LUZQUURaemphRHE5MUdQRUpaRkdkNi1CbUk4TFVydUlxUWpQVQ?oc=5)**
-> <small>量子位 · 国内 · 17:43</small>
-> 库克：苹果智能接入阿里千问大模型，10月底在中国发布测试版本 量子位
+> **6. [微软取消AI相关合作，英国本土数据中心先锋企业遭遇重大挫折 - 36氪](https://news.google.com/rss/articles/CBMiWEFVX3lxTE5CTzF2TTZiQkprbFdldXhjOHFlRWI2NGF1cnViOXNhMUQ1TjJNYWlIc3lMSlJYU3IwUmJyNlpaOFZGR0Nobm0tWlRBcWRtT3hoaktoNVliN3g?oc=5)**
+> <small>36氪 · 国内 · 01:54</small>
+> 微软取消AI相关合作，英国本土数据中心先锋企业遭遇重大挫折 36氪
 >
-> **10. [英伟达，投了个芯片竞对 - 36氪](https://news.google.com/rss/articles/CBMiTkFVX3lxTE9zV01uOHhGaEZxdlpIU0FvWHdNV1JHSzFmRUZQdkhNVDNyMHFSTzJ4akhJVkxCdUJvR0J0ZVUxVmdyNFQ1b1RvVk1vMVdwZw?oc=5)**
-> <small>36氪 · 国内 · 23:12</small>
-> 英伟达，投了个芯片竞对 36氪
+> **7. [A woman was arrested in Philly for blocking a delivery robot](https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot)**
+> <small>The Verge · 国际 · 02:28</small>
+> Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia's ABC13 "I know they're taking the jobs of human delivery worker…
+>
+> **8. [AI 带来的效率，可能会毁掉下一代专业人才 - 36氪](https://news.google.com/rss/articles/CBMiTkFVX3lxTE9VQUdQcXQza0Jwd3B1b2JwUUxacDRqOTF0TUZyWk9rOF9JVEtUNTVITDU3UGk3YjRHWnZKaXJadW5XQjhyT19EQVZkUG5sdw?oc=5)**
+> <small>36氪 · 国内 · 17:30</small>
+> AI 带来的效率，可能会毁掉下一代专业人才 36氪
+>
+> **9. [Cities want to put the boot on robotaxis](https://www.theverge.com/transportation/1013220/robotaxi-self-driving-car-laws)**
+> <small>The Verge · 国际 · 03:07</small>
+> This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on autonomous vehicles, policy, and road rules, follow Andrew J. Hawkins. The Stepback arrives in our subscribers' inboxes at 8AM ET.…
 >
 
 > [!tip] 私募股权 / 投资市场
@@ -120,21 +116,21 @@
 > <small>PE Hub · 国际 · 22:31</small>
 > The Loveland-based company provides specialty infusion therapy for patients receiving complex and recurring treatments. The post Frazier Healthcare’s LUX Infusion enters Colorado with Suite Health acquisition appeared first on PE Hub .
 >
-> **7. [宏芯宇冲击港股IPO！公司是中国最大未上市独立存储器厂商，今年前4个月净利润暴增30倍 - 证券时报网](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9KU3NGR0M5OFNzWWFnR0JXMFEtbkNpcmpORk1TUVROWHQ3b0k4bnBmdnY2SFpqTUJzTDIzOHRncDZjUUhoRG1mVlI0R3VfX1A2dzZmc29yME9ZZVEt?oc=5)**
-> <small>证券时报网 · 国内 · 09:00</small>
-> 宏芯宇冲击港股IPO！公司是中国最大未上市独立存储器厂商，今年前4个月净利润暴增30倍 证券时报网
->
-> **8. [腾讯重仓，深圳超级IPO要来了 - 投中网](https://news.google.com/rss/articles/CBMibkFVX3lxTFBlYUxTeFZMbG1HTXBmM0lVR25IZ0dtTW80R2VKZDVab18tR2dlZjI5ZV9BakNTN205Y05Tclo1Wm1qTWxfRGY5WU81NUthU082N0dwandPRHhpamMyd1hzSWd4NDNCSXZZNjN3NEVn?oc=5)**
+> **7. [腾讯重仓，深圳超级IPO要来了 - 投中网](https://news.google.com/rss/articles/CBMibkFVX3lxTFBlYUxTeFZMbG1HTXBmM0lVR25IZ0dtTW80R2VKZDVab18tR2dlZjI5ZV9BakNTN205Y05Tclo1Wm1qTWxfRGY5WU81NUthU082N0dwandPRHhpamMyd1hzSWd4NDNCSXZZNjN3NEVn?oc=5)**
 > <small>投中网 · 国内 · 10:20</small>
 > 腾讯重仓，深圳超级IPO要来了 投中网
 >
-> **9. [上市破发，传音被AI坑惨了？ - 36氪](https://news.google.com/rss/articles/CBMiTkFVX3lxTE9aTWVuXzhzdmhNQ2RFWVNjUkJaZGFCTFlSXzhvMnFNdkVNeDQ3akh6S3VHVGdCa21kdHdFU0g0b0N0ZlQ3dU1ZanZINGRMQQ?oc=5)**
-> <small>36氪 · 国内 · 20:27</small>
-> 上市破发，传音被AI坑惨了？ 36氪
+> **8. [“三凯机电”完成数亿元B轮股权融资 - 36氪](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBQYkRuYlJoQnd4V1hGdjN2cjM0blZpQWtuMkVYdzNUa25JZXVEQms0ZndJMVZRdTlpVzVoYndaQy1IcC1wMmxLN0VtMkxlUjlxeDRBem40NVc4enJsVFpRMg?oc=5)**
+> <small>36氪 · 国内 · 18:03</small>
+> “三凯机电”完成数亿元B轮股权融资 36氪
 >
-> **10. [累计43亿，国内最大AI Infra融资诞生，无问芯穹C轮拿下23亿 - 36氪](https://news.google.com/rss/articles/CBMiTkFVX3lxTE1LSnVBNE45VGlDbjAzdUpRVFRCRFZ0VHB4eEE4a3E1ekRTY3BZcUJ3eDBLYWpYMGZXbGw1d19lWGxIUDRFR0JwbTMzdjF6dw?oc=5)**
-> <small>36氪 · 国内 · 22:55</small>
-> 累计43亿，国内最大AI Infra融资诞生，无问芯穹C轮拿下23亿 36氪
+> **9. [上市公司密集布局一级市场 逾260家公司出资超150亿元 - 36氪](https://news.google.com/rss/articles/CBMiWEFVX3lxTFB3T2M3RmVxVGE3cnNZYWJ1VHpQalhJZW9GcllJNk9wMmN5M0lPa0FjZGc1b0FaVlB6LWY2ZEhPYzRWc2RVbWhxZ3dleW5tUzYtQTV2M0Yya0U?oc=5)**
+> <small>36氪 · 国内 · 17:51</small>
+> 上市公司密集布局一级市场 逾260家公司出资超150亿元 36氪
+>
+> **10. [【首发】深度医疗完成近亿元B轮融资，加速显微镜手术机器人多适应症临床与海外拓展 - 动脉网](https://news.google.com/rss/articles/CBMiR0FVX3lxTE9lNi0zcEh4UHd5R09IUTEzbXJoVGtPaDBrZU14eVZpN2RtaWhuLXpISGpHZnVxV1R6T3VTVTlzQmRxZENHeTdr?oc=5)**
+> <small>动脉网 · 国内 · 08:00</small>
+> 【首发】深度医疗完成近亿元B轮融资，加速显微镜手术机器人多适应症临床与海外拓展 动脉网
 >
 
 > [!warning] 抓取失败但不影响成稿的来源
