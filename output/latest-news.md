@@ -1,8 +1,8 @@
 ---
 type: daily-news
-date: 2026-10-29
+date: 2026-10-30
 generated: true
-generated_at: 2026-10-29T12:36:03+08:00
+generated_at: 2026-10-30T12:36:13+08:00
 categories:
   - finance
   - tech-ai
@@ -20,9 +20,9 @@ tags:
 > [!quote] 财经 / 金融
 > 10/10 · 国内 4 / 国际 6
 >
-> **1. [EXCLUSIVE: Syngenta targets valuation of at least $66 billion in Hong Kong IPO, people say - Reuters](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOU05UME1TSEswNW42TlplYjA0ek1zMHJibHBnNkUyZWJTZmdpLW04MkhMc3Q0S1JVZzk2OEhyQjhXOEVCQUpMYlZOUW9uMWZCUjVhZW8tVjVwMkpISzRzeGdObW1FU0FHRTl1TTUtdXU0R0dNN3ZSbDJOd2tiTno0c3dXbUlnb3A5N1A3ZnZCZF80MTUtNU9yUm5UYzlicGNGTnhOZncwT2V2UmszNG10emN0SlJiSndS?oc=5)**
-> <small>Reuters · 国际 · 22:17</small>
-> EXCLUSIVE: Syngenta targets valuation of at least $66 billion in Hong Kong IPO, people say Reuters
+> **1. [港股IPO市场反转 新股破发不断、多家延期取消 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WbGdFYW94djJfbjl1SGFwQnBwb1d5V3VxV3lPa2d4NEdvLUhBdGVMVHlSanhBQXlJa01nUUZ3aGFFNTBSOHlJOEMwc2VLVUhKYWVDMWhudkZjZ3lhcHJVcEZn?oc=5)**
+> <small>财新 · 国内 · 12:42</small>
+> 港股IPO市场反转 新股破发不断、多家延期取消 财新
 >
 > **2. [Breakingviews - COMMENTARY: Private equity smash and grab may sound IPO alarm - Reuters](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVU1hTndQSEZDeGtZMVFuU0J0Rkt5a1BibUtzWHBpNm42cTlVYXdyNndLNFJvanI0UWVnbktnRjJfc0drbmM1WUJOeVMxc3JVZ2FKUFNsLVJJT0xndjNqVFg4eVRvaWUyc3NtUjU5aVg1cDVacV8yWmpJMHlPMUQxQTJUWjlVZDVsMHBYMjhOYnJIMGdDOXNwS2wzWE1IcDdZa2l2NXBJWVBudw?oc=5)**
 > <small>Reuters · 国际 · 18:15</small>
@@ -32,121 +32,121 @@ tags:
 > <small>NYTimes Business · 国际 · 17:03 · `可能需订阅`</small>
 > Inflation is moving in the wrong direction and the labor market remains stable, a combination that bolsters the case for higher interest rates.
 >
-> **4. [Anthropic is AI trade's last big hope for a major IPO this year](https://www.cnbc.com/2026/10/19/anthropic-ipo-ai-trade.html)**
+> **4. [Dangote refinery IPO draws three times target demand, sources say - Reuters](https://news.google.com/rss/articles/CBMitwFBVV95cUxPUi1YQ1RocXVNdVRlZWU3bncwUDRtZjViUzA1aDNsTW1iQU5GM3p6V25NSEI1ZjBlMkxWYjhXRFVNN0F0LUYyZEtuYXcycHFBZWx1eXI2N3RQVVZmTS1WQzQySjdQa2FFU1lUY1hSTENQR2Z0YVQtRFVGZ3E0T3pKVlM1VnhpU3FrSmV6bGdaMzBDaEcwZFRQRi1KUTRfeXRHRkQzdGV0ZnM5QmxZVTlLMlItMXN0UWs?oc=5)**
+> <small>Reuters · 国际 · 19:38</small>
+> Dangote refinery IPO draws three times target demand, sources say Reuters
+>
+> **5. [Anthropic is AI trade's last big hope for a major IPO this year](https://www.cnbc.com/2026/10/19/anthropic-ipo-ai-trade.html)**
 > <small>CNBC Finance · 国际 · 00:42</small>
 > On Kalshi, Anthropic is seen as the last major IPO in 2026 after OpenAI delayed its public market debut. Others have postponed too.
 >
-> **5. [Fed Holds Rates Steady Despite Lack of Progress on Inflation](https://www.nytimes.com/2026/10/28/business/economy/warsh-interest-rates-fed.html)**
-> <small>NYTimes Business · 国际 · 05:27 · `可能需订阅`</small>
-> Kevin M. Warsh, the chairman of the Federal Reserve, said an “information-rich” period before the central bank’s gathering in December will help officials determine next steps for policy.
+> **6. [Inflation Accelerated in October, PCE Index Shows](https://www.nytimes.com/2026/10/29/business/economy/pce-inflation-economy.html)**
+> <small>NYTimes Business · 国际 · 22:31 · `可能需订阅`</small>
+> The Personal Consumption Expenditures index picked up in September, according to data released a day after the Federal Reserve’s decision to hold interest rates steady.
 >
-> **6. [Anthropic’s seven founders tighten grip ahead of blockbuster IPO - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxOTmRhT3BCTmVkRHA3TlQzSXpCNFlISlpqbms5MVozSVhwd2NMR0RoTUV2MDJfbklENXFZOWpHNm50NHZzNkhzTFhDdHUydHRiVXExVW5MUFBDWkN4a0dFRG5DRzlFa0JsN0g4UGpYZ0dXRGktMWNGSlE0RE5XX01OYWYyUmo?oc=5)**
+> **7. [国开证券换帅背后 国开行的券商子股权何去何从 - 财新](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1mZ3IwU0ZPa1FmRjQxUFhaVTNiTDZIV1RKSTBSMGpfOHVWazMzQkVJa1ZfX2Ztc0ZIYXduXzRsOF82OTZiMEdfcUtlYThBVFd6YkpVeUdLWEMtcm1MVUNMSQ?oc=5)**
+> <small>财新 · 国内 · 22:16</small>
+> 国开证券换帅背后 国开行的券商子股权何去何从 财新
+>
+> **8. [Anthropic’s seven founders tighten grip ahead of blockbuster IPO - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxOTmRhT3BCTmVkRHA3TlQzSXpCNFlISlpqbms5MVozSVhwd2NMR0RoTUV2MDJfbklENXFZOWpHNm50NHZzNkhzTFhDdHUydHRiVXExVW5MUFBDWkN4a0dFRG5DRzlFa0JsN0g4UGpYZ0dXRGktMWNGSlE0RE5XX01OYWYyUmo?oc=5)**
 > <small>Financial Times · 国际 · 13:00 · `可能需订阅`</small>
 > Anthropic’s seven founders tighten grip ahead of blockbuster IPO Financial Times
 >
-> **7. [当下中国宏观经济的十个问题 - 财新](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwa2M5eFF0MVplQlJMNGx6alYzcUFlMlNIWUpRWXREYnVRc3dSVnpxekR1cFBBOTFXa2wxQlFMdVJpWDA3NXUyUHZ5SjRleXhPTzNOTnh5M0d0Zw?oc=5)**
-> <small>财新 · 国内 · 12:40</small>
-> 当下中国宏观经济的十个问题 财新
+> **9. [摩根基金：持续看好中国资本市场长期发展 - 第一财经](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9DdEtnR0hWQ0lIc0FRekFiMWJOT0dxV3VaR0lwY0lHVzhaSk9wY1ROZG84UjVQS1VSQTB4cWRRWVowU1k5dndMd1R6S0JLSTI3?oc=5)**
+> <small>第一财经 · 国内 · 20:56</small>
+> 摩根基金：持续看好中国资本市场长期发展 第一财经
 >
-> **8. [酝酿一年多 央行正式推出面向非银机构的债市流动性支持工具 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE4ySzAzMkRRLU9vU3VVaHVzX2xPMWlmVjgxNlotdExad2hIbzk0S3dWb2xKekc0MTdjTl8yTlZUVGJUbWFpVm9LdE1lR05VUFJ1bEVUYk9ueHBVX3dqand0WGtR?oc=5)**
-> <small>财新 · 国内 · 18:40</small>
-> 酝酿一年多 央行正式推出面向非银机构的债市流动性支持工具 财新
->
-> **9. [尾市盘点：主要股指红盘震荡 双创指数领涨 大盘调整已近尾声？ - 第一财经](https://news.google.com/rss/articles/CBMiVEFVX3lxTE5TOUYzLXR5WDA4LTVkRWpwaXhJVkRBdXJtcEgyTkNhUGVmVXRtNThPWndITVhSdDV1aDB4TFRZQk5JQWllS2gtZjN4MHNaWW9CcGlodg?oc=5)**
-> <small>第一财经 · 国内 · 20:33</small>
-> 尾市盘点：主要股指红盘震荡 双创指数领涨 大盘调整已近尾声？ 第一财经
->
-> **10. [秋假还没到但热门高铁票已售罄，儿童机票预订量增长1.6倍 - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5nZlhEb3VqMEFaT3VVMzRJT3F1bEZQSG9QVHpXQmZYakd6eHpPRDdrQ1JPU0JOLU9VYXRxQXhfUnVjZ2plOEg4WTRvNU8tdEVMY0Rv?oc=5)**
-> <small>第一财经 · 国内 · 17:18</small>
-> 秋假还没到但热门高铁票已售罄，儿童机票预订量增长1.6倍 第一财经
+> **10. [最新财新周刊｜求解A股并购对赌后遗症 - 财新周刊](https://news.google.com/rss/articles/CBMiYEFVX3lxTFB0TUQ5cnFXdVFlb1lqejBuV0Y2TXpMY2FETXRwa2ZINDdCOEcxNEVZNjc5RHg1dFdpd2syRDNhYjVMNUk2bXhNT2VIdWVvdFBmRlBWTFNxOW5URGJfZUVINA?oc=5)**
+> <small>财新周刊 · 国内 · 16:54 · `可能需订阅`</small>
+> 最新财新周刊｜求解A股并购对赌后遗症 财新周刊
 >
 
 > [!example] 科技 / AI
-> 10/10 · 国内 2 / 国际 8
+> 10/10 · 国内 3 / 国际 7
 >
-> **1. [Will the real Anthropic please stand up](https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/)**
+> **1. [We urgently need to monitor AI agents’ actions in real time](https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/)**
+> <small>MIT Technology Review · 国际 · 18:11</small>
+> This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same…
+>
+> **2. [Will the real Anthropic please stand up](https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/)**
 > <small>MIT Technology Review · 国际 · 01:45</small>
 > This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (1…
 >
-> **2. [Creating AI value with enterprise context](https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/)**
-> <small>MIT Technology Review · 国际 · 04:32</small>
-> Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, ad…
+> **3. [US investigated Chinese spy plot aimed at Nvidia CEO](https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/)**
+> <small>TechCrunch · 国际 · 00:42</small>
+> A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, sources have told the New York Times.
 >
-> **3. [AI for Science：AI走向物理世界的第一站 - 36氪](https://news.google.com/rss/articles/CBMiTkFVX3lxTFBoSTlfZFJ2bmFvcmlEa0ZpbDNBZHRwVHF3dDFTc3Y2VFQ4UElhN000UTRMb1I5R1IxOVBzT2YzaXpiSkN2bzFIYjF3Z2VBQQ?oc=5)**
-> <small>36氪 · 国内 · 19:21</small>
-> AI for Science：AI走向物理世界的第一站 36氪
+> **4. [8000亿元新型政策性金融工具投放完成 聚焦数字经济和人工智能等 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1xdy1KVktjVWxDZHhybnlPMTJac1pqOUZ0SV9QaHRFdTFvbkhaMVQ5SHZHY1c1eUVlZXIwWkJnQ2h2TVBoTUJTZzR4RWl5enVSM284c2EyVUVCV0VzM1h6a09B?oc=5)**
+> <small>财新 · 国内 · 21:31</small>
+> 8000亿元新型政策性金融工具投放完成 聚焦数字经济和人工智能等 财新
 >
-> **4. [Meet Anthropic’s Seven Founders as the A.I. Firm Prepares for an IPO](https://www.nytimes.com/2026/10/26/technology/anthropic-founders.html)**
+> **5. [Meet Anthropic’s Seven Founders as the A.I. Firm Prepares for an IPO](https://www.nytimes.com/2026/10/26/technology/anthropic-founders.html)**
 > <small>NYTimes Technology · 国际 · 23:24 · `可能需订阅`</small>
 > Former OpenAI employees started the company in 2021 after disagreements over how to safely build artificial intelligence. An I.P.O. could make them billionaires.
 >
-> **5. [Microsoft recorded $10 billion in revenue from OpenAI](https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/)**
-> <small>TechCrunch · 国际 · 05:34</small>
-> Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership.
+> **6. [Intel says it’s selling every affordable laptop chip it can make](https://www.theverge.com/tech/1022911/intel-wildcat-lake-sold-out-ram-shortage)**
+> <small>The Verge · 国际 · 07:48</small>
+> During Intel's latest earnings call, CEO Lip-Bu Tan said that demand for its budget-focused Wildcat Lake chips "is outstripping supply." According to CFO David Zinsner, the chips are now sold out. Zinsner said Intel has "seen significant g…
 >
-> **6. [Anthropic just launched tools to show companies what their AI spending is buying](https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/)**
-> <small>TechCrunch · 国际 · 03:19</small>
-> The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.
+> **7. [AWS will be a $1T business, Jassy says. But first, it will spend big.](https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/)**
+> <small>TechCrunch · 国际 · 07:42</small>
+> Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.
 >
-> **7. [Anthropic’s IPO S-1 Spells Out a Future of Promise and Peril](https://www.nytimes.com/2026/10/26/technology/anthropic-ipo-s1-dario-amodei.html)**
+> **8. [雷军投的北京机器人芯片企业，启动IPO - 36氪](https://news.google.com/rss/articles/CBMiTkFVX3lxTE50RkZhcHNFRHlrRHRhX05PY0laelJ0SF9uUEN4dldXTWloWnQtTVpXaUZvTTA0U0F6VHpveUljeEd2Ul9tWVdCTndPRlpjZw?oc=5)**
+> <small>36氪 · 国内 · 21:11</small>
+> 雷军投的北京机器人芯片企业，启动IPO 36氪
+>
+> **9. [Anthropic’s IPO S-1 Spells Out a Future of Promise and Peril](https://www.nytimes.com/2026/10/26/technology/anthropic-ipo-s1-dario-amodei.html)**
 > <small>NYTimes Technology · 国际 · 03:36 · `可能需订阅`</small>
 > The A.I. company took great pains to describe the many benefits that can come from using its Claude chatbot and technology, but also offered up a heavy dose of gloom.
 >
-> **8. [Adam Mosseri says negativity around AI is ‘going to get worse’](https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity)**
-> <small>The Verge · 国际 · 07:05</small>
-> Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and it's not just young people and creatives. A…
->
-> **9. [Google says its investments in AI are driving more searches](https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026)**
-> <small>The Verge · 国际 · 05:50</small>
-> Google parent company Alphabet says that its AI investments are leading to a big growth in searches year-over-year, as noted in its Q3 2026 earnings today. "Our AI investments are driving overall Search query growth, including commercial q…
->
-> **10. [Anthropic上市前夜，大模型生意如何算账？ - 36氪](https://news.google.com/rss/articles/CBMiTkFVX3lxTE52WEJZUDRrbzRMdHBfeU9namVqeTlfNmxZUlNsaEFsRjMzb01DQ2hjR29la0wzTDl5NHlGak9PN21oUzhHaV81V1ZELVVwZw?oc=5)**
-> <small>36氪 · 国内 · 19:55</small>
-> Anthropic上市前夜，大模型生意如何算账？ 36氪
+> **10. [36氪研究院 | 2026年中国自动驾驶行业发展研究报告 - 36氪](https://news.google.com/rss/articles/CBMiTkFVX3lxTE00MllBTHJDYWtKSDVkVTFOVk9ReWR6c1ZLYW56eVB4OUtnOWwtZUlJOVFObmhrVDl6VVYwXzloWWh2a2JPSE1qb2JEVkZKQQ?oc=5)**
+> <small>36氪 · 国内 · 00:38</small>
+> 36氪研究院 | 2026年中国自动驾驶行业发展研究报告 36氪
 >
 
 > [!tip] 私募股权 / 投资市场
 > 10/10 · 国内 5 / 国际 5
 >
-> **1. [Universal Music Group discussed going private with buyout firms, Bloomberg News reports - Reuters](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVU5Nbjk2QmtVb0dHRzNmaFlYdmRYaXZfVk1uWWxGSHpkd2xadExGdm1DUGMtUjBhVXlvUWV4UkJtYzFvdE11UHRUTEJiRTJQTzJyZkRyTFRwRnc5clJTVGRuYjRueFdBR2MwNHUydGxCakEwRGw1TF9yVC15aUw0VFZiWEtxWnpsNlUxbTdBVkQ2MXlHZlA3UFJnbXJwOEk5M28zei1nWmRzZFBpV09uWG5KVUwzVWtfUUE1TjRKZ0xOM3ZIeEp0TDBmbF9KbWdHb3NR?oc=5)**
-> <small>Reuters · 国际 · 05:50</small>
-> Universal Music Group discussed going private with buyout firms, Bloomberg News reports Reuters
->
-> **2. [季丰电子IPO获深交所上市委会议通过 - 投中网](https://news.google.com/rss/articles/CBMia0FVX3lxTFBnTG1oaHpzUldiazhUMlRiUklHdlJJRXpuRVFlTlR1SEdGMjJzTG5pa2JzUGx1VEVUZ0pUMnhwbjl2Q2dWNkpGb3N0TG5yMmZ0V24yZXNYRXhwSXBqdVZxcWVxc3lsdWhid05Z?oc=5)**
+> **1. [季丰电子IPO获深交所上市委会议通过 - 投中网](https://news.google.com/rss/articles/CBMia0FVX3lxTFBnTG1oaHpzUldiazhUMlRiUklHdlJJRXpuRVFlTlR1SEdGMjJzTG5pa2JzUGx1VEVUZ0pUMnhwbjl2Q2dWNkpGb3N0TG5yMmZ0V24yZXNYRXhwSXBqdVZxcWVxc3lsdWhid05Z?oc=5)**
 > <small>投中网 · 国内 · 15:00</small>
 > 季丰电子IPO获深交所上市委会议通过 投中网
 >
-> **3. [Breakingviews - COMMENTARY: Private equity smash and grab may sound IPO alarm - Reuters](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVU1hTndQSEZDeGtZMVFuU0J0Rkt5a1BibUtzWHBpNm42cTlVYXdyNndLNFJvanI0UWVnbktnRjJfc0drbmM1WUJOeVMxc3JVZ2FKUFNsLVJJT0xndjNqVFg4eVRvaWUyc3NtUjU5aVg1cDVacV8yWmpJMHlPMUQxQTJUWjlVZDVsMHBYMjhOYnJIMGdDOXNwS2wzWE1IcDdZa2l2NXBJWVBudw?oc=5)**
+> **2. [Breakingviews - COMMENTARY: Private equity smash and grab may sound IPO alarm - Reuters](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVU1hTndQSEZDeGtZMVFuU0J0Rkt5a1BibUtzWHBpNm42cTlVYXdyNndLNFJvanI0UWVnbktnRjJfc0drbmM1WUJOeVMxc3JVZ2FKUFNsLVJJT0xndjNqVFg4eVRvaWUyc3NtUjU5aVg1cDVacV8yWmpJMHlPMUQxQTJUWjlVZDVsMHBYMjhOYnJIMGdDOXNwS2wzWE1IcDdZa2l2NXBJWVBudw?oc=5)**
 > <small>Reuters · 国际 · 18:15</small>
 > Breakingviews - COMMENTARY: Private equity smash and grab may sound IPO alarm Reuters
 >
-> **4. [Advent raises $30bn across hefty flagship, new mid-market fund, after $13bn of realisations this year](https://www.altassets.net/private-equity-news/by-region/global-by-region/advent-raises-30bn-across-hefty-flagship-new-mid-market-fund-after-13bn-of-realisations-this-year.html)**
-> <small>AltAssets · 国际 · 16:24</small>
-> Advent International has raised $30bn across its latest global private equity fund and a newly launched mid-market strategy, securing almost $27bn for its flagship GPE XI vehicle and more than $3bn for its first dedicated mid-market fund.…
+> **3. [独家｜恒大物业出售落实 太盟集团将取得控股权 - 财新](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5OSGhTc1J0eTFsUkgwamcwdzdGS1lCN2NvZkRpSnJYal9HZ01rcV9jbXE0blJlR1BJNVlKWW5ZT3h2S2VQVVc0OW5iVnlxYTdIcmFpOEdpc2k4VzNtb1NZZFFocjU?oc=5)**
+> <small>财新 · 国内 · 21:51</small>
+> 独家｜恒大物业出售落实 太盟集团将取得控股权 财新
 >
-> **5. [Private Equity Boss at Australia Pension CBUS Heading to Roc - Bloomberg](https://news.google.com/rss/articles/CBMisAFBVV95cUxPUzNtOHl6RmRtdU13SThuRk1YU2hmMF9TcDlnQS1yMGVPenNPTVpQaDktVUZXZEhmY0g4SXJTbjZfdFNKdUtJOE5NZGNiZk5hNlYzc0wtUTlQSXBqazRTTTREbWRaYlFoUGx3dTk1TmswRmhiem5qOGc4UzlZcV9yTkN1Y25JTHgxVW93VmtzQkNXTmh3WTZYOGdSdlFIRXkxOElSY3JNZVlXQWRYc2xjTQ?oc=5)**
-> <small>Bloomberg · 国际 · 10:40 · `可能需订阅`</small>
-> Private Equity Boss at Australia Pension CBUS Heading to Roc Bloomberg
+> **4. [Deal Roundup: Triton agrees $9bn Trench exit; Trian-led group makes $3.8bn Wendy’s take-private proposal](https://www.altassets.net/private-equity-news/by-region/global-by-region/deal-roundup-triton-agrees-9bn-trench-exit-trian-led-group-makes-3-8bn-wendys-take-private-proposal.html)**
+> <small>AltAssets · 国际 · 17:48</small>
+> Triton Partners has agreed to sell high-voltage electrical equipment manufacturer Trench Group to GE Vernova for $9bn, in one of the largest European private equity exits announced this year. Triton acquired the business through a corporat…
 >
-> **6. [最新财新周刊｜求解A股并购对赌后遗症 - 财新周刊](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE52NlBOTFhOLXRyV2JJVGNmOVkxUTVFQW4yV0htZURLbVduSmJLcUlYcG9tU2lxLTE3Zm5aeGxzdXNFbkVfQmNKU3BQUERfYkJieUk2RUozSllVSzYtWnJYUk5zQk1wa1E?oc=5)**
-> <small>财新周刊 · 国内 · 03:32 · `可能需订阅`</small>
+> **5. [港股IPO市场反转 新股破发不断、多家延期取消 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WbGdFYW94djJfbjl1SGFwQnBwb1d5V3VxV3lPa2d4NEdvLUhBdGVMVHlSanhBQXlJa01nUUZ3aGFFNTBSOHlJOEMwc2VLVUhKYWVDMWhudkZjZ3lhcHJVcEZn?oc=5)**
+> <small>财新 · 国内 · 12:42</small>
+> 港股IPO市场反转 新股破发不断、多家延期取消 财新
+>
+> **6. [仁烁光能超亿元B轮融资落地 - 投中网](https://news.google.com/rss/articles/CBMia0FVX3lxTE1ueF9JRTBPYkFadkItdjhlSGhnTnRQR1h5NWJzanlZTnlVNTRCbER5WC1Mc3pJTUJSMUhOUmlfVE9iQ0hyM0lEQjRBZjF6S3BGMWtfVTVMNGVlcGxNSGNxLUY0bk5RRjM4S0lN?oc=5)**
+> <small>投中网 · 国内 · 10:06</small>
+> 仁烁光能超亿元B轮融资落地 投中网
+>
+> **7. [Private equity, data centers in crosshairs of US Senate Democrats, aide says - Reuters](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNlVtTEZHMnRBLW9ZT3d4NnJVc3NSZEdNLTJWLVNOWnhmYWVVVkVvMTlGVXJKRXJlaDNIVFV2SmNpbGF6YTJDN3lSOEFLSW90WjNGR202SHZlT0dNVmt0M3FnN250YWlCMjJPbkZhZVNDNGdzNVpRb2hJVjlhOUpzN3JMY3NpYkJFRm05Z0hzdllNcnRCT25ac2xtM0xJVFlUaUJsTE11TURSVVd1NGxDN3ViTC1WTFpUeDZSRHplSEl0dw?oc=5)**
+> <small>Reuters · 国际 · 07:09</small>
+> Private equity, data centers in crosshairs of US Senate Democrats, aide says Reuters
+>
+> **8. [HC Partners nearly doubles fund size with €100m hard-cap close, following two sponsor exits](https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/netherlands-western-europe-europe-by-region/hc-partners-nearly-doubles-fund-size-with-e100m-hard-cap-close-following-two-sponsor-exits.html)**
+> <small>AltAssets · 国际 · 18:19</small>
+> Dutch private equity firm HC Partners has almost doubled the size of its flagship fund after raising €100m for its third vehicle, exceeding its original €80m target and securing commitments from all of its existing institutional investors.…
+>
+> **9. [最新财新周刊｜求解A股并购对赌后遗症 - 财新周刊](https://news.google.com/rss/articles/CBMiYEFVX3lxTFB0TUQ5cnFXdVFlb1lqejBuV0Y2TXpMY2FETXRwa2ZINDdCOEcxNEVZNjc5RHg1dFdpd2syRDNhYjVMNUk2bXhNT2VIdWVvdFBmRlBWTFNxOW5URGJfZUVINA?oc=5)**
+> <small>财新周刊 · 国内 · 16:54 · `可能需订阅`</small>
 > 最新财新周刊｜求解A股并购对赌后遗症 财新周刊
 >
-> **7. [Apollo makes minority Mubadala Capital investment, commits $5bn to firm’s strategies alongside other investors](https://www.altassets.net/private-equity-news/by-region/middle-east-and-israel-by-region/middle-east-middle-east-and-israel-by-region/apollo-makes-minority-mubadala-capital-investment-commits-5bn-to-firms-strategies-alongside-other-investors.html)**
-> <small>AltAssets · 国际 · 16:59</small>
-> Apollo Global Management has agreed to acquire a minority stake in Mubadala Capital, with Apollo and additional strategic investors expected to commit a combined $5bn across the Abu Dhabi-based manager's investment strategies. The post Apo…
->
-> **8. [若愚科技完成亿元级Pre-A轮融资，信维通信领投 - 投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5pV0NRVlZXT2FBbmJ2OWNJU0VzcGR4WXI2czhLcmRkNHRZaUkyS2YzUmZ0OVpQY0ZWX0Jab3hkV0tsQ0ZrSXBVYU1vZTF3SzFEd1pkQnBB?oc=5)**
-> <small>投资界 · 国内 · 15:00</small>
-> 若愚科技完成亿元级Pre-A轮融资，信维通信领投 投资界
->
-> **9. [过半营收依赖“宁王”，昆仑新材港股上市胜算几何？ - 36氪](https://news.google.com/rss/articles/CBMiTkFVX3lxTE14eTlNbi1TcWFTUkhEM1pScjk0a2oxekJiUjhkZ1FUT3pNQTNPOVBZeWtManRzTHhGa0ZoeURUeno0M0lCQkxUc3huNmh1Zw?oc=5)**
-> <small>36氪 · 国内 · 19:51</small>
-> 过半营收依赖“宁王”，昆仑新材港股上市胜算几何？ 36氪
->
-> **10. [金沙江领投数千万元，国内首个千比特量子算力平台已服务大湾区量子中心丨36氪首发 - 36氪](https://news.google.com/rss/articles/CBMiTkFVX3lxTFBPdWh4a2dCSVE1LVpNSmdEWXhrd1ptSGJSX1lUQzdZd2FWZDRXQkdUUHlqY2xsbURoRmhVZWRXcE13VXZGcU93VWhuLU5Bdw?oc=5)**
-> <small>36氪 · 国内 · 17:02</small>
-> 金沙江领投数千万元，国内首个千比特量子算力平台已服务大湾区量子中心丨36氪首发 36氪
+> **10. [Investors double withdrawal requests at Partners’ flagship US private equity fund - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxQbjlsU3RiS1JPMGlObFFuUUFGcUgxbmpDa2oxSUk2SDBMUFFPWGVBNFJ0TnZaZHR3U2tjdklmdllabnc3ZldPQlVqNElIOHJTQlEtY2Z2MUpYTUNKMU9mNWE3Ujk4OHEtbDdHa0dYU0VFbFZraTE0TG84dmV3X0xuY1ZDczE?oc=5)**
+> <small>Financial Times · 国际 · 00:59 · `可能需订阅`</small>
+> Investors double withdrawal requests at Partners’ flagship US private equity fund Financial Times
 >
 
 > [!warning] 抓取失败但不影响成稿的来源
