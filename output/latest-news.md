@@ -1,8 +1,8 @@
 ---
 type: daily-news
-date: 2026-11-02
+date: 2026-11-03
 generated: true
-generated_at: 2026-11-02T12:40:55+08:00
+generated_at: 2026-11-03T13:31:42+08:00
 categories:
   - finance
   - tech-ai
@@ -18,47 +18,47 @@ tags:
 > 摘要来自 RSS/新闻源描述，保留原文语言；`可能需订阅` 表示该来源可能有付费墙。
 
 > [!quote] 财经 / 金融
-> 10/10 · 国内 4 / 国际 6
+> 10/10 · 国内 3 / 国际 7
 >
-> **1. [Why the Markets Don’t Care About the Midterms](https://www.nytimes.com/2026/10/30/business/midterms-stock-bond-markets.html)**
+> **1. [Fed holds rates steady despite concerns over inflation](https://www.cnbc.com/2026/10/28/fed-interest-rate-decision-october-2026.html)**
+> <small>CNBC Finance · 国际 · 03:43</small>
+> Two of the 12 Federal Open Market Committee voters dissented from the decision. Both wanted to raise rates by a quarter percentage point.
+>
+> **2. [Fed expected to hold rates steady, but Warsh may point way to more hikes](https://www.cnbc.com/2026/10/27/federal-reserve-rates-kevin-warsh.html)**
+> <small>CNBC Finance · 国际 · 23:52</small>
+> Markets overwhelmingly expect no change in benchmark interest rates following September's increase.
+>
+> **3. [Breakingviews - COMMENTARY: Syngenta sprinkles too much fertiliser on IPO - Reuters](https://news.google.com/rss/articles/CBMipgFBVV95cUxPaGhUZ2FRWDFCZERuNHM5TEwzekNzMV9zSF9waXBwV2I1MEE0MFVHVjdsNm1RYTJSb0w4QlExeFNCVTBpUG9WUkpnY2xHLWNCbnY2RXdlZFY1bHlDelBhQ0FaUnJveEcyVUtuRC01eGR0QWxNYWdRZXI1ZkV5TWdxVnJqSjRUaE1PVndFTTQtWl9idFhZOVA3QmtEVWJ0ZG5HRjBaVGhB?oc=5)**
+> <small>Reuters · 国际 · 10:38</small>
+> Breakingviews - COMMENTARY: Syngenta sprinkles too much fertiliser on IPO Reuters
+>
+> **4. [Why the Markets Don’t Care About the Midterms](https://www.nytimes.com/2026/10/30/business/midterms-stock-bond-markets.html)**
 > <small>NYTimes Business · 国际 · 04:36 · `可能需订阅`</small>
 > Factors like inflation, interest rates, A.I. and the war with Iran are far more important, our columnist says.
 >
-> **2. [央行政策利率“换锚”落地：隔夜正式接棒7天期逆回购 - 财新](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBHY3ZBdk9lWkY5MTlYYm03aXRzRlFLdjV5UFFGS2g0ZnUxZm5PTWFJaXAwelBieFRvZ2RtOVJaQjFlZDFvMzZ5RkJTYW14bWcyaEZVZUxOMUw3X0NzcS0tY2xyaE0?oc=5)**
-> <small>财新 · 国内 · 19:36</small>
-> 央行政策利率“换锚”落地：隔夜正式接棒7天期逆回购 财新
+> **5. [人民币升破6.65后 央行时隔近五年上调外汇存款准备金率至6% - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5LZ1Z3NVRWdGlUejB5UV9FRzJvOW5nV0hRWHF0Wkp6ZklLcjJFZl8teWgwR2pVeHdfTzBsTG5EUW4xLTI5czViLUxrenpfVlBnU0wyem9kQlgwVDFKU19zWVhR?oc=5)**
+> <small>财新 · 国内 · 11:25</small>
+> 人民币升破6.65后 央行时隔近五年上调外汇存款准备金率至6% 财新
 >
-> **3. [Mapletree eyes Singapore IPO in 2027, Business Times reports - Reuters](https://news.google.com/rss/articles/CBMisAFBVV95cUxQeFJZenJENFV6X1gybVVIVndVZHZqVWQ4ejdpOEhNVHZLcnYwSWZrQ05VRUZ2X21sd3ZkdjMxMUhpcXh5SkxnYTNyR3F0UUxBSGx1OGNBSGM1X0tvT090M0ZPTm82Y09yZTBmbjl0ajBoSkRiNHZJS1lmaWR0SUtKZVAyUUZod25NbVdGb1pzd0cyRjNJdkhNZGpqLXZKdEx3Vm96Snhxb0I1akxxVVRUNg?oc=5)**
-> <small>Reuters · 国际 · 19:28</small>
-> Mapletree eyes Singapore IPO in 2027, Business Times reports Reuters
+> **6. [A股三季度净利同比环比均回落 科技板块下滑明显 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kLUdQUmp4eEpvby1Sb2NRLW1peDdPVXh4VTliOG9SSWFZVmNTZjk1NTNNSE1EVUZSNXk0ZVp0OFl4Rnp5bmxQaW9hR094VG91LVhEY2NvMC13SWtlOVdGTjJ3?oc=5)**
+> <small>财新 · 国内 · 08:09</small>
+> A股三季度净利同比环比均回落 科技板块下滑明显 财新
 >
-> **4. [Anthropic is AI trade's last big hope for a major IPO this year](https://www.cnbc.com/2026/10/19/anthropic-ipo-ai-trade.html)**
-> <small>CNBC Finance · 国际 · 00:42</small>
-> On Kalshi, Anthropic is seen as the last major IPO in 2026 after OpenAI delayed its public market debut. Others have postponed too.
->
-> **5. [最新封面报道之二｜最赚钱“AI实验室”IPO揭幕 - 财新周刊](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5oR004U2l6aVpUZmdfUHpKVHRJbVVPaERBRmZHMHh1OVJKR3czSnlJUl9LdzdJNXRsQklkUEdyZk5jWFNVYmFtSVVGTnJKSlprZHFsNUp1czk4c0U3NUx6cw?oc=5)**
-> <small>财新周刊 · 国内 · 12:38 · `可能需订阅`</small>
+> **7. [最新封面报道之二｜最赚钱“AI实验室”IPO揭幕 - 财新周刊](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5oR004U2l6aVpUZmdfUHpKVHRJbVVPaERBRmZHMHh1OVJKR3czSnlJUl9LdzdJNXRsQklkUEdyZk5jWFNVYmFtSVVGTnJKSlprZHFsNUp1czk4c0U3NUx6cw?oc=5)**
+> <small>财新周刊 · 国内 · 18:45 · `可能需订阅`</small>
 > 最新封面报道之二｜最赚钱“AI实验室”IPO揭幕 财新周刊
 >
-> **6. [财经早知道｜吴清：提升资本市场韧性和信心 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBibjhpQlNoVDZoSTZEQUVKXzZqckJfSGJWU3FUUmtkSEN1d2F5SW9HZUVsV0s5QkhCNllZV1VNd1NpQXFic3dzN0VNQko1b2pXTzZSTDlnb2tSekFHOXFlOGhB?oc=5)**
-> <small>财新 · 国内 · 06:58</small>
-> 财经早知道｜吴清：提升资本市场韧性和信心 财新
+> **8. [Ahead of Midterms, Oil Markets Were Voting for War - Bloomberg.com](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdFRmTDVIR1hxVExVTzlxeFhrVThDMmZVX2h6MEhPUlBVeDB6YmZiRW5oSk84enE2aHJ3Xy1MUFBndzRFUHphLXpvQm94dzZ5Sjc4VklIOE1pMXZLZFp3czFpYnJWb0hHeGJTV0NPZ2JGcWNJX3NOMjJqM1hGMFRqclk0X1E0QUk1NTZVS2xqb3dJWnhFdEgzRzM0NFBqdzE5WjJpVm5nbXNaZw?oc=5)**
+> <small>Bloomberg.com · 国际 · 12:00 · `可能需订阅`</small>
+> Ahead of Midterms, Oil Markets Were Voting for War Bloomberg.com
 >
-> **7. [Anthropic may not secure investment-grade rating after IPO, Blackstone tells investors - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxPcjg3X1I0NkVyZEpOZEh0cmZLdFpJYVFOOTJwdm9nNTBJSGJwcEF6T25KRFBBeDBpLWZtOWNKMjdKeHhxZF9zOUVyUmVjT2pSQm01YmgwS0dnZWFXa3ZVc2tfSW5aUE5sSFJtc2lUVUlQUjROZjRxU0M3MFBKVWg1alAyZUU?oc=5)**
-> <small>Financial Times · 国际 · 00:45 · `可能需订阅`</small>
-> Anthropic may not secure investment-grade rating after IPO, Blackstone tells investors Financial Times
+> **9. [Anthropic reveals $900bn AI spending commitments ahead of IPO - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNeHIxTTNxemhYRmRhV2dJOXlhc1ZBdW05MVp2MkFWdy02SVhIdzZqaWplcXl4SHQ0eGc4RFlaRlNwVWw2d2NQUjJucnFseEJ6ZUdpOUloSG9HOXczOGxmRGhuRk9XZ2VYTFNVUHJPQXltZ0d4S3pVTnZMOElUS0lXcGxBT3M?oc=5)**
+> <small>Financial Times · 国际 · 00:31 · `可能需订阅`</small>
+> Anthropic reveals $900bn AI spending commitments ahead of IPO Financial Times
 >
-> **8. [Inside the make-or-break AI mega-project behind Nscale’s $35bn IPO - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNZ2E2Y3pKbUpDVzYyOVFLQ1lLbUFfTVQwMmtJa0dZNUtwaXhVZ2JnaWRCWDg3Wld3cHp5cmgwSGpHZktZUWtKX2dMdnZYUThhS3NUTHdYNWZ2MXB3YWdDZVZmcEVCMlFtQ2hVQWdmdU55VXUwN0RBTTJzdGFQMFJLUzFrUFM?oc=5)**
-> <small>Financial Times · 国际 · 13:01 · `可能需订阅`</small>
-> Inside the make-or-break AI mega-project behind Nscale’s $35bn IPO Financial Times
->
-> **9. [Inflation Accelerated in October, PCE Index Shows](https://www.nytimes.com/2026/10/29/business/economy/pce-inflation-economy.html)**
-> <small>NYTimes Business · 国际 · 22:31 · `可能需订阅`</small>
-> The Personal Consumption Expenditures index picked up in September, according to data released a day after the Federal Reserve’s decision to hold interest rates steady.
->
-> **10. [最新封面报道｜重估科技股 - 财新周刊](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBaZDhaQTZHQ1lrYkpzcWU3TVhrenpfd1RCWmRSa3RrR0NCeU9obUNpcFNiMFBKbThvRGQ3REVJUmxPOEtMN3RCODQwMVBvdDFrVTNHanNjRVhFczNCbGFVVQ?oc=5)**
-> <small>财新周刊 · 国内 · 12:09 · `可能需订阅`</small>
-> 最新封面报道｜重估科技股 财新周刊
+> **10. [Judge Tosses Trump’s $10 Billion Suit Against The Wall Street Journal](https://www.nytimes.com/2026/10/31/business/media/trump-wsj-defamation-suit-10-billion.html)**
+> <small>NYTimes Business · 国际 · 05:01 · `可能需订阅`</small>
+> The defamation suit focused on an article about a birthday note to Jeffrey Epstein. It was the president’s second attempt to claim the publication had acted with actual malice.
 >
 
 > [!example] 科技 / AI
@@ -68,85 +68,85 @@ tags:
 > <small>MIT Technology Review · 国际 · 18:11</small>
 > This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same…
 >
-> **2. [Creating AI value with enterprise context](https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/)**
-> <small>MIT Technology Review · 国际 · 04:32</small>
-> Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, ad…
+> **2. [Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test](https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/)**
+> <small>MIT Technology Review · 国际 · 12:18</small>
+> This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive order that contained just one directive,…
 >
-> **3. [Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia](https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/)**
-> <small>TechCrunch · 国际 · 09:20</small>
-> When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.
+> **3. [OpenAI pitches data center power plants as a way to protect nearby areas](https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program)**
+> <small>The Verge · 国际 · 02:01</small>
+> In an announcement on Monday, OpenAI says it will pilot its "Grid Protectors Program" at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000 megawatts of power during extreme weather or emer…
 >
-> **4. [OpenAI might rebrand its data centers as ‘AI compute campuses’](https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/)**
-> <small>TechCrunch · 国际 · 05:55</small>
-> Data centers are deeply unpopular. But what if we called them something else?
+> **4. [Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition](https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/)**
+> <small>TechCrunch · 国际 · 23:00</small>
+> Two startups tackling the data center water problem are joining forces in a $16 million deal.
 >
-> **5. [Meet Anthropic’s Seven Founders as the A.I. Firm Prepares for an IPO](https://www.nytimes.com/2026/10/26/technology/anthropic-founders.html)**
-> <small>NYTimes Technology · 国际 · 23:24 · `可能需订阅`</small>
-> Former OpenAI employees started the company in 2021 after disagreements over how to safely build artificial intelligence. An I.P.O. could make them billionaires.
+> **5. [Apple’s Profit Grows 12% Despite Component Price Worries](https://www.nytimes.com/2026/11/02/technology/apple-earnings.html)**
+> <small>NYTimes Technology · 国际 · 07:41 · `可能需订阅`</small>
+> The company said iPhone sales remained strong, but warned that the cost of memory chips for its devices was going up.
 >
-> **6. [显影｜乌兰察布的牛群在算力中心间穿行 - 财新周刊](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBtb0piNjFfMHpIcndmeFNBdW1ZVUNmS0h2bXVvRXdHXzlhenBrWlBDZ1hFblU5QlZKdTBTWUI5SWdWV3BOSEEzV2JxWTQ2LW9PYWJIRVpoYno5RFdQMFlVNQ?oc=5)**
+> **6. [Driven by A.I. Boom, Marvell and Lumentum Announce $115 Billion Merger](https://www.nytimes.com/2026/11/02/technology/marvell-lumentum-115-billion-merger-ai.html)**
+> <small>NYTimes Technology · 国际 · 02:48 · `可能需订阅`</small>
+> Marvell and Lumentum said they were combining, in a major bet on a technology, known as optical networking, that is increasingly being used in A.I. data centers.
+>
+> **7. [显影｜乌兰察布的牛群在算力中心间穿行 - 财新周刊](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBtb0piNjFfMHpIcndmeFNBdW1ZVUNmS0h2bXVvRXdHXzlhenBrWlBDZ1hFblU5QlZKdTBTWUI5SWdWV3BOSEEzV2JxWTQ2LW9PYWJIRVpoYno5RFdQMFlVNQ?oc=5)**
 > <small>财新周刊 · 国内 · 17:36 · `可能需订阅`</small>
 > 显影｜乌兰察布的牛群在算力中心间穿行 财新周刊
 >
-> **7. [House Democrats Criticize Justice Dept. Support of OpenAI in Copyright Suit](https://www.nytimes.com/2026/10/30/technology/house-democrats-openai-copyright-lawsuit.html)**
-> <small>NYTimes Technology · 国际 · 04:30 · `可能需订阅`</small>
-> In a court filing, top Democrats on the Judiciary Committee indicated their support for publishers in a lawsuit led by The New York Times.
+> **8. [Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses](https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/)**
+> <small>TechCrunch · 国际 · 11:30</small>
+> Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.
 >
-> **8. [Prop 45 in California could be hiding a loophole for data centers](https://www.theverge.com/policy/1023877/prop-45-california-data-centers-energy)**
-> <small>The Verge · 国际 · 00:31</small>
-> A high-stakes California ballot measure pitched as a fast track for "essential" infrastructure could wind up giving data center developers a loophole to evade public scrutiny, environmental advocates warn. Proposition 45 would shorten time…
+> **9. [Anthropic clamps down on Claude’s AI video game clones](https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones)**
+> <small>The Verge · 国际 · 06:57</small>
+> Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to re-create existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun with AI-made decompilations, recompilations,…
 >
-> **9. [All the latest updates on AI data centers - The Verge](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOb0UxRGMyQ3VLZ1hCY2U3dVVzZnYyX1FZSGJ6OElGOFZ3amc1NnY2Z3Fhb2NIcUp4UFNQNTBQZ3RPa2RiaGEtYWROcHpadFpCV244Nng2VDZuOTBMZDNwdHR3ajl4RXhSSEFjSUZQMVlFd25GSXNZWHZxaVpJYXN0VFJSYUtwcWpOc1huZENJSTRjTlJtTUN3RXh4WFgxRkhOZnBLNVFwSHc?oc=5)**
-> <small>The Verge · 国际 · 07:26</small>
-> All the latest updates on AI data centers The Verge
->
-> **10. [百度 APP 发布四大 AI 升级，搜索已实现递归自我进化 - 量子位](https://news.google.com/rss/articles/CBMiVEFVX3lxTE5rR1Z6Z01hTTRzbk9pdXk4akVBQzh3Ykp3YmZ5ZXhZQVM3Y0JaeFh4Uy0tT1RtUjhhTkU3cjRPNUsxa1ozTWhGeGpCQ0JHdkhpcVdYUw?oc=5)**
-> <small>量子位 · 国内 · 16:50</small>
-> 百度 APP 发布四大 AI 升级，搜索已实现递归自我进化 量子位
+> **10. [中国公司全球化周报｜DeepSeek完成超千亿元A+轮融资 / 吉利汽车前三季度出口79.8万辆 - 36氪出海](https://news.google.com/rss/articles/CBMiRkFVX3lxTE9rYUVOSzhtMmpNS1pzXzNxcHdmU2tVRjFUY0NBOGJCbnRSLUhHVDRRMkM5ZlRBSW92RTZxNHN2dlAxMnRzMFE?oc=5)**
+> <small>36氪出海 · 国内 · 11:58</small>
+> 中国公司全球化周报｜DeepSeek完成超千亿元A+轮融资 / 吉利汽车前三季度出口79.8万辆 36氪出海
 >
 
 > [!tip] 私募股权 / 投资市场
-> 10/10 · 国内 4 / 国际 6
+> 10/10 · 国内 6 / 国际 4
 >
-> **1. [回购、增持、分红 上市公司密集出招应对大幅下跌 - 财新](https://news.google.com/rss/articles/CBMiZEFVX3lxTFAzSmRCLWgydzM3N20zWVBvV000ZE8wZWJmbjdJMjdCV0tlOWhSM2pZYjRKOU54NERpREdNR2ZzTzJyQnZFeGJERWNDWm84NndWYUs5LXExZlcydTlOdUF6UUhQQUQ?oc=5)**
+> **1. [芯联动力宣布完成近20亿元人民币C轮融资 - 投中网](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9oV2t1c0daLTNmZ1hia29UZTBKRnVRRWN6QkktbC1RV0tNa2cwSEhVbS00RUROZlZrWncxOVZDeGt0eWZjRVRFeURtc2dRUEwyTlg1Zml1UFlpLXFXTURNVUwwQkhwRkNJ?oc=5)**
+> <small>投中网 · 国内 · 15:50</small>
+> 芯联动力宣布完成近20亿元人民币C轮融资 投中网
+>
+> **2. [回购、增持、分红 上市公司密集出招应对大幅下跌 - 财新](https://news.google.com/rss/articles/CBMiZEFVX3lxTFAzSmRCLWgydzM3N20zWVBvV000ZE8wZWJmbjdJMjdCV0tlOWhSM2pZYjRKOU54NERpREdNR2ZzTzJyQnZFeGJERWNDWm84NndWYUs5LXExZlcydTlOdUF6UUhQQUQ?oc=5)**
 > <small>财新 · 国内 · 21:20</small>
 > 回购、增持、分红 上市公司密集出招应对大幅下跌 财新
 >
-> **2. [Lightspeed said to surpass $750m fundraising target for AI buyout strategy targeting up to $1bn](https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/lightspeed-said-to-surpass-750m-fundraising-target-for-ai-buyout-strategy-targeting-up-to-1bn.html)**
+> **3. [Lightspeed said to surpass $750m fundraising target for AI buyout strategy targeting up to $1bn](https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/lightspeed-said-to-surpass-750m-fundraising-target-for-ai-buyout-strategy-targeting-up-to-1bn.html)**
 > <small>AltAssets · 国际 · 18:48</small>
 > Lightspeed Venture Partners has reportedly raised more than $750m for a new fund and co-investment vehicle targeting acquisitions of established businesses which can be transformed through AI, as the venture capital heavyweight expands fur…
 >
-> **3. [Deal Roundup: Triton agrees $9bn Trench exit; Trian-led group makes $3.8bn Wendy’s take-private proposal](https://www.altassets.net/private-equity-news/by-region/global-by-region/deal-roundup-triton-agrees-9bn-trench-exit-trian-led-group-makes-3-8bn-wendys-take-private-proposal.html)**
-> <small>AltAssets · 国际 · 17:48</small>
-> Triton Partners has agreed to sell high-voltage electrical equipment manufacturer Trench Group to GE Vernova for $9bn, in one of the largest European private equity exits announced this year. Triton acquired the business through a corporat…
+> **4. [独家｜恒大物业出售落实 太盟集团将取得控股权 - 财新](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5OSGhTc1J0eTFsUkgwamcwdzdGS1lCN2NvZkRpSnJYal9HZ01rcV9jbXE0blJlR1BJNVlKWW5ZT3h2S2VQVVc0OW5iVnlxYTdIcmFpOEdpc2k4VzNtb1NZZFFocjU?oc=5)**
+> <small>财新 · 国内 · 21:51</small>
+> 独家｜恒大物业出售落实 太盟集团将取得控股权 财新
 >
-> **4. [港股IPO市场反转 新股破发不断、多家延期取消(含视频) - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WbGdFYW94djJfbjl1SGFwQnBwb1d5V3VxV3lPa2d4NEdvLUhBdGVMVHlSanhBQXlJa01nUUZ3aGFFNTBSOHlJOEMwc2VLVUhKYWVDMWhudkZjZ3lhcHJVcEZn?oc=5)**
-> <small>财新 · 国内 · 12:42</small>
-> 港股IPO市场反转 新股破发不断、多家延期取消(含视频) 财新
+> **5. [字节御用数据中心，要IPO了 - 投中网](https://news.google.com/rss/articles/CBMibkFVX3lxTFBUTV9Zc3ZkQjBENHd2Si0xN1EybkZrVGxqZUh0RUdiTnFBRnBQQnR5akVKakZOMll6djBZQ25fMkRTQ25HUndDNUFXVG5iYkdQR29RVUVudzNqaG8tQlFGRFFZS2Jqd25Fb3JqQkNB?oc=5)**
+> <small>投中网 · 国内 · 10:10</small>
+> 字节御用数据中心，要IPO了 投中网
 >
-> **5. [仁烁光能超亿元B轮融资落地 - 投中网](https://news.google.com/rss/articles/CBMia0FVX3lxTE1ueF9JRTBPYkFadkItdjhlSGhnTnRQR1h5NWJzanlZTnlVNTRCbER5WC1Mc3pJTUJSMUhOUmlfVE9iQ0hyM0lEQjRBZjF6S3BGMWtfVTVMNGVlcGxNSGNxLUY0bk5RRjM4S0lN?oc=5)**
-> <small>投中网 · 国内 · 10:06</small>
-> 仁烁光能超亿元B轮融资落地 投中网
+> **6. [首发|RoboScience机器科学完成A2轮数亿元融资，产业资本集体入局 - 投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zbHR1M3hCYzA5ODBGOEotTzdjdlJpbVE0UFZQTDZTZ2t1eV9zMlV1VUlZTUQ5dmFpNkxLLTdfUFZsSTdadEtBRGhzZG9WVFc1RE43NHJB?oc=5)**
+> <small>投资界 · 国内 · 09:52</small>
+> 首发|RoboScience机器科学完成A2轮数亿元融资，产业资本集体入局 投资界
 >
-> **6. [EQT, Bain $5 billion Kakaku showdown heralds contested Japan buyout era - Reuters](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRjg5c2FELUF4QmI3cm5lY3A3blpRSXdmdkJ2dFN0SjN1Vlh4SUJoWE1YSHdQazdodWhoN1drSzNRLWI2SE9SYzVPamtvRVdpZTQ1TnQ0ZU9KZGJKZGt0anlHaEZiU1BqUVNfcUxRRHdvbnJIR2p4NEEzX0REdnotaUZ2bWZJX254d1BwZTJxajZ2RjFRbmxyLTA1c3hBSzVkTE1JR3ZuSWM0Y0RaTzR1QXJ3RWtnZHRrRDZ2cXNGQzIwMUU?oc=5)**
-> <small>Reuters · 国际 · 07:00</small>
-> EQT, Bain $5 billion Kakaku showdown heralds contested Japan buyout era Reuters
+> **7. [Deal Roundup: Thrive strikes $15.3bn ADT take-private; Stonepeak completes BMO finance acquisition](https://www.altassets.net/private-equity-news/by-region/global-by-region/deal-roundup-thrive-strikes-15-3bn-adt-take-private-stonepeak-completes-bmo-finance-acquisition.html)**
+> <small>AltAssets · 国际 · 19:32</small>
+> Thrive Holdings has agreed to acquire US home security provider ADT in a $15.3bn take-private transaction, comprising approximately $7.6bn of equity value and $7.7bn of net debt. The post Deal Roundup: Thrive strikes $15.3bn ADT take-priva…
 >
-> **7. [求解A股并购对赌后遗症 - 财新周刊](https://news.google.com/rss/articles/CBMiYEFVX3lxTFB0TUQ5cnFXdVFlb1lqejBuV0Y2TXpMY2FETXRwa2ZINDdCOEcxNEVZNjc5RHg1dFdpd2syRDNhYjVMNUk2bXhNT2VIdWVvdFBmRlBWTFNxOW5URGJfZUVINA?oc=5)**
+> **8. [求解A股并购对赌后遗症 - 财新周刊](https://news.google.com/rss/articles/CBMiYEFVX3lxTFB0TUQ5cnFXdVFlb1lqejBuV0Y2TXpMY2FETXRwa2ZINDdCOEcxNEVZNjc5RHg1dFdpd2syRDNhYjVMNUk2bXhNT2VIdWVvdFBmRlBWTFNxOW5URGJfZUVINA?oc=5)**
 > <small>财新周刊 · 国内 · 15:00 · `可能需订阅`</small>
 > 求解A股并购对赌后遗症 财新周刊
 >
-> **8. [CD&R explores deal to take payments processor Global Payments private, source says - Reuters](https://news.google.com/rss/articles/CBMivAFBVV95cUxPNWZ2SzJDSVRaLS1weElISF9wYThNdG12Z0s3ZEFQa3dySTV1X3pFeEw5dlN5eTNWUXpJekFiYVVqUGFqZTNxdkgteW10UUdCd2c4NVZyWHd2WmZEN1NNeFRYYmxYUkZBbWxUZ2pxT2czajNpNUdRcGZZcm9TTHBrMXZxTEdvNGJiUkJrdFpsbm9keEpybmdfdTMwNFM2VjhCcHdySnVKTDM0QW9FOWhuX2pOQ1lnTGN3anlQQw?oc=5)**
+> **9. [CD&R explores deal to take payments processor Global Payments private, source says - Reuters](https://news.google.com/rss/articles/CBMivAFBVV95cUxPNWZ2SzJDSVRaLS1weElISF9wYThNdG12Z0s3ZEFQa3dySTV1X3pFeEw5dlN5eTNWUXpJekFiYVVqUGFqZTNxdkgteW10UUdCd2c4NVZyWHd2WmZEN1NNeFRYYmxYUkZBbWxUZ2pxT2czajNpNUdRcGZZcm9TTHBrMXZxTEdvNGJiUkJrdFpsbm9keEpybmdfdTMwNFM2VjhCcHdySnVKTDM0QW9FOWhuX2pOQ1lnTGN3anlQQw?oc=5)**
 > <small>Reuters · 国际 · 02:25</small>
 > CD&R explores deal to take payments processor Global Payments private, source says Reuters
 >
-> **9. [Apollo and Thrive capitalise on private equity’s generational shift - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNZjZicTZsYkNQcm9ZQ1FLem5LU3hxbnhOcXJ0UFpfbFdjUTV0bm1zT2J4ckxEczYxeW95SjMxRnJjOG9VMldFd3p5bW1jTVFNeTh0cXRSZjlsQ2FGeTZHbC1MRjVyLUpoS2ZvWFVBbi1mRTVVN2VZRGVhZkw1RWR4ZTVnWHU?oc=5)**
+> **10. [Apollo and Thrive capitalise on private equity’s generational shift - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNZjZicTZsYkNQcm9ZQ1FLem5LU3hxbnhOcXJ0UFpfbFdjUTV0bm1zT2J4ckxEczYxeW95SjMxRnJjOG9VMldFd3p5bW1jTVFNeTh0cXRSZjlsQ2FGeTZHbC1MRjVyLUpoS2ZvWFVBbi1mRTVVN2VZRGVhZkw1RWR4ZTVnWHU?oc=5)**
 > <small>Financial Times · 国际 · 01:24 · `可能需订阅`</small>
 > Apollo and Thrive capitalise on private equity’s generational shift Financial Times
->
-> **10. [Partners plans to halve withdrawal limits on strained private equity fund - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxQWDBzbXFiOTByOGg2WExGdzZnZjVjbkstV1daQzkxTUZOV1pheENOLURZRkJHMlhYYm5sSnc4Q1c0UlhkazBiNnZSZFo3M3dWeGFBQm1OVjY3MnpxaksydXFWZXRicnUzV2xFdzgyeW9tTFNvTl9hbENMWWlQSEs0NW55R2U?oc=5)**
-> <small>Financial Times · 国际 · 20:38 · `可能需订阅`</small>
-> Partners plans to halve withdrawal limits on strained private equity fund Financial Times
 >
 
 > [!warning] 抓取失败但不影响成稿的来源
