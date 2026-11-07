@@ -1,8 +1,8 @@
 ---
 type: daily-news
-date: 2026-11-06
+date: 2026-11-07
 generated: true
-generated_at: 2026-11-06T13:21:34+08:00
+generated_at: 2026-11-07T12:50:34+08:00
 categories:
   - finance
   - tech-ai
@@ -20,53 +20,53 @@ tags:
 > [!quote] 财经 / 金融
 > 10/10 · 国内 2 / 国际 8
 >
-> **1. [Fed holds rates steady despite concerns over inflation](https://www.cnbc.com/2026/10/28/fed-interest-rate-decision-october-2026.html)**
+> **1. [Solid Jobs Report Leaves Inflation, Markets to Settle Fed’s December Call - WSJ](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOXFVS3JwUG9nLVJVWm4tRnJ6SWh2V05QakJMbTY4OXFYNnN3VTBRZER2Qkg2UmF2NzlGVTV6dFQwNFhycWZsYWVhZWVKMm1YMU5UWmllYmlqUnpHZnVFcUJCWjJjVU9WWVROMGlqeTBHMHBKemotS2l4akFEV0luejBtMlhVZ3Y4dVQ5UlpWTkxwd002dFdvQkZrTC1DcGI2emo2SUUtc24wcWpCSE9CazVjMGdIT3Y3bXVUWTMtRDQydw?oc=5)**
+> <small>WSJ · 国际 · 23:22 · `可能需订阅`</small>
+> Solid Jobs Report Leaves Inflation, Markets to Settle Fed’s December Call WSJ
+>
+> **2. [Fed holds rates steady despite concerns over inflation](https://www.cnbc.com/2026/10/28/fed-interest-rate-decision-october-2026.html)**
 > <small>CNBC Finance · 国际 · 03:43</small>
 > Two of the 12 Federal Open Market Committee voters dissented from the decision. Both wanted to raise rates by a quarter percentage point.
 >
-> **2. [Fed expected to hold rates steady, but Warsh may point way to more hikes](https://www.cnbc.com/2026/10/27/federal-reserve-rates-kevin-warsh.html)**
+> **3. [Fed expected to hold rates steady, but Warsh may point way to more hikes](https://www.cnbc.com/2026/10/27/federal-reserve-rates-kevin-warsh.html)**
 > <small>CNBC Finance · 国际 · 23:52</small>
 > Markets overwhelmingly expect no change in benchmark interest rates following September's increase.
 >
-> **3. [Breakingviews - COMMENTARY: SoftBank deal flags China's M&A hair trigger - Reuters](https://news.google.com/rss/articles/CBMipgFBVV95cUxPek91UzRxakhDQUhRZE9IWmJOYW55UnBEU3EtT1lCSURmYjJTblJhOGktUDlIWkJ3NzVFQnN1Q2VHX1hjVnp1UjFNX3VrYk5fRTd2VUQ1NU15aXBHMVpNMk95VjA2SjNEVHotQ3J1M0ZaRl9yZXh0cHYxODk3aExNblRPVkZCUGprY1pUdl9DY2liMUVPTkxURFNGVkxWcldVZnA1YU1B?oc=5)**
+> **4. [Stable Labor Market Keeps Fed on Track to Raise Rates Gradually](https://www.nytimes.com/2026/11/06/business/economy/stable-labor-market-to-keep-fed-on-track-to-raise-rates-gradually.html)**
+> <small>NYTimes Business · 国际 · 21:45 · `可能需订阅`</small>
+> The Federal Reserve decided against raising interest rates at its meeting last week, but it is widely expected to move again in December to help tame inflation.
+>
+> **5. [EXCLUSIVE: Chipmaker YMTC's IPO on hold as China tightens share sale approvals, sources say - Reuters](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSzVTcjFWM1pyclM0MFlFbkZGbTFaSVZfbFVkcTNCMUQxVnEzZ1N4Y3k4N2hvNTdGQkMwN2pxRktWQ2NoR1ZtaG5Ob1Y0eno2UWhQU05SWE9DZWp4ME95RXQ2cFd1VWZ5Vi1hTTBlWlFEaFV6bHpmUlFoMzhBOHVIR3plRFU3WEd0R3pmNFk0NFNwbVhweWctRWRGcHlxWDZMVnR5cmFSN1ktMW8zUkI5WE10akw5b3pO?oc=5)**
+> <small>Reuters · 国际 · 18:59</small>
+> EXCLUSIVE: Chipmaker YMTC's IPO on hold as China tightens share sale approvals, sources say Reuters
+>
+> **6. [Breakingviews - COMMENTARY: SoftBank deal flags China's M&A hair trigger - Reuters](https://news.google.com/rss/articles/CBMipgFBVV95cUxPek91UzRxakhDQUhRZE9IWmJOYW55UnBEU3EtT1lCSURmYjJTblJhOGktUDlIWkJ3NzVFQnN1Q2VHX1hjVnp1UjFNX3VrYk5fRTd2VUQ1NU15aXBHMVpNMk95VjA2SjNEVHotQ3J1M0ZaRl9yZXh0cHYxODk3aExNblRPVkZCUGprY1pUdl9DY2liMUVPTkxURFNGVkxWcldVZnA1YU1B?oc=5)**
 > <small>Reuters · 国际 · 18:24</small>
 > Breakingviews - COMMENTARY: SoftBank deal flags China's M&A hair trigger Reuters
 >
-> **4. [Stocks Rise as Democrats Flip Control of Congress](https://www.nytimes.com/2026/11/04/business/midterm-elections-stock-market.html)**
+> **7. [“超级央行周”前瞻：全球利率如何走向？金价持续震荡如何应对？机构：物理AI迎来重大拐点？丨20261027从华尔街到陆家嘴 - 第一财经](https://news.google.com/rss/articles/CBMiVEFVX3lxTE10c2tNTEFsU2dpUUxKLTlQNFhUZ2FZdGZYOUszaW9OUld0NFVVd3ptS1h2NHZqeUpubGMtaVlSWG9UbzVBR2haN1pGODhFSzZOVUhLbQ?oc=5)**
+> <small>第一财经 · 国内 · 07:26</small>
+> “超级央行周”前瞻：全球利率如何走向？金价持续震荡如何应对？机构：物理AI迎来重大拐点？丨20261027从华尔街到陆家嘴 第一财经
+>
+> **8. [Stocks Rise as Democrats Flip Control of Congress](https://www.nytimes.com/2026/11/04/business/midterm-elections-stock-market.html)**
 > <small>NYTimes Business · 国际 · 05:40 · `可能需订阅`</small>
 > Markets traded higher as investors foresaw gridlock in Washington, typically a bullish signal.
 >
-> **5. [So, about that Anthropic IPO . . . - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxPTDFpWXVOM3NsY0RVRENnZ0xaRXJlbXdmdGh6U3gtWDl4UnN2aWR0X2RWTzRCQnRZM1QzbzBfMzgwSEpiUFp0NUFXZmRIamNhSnFnRUowZUZiYkxNMzNueHdUMFdRWGd5aHVVVGdxcGFyOHJfM2VvajRaMDVSTk5SWFVPWXI?oc=5)**
-> <small>Financial Times · 国际 · 01:01 · `可能需订阅`</small>
-> So, about that Anthropic IPO . . . Financial Times
+> **9. [Anthropic to press ahead with IPO targeting $1.5tn valuation - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxPbjV5NWJDbm9FZ2VFTmNEWHdHVUt5ODJwdlZOQjgzZTdJdkFwN0FzQkNsVFdENVJ3MnZybWFvTXltVVFwYVUyWVY4UjRsaFlFajdwMk9QV1gyRmx2UzFpOTlzaWpZdGRrRG1HVTY1c2lMbGJ1eURCQ2E5M1ljSWZNanViUXI?oc=5)**
+> <small>Financial Times · 国际 · 05:00 · `可能需订阅`</small>
+> Anthropic to press ahead with IPO targeting $1.5tn valuation Financial Times
 >
-> **6. [Battle-tested European drone maker takes step towards €7bn IPO - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxPcVl3aVJFVzM1ZFFfc3V2TUNCdmVJbU8zMTduZWp3dXpnb0d4dFFqRjJZajJtUU0ybFhSdWQyTzN2a2VuQnpuSy16aWw0NW9MVkpkd3h1WnRDMWxqaXRMRHpiNEJxZzhoZE9QTVdDaTZIa0F0RU5sX1N4WnlVei1qNUpOcV8?oc=5)**
-> <small>Financial Times · 国际 · 20:59 · `可能需订阅`</small>
-> Battle-tested European drone maker takes step towards €7bn IPO Financial Times
->
-> **7. [Blackstone, Saudi Wealth Fund Back Dubai Firm’s $529 Million IPO - Bloomberg.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxQWms1eV9ROUdHWTVPbHFxTC1nNVVGSmx1MzNWRzhGckxpYXpDWEg4OEo0RlhERjRKRnRhWmM0LUpjaEY0UkItR2RTUDllbnlKX3hGR3FsYXVxcXRQWHMxc2xVRzc1WDN4Y204UVNLSjNZS2IwQXB1SUVOTldIUkVsV3pLSnNmWHdWaEpUY3RpMVlpamIzb0JyS2NrRHpBZG41VlJVSTJsRFRXTWM1WkJSWl9Wcw?oc=5)**
-> <small>Bloomberg.com · 国际 · 14:27 · `可能需订阅`</small>
-> Blackstone, Saudi Wealth Fund Back Dubai Firm’s $529 Million IPO Bloomberg.com
->
-> **8. [Markets Seem to Like the New Deadlock - Bloomberg.com](https://news.google.com/rss/articles/CBMimgFBVV95cUxOOTV0X0FYTmNGNHZUOWZkVEQ3WDBmTnFsNW80OEkxTFhlZFVBNmtoenRxVllyN3ZLVTExZ0hEM0Rub3B5MGxhLTRTbFdKcVFubk1KWnpNUWNHS2NIMmp6bG5DV0wtcm5EV0JSMDExY2d4MkdaWFFORzJJUFpMNHFpVkUtTDFMazlwZTdWelN3UGlqUVg4M2lvazdR?oc=5)**
-> <small>Bloomberg.com · 国际 · 12:00 · `可能需订阅`</small>
-> Markets Seem to Like the New Deadlock Bloomberg.com
->
-> **9. [官宣！中国政府债券余额首次突破100万亿元 - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1YOFJWRjRCTHBRUHdfSUNTM1BSN0Z3dU9maHgwWF9NTmFDYWw5ZGw5V3dIS29BZDFnM2Y4aWczbXU0elFXNERIS2RjN29uVElJbUZJ?oc=5)**
-> <small>第一财经 · 国内 · 06:28</small>
+> **10. [官宣！中国政府债券余额首次突破100万亿元 - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1YOFJWRjRCTHBRUHdfSUNTM1BSN0Z3dU9maHgwWF9NTmFDYWw5ZGw5V3dIS29BZDFnM2Y4aWczbXU0elFXNERIS2RjN29uVElJbUZJ?oc=5)**
+> <small>第一财经 · 国内 · 21:41</small>
 > 官宣！中国政府债券余额首次突破100万亿元 第一财经
->
-> **10. [一张卡每小时收入38美元！DeepSeek开源推理框架并披露账本 - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1CVTZmY1ZTUmlhN2dmRFZORHBiQi1fUE5rT2ZpcVdjNTlVa0hjZ29qZVNaeTBIel85YUVXYmJFZE1WYW0weWtIbUV3OFNpcHROTFJV?oc=5)**
-> <small>第一财经 · 国内 · 21:58</small>
-> 一张卡每小时收入38美元！DeepSeek开源推理框架并披露账本 第一财经
 >
 
 > [!example] 科技 / AI
 > 10/10 · 国内 2 / 国际 8
 >
-> **1. [OpenAI president Greg Brockman says company could be IPO ready in 2027](https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/)**
-> <small>TechCrunch · 国际 · 02:02</small>
-> Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where rival Anthropic had already successfully made inroads.
+> **1. [OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO](https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation)**
+> <small>The Verge · 国际 · 07:46</small>
+> OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world's most valuable companies, not long after raising $122 billion from investors…
 >
 > **2. [Texas was the new epicenter of the AI data center buildout. That might be kaput.](https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/)**
 > <small>MIT Technology Review · 国际 · 02:50</small>
@@ -76,9 +76,9 @@ tags:
 > <small>MIT Technology Review · 国际 · 21:00</small>
 > A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second age…
 >
-> **4. [OpenAI is stepping back from NDAs for data center projects](https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda)**
-> <small>The Verge · 国际 · 08:37</small>
-> Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to communities where it is working on data center projects, including that it won't use non-d…
+> **4. [China reportedly recruited AI exec to spy on Jensen Huang](https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy)**
+> <small>The Verge · 国际 · 07:00</small>
+> China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times. The Ministry of State Security (MSS) enlisted her to glean information about American AI chips and "p…
 >
 > **5. [Google要把AI大模型「刻」进芯片里 - 36氪](https://news.google.com/rss/articles/CBMiTkFVX3lxTE1Ud1U1SU82NWg4dFpCQzNweFJSYVI0b0lHODBPM2dDWkYzTjk5SVk4c2lwY19Xd3dNdXZ3NGx5ckkzQndrUkMwSUFaVTZxUQ?oc=5)**
 > <small>36氪 · 国内 · 14:13</small>
@@ -88,17 +88,17 @@ tags:
 > <small>NYTimes Technology · 国际 · 09:54 · `可能需订阅`</small>
 > The artificial intelligence company pledged to be more collaborative with the communities where it is building its data centers.
 >
-> **7. [Perplexity launches its own take on AI agents for work](https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work)**
-> <small>The Verge · 国际 · 06:26</small>
-> Perplexity is taking on OpenAI and Anthropic with its own work-focused AI agents. The startup's new always-on "Teammates" can take on multiple roles within a workspace, while pulling existing projects, skills, and memory from the Perplexit…
+> **7. [OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation](https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/)**
+> <small>TechCrunch · 国际 · 06:53</small>
+> OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.
 >
-> **8. [Meta warns that election backlash against data centers could make AI expansion harder](https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/)**
-> <small>TechCrunch · 国际 · 03:12</small>
-> Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects.
+> **8. [Microsoft Winding Down Oracle Deal to Rent AI Cloud Capacity - Bloomberg.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxPeXFhaDRlRjBvZktGaFM2eExYdGpJakRNazYxc2Y2UWoyMDJzS1VFb2Z5ZTNkSVhMRHBTbUdtb25kZHJUdkpRVXRQU1hQVGtIbS1maVNoeGhSZ2pHOGF1aDY3R1AwSTU4TmlmSEdEc19RYlowVXAzc0NlSzdVZ2xBZXduc2FzT3ViQ0xDS3RYdklKMzFnVzRtUkZKQnVBWlBDTWtGcGZUU01ZSktQTG5aOE9lbXE?oc=5)**
+> <small>Bloomberg.com · 国际 · 02:16 · `可能需订阅`</small>
+> Microsoft Winding Down Oracle Deal to Rent AI Cloud Capacity Bloomberg.com
 >
-> **9. [OpenAI and Anthropic Set Up ‘War Rooms’ to Fight Disinfo About Midterm Elections](https://www.nytimes.com/2026/11/03/business/ai-midterm-election-misinformation.html)**
-> <small>NYTimes Technology · 国际 · 07:39 · `可能需订阅`</small>
-> OpenAI, Anthropic and other tech companies have vowed to protect Tuesday’s elections from efforts to undermine democracy.
+> **9. [After the midterms, is the AI industry in for a rough two years?](https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/)**
+> <small>TechCrunch · 国际 · 01:23</small>
+> Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restricti…
 >
 > **10. [中国开源模型，正成为全球 AI 的“度量衡” - 36氪](https://news.google.com/rss/articles/CBMiTkFVX3lxTE5Jd3FPSkZzWGNVc0J6d1lCdmRUaUlCcTNpU3AyR3pBRmxSUUl5aUdudEhXT1lDeUVWZHZwbXg1UXVYa0VXeTZ6c2xCeG5PUQ?oc=5)**
 > <small>36氪 · 国内 · 09:31</small>
@@ -112,23 +112,23 @@ tags:
 > <small>AltAssets · 国际 · 19:26</small>
 > Cinven has agreed to acquire women's health pharmaceutical business Theramex from Carlyle and PAI Partners in a transaction valuing the company at approximately €2.6bn, according to the Financial Times. The post Deal Roundup: Cinven agrees…
 >
-> **2. [European infrastructure deal value reaches €56bn in six months as private equity valuation gap with US widens](https://www.altassets.net/featured/european-infrastructure-deal-value-reaches-e56bn-in-six-months-as-private-equity-valuation-gap-with-us-widens.html)**
-> <small>AltAssets · 国际 · 18:51</small>
-> European infrastructure transactions reached €56bn in the first half of 2026, equivalent to more than two-thirds of the €81bn recorded throughout 2025, according to new research from Preqin. The post European infrastructure deal value reac…
->
-> **3. [General Mills eyes separation of Haagen-Dazs brand outside North America, WSJ reports - Reuters](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVE9vZU9MNHYyeHBmTVN1SzdHUmhJMXpHcU5YNnJFZVIwQTBjdTRqQ0dLaGNnTDVidm12MDBPUkw1RDhMY3dDTWs0dFN5RE1xZlFzZG0xVDhMWTNXeUxvN2dtS19NYTR0TkZHZ241NU0yME5wNFMtbDlGSHdhUnZwckxPZFVlTEgwejhJc212b2Z2MTh3V1M5dTlNYWhuZWw0cDVpZlFEMjluRzc3N1ZFeUphanY5aW5kWHpPRm5jYkxTRnVXRXo4Yw?oc=5)**
+> **2. [General Mills eyes separation of Haagen-Dazs brand outside North America, WSJ reports - Reuters](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVE9vZU9MNHYyeHBmTVN1SzdHUmhJMXpHcU5YNnJFZVIwQTBjdTRqQ0dLaGNnTDVidm12MDBPUkw1RDhMY3dDTWs0dFN5RE1xZlFzZG0xVDhMWTNXeUxvN2dtS19NYTR0TkZHZ241NU0yME5wNFMtbDlGSHdhUnZwckxPZFVlTEgwejhJc212b2Z2MTh3V1M5dTlNYWhuZWw0cDVpZlFEMjluRzc3N1ZFeUphanY5aW5kWHpPRm5jYkxTRnVXRXo4Yw?oc=5)**
 > <small>Reuters · 国际 · 02:44</small>
 > General Mills eyes separation of Haagen-Dazs brand outside North America, WSJ reports Reuters
 >
-> **4. [Monzo explores fundraising at £7.5bn valuation as private equity talks stall - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxPTnhSUWNoVlBPVVBaU1p5dTJGTnBiVkVlb3dLVG84QW1EU3NpbXI2VVc1M0FSQ19GMzZGTUY1SVVsZFl6dmI0REJ0UGVzZ3JhMlJGbFhKRVJ5Y1dUbXh6ekhuNXNMRTRLY3dESndaalJQaWJYV0dlOEZGVUhfUUtZRFJidjE?oc=5)**
+> **3. [Monzo explores fundraising at £7.5bn valuation as private equity talks stall - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxPTnhSUWNoVlBPVVBaU1p5dTJGTnBiVkVlb3dLVG84QW1EU3NpbXI2VVc1M0FSQ19GMzZGTUY1SVVsZFl6dmI0REJ0UGVzZ3JhMlJGbFhKRVJ5Y1dUbXh6ekhuNXNMRTRLY3dESndaalJQaWJYV0dlOEZGVUhfUUtZRFJidjE?oc=5)**
 > <small>Financial Times · 国际 · 01:51 · `可能需订阅`</small>
 > Monzo explores fundraising at £7.5bn valuation as private equity talks stall Financial Times
+>
+> **4. [Virginia pension targets $750m annual private equity co-investments; PE portfolio trails benchmark by 15 points](https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/virginia-pension-targets-750m-annual-private-equity-co-investments-pe-portfolio-trails-benchmark-by-15-points.html)**
+> <small>AltAssets · 国际 · 19:11</small>
+> The $135.2bn-managing Virginia Retirement System is planning to increase its private equity co-investments to more than $750m a year and expand its use of continuation vehicles. The post Virginia pension targets $750m annual private equity…
 >
 > **5. [聚时科技完成数亿元人民币股权融资 - 投中网](https://news.google.com/rss/articles/CBMibkFVX3lxTFBQVF9CQlB0UVVUUHRIX1plSEFYZkRrQXFwWUJCWTk0cU5MNXhNYXhLck5FWEwyRmJqekhjMHlwbVZCSDd1LWdOckprYzg3ZDNscmV4ckNpbW1HVGh1ZjFuMHV0bnBaT3BaUHpGdjVR?oc=5)**
 > <small>投中网 · 国内 · 14:02</small>
 > 聚时科技完成数亿元人民币股权融资 投中网
 >
-> **6. [后摩智能完成数十亿元B轮融资 - 投中网](https://news.google.com/rss/articles/CBMibkFVX3lxTE5idzZ0XzBVd0wyWk9GWE5jcGF3LWg1Rm9nTS1LSWRaeXBRZWkyVW9EMGpZMmhwZjdtZGUtUFZhcVhMQ3FXcXhqSnVwME9uTzBEOTllVUFkVXg4UnFsTEVBRGhXcGg2RFZFSEx2b2FB?oc=5)**
+> **6. [后摩智能完成数十亿元B轮融资 - 投中网](https://news.google.com/rss/articles/CBMia0FVX3lxTE1SVXZhMWIxdnV3WV8wOHpKY1JRUVhqZkd6TVo2cjNsM3pPOG01NG1EU1otTllCN2dwcHJPWDNsdHhWQzlyRE5ySmFrdVUyM3NnXzBYYmcxME9xY0lQV3RlT2JHNHhaSXR1MTI4?oc=5)**
 > <small>投中网 · 国内 · 15:08</small>
 > 后摩智能完成数十亿元B轮融资 投中网
 >
