@@ -8,133 +8,133 @@
 > [!quote] 财经 / 金融
 > 10/10 · 国内 4 / 国际 6
 >
-> **1. [央行解释利率体系：中国贷款利率相对较低，债券信用利差较窄 - 财新](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9yUWtnc0VFQzhqZkxNejRzTThRTjJSYl9pNnc1aFBrQnZuS2VQTnYyY1MzV1k2MVcwTjN1ay1XbmpzR2tUcTNVTVhkdzdIdl9VZENrTFh3aVF4c1RRU0NBVnA0eU4?oc=5)**
-> <small>财新 · 国内 · 07:04</small>
-> 央行解释利率体系：中国贷款利率相对较低，债券信用利差较窄 财新
+> **1. [Anthropic's IPO is about six times oversubscribed, Bloomberg News reports - Reuters](https://news.google.com/rss/articles/CBMixgFBVV95cUxNN0pUQzVjV3ltd2hkZ29PSjdjWElOb3dmUlNPSG5HMC01V1EzSnlQdUl0Tm9WNnhJdktOamVLa1JWOTF5SGJZYTFrNWpBbElkc1lGUklCUUNVLXhHNWM1M0JmaHZTTmVaODlldER3Ulc3Q19zVGtOUDl1NzdCQWNuYkR5LWRVcXFUOGFTQXFDUDlTb2VLVzE3Z1M2dnlfeFFwSVV0MEpNNzExRHNxTlpsZGcyTlE1bE5LbEdLNGVtczd3M2hra1E?oc=5)**
+> <small>Reuters · 国际 · 05:31</small>
+> Anthropic's IPO is about six times oversubscribed, Bloomberg News reports Reuters
 >
-> **2. [Anthropic IPO最多募资625亿美元 估值下探至1-1.4万亿美元(含视频) - 财新](https://news.google.com/rss/articles/CBMiZEFVX3lxTE10OXRFTlVrV3poTEpBWDZKOWU4X1ZhQ2hHSGw2Wjk4YVp1Z2J6U2tnWHNMVWV6WVJaY1htNFhXSGJHck1DZmtTTGU1amlzcDc3SWJld3cxU29Ua3pSWW5PX3lVV1Q?oc=5)**
-> <small>财新 · 国内 · 07:52</small>
-> Anthropic IPO最多募资625亿美元 估值下探至1-1.4万亿美元(含视频) 财新
->
-> **3. [不等2万亿了，Anthropic估值缩水冲刺IPO - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Ob1NGQjlsS21BUlVfSVlXa2ZPcWRTVW9kblZJc2g0Qk51RkY3dEFwZ0VrT0Jja1dOU0kxZlN2VmktdU9QU2N0SlVPN3NIbW1Fa3Rv?oc=5)**
+> **2. [不等2万亿了，Anthropic估值缩水冲刺IPO - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Ob1NGQjlsS21BUlVfSVlXa2ZPcWRTVW9kblZJc2g0Qk51RkY3dEFwZ0VrT0Jja1dOU0kxZlN2VmktdU9QU2N0SlVPN3NIbW1Fa3Rv?oc=5)**
 > <small>第一财经 · 国内 · 15:41</small>
 > 不等2万亿了，Anthropic估值缩水冲刺IPO 第一财经
 >
-> **4. [FirstFT: Anthropic bankers prepare to increase IPO valuation to $1.5tn - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxQbUI5ellJWlhtMHFOdDlqZGQza0M2anQ0TUdFV2RSTTU5Z082TDJsQjhJcDR5aTRCb1dtSENqN0M3UHFlZDJJTTkyTDVCT2w3Y1B5ZldmTngzVmtJSTNBaHg1OGswcjd3cThjdE9Vclp2QnZfMWpDb0lHcDVXSkVZWWhFaEQ?oc=5)**
-> <small>Financial Times · 国际 · 19:08 · `可能需订阅`</small>
-> FirstFT: Anthropic bankers prepare to increase IPO valuation to $1.5tn Financial Times
+> **3. [央行重磅定调：将加力维护金融市场平稳运行；长钱入市加速：社保年金年初净买入A股超6000亿 - 第一财经](https://news.google.com/rss/articles/CBMiVEFVX3lxTE1uNC1sNWtEU0RqVUFURzZzR0d4WS1yMG1xSGkybDRDX0ZTRDRZc3Q1NzVXYUY4Y2Vyb25sd2RpRXBpRXJ5cTU5S3RseE8wU1Q4T1FSdw?oc=5)**
+> <small>第一财经 · 国内 · 02:14</small>
+> 央行重磅定调：将加力维护金融市场平稳运行；长钱入市加速：社保年金年初净买入A股超6000亿 第一财经
 >
-> **5. [Anthropic IPO valuation calculator: How much is it really worth? - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNa3ZJT1VnODFlMjkwVmE1Z05vaktUWmUtOGNpY19VVG1DMU9ObkZ6QndkOTlVMmVSZGR4RENBV0RwYTZzM241UXIyazhRWGRyNi1SZVNzWWNjYXBSUjlFUGdXb3U3QklJLXprbVBZLXRjdjd2dGphaEItMFVVTGR0OERfeEc?oc=5)**
-> <small>Financial Times · 国际 · 13:02 · `可能需订阅`</small>
+> **4. [Anthropic IPO valuation calculator: How much is it really worth? - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNa3ZJT1VnODFlMjkwVmE1Z05vaktUWmUtOGNpY19VVG1DMU9ObkZ6QndkOTlVMmVSZGR4RENBV0RwYTZzM241UXIyazhRWGRyNi1SZVNzWWNjYXBSUjlFUGdXb3U3QklJLXprbVBZLXRjdjd2dGphaEItMFVVTGR0OERfeEc?oc=5)**
+> <small>Financial Times · 国际 · 13:01 · `可能需订阅`</small>
 > Anthropic IPO valuation calculator: How much is it really worth? Financial Times
 >
-> **6. [Elevated Inflation Keeps Pressure on Fed to Raise Rates](https://www.nytimes.com/2026/11/10/business/economy/inflation-economy-cpi.html)**
-> <small>NYTimes Business · 国际 · 01:18 · `可能需订阅`</small>
-> October’s Consumer Price Index report showed a broadening of price pressures that has stoked concerns about the Federal Reserve’s grip on inflation.
+> **5. [Anthropic bankers prepare to increase IPO valuation to $1.5tn or more - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxOemcxaS1wZzZyUGhITkh5Unh5cnVndFpLa3cxc1ZwLUxVeDFmUVBjREdnVlU2NFJIMWxhYW5OX243TVhJRUVCeXFFY0ZrelJWVzMyLTJ2R1BVUnQySmtsck5xWWJNUU5RX21HMHF4bVNBMERHSGxQWEppbnJVay11dDFCb2c?oc=5)**
+> <small>Financial Times · 国际 · 08:28 · `可能需订阅`</small>
+> Anthropic bankers prepare to increase IPO valuation to $1.5tn or more Financial Times
 >
-> **7. [Anthropic’s IPO Is Said to Be Multiple Times Oversubscribed - Bloomberg.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxNZmpKTXQyY2lNN0FpMHV4eHhidWR2STRyMjNjZnlxdEs5aDB5TkhzN1dQQm5ZTndIMU5CcE1MNHNGV1lxSWdXVGx6c0JlMTlWQ2E5VExZRWdkTU1LbzN0WElGQjhyREJBaVVhdmY3UURNTHR5SEx6OVpGQ1JCNkxjZ3dKdzhtRk5fQm53cWE4dG1xYzQ1cjMyNE5KQmtUeWpUalFGSTIwbHFQemhqQ1ZqUVFrNA?oc=5)**
+> **6. [日中则昃：2027年海外宏观展望 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBjWnRPaloxWlczZkpkT0NnS0NZaVFWZ0VxSDhoUXAtd25ySnlPbzlpVnRLbFNpODBkbUNoeW5SZ2Fra1hmQXZsdXFtd3RjVVJHekp0R3pESWZQRDYzT2xGSTZn?oc=5)**
+> <small>财新 · 国内 · 10:46</small>
+> 日中则昃：2027年海外宏观展望 财新
+>
+> **7. [Anthropic’s IPO Is About Six Times Oversubscribed - Bloomberg.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxQeWxnOC1MRXVQbUJwaDdiSDE3TzdIbVRyYU5qWnF5YzkycUVPTXV0bUhOWEIzWU1xejMyQXJxaGtHT2dQbk1iTExkc29hYjBpQWRsY3RTaEtsTVhVaFJjOHl5aW5nb0dDYzRwcWxjVXpkbWw1bU5lSFhwVHo4aGw4bHJZYlNZTUVoN2VwYnhBWmNDNURMbXNmN2FvaEVONS1CVG1MY004MzdMbTRJd1E2eQ?oc=5)**
+> <small>Bloomberg.com · 国际 · 05:00 · `可能需订阅`</small>
+> Anthropic’s IPO Is About Six Times Oversubscribed Bloomberg.com
+>
+> **8. [In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates](https://www.cnbc.com/2026/11/12/in-policy-switch-fed-says-its-october-2027-meeting-will-not-see-a-vote-on-interest-rates.html)**
+> <small>CNBC Finance · 国际 · 03:05</small>
+> There will be seven voting meetings next year, with the October session set up as extra time for policy deliberation without a formal vote or post-meeting statement.
+>
+> **9. [Anthropic’s IPO Is Said to Be Multiple Times Oversubscribed - Bloomberg.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxNZmpKTXQyY2lNN0FpMHV4eHhidWR2STRyMjNjZnlxdEs5aDB5TkhzN1dQQm5ZTndIMU5CcE1MNHNGV1lxSWdXVGx6c0JlMTlWQ2E5VExZRWdkTU1LbzN0WElGQjhyREJBaVVhdmY3UURNTHR5SEx6OVpGQ1JCNkxjZ3dKdzhtRk5fQm53cWE4dG1xYzQ1cjMyNE5KQmtUeWpUalFGSTIwbHFQemhqQ1ZqUVFrNA?oc=5)**
 > <small>Bloomberg.com · 国际 · 01:46 · `可能需订阅`</small>
 > Anthropic’s IPO Is Said to Be Multiple Times Oversubscribed Bloomberg.com
 >
-> **8. [What’s Next for Anthropic’s Mega-IPO: Five Things to Watch - Bloomberg.com](https://news.google.com/rss/articles/CBMirAFBVV95cUxQVkJ1ay1pUnM2aFZnWTdJVUFKWmRRdlJPVjhFT2FMcGdEMGdsR1FueEdCQzNPZXhFcURnZzFYU3Y1ZzUtdWdzVUh5R1IxMkNyUTVBcjM1WHMtRkhMNXd6ZURKQWNCYUpoYnYweXY0VDhHTnY1cWg4cl92Q3dWajZmakUyRW5SY1JLSkViS3R1VEdPVzlic3FoaGpRelg2aEpFbnhuVUpMaUp1eXY5?oc=5)**
-> <small>Bloomberg.com · 国际 · 01:08 · `可能需订阅`</small>
-> What’s Next for Anthropic’s Mega-IPO: Five Things to Watch Bloomberg.com
->
-> **9. [Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes](https://www.cnbc.com/2026/11/11/goolsbee-october-inflation-fed-rates-disturbing-distressing.html)**
-> <small>CNBC Finance · 国际 · 00:49</small>
-> The consumer price index rose more than expected in October, raising alarm among Federal Reserve officials.
->
-> **10. [AI交易冲击10月美股基金平均回报率-1.3%，为何华尔街投资人、分析师反而建议抄底、加仓？ - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9lMjBRYUtaYTZzZXAtQ09iSlR3elN4NHNaS0FNbkxvVXZrRzlqQlpGbXpfWUdLZmFhWGMtVkdKcXc3dDJzS3g5NXNpWVdsOFZXWW5F?oc=5)**
-> <small>第一财经 · 国内 · 05:54</small>
-> AI交易冲击10月美股基金平均回报率-1.3%，为何华尔街投资人、分析师反而建议抄底、加仓？ 第一财经
+> **10. [财经早知道｜离岸信托个人所得税累计申报超1600亿元 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9YblYxTndtVlcyMUNBcXRXVDRzckdZME1ETHhmdWxVN0ROd0puZUtDUVZRU1M2MG14eXFlNFJuNWkxaHI3Q3h4a3JKckRPaXV2OUU2aTRFNW1xTzlHQlh6SUtR?oc=5)**
+> <small>财新 · 国内 · 06:52</small>
+> 财经早知道｜离岸信托个人所得税累计申报超1600亿元 财新
 >
 
 > [!example] 科技 / AI
-> 10/10 · 国内 1 / 国际 9
+> 10/10 · 国内 3 / 国际 7
 >
-> **1. [The backlash about data centers might really just be about electricity](https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/)**
+> **1. [Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility](https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/)**
+> <small>MIT Technology Review · 国际 · 04:16</small>
+> Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on T…
+>
+> **2. [The backlash about data centers might really just be about electricity](https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/)**
 > <small>MIT Technology Review · 国际 · 03:35</small>
 > This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known…
 >
-> **2. [Innovating with AI in the special chemicals industry](https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/)**
-> <small>MIT Technology Review · 国际 · 21:00</small>
-> As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of br…
+> **3. [Jensen Huang was having a third affair, Reuters reports](https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/)**
+> <small>TechCrunch · 国际 · 04:26</small>
+> Reuters is withholding the name of the new employee linked to Huang, but says she is an employee of Nvidia.
 >
-> **3. [United won’t let your AI agent book your flight](https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents)**
-> <small>The Verge · 国际 · 05:54</small>
-> United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns. The company says it hasn't yet seen many people try to use AI agents to book their flights, The Wall Street Journal r…
+> **4. [高通孟樸：AI 基础设施仍将持续发展端云协同为下阶段重点 - 财新](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9PT1M3d255TjNXLXpiLWFFM2dYdXRDdnN6cTBUc2oxX2NGTmNvMmR1RWdGTEZ4Z3Z2d3ljMHNfVnJPSTRtaEM4andidWZkczVEUVplclotTUZoUk5XZ1Z2TkkwME0?oc=5)**
+> <small>财新 · 国内 · 09:03</small>
+> 高通孟樸：AI 基础设施仍将持续发展端云协同为下阶段重点 财新
 >
-> **4. [Nvidia board meets to decide CEO Huang's future as leadership crisis deepens - Reuters](https://news.google.com/rss/articles/CBMiogFBVV95cUxPTlA5REZDN0pJYkxyUXM4YjE1Q1BLN0tKNENxM3NsV3RKblNhbWpsdEFUUVRieUtNckY4S3YwdkFUdjhvZVk4Nm1Ga1JNUmZkRzMtaEhHazhHNmZDX3Z1WUNzZnJmdEpLeVRmcngzdEMwM2N3b1I1ckQ1Q2N2a2NRNWtfa0ZTTkhYaXlqc1NqbklwWUxIdktqdzZvS0M2cGhSYkE?oc=5)**
-> <small>Reuters · 国际 · 06:34</small>
-> Nvidia board meets to decide CEO Huang's future as leadership crisis deepens Reuters
+> **5. [Explainer: Could Huang, Nvidia and company's board be held liable over affair scandal? - Reuters](https://news.google.com/rss/articles/CBMivgFBVV95cUxPMjZKSmVVbEFma0huZUVIajB2eVUzdUdEd2owTjNLbTZTbFQ5Z2F5OEs4WVp0QVdhZEpDU2xXQnhnTlJpQjlkMnREdGZEbkRyVW1hLXBsWklELTUxMU52bzVXMXJkeVRrVkx5aXV0YTMwcE1BVmJfTXJ2aTg3WGNkSnZRRTFLUllxTkVVVnZCc2JicjJmWGo0T08zRThvTmNQUHVfZkp2WUJwdXhIZGxNY2xFQ1ZZbVZsajJ0YWdB?oc=5)**
+> <small>Reuters · 国际 · 01:03</small>
+> Explainer: Could Huang, Nvidia and company's board be held liable over affair scandal? Reuters
 >
-> **5. [北大张丹丹：AI“替代”劳动力是个复杂命题 增强自身稀缺性应对竞争 - 财新](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1rNU5HY0Jqb25aSWFWZ0pEazFXTUdQQ2dKLVk0NVlfaF9RWDVzSzh6ak9oYWUyd0hOTlFJZC1lU2lWOFI0MzVYZC0tS3NhZFcwczlmM3hTckxocHNGTWU3VjJ6bDE?oc=5)**
+> **6. [Nebius tests the neocloud playbook with $40 billion in planned spending](https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/)**
+> <small>TechCrunch · 国际 · 05:27</small>
+> Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model.
+>
+> **7. [北大张丹丹：AI“替代”劳动力是个复杂命题 增强自身稀缺性应对竞争 - 财新](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1rNU5HY0Jqb25aSWFWZ0pEazFXTUdQQ2dKLVk0NVlfaF9RWDVzSzh6ak9oYWUyd0hOTlFJZC1lU2lWOFI0MzVYZC0tS3NhZFcwczlmM3hTckxocHNGTWU3VjJ6bDE?oc=5)**
 > <small>财新 · 国内 · 22:45</small>
 > 北大张丹丹：AI“替代”劳动力是个复杂命题 增强自身稀缺性应对竞争 财新
 >
-> **6. [Who Is Alice Huang, the Woman in the Middle of Nvidia’s Spy Scandal?](https://www.nytimes.com/2026/11/10/technology/alice-huang-megaspeed-nvidia-jensen-huang.html)**
+> **8. [Who Is Alice Huang, the Woman in the Middle of Nvidia’s Spy Scandal?](https://www.nytimes.com/2026/11/10/technology/alice-huang-megaspeed-nvidia-jensen-huang.html)**
 > <small>NYTimes Technology · 国际 · 05:12 · `可能需订阅`</small>
 > Alice Huang, who U.S. intelligence determined is a Chinese asset, emerged from the high-flying world of Shanghai finance to work with tech titans and obtain essential A.I. chips.
 >
-> **7. [OpenAI Pledges to Give Locals More Say in Data Center Projects](https://www.nytimes.com/2026/11/05/technology/openai-data-centers-midterms.html)**
-> <small>NYTimes Technology · 国际 · 09:54 · `可能需订阅`</small>
-> The artificial intelligence company pledged to be more collaborative with the communities where it is building its data centers.
+> **9. [Donald Trump really wants Tim Cook to run Nvidia](https://www.theverge.com/tech/1032774/president-donald-trump-tim-cook-nvidia-jensen-huang)**
+> <small>The Verge · 国际 · 08:51</small>
+> Jensen Huang resigned this morning as Nvidia's CEO following reports of affairs, including one with an alleged Chinese spy. Right now, the company is being led by its CFO on an interim basis. But President Donald Trump is already throwing…
 >
-> **8. [Nvidia is reportedly preparing to fire Jensen Huang](https://www.theverge.com/tech/1031652/jensen-huang-rumor)**
-> <small>The Verge · 国际 · 08:55</small>
-> Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The W…
->
-> **9. [Jensen Huang accused of having another affair — with an Nvidia exec](https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/)**
-> <small>TechCrunch · 国际 · 07:17</small>
-> Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate.
->
-> **10. [With $720M round, Britain’s Fractile gets a leg up in the race for AI chips](https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/)**
-> <small>TechCrunch · 国际 · 03:34</small>
-> Fractile has now become one of the top-funded players in the race for purpose-built AI chips.
+> **10. [黄仁勋留给英伟达的“三个难题” - 36氪](https://news.google.com/rss/articles/CBMiTkFVX3lxTE94aEM4TjNFbDdZbTFHYjBZdHYxeGhUbVVSbWJ1MFJPVTRCdnhIRzVodi1QQy1ldXNqeG9MT1dFOGpCZnIyNWlRTUJUQXZ4dw?oc=5)**
+> <small>36氪 · 国内 · 19:45</small>
+> 黄仁勋留给英伟达的“三个难题” 36氪
 >
 
 > [!tip] 私募股权 / 投资市场
 > 10/10 · 国内 4 / 国际 6
 >
-> **1. [聚时科技完成数亿元人民币股权融资 - 投中网](https://news.google.com/rss/articles/CBMia0FVX3lxTE5USDVYWnJ2WFhhbXhCa1BBMS0wRzI0a2w5SHBVaVpVODl3ZVc4bEVMX2FOZzd6UXlwd1l5OHFITkZqNWZzYU5FZ0E0YktMWjJBUFVoQVlMY0FpV2N3V2FCMDEzWGlhMk9RVl9N?oc=5)**
+> **1. [Deal Roundup: Blackstone commits up to $1.5bn to Pfizer obesity drug programme, Fractile raises $720m at $7bn valuation](https://www.altassets.net/private-equity-news/by-region/global-by-region/deal-roundup-blackstone-commits-up-to-1-5bn-to-pfizer-obesity-drug-programme-fractile-raises-720m-at-7bn-valuation.html)**
+> <small>AltAssets · 国际 · 19:24</small>
+> Blackstone Life Sciences has agreed to provide Pfizer with up to $1.5bn through 2028 to support development of its experimental obesity treatment berobenatide, in return for payments linked to regulatory and commercial milestones. The post…
+>
+> **2. [聚时科技完成数亿元人民币股权融资 - 投中网](https://news.google.com/rss/articles/CBMia0FVX3lxTE5USDVYWnJ2WFhhbXhCa1BBMS0wRzI0a2w5SHBVaVpVODl3ZVc4bEVMX2FOZzd6UXlwd1l5OHFITkZqNWZzYU5FZ0E0YktMWjJBUFVoQVlMY0FpV2N3V2FCMDEzWGlhMk9RVl9N?oc=5)**
 > <small>投中网 · 国内 · 14:02</small>
 > 聚时科技完成数亿元人民币股权融资 投中网
 >
-> **2. [回购、增持、分红 上市公司密集出招应对大幅下跌 - 财新](https://news.google.com/rss/articles/CBMiZEFVX3lxTFAzSmRCLWgydzM3N20zWVBvV000ZE8wZWJmbjdJMjdCV0tlOWhSM2pZYjRKOU54NERpREdNR2ZzTzJyQnZFeGJERWNDWm84NndWYUs5LXExZlcydTlOdUF6UUhQQUQ?oc=5)**
+> **3. [回购、增持、分红 上市公司密集出招应对大幅下跌 - 财新](https://news.google.com/rss/articles/CBMiZEFVX3lxTFAzSmRCLWgydzM3N20zWVBvV000ZE8wZWJmbjdJMjdCV0tlOWhSM2pZYjRKOU54NERpREdNR2ZzTzJyQnZFeGJERWNDWm84NndWYUs5LXExZlcydTlOdUF6UUhQQUQ?oc=5)**
 > <small>财新 · 国内 · 15:00</small>
 > 回购、增持、分红 上市公司密集出招应对大幅下跌 财新
->
-> **3. [港股IPO市场反转 新股破发不断、多家延期取消(含视频) - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WbGdFYW94djJfbjl1SGFwQnBwb1d5V3VxV3lPa2d4NEdvLUhBdGVMVHlSanhBQXlJa01nUUZ3aGFFNTBSOHlJOEMwc2VLVUhKYWVDMWhudkZjZ3lhcHJVcEZn?oc=5)**
-> <small>财新 · 国内 · 15:00</small>
-> 港股IPO市场反转 新股破发不断、多家延期取消(含视频) 财新
 >
 > **4. [Proximal Ventures beats target with $27.5m debut fund for AI-driven life sciences investments](https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/proximal-ventures-beats-target-with-27-5m-debut-fund-for-ai-driven-life-sciences-investments.html)**
 > <small>AltAssets · 国际 · 19:55</small>
 > US venture capital firm Proximal Ventures has closed its debut fund at $27.5m, beating its $25m target with backing from investors including Kleiner Perkins, SignalFire and Bertelsmann Healthcare Investments. The post Proximal Ventures bea…
 >
-> **5. [KKR joins Diamondback in reported $2.1bn acquisition of Five Point’s Deep Blue stake](https://www.altassets.net/private-equity-news/by-region/global-by-region/kkr-joins-diamondback-in-reported-2-1bn-acquisition-of-five-points-deep-blue-stake.html)**
-> <small>AltAssets · 国际 · 20:24</small>
-> KKR and Diamondback Energy have agreed to acquire Five Point Infrastructure's 70% stake in Deep Blue Midland Basin, a water infrastructure platform serving oil and gas producers in West Texas. The post KKR joins Diamondback in reported $2.…
->
-> **6. [Fake Private Equity Executive Convicted Over Bogus Buyout - Bloomberg](https://news.google.com/rss/articles/CBMitAFBVV95cUxQZmhlaEx1eWdWZFZKZTg2UG9YWmdZeDN5THJpTXYxYTlxcWh4NklJV0dwaUZhVmoxRWgtemdheDVpVDhram03elo2NnQ2WjBNcHhmck5EQWt4ZFNCQUtOWWdOUS00YktrajNhLTZlNUVFaVN5SHk5Y3dMZmZ6Q3MyYlYtZkZFVUd4MkpFY3FqamQ2VDRzcWZoa2J4SDJIbnMzbHNiSXNjRXZod1FSM1ppMGpTZjQ?oc=5)**
-> <small>Bloomberg · 国际 · 00:52 · `可能需订阅`</small>
-> Fake Private Equity Executive Convicted Over Bogus Buyout Bloomberg
->
-> **7. [Why a Private Equity Firm Suddenly Halted Deportation Flights for ICE - Bloomberg.com](https://news.google.com/rss/articles/CBMiugFBVV95cUxPM2V3b3dTcU5KZFdaS1RMa2NCRG1ianBfX0JOTE91XzFrenZ5aXpRcWgwb2doX1hqcHpjLVZOQW1RaHZ6dklPSjFzWHNEQUxLa3VJbnBsdncwTzM0eGhzYnNsUzk2enJGSmRCZFdlZFNiUmdqTmt3al9zR0N6X1ZTM2JROE1qekNVZElCMnVfd3g5LWp2UTBRVU9QVWxrUS0wUWF1RWlrel8xSXQ2U1dwd1ZPU0xrUzNfQlE?oc=5)**
+> **5. [Why a Private Equity Firm Suddenly Halted Deportation Flights for ICE - Bloomberg.com](https://news.google.com/rss/articles/CBMiugFBVV95cUxPM2V3b3dTcU5KZFdaS1RMa2NCRG1ianBfX0JOTE91XzFrenZ5aXpRcWgwb2doX1hqcHpjLVZOQW1RaHZ6dklPSjFzWHNEQUxLa3VJbnBsdncwTzM0eGhzYnNsUzk2enJGSmRCZFdlZFNiUmdqTmt3al9zR0N6X1ZTM2JROE1qekNVZElCMnVfd3g5LWp2UTBRVU9QVWxrUS0wUWF1RWlrel8xSXQ2U1dwd1ZPU0xrUzNfQlE?oc=5)**
 > <small>Bloomberg.com · 国际 · 18:00 · `可能需订阅`</small>
 > Why a Private Equity Firm Suddenly Halted Deportation Flights for ICE Bloomberg.com
 >
-> **8. [BC Partners seeks control of LIV Golf from Saudi wealth fund, FT reports - Reuters](https://news.google.com/rss/articles/CBMizgFBVV95cUxPVFoxU2t2RmlfekRDMWk3XzBSMjhnNlN2NVNXV0N2bzlmYnVNeGduMVlpRVhoMVl4UEI5eUQybE5Vai1HeU40WlhIYTVVRHBJMXlmYVdQcHpxTUh6ZkN0MV8zbExqblZQT3ZEdmdUYTVPc0NIeVdMcjlmNEh0dDRIUTRkZ1dmUG5DRzFxZWdDZDA1WU5nN3dOSmVLVkFIYVY0R1gwUlZnQ0JZUkxDY0dHT2RSb1FEV2RubDNlNDE3Y0RXUVU3VTRrMC1RcVNjdw?oc=5)**
+> **6. [BC Partners seeks control of LIV Golf from Saudi wealth fund, FT reports - Reuters](https://news.google.com/rss/articles/CBMizgFBVV95cUxPVFoxU2t2RmlfekRDMWk3XzBSMjhnNlN2NVNXV0N2bzlmYnVNeGduMVlpRVhoMVl4UEI5eUQybE5Vai1HeU40WlhIYTVVRHBJMXlmYVdQcHpxTUh6ZkN0MV8zbExqblZQT3ZEdmdUYTVPc0NIeVdMcjlmNEh0dDRIUTRkZ1dmUG5DRzFxZWdDZDA1WU5nN3dOSmVLVkFIYVY0R1gwUlZnQ0JZUkxDY0dHT2RSb1FEV2RubDNlNDE3Y0RXUVU3VTRrMC1RcVNjdw?oc=5)**
 > <small>Reuters · 国际 · 01:35</small>
 > BC Partners seeks control of LIV Golf from Saudi wealth fund, FT reports Reuters
 >
-> **9. [Private equity firm seeks to take control of LIV Golf from Saudi wealth fund - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxOWUotV0RTQVAzQmtNVDhlTHMwMTAyOUU2N1RCcUpiVGNINFlRSDFkSExLUEFpdU5FdFFWTjdhamZBZDh2blNOVlBRc0Z2RjBQQXJreHc2SE53WlJOSkduMWhRRkM1eWtJVU9oZEpTQ2kxYTM4YkotZzhqbGxHUUNLYTBhclU?oc=5)**
+> **7. [Private equity firm seeks to take control of LIV Golf from Saudi wealth fund - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxOWUotV0RTQVAzQmtNVDhlTHMwMTAyOUU2N1RCcUpiVGNINFlRSDFkSExLUEFpdU5FdFFWTjdhamZBZDh2blNOVlBRc0Z2RjBQQXJreHc2SE53WlJOSkduMWhRRkM1eWtJVU9oZEpTQ2kxYTM4YkotZzhqbGxHUUNLYTBhclU?oc=5)**
 > <small>Financial Times · 国际 · 22:32 · `可能需订阅`</small>
 > Private equity firm seeks to take control of LIV Golf from Saudi wealth fund Financial Times
 >
-> **10. [金沙江领投数千万元，国内首个千比特量子算力平台已服务大湾区量子中心丨36氪首发 - 36氪](https://news.google.com/rss/articles/CBMiTkFVX3lxTFBPdWh4a2dCSVE1LVpNSmdEWXhrd1ptSGJSX1lUQzdZd2FWZDRXQkdUUHlqY2xsbURoRmhVZWRXcE13VXZGcU93VWhuLU5Bdw?oc=5)**
+> **8. [Anthropic’s IPO Is About Six Times Oversubscribed - Bloomberg.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxQeWxnOC1MRXVQbUJwaDdiSDE3TzdIbVRyYU5qWnF5YzkycUVPTXV0bUhOWEIzWU1xejMyQXJxaGtHT2dQbk1iTExkc29hYjBpQWRsY3RTaEtsTVhVaFJjOHl5aW5nb0dDYzRwcWxjVXpkbWw1bU5lSFhwVHo4aGw4bHJZYlNZTUVoN2VwYnhBWmNDNURMbXNmN2FvaEVONS1CVG1MY004MzdMbTRJd1E2eQ?oc=5)**
+> <small>Bloomberg.com · 国际 · 05:00 · `可能需订阅`</small>
+> Anthropic’s IPO Is About Six Times Oversubscribed Bloomberg.com
+>
+> **9. [金沙江领投数千万元，国内首个千比特量子算力平台已服务大湾区量子中心丨36氪首发 - 36氪](https://news.google.com/rss/articles/CBMiTkFVX3lxTFBPdWh4a2dCSVE1LVpNSmdEWXhrd1ptSGJSX1lUQzdZd2FWZDRXQkdUUHlqY2xsbURoRmhVZWRXcE13VXZGcU93VWhuLU5Bdw?oc=5)**
 > <small>36氪 · 国内 · 13:40</small>
 > 金沙江领投数千万元，国内首个千比特量子算力平台已服务大湾区量子中心丨36氪首发 36氪
+>
+> **10. [【首发】亦立医药完成近4亿元人民币A轮融资，加速创新放射性药物管线迈向临床阶段 - 动脉网](https://news.google.com/rss/articles/CBMiR0FVX3lxTFA1M0o1RkZ5NWVWOWt2dXZqU2hXRm9CMDFReW1JMTl5TUl1alFlZFZxTy0tNmZjM0s4YWRCT3dfTDRtdjNGTGRr?oc=5)**
+> <small>动脉网 · 国内 · 08:00</small>
+> 【首发】亦立医药完成近4亿元人民币A轮融资，加速创新放射性药物管线迈向临床阶段 动脉网
 >
 
 > [!warning] 抓取失败但不影响成稿的来源
