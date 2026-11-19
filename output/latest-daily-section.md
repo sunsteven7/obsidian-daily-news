@@ -8,125 +8,137 @@
 > [!quote] 财经 / 金融
 > 10/10 · 国内 4 / 国际 6
 >
-> **1. [SEC Is Probing Nvidia Amid Jensen Huang’s Exit, WSJ Reports - Bloomberg](https://news.google.com/rss/articles/CBMirgFBVV95cUxOUnhVUk9Dc2NOSkpRSEVlMXBjb1VTdTQ0azctQWpsNndvZXVaRFU5S3RKdEJ6cUM5OFp0RWFxYUJhU3lNYTVRZTVramJQVjROMlV1QkFvQlR2anREQmphLTQyMGY1TXZ3YXcxZWQ4NnpnSUFfZ2g4c0pCcFRUb1FHOGJJMV8tclNBbUVhU0pyU1NWR1M1by12emxLVXIwNVhhUWRKa05LcU5wdXozUWc?oc=5)**
+> **1. [Anthropic IPO定价83美元/股超预期 募资逾800亿美元成史上最大IPO - 财新](https://news.google.com/rss/articles/CBMiZEFVX3lxTE4taHJsSm8xcmZRNm5hSnNMQm9sQWVzeERlWXF3UFZfcW44QzR0bk81dUg3aE1kZjY5ejFyZlJmdDUtNEVKTS1JdWFJUU44VVZJSjBzVmM2aEFIcFNSdm5Ba2h0eDU?oc=5)**
+> <small>财新 · 国内 · 12:08</small>
+> Anthropic IPO定价83美元/股超预期 募资逾800亿美元成史上最大IPO 财新
+>
+> **2. [Energy markets can ‘manage without’ the Strait of Hormuz, says IEA - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxQclpkNktKMTQyVEd2elBKSFpFaHVBM0FXTEdaLVRIcVVUbEpNZk5nLXZWR0FiZ0FtUTVNcjh3aXNkYXBzOE91NFFfOTJtQjlMWFFIenprVF83QUk1ZDlpYmlSTW9qRFZZLXk4ZlhSMEJnZ3Z6clJ2T3BJOXkxNENzTThUOU8?oc=5)**
+> <small>Financial Times · 国际 · 13:01 · `可能需订阅`</small>
+> Energy markets can ‘manage without’ the Strait of Hormuz, says IEA Financial Times
+>
+> **3. [Fed Saw Need to Keep Raising Interest Rates Despite Holding Steady in October](https://www.nytimes.com/2026/11/18/business/federal-reserve-rate-increase-october-meeting.html)**
+> <small>NYTimes Business · 国际 · 04:35 · `可能需订阅`</small>
+> Minutes from the Federal Reserve’s most recent gathering underscored that taming inflation remained officials’ top priority.
+>
+> **4. [SEC Is Probing Nvidia Amid Jensen Huang’s Exit, WSJ Reports - Bloomberg](https://news.google.com/rss/articles/CBMirgFBVV95cUxOUnhVUk9Dc2NOSkpRSEVlMXBjb1VTdTQ0azctQWpsNndvZXVaRFU5S3RKdEJ6cUM5OFp0RWFxYUJhU3lNYTVRZTVramJQVjROMlV1QkFvQlR2anREQmphLTQyMGY1TXZ3YXcxZWQ4NnpnSUFfZ2g4c0pCcFRUb1FHOGJJMV8tclNBbUVhU0pyU1NWR1M1by12emxLVXIwNVhhUWRKa05LcU5wdXozUWc?oc=5)**
 > <small>Bloomberg · 国际 · 06:01 · `可能需订阅`</small>
 > SEC Is Probing Nvidia Amid Jensen Huang’s Exit, WSJ Reports Bloomberg
 >
-> **2. [证监会主席吴清在首届中国资本市场学术年会开幕式上的致辞 - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9HR21hS2J3b0NtUG9oSDRhTmpLYkNwS2JneWZSV2gwUkl1Q1FHWi1KdjV0ZXJ5VGtCVDZmRXRZNWh3djAwbFhmRXlSakNoQklyU09v?oc=5)**
+> **5. [证监会主席吴清在首届中国资本市场学术年会开幕式上的致辞 - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9HR21hS2J3b0NtUG9oSDRhTmpLYkNwS2JneWZSV2gwUkl1Q1FHWi1KdjV0ZXJ5VGtCVDZmRXRZNWh3djAwbFhmRXlSakNoQklyU09v?oc=5)**
 > <small>第一财经 · 国内 · 15:46</small>
 > 证监会主席吴清在首届中国资本市场学术年会开幕式上的致辞 第一财经
 >
-> **3. [缪延亮：政策利率换锚，利率市场化的里程碑 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1jcmZ5OURGc2JHUVQ1aklBU3ZUR2d0WHhrM3ppRmFuWFVTdHVUV2luOElFbUV4Z3lIUGl3YXNSRFVwSnhpUVVBc20wdWtEN0lVejVXVVQ5bFBpZ3ZjeklKcmxR?oc=5)**
+> **6. [Anthropic retail investors face squeeze in blockbuster IPO - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxOX1BxZ1lwWHZTQWl3dHVtU0pTVFhGUmkxVVBkczk3bEtaNzlsN0RjY21hN0t6OUJhQlpKQlBGR09GY3JseHVhcTY0clp4eW54cVJHT1RKN3JQdEU2aEVxX2hqVzd3UDBSRmxZUFcyb0tGYUNucE4zUnF6YzhVaVE1cml1ako?oc=5)**
+> <small>Financial Times · 国际 · 13:00 · `可能需订阅`</small>
+> Anthropic retail investors face squeeze in blockbuster IPO Financial Times
+>
+> **7. [Anthropic: The IPOs Will Get Harder From Here - Bloomberg](https://news.google.com/rss/articles/CBMiowFBVV95cUxQUkxULXhYeTB5bEM1NmhfSElER25GZkpNNlN1YmdhUjdCcFp3V29UOHJtRTJNRGc2VF9DSEltejFpYU14R3ZpNVdzdy1sbDdjcjJDakFTeTBWTXlxNGRPMTZQNFNmQlpOemVOeE5TYzBrbWI1dzBqV19VbFZSUVBMZURBbV8wa0g2N0RBQUZ3YTFOY19qZ1RwSFhwaVlhUUlmcnRz?oc=5)**
+> <small>Bloomberg · 国际 · 12:04 · `可能需订阅`</small>
+> Anthropic: The IPOs Will Get Harder From Here Bloomberg
+>
+> **8. [Anthropic Is Said to Price IPO Above Range at $83 Per Share - Bloomberg.com](https://news.google.com/rss/articles/CBMingFBVV95cUxQa3BkQzh0ZFBoUzZmTzU4akxveFYzZ2pZWEM0aklQWU50RlBfaW4yaDNTMWxKbzFmZ1d3QW96ZkVjOC0zOHh6eUhGWHhZbkVqRHdGc09WSnk3ek56UTJzYjZtZXI5cVo5UmlRd1JJUE9Qa29HRXZEN0JZZlFNR01yX2xpYkVGWDNSTVNxeGFCTzNBZ3VDc29BQlV6dzdBdw?oc=5)**
+> <small>Bloomberg.com · 国际 · 10:53 · `可能需订阅`</small>
+> Anthropic Is Said to Price IPO Above Range at $83 Per Share Bloomberg.com
+>
+> **9. [缪延亮：政策利率换锚，利率市场化的里程碑 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1jcmZ5OURGc2JHUVQ1aklBU3ZUR2d0WHhrM3ppRmFuWFVTdHVUV2luOElFbUV4Z3lIUGl3YXNSRFVwSnhpUVVBc20wdWtEN0lVejVXVVQ5bFBpZ3ZjeklKcmxR?oc=5)**
 > <small>财新 · 国内 · 13:04</small>
 > 缪延亮：政策利率换锚，利率市场化的里程碑 财新
 >
-> **4. [Anthropic IPO set to redraw venture capital’s power rankings - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxQNjRQOFIzcnNkZlVyM19oTEZ4eUVibDU0SVlZM1FEdmdyRkVjVDlnMHVRbEJvYlhXZV9Dd3JHOVoxN2xySzZHY3BfUHZQdXU2N3RMNzZHbWV0UDN2WmRhSTNHVjVYa2E3MVRGUEd4eG5ncWRkVmVkVEpXYzgxOUNPWXdxWW4?oc=5)**
-> <small>Financial Times · 国际 · 13:00 · `可能需订阅`</small>
-> Anthropic IPO set to redraw venture capital’s power rankings Financial Times
->
-> **5. [Anthropic Backers Sequoia, Lightspeed Set to Invest More in IPO - Bloomberg](https://news.google.com/rss/articles/CBMiswFBVV95cUxPNEpuU3RjdXgwQmxoa3d3N25ZRTBVc253WDlJS3hsckdmRDVXdXRLbmFaMUpOYkNVREpEUXcyQUNxZDFwZWJLREJqT2p5cVAySWlOTjBfNXo5Qy1QcTZqVUNheTR3NnNJMGpseFlvTzc4R0JfLTUwbWlfOEU1U3pkSVN3TFY0WURtbU5VbkxCYnQza0VHcTQ4ajdrRU9yTkNtRl9FYkNrVHFfcWpGLWdZN0hlbw?oc=5)**
-> <small>Bloomberg · 国际 · 07:53 · `可能需订阅`</small>
-> Anthropic Backers Sequoia, Lightspeed Set to Invest More in IPO Bloomberg
->
-> **6. [Inside the $900bn data centre bet behind Anthropic’s IPO - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNaXdpVWZiRFU5dElrTVNCZDRuT1FrS3RucmlrMUhBaHFxSFc2Y2NwM2I0Sjg2SXlmQTAwdHhMRWp1M0FkbFNLbmloSl91SXVzWk03MzBlRWlLM3ozS2g1T3FNNkJfN09FUmQyaUV3MFd4eElaS19EOXRiUzFodHMxNjZaX08?oc=5)**
-> <small>Financial Times · 国际 · 19:41 · `可能需订阅`</small>
-> Inside the $900bn data centre bet behind Anthropic’s IPO Financial Times
->
-> **7. [U.S. companies from Nvidia to Apple face a growing China dilemma](https://www.cnbc.com/2026/11/17/us-tech-firms-china-ties-political-pressure.html)**
-> <small>CNBC Finance · 国际 · 16:52</small>
-> The stakes have just gotten higher for businesses navigating the U.S. and China markets.
->
-> **8. [Bond Drought in Emerging Markets Lifts Prices as Sales Slump 41% - Bloomberg.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxQbm16MVNnOTJvY2hpMU1mbmlVMDhfLWNoSjI1Q0hPLUdvU2hkSF9QVzBmMkZ2UmNYcTdHS3p5dDE3NWxzVlpsd0tCVlhOTUlQaEFzaC1JWTg0N0R0cFNFVWxPYVBMOUZjWUc1N243WlY5RWlJTVNxWWV2VVhBV2dUczVucXpQbm5BZVl2alptOEVwTVNmRzJqLUQwb01HVlJuXzdEclQ1MkR6QXRYNGZ5enljd0U?oc=5)**
-> <small>Bloomberg.com · 国际 · 17:14 · `可能需订阅`</small>
-> Bond Drought in Emerging Markets Lifts Prices as Sales Slump 41% Bloomberg.com
->
-> **9. [财经早知道｜外交部回应美升级芯片出口管制：将采取必要措施坚决维护自身正当权益 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1tV0hqbXZGd3hXajhyV1hpZi0teEhZTlozSV9EbTVwUF9fWGw5ZDhyVmhhdThDelpKX0ZGbmlwX0VIeGIxVTByMU1JZ3ZvM1A5bW9VTnI0TTZUMWdkYUtxQ1J3?oc=5)**
-> <small>财新 · 国内 · 07:01</small>
-> 财经早知道｜外交部回应美升级芯片出口管制：将采取必要措施坚决维护自身正当权益 财新
->
-> **10. [向下生长！上海老街区的更新新思路 历史建筑不拆不改 靠地下开发激活整片街区 - 第一财经](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9NVVdlcmZQU2xSaE1KN0trMFpMYlYxR3YzeFNITndpdXR1VTR1cnJKd0NfOTJZR1pVaW1yMGtRZTI4bDdNYkdEcHd4QnFHdGRpTkt5Mg?oc=5)**
-> <small>第一财经 · 国内 · 09:30</small>
-> 向下生长！上海老街区的更新新思路 历史建筑不拆不改 靠地下开发激活整片街区 第一财经
+> **10. [第一财经董事长李蓉：“一财全球”发布新十年战略MAPS，打造全球财经媒体中国坐标 - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1LLVlaLUQ1Sko5bHZqcXRRaWxNTE1NNDlzOV9URXEzSlVaUlRpNTZJSU1JVERiQV8tM2ZMaE40bVAwbGFVcUlpbmFjb2dfUG5Xdy1F?oc=5)**
+> <small>第一财经 · 国内 · 19:04</small>
+> 第一财经董事长李蓉：“一财全球”发布新十年战略MAPS，打造全球财经媒体中国坐标 第一财经
 >
 
 > [!example] 科技 / AI
-> 10/10 · 国内 4 / 国际 6
+> 10/10 · 国内 0 / 国际 10
 >
 > **1. [Building trustworthy AI by fencing it in, not predicting it](https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/)**
 > <small>MIT Technology Review · 国际 · 00:04</small>
 > In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring int…
 >
-> **2. [SEC reportedly investigating Nvidia amid Huang exit](https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/)**
-> <small>TechCrunch · 国际 · 05:48</small>
-> The SEC is opening a probe into Nvidia following the departure of CEO Jensen Huang, who admitted to an affair with an alleged Chinese spy, reports The Wall Street Journal.
+> **2. [The AI Hype Index: AI is everywhere](https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/)**
+> <small>MIT Technology Review · 国际 · 22:42</small>
+> Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apartment, and you might pass two people heaving an AI-powered…
 >
-> **3. [宇树科技王兴兴：机器人通用模型很快迎来突破 算力、量产仍有挑战 - 财新](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1EemluMlpYbURzb3JRWHZNeFlSelhGSHBBYUMtd0Itd3c1dU9pZTQyMjhlLWN2cU9OSlFPVTcwNEhOZEh2ZjRXWEFXS2E0dXgydEJ4a1BqOTBOd1Ryb05iRkw4b1Q?oc=5)**
-> <small>财新 · 国内 · 12:03</small>
-> 宇树科技王兴兴：机器人通用模型很快迎来突破 算力、量产仍有挑战 财新
+> **3. [Microsoft CEO Satya Nadella explains why he asked 60K employees to quit](https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/)**
+> <small>TechCrunch · 国际 · 08:42</small>
+> Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not…
 >
-> **4. [Building AI that can work across the enterprise](https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/)**
-> <small>MIT Technology Review · 国际 · 21:00</small>
-> For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Organizations moving from isolated pilots t…
+> **4. [OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’](https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/)**
+> <small>TechCrunch · 国际 · 00:14</small>
+> Nvidia founder and former CEO Jensen Huang stepped down last week amid several scandals, including an affair with an alleged Chinese spy.
 >
-> **5. [财经早知道｜外交部回应美升级芯片出口管制：将采取必要措施坚决维护自身正当权益 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1tV0hqbXZGd3hXajhyV1hpZi0teEhZTlozSV9EbTVwUF9fWGw5ZDhyVmhhdThDelpKX0ZGbmlwX0VIeGIxVTByMU1JZ3ZvM1A5bW9VTnI0TTZUMWdkYUtxQ1J3?oc=5)**
-> <small>财新 · 国内 · 07:01</small>
-> 财经早知道｜外交部回应美升级芯片出口管制：将采取必要措施坚决维护自身正当权益 财新
+> **5. [How Nvidia Chips Ended Up Within Reach of China’s Military](https://www.nytimes.com/2026/11/18/technology/nvidia-alibaba-china-military.html)**
+> <small>NYTimes Technology · 国际 · 12:13 · `可能需订阅`</small>
+> Alibaba, the Chinese internet giant behind the company at the center of the Nvidia spy saga, has used its A.I. computing technology to aid a lab with links to China’s military.
 >
 > **6. [Jensen Huang’s Resignation From Nvidia Worries the A.I. Start-Up World](https://www.nytimes.com/2026/11/13/technology/jensen-huang-silicon-valley-start-ups.html)**
 > <small>NYTimes Technology · 国际 · 00:36 · `可能需订阅`</small>
 > Mr. Huang championed start-ups, with Nvidia holding $48 billion worth of stakes in 229 private companies, including OpenAI and Anthropic, at the end of July.
 >
-> **7. [Nvidia is abandoning China after Jensen Huang’s ouster](https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/)**
-> <small>TechCrunch · 国际 · 07:37</small>
-> Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?
+> **7. [AI asked ‘better questions’ than KPMG accountants in pilot audit - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxQZVBUWGFwaW5qOHRfZ0d1MjRVbU9ibFlpY2ZtN2EzUks0TUhueEFBUF9PS3RLNWdKZTdFQ1p2Z3U2RndPNGpwQ1JtWmdPeU9yT0IxZGk3eDdXZURsRW9CTUFkS20wYnB0VG9nRjZ3V3NRN0ZjRVlrUHhDZlp6Vi1CcVlQZnQ?oc=5)**
+> <small>Financial Times · 国际 · 19:00 · `可能需订阅`</small>
+> AI asked ‘better questions’ than KPMG accountants in pilot audit Financial Times
 >
-> **8. [Read everything that Nvidia’s board chair had to say about Jensen Huang](https://www.theverge.com/tech/1036160/nvidia-earnings-harvey-c-jones-jensen-huang)**
-> <small>The Verge · 国际 · 06:58</small>
-> Nvidia's quarterly earnings call on Tuesday was its first with CFO and interim CEO Colette Kress at the helm alongside the company's first board chair, Harvey C. Jones. The leadership change followed Jensen Huang's resignation last week af…
+> **8. [The nation’s largest school districts consider ditching Google Search](https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google)**
+> <small>The Verge · 国际 · 07:18</small>
+> New York, Los Angeles, and Chicago schools are considering Google alternatives after the company said it will disable Search for schools that opt out of its AI features, according to The New York Times. Starting next year, schools will not…
 >
-> **9. [中国开源模型，正成为全球 AI 的“度量衡” - 36氪](https://news.google.com/rss/articles/CBMiTkFVX3lxTE5Jd3FPSkZzWGNVc0J6d1lCdmRUaUlCcTNpU3AyR3pBRmxSUUl5aUdudEhXT1lDeUVWZHZwbXg1UXVYa0VXeTZ6c2xCeG5PUQ?oc=5)**
-> <small>36氪 · 国内 · 09:02</small>
-> 中国开源模型，正成为全球 AI 的“度量衡” 36氪
+> **9. [Nvidia’s rise, visualized](https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang)**
+> <small>The Verge · 国际 · 06:18</small>
+> If someone handed you $8,300 every second, what would you do? That's how much pure profit Nvidia now makes. By the time you finish reading this paragraph, Nvidia will likely have cleared $45,000 and change. It's easy to look at Nvidia, a c…
 >
-> **10. [AI芯片预期，被大幅下调 - 36氪](https://news.google.com/rss/articles/CBMiTkFVX3lxTE4yUTA4ZHRNU1hKOFl0RnRDbW5EU011UnVidlc4b0VaQk5aem9zcEVBRUdSaS1qd1VQazF1UWFVTUxEVldyVUg2Z3BLajZHdw?oc=5)**
-> <small>36氪 · 国内 · 17:41</small>
-> AI芯片预期，被大幅下调 36氪
+> **10. [Big US Grid Proposes Overhaul to Speed Data Center Hook Ups - Bloomberg](https://news.google.com/rss/articles/CBMiswFBVV95cUxORnN1YmNhUFRFdU5IUEdvNU1NT2xfSU9ISkoyOEQtSV9tMWJLeDJEZkROLUVURU9CNzFfcUdUXzl6alFVRnVKbG5ROWtSeW9zM0N3ZC1KNGNqaGcwWkhmVXdsWEd0SDRZdkFQcXE1eFFicGpIWDF3Y3pmZ28xMXh5djZpeF9iYUJFZTZqZnI1cHNfb2xuY0U3OUNjajhCTjFVcGktUG9OYWFzS3BWQXNKNGxtVQ?oc=5)**
+> <small>Bloomberg · 国际 · 03:11 · `可能需订阅`</small>
+> Big US Grid Proposes Overhaul to Speed Data Center Hook Ups Bloomberg
 >
 
 > [!tip] 私募股权 / 投资市场
-> 7/10 · 国内 5 / 国际 2
+> 10/10 · 国内 4 / 国际 6
 >
-> **1. [无界进化完成超亿元Pre-A轮融资 - 投中网](https://news.google.com/rss/articles/CBMia0FVX3lxTFBzNkY3SmVPNGxXenpXeXJUWUhYd1ZheUQxczVxSWdKRm92UXpsX0FiRDZYVjBxTXI1eFZaOFlfaHFETmF5UU5FVnBwNGlESzM4ZHJVeExyMXJ1VjdIOEtSUFRtOG83YlhWUFdF?oc=5)**
+> **1. [无界进化完成超亿元Pre-A轮融资 - 投中网](https://news.google.com/rss/articles/CBMibkFVX3lxTE9hSWswT0xxdXZjNkF3RUdZd3F5WW50a3d5Qk95NjFPWlBrcUNTQm5ERmlycVBseVVZVi1rLXdTNldRVlUtTFhsS2pEeVRIcUNzem54YkVDMmNscEI3Q0ltaFRjbDd1OEdhVTEwbW1B?oc=5)**
 > <small>投中网 · 国内 · 09:39</small>
 > 无界进化完成超亿元Pre-A轮融资 投中网
 >
-> **2. [European private equity fundraising rises despite 35% investment slump as exits hit six-year low](https://www.altassets.net/featured/european-private-equity-fundraising-rises-despite-35-investment-slump-as-exits-hit-six-year-low.html)**
-> <small>AltAssets · 国际 · 21:32</small>
-> European private equity fundraising rose 6% in the first half of 2026 despite a sharp contraction in dealmaking and a 40% slump in divestments, exposing a growing disconnect between investors' appetite for new funds and managers' ability t…
+> **2. [河南国资“跑出”一个硬核IPO - 投中网](https://news.google.com/rss/articles/CBMibEFVX3lxTFA5Wk5wSUdNVHZuellJZVFoUUtWZTA5VVpLTEUtWEVuVXdUT25LbXR3YU1NRm5TVUl3UkRvbkloSmRTNW1TOE5jeklmeUF2dkZfakNHeE9XejlZX0s2U0wwWmd6V28zQTN5YzFWaQ?oc=5)**
+> <small>投中网 · 国内 · 19:01</small>
+> 河南国资“跑出”一个硬核IPO 投中网
 >
-> **3. [亦立医药完成近4亿元人民币A轮融资 - 投中网](https://news.google.com/rss/articles/CBMia0FVX3lxTE5YXzJSb05kRGx6QUJ5bTJ1OG1IVzFNQzNCU3EyWFJxTDdpaHpGeDRWVVpVMHZPRkluWHVZMWQ2aElPMDdoTFd3UnA3aDQwV3M1WHRZQ2FlR3R1ZTQtS29YZGYtM1YwYlI3aGRF?oc=5)**
-> <small>投中网 · 国内 · 11:10</small>
-> 亦立医药完成近4亿元人民币A轮融资 投中网
->
-> **4. [阿里拆分芯片子公司平头哥独立上市 年化营收规模达百亿元级别 - 财新](https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xOTByMU1ESHFzZlp3UzdKazd6Q2FaVFJaSnJucTQ0dks0NDdIamM5WF91Y1JveUdpVjM0Z1UwOHRqVmlZdjNKaW53NHFPUTJMNGhKY3ZNYlE1b2s4dHJoMjRmWlg?oc=5)**
-> <small>财新 · 国内 · 11:43</small>
-> 阿里拆分芯片子公司平头哥独立上市 年化营收规模达百亿元级别 财新
->
-> **5. [Sofinnova Partners grows crossover fund by 63% to €725m, eyes European life sciences funding gap](https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/france-western-europe-europe-by-region/sofinnova-partners-grows-crossover-fund-by-63-to-e725m-eyes-european-life-sciences-funding-gap.html)**
+> **3. [Sofinnova Partners grows crossover fund by 63% to €725m, eyes European life sciences funding gap](https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/france-western-europe-europe-by-region/sofinnova-partners-grows-crossover-fund-by-63-to-e725m-eyes-european-life-sciences-funding-gap.html)**
 > <small>AltAssets · 国际 · 00:01</small>
 > Sofinnova Partners has raised €725m for its second life sciences crossover fund, 63% more than its predecessor, as it looks to provide late-stage European biotech and medtech companies with the capital needed to reach commercialisation and…
 >
-> **6. [金沙江领投数千万元，国内首个千比特量子算力平台已服务大湾区量子中心丨36氪首发 - 36氪](https://news.google.com/rss/articles/CBMiTkFVX3lxTFBPdWh4a2dCSVE1LVpNSmdEWXhrd1ptSGJSX1lUQzdZd2FWZDRXQkdUUHlqY2xsbURoRmhVZWRXcE13VXZGcU93VWhuLU5Bdw?oc=5)**
+> **4. [Argonaut Private Equity grows industrial buyout fund size to $606m](https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/argonaut-private-equity-grows-industrial-buyout-fund-size-to-606m.html)**
+> <small>AltAssets · 国际 · 17:28</small>
+> Argonaut Private Equity has raised $606m for its sixth fund, more than 20% above its last fund, as it continues targeting industrial and manufacturing businesses across underserved US markets. The post Argonaut Private Equity grows industr…
+>
+> **5. [Hong Kong trading house Jardines weighs first private equity fund - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxQbUtCdnp0Z0tqVGNHM0dlbUxTS2dxY2tIRFJHaDhYdXEtcTAzQUc1aHhfWS0xbEtfbUxDNllDQThJTmZ6NWpUNkx6LWNCSDd2aTU3Nm9ya0hvbGFpbjR1Y1hRb2hzYldzR0hZQUprdTB3ZUdlZDhKLWtRbUIyY2FEMGtfVjQ?oc=5)**
+> <small>Financial Times · 国际 · 11:02 · `可能需订阅`</small>
+> Hong Kong trading house Jardines weighs first private equity fund Financial Times
+>
+> **6. [TG Jones put up for sale by private equity firm after less than 18 months - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxPLVc2TWg4WThmYXRYbk5yYlJxclJfRUMtbFVUUnh4b2xyRTY4aXpHVkJuMDU4XzZrcXQ4bmhobXRFWS02bF90Y1djc3dfTV9RSklPMnZfT3ZNYlRQd0g3Zm5sZXlXVWhyZjJ6UWljdE5hVENSTE5YQVpiZHI2cFRlMzdMSkE?oc=5)**
+> <small>Financial Times · 国际 · 20:28 · `可能需订阅`</small>
+> TG Jones put up for sale by private equity firm after less than 18 months Financial Times
+>
+> **7. [Top Swedish Law Firm Vinge Sees Pickup in Private Equity Deals - Bloomberg.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxPXzdxbUQtRURFNzRZc0FJdDczbUhCcjJNNE83ZlhoSFpzTERQdjV4blBXYTlpVnQzXzBRenI0aHJrbHMwZVdINXN2RW5iSmNobldNUUpzT3pCbTZiRU1KTEk2elh2VGJhaDRWUnh5NXQ3UVVLWHAxYm0xS1RPTndCREhMMXdrMWMyeDI5eW4tN1JBRjQzRHpNYk85U2FVRjhJdVZGeDJZYVR0Q210bVpwSHh2MA?oc=5)**
+> <small>Bloomberg.com · 国际 · 15:15 · `可能需订阅`</small>
+> Top Swedish Law Firm Vinge Sees Pickup in Private Equity Deals Bloomberg.com
+>
+> **8. [星尘浩宇完成数亿元B轮融资，从全球化落地走向企业级AI大脑 - 投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTE53TkdHSnVELVNGOXJFUzRyN0Z0MUxDbHIzcUhRQzF2anJnbkpGQlRxY2haTGpLSG1oeFdHVTA1RVV3bm02Sl9KQ1QxMklicWpQS0NOSE9B?oc=5)**
+> <small>投资界 · 国内 · 09:44</small>
+> 星尘浩宇完成数亿元B轮融资，从全球化落地走向企业级AI大脑 投资界
+>
+> **9. [Private Equity, AI Spark Audit Firm Ethics Rule Questions at SEC - Bloomberg Tax](https://news.google.com/rss/articles/CBMirwFBVV95cUxPbzh3U1l4dlZjdjdhS3pDanIwSm5uTEYwY1A4OElzZXZpa0VzOVNHdHp6Z1UxbzJOM0tIMTB0TFNfRnZnYUNCdUE4X1pNVnpjZlVQUzNwX0pSQ2xVcVZYRHZIbndFTExMQ3drRThkSV9oV0N3bEZQdXc1RWZPWlNoV0RLNEp3cXRwQlM3TGJOM0lBR185ZUstd3JjcTBydk0ydnVaNnhQc0Z0VFNxd0o0?oc=5)**
+> <small>Bloomberg Tax · 国际 · 06:15 · `可能需订阅`</small>
+> Private Equity, AI Spark Audit Firm Ethics Rule Questions at SEC Bloomberg Tax
+>
+> **10. [金沙江领投数千万元，国内首个千比特量子算力平台已服务大湾区量子中心丨36氪首发 - 36氪](https://news.google.com/rss/articles/CBMiTkFVX3lxTFBPdWh4a2dCSVE1LVpNSmdEWXhrd1ptSGJSX1lUQzdZd2FWZDRXQkdUUHlqY2xsbURoRmhVZWRXcE13VXZGcU93VWhuLU5Bdw?oc=5)**
 > <small>36氪 · 国内 · 21:53</small>
 > 金沙江领投数千万元，国内首个千比特量子算力平台已服务大湾区量子中心丨36氪首发 36氪
 >
-> **7. [英伟芯完成数亿元多轮融资，深耕下一代高速光互连 - 投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jcEh4Y1FmajVQb21jRDJ2YklJRDRqMVFOdVlKLVVaemw4ZlRmYXFOeXktSndlZUdaNmlyYTIzUUR2ZUo0UkVMbDhXcGN3bXR0d0E2Wnp3?oc=5)**
-> <small>投资界 · 国内 · 11:36</small>
-> 英伟芯完成数亿元多轮融资，深耕下一代高速光互连 投资界
->
 
 > [!warning] 抓取失败但不影响成稿的来源
-> 36氪 (ParseError)、PE Hub (ParseError)、Private Equity International (ParseError)、Buyouts (ParseError)、Google News Global PE (HTTPError)
+> 36氪 (ParseError)、Google News China AI (HTTPError)、PE Hub (ParseError)、Private Equity International (ParseError)、Buyouts (ParseError)
 
 #daily-news
 <!-- daily-news-digest:end -->
