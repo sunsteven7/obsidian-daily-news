@@ -6,135 +6,135 @@
 > 摘要来自 RSS/新闻源描述，保留原文语言；`可能需订阅` 表示该来源可能有付费墙。
 
 > [!quote] 财经 / 金融
-> 10/10 · 国内 3 / 国际 7
+> 10/10 · 国内 4 / 国际 6
 >
-> **1. [EXCLUSIVE: Like SpaceX, Anthropic ran an unusual IPO process, chafing some bankers - Reuters](https://news.google.com/rss/articles/CBMisAFBVV95cUxNT1RsTFBlMWZGejNqWjVvdVlYX2lRTGpZZXhoYXFXN2RuV3lHZ09ra0ctdnZqc3hiVENXSlc2ZTBIbDRyTmpTS1Nhdk1kdU5HLW5FNGdNRTNoeXVBeEc5cDl5VGx3c3dUSzNDYkVVTHVfenVQbHFUQ0hQS2NfalhuNDczWFdUS0FWQS1iZ1ZhVnNYMy1FOHVSUmlBMmI3NTdVTGY1X0JxTFRmYnptV3huQQ?oc=5)**
-> <small>Reuters · 国际 · 19:03</small>
-> EXCLUSIVE: Like SpaceX, Anthropic ran an unusual IPO process, chafing some bankers Reuters
+> **1. [Fed's John Williams indicates higher interest rates likely 'over time' to address inflation](https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html)**
+> <small>CNBC Finance · 国际 · 05:02</small>
+> The influential central banker expressed confidence that inflation will get closer to the Fed's 2% target in 2027.
 >
-> **2. [Anthropic's IPO bank closed position meant to stabilize stock, removing source of support - Reuters](https://news.google.com/rss/articles/CBMivAFBVV95cUxQSVpRUnlwbWF4cmpjRkg1N1ZnRU9Dc1ZIRFFQU3pyMHNac0tJSXlINUg5YUdLRl9mMUEzQTRkZTdQWHJwRkhJbmYyWV9VYkt4dDVTSGRib3VzbVVENWd1WWllZkhzR2E5SGhrNm5xOUM1QzBfdFFqZlNvNmJDUHFNeU1IdnRMclVkRmdsNTRxTWVZY0hQYWJHN05EZ2xxZTFORDZ0V1g2eWZEWnBGRnVEVVNROURGMVFCTzkwbA?oc=5)**
-> <small>Reuters · 国际 · 01:10</small>
-> Anthropic's IPO bank closed position meant to stabilize stock, removing source of support Reuters
->
-> **3. [The bull market has a new problem. The 'smart money' is selling](https://www.cnbc.com/2026/11/20/equity-issuance-bull-market-problem.html)**
+> **2. [The bull market has a new problem. The 'smart money' is selling](https://www.cnbc.com/2026/11/20/equity-issuance-bull-market-problem.html)**
 > <small>CNBC Finance · 国际 · 22:15</small>
 > Companies are shifting from share buybacks to stock issuance, adding new supply. Anthropic’s $81 billion IPO puts that demand to the test.
 >
-> **4. [Nscale slows hiring and curtails spending ahead of planned $35bn IPO - Financial Times](https://news.google.com/rss/articles/CBMicEFVX3lxTE9MR2lCQk8yMmNDQjh4X19KeUJOTm5LalZfWU14c0NERVM1Y2NXYWRPRlJ6Tjk1UFBma3NNd1U0VDdkLTBxenRfVF9wekxhaDhuYWtaYU0tLXFRQXhOQUQ5dVlzUkpWbFFHem42WDBpSGQ?oc=5)**
+> **3. [Asian regulators rush to support sagging markets as AI trade falters - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNUzBpWDFoVGV4Nmw0dUJEZXBfc2RuaFY1NVJzalFiT0FVNkJFNHpkTm96ZmROSmdDWGdzSVMyY1lKMFdPRkZVS045OXRXVUVUZnEwRXFMWU0yOWR4UnNncE1nS1Z0SDdvRllOYXFYZGpYRUk4NHdIeEZLVkRvRlZERTdJcko?oc=5)**
+> <small>Financial Times · 国际 · 12:55 · `可能需订阅`</small>
+> Asian regulators rush to support sagging markets as AI trade falters Financial Times
+>
+> **4. [三季度银行业息差低位企稳 净利润增速、不良率等指标边际恶化 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBJaTNyOEhJcHhBQmhwU1piVzBGMTFuOC1OcmFvQ3dnc1hha0gzdEV0U0xhSXRWY0tsT3FscGFtdzdSSEQ0RUw4WmxtTEFja2pXdEJSUUhaQjlUV2NnTzhPRGlB?oc=5)**
+> <small>财新 · 国内 · 21:59</small>
+> 三季度银行业息差低位企稳 净利润增速、不良率等指标边际恶化 财新
+>
+> **5. [Nscale slows hiring and curtails spending ahead of planned $35bn IPO - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxONnpIMTlrNjhiY2ZJWEJLbWNhNjNhUExSRTh4dHluLTBkSXpEdG42RGxVelhVRmxTbDYyekVuQV9ya1plM0tIRVZoN0lNOE1Mc0U1dG1pSWtWc3JqOEFmeEFCZVFTUlhXUmhWMFA0N01fcm4zV1picm5lQzk3MnNYWURETnU?oc=5)**
 > <small>Financial Times · 国际 · 19:32 · `可能需订阅`</small>
 > Nscale slows hiring and curtails spending ahead of planned $35bn IPO Financial Times
 >
-> **5. [US tech stocks plunge into bear market in worst week since Covid-19 crisis - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxPcXlaSEs0VF84U3VRbVowdTMxMm5kRktENGl6bGtweEtZWVJfVzZQUWY3eUkyamtzMFBJYVBhWFMwSW8zWTBxSm1BWTU2aEZVX2RGOFhENWg1dU5CQ0lDNU53bFZldFlmaEZvSElQakZ6Zk1lWmFvYkMtUHEyS3pRX2FLYVQ?oc=5)**
-> <small>Financial Times · 国际 · 05:52 · `可能需订阅`</small>
-> US tech stocks plunge into bear market in worst week since Covid-19 crisis Financial Times
+> **6. [证监会主席吴清在首届中国资本市场学术年会开幕式上的致辞 - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9HR21hS2J3b0NtUG9oSDRhTmpLYkNwS2JneWZSV2gwUkl1Q1FHWi1KdjV0ZXJ5VGtCVDZmRXRZNWh3djAwbFhmRXlSakNoQklyU09v?oc=5)**
+> <small>第一财经 · 国内 · 19:26</small>
+> 证监会主席吴清在首届中国资本市场学术年会开幕式上的致辞 第一财经
 >
-> **6. [Europe Retail Traders Bid Seven Times Anthropic’s IPO Allocation - Bloomberg.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxPa3RQVXYwZlV0Y2E4M1ZRUnhWZm9xWnhHTlZqaXVERC0tVUtmUVVEM1JFWmZWdThKRkJHRkRGdVp0Z01DUTRSSWtSQXV4UUo1RVc3RkcxTG1vZ3NTdlhkRFA5LW1QWEIzVHZzeDVzNUJucGxMWjhnVlpxb2JJSUNhZkotMWVJMUtZc01VUVVicUZydWhzUzVTR3VrQU84V05iS2VMeFBqNkhocURyUG1kM3BRN1lXdw?oc=5)**
-> <small>Bloomberg.com · 国际 · 01:44 · `可能需订阅`</small>
-> Europe Retail Traders Bid Seven Times Anthropic’s IPO Allocation Bloomberg.com
+> **7. [Mahanadi Coalfields’ $953 Million India IPO Subscribed 1.5 Times - Bloomberg.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxNTkNkQ3dOdFhpNmREQzJlSjlyNnZ1ZEd2ek56Ul9WbVIyUUswTnJzRUp2LUdnaTdjZ29QZy13YzRJeC1aQXRacnJLYWVxU19Mb2J4dFhtZExUUDRXTXpidGVSTVUzMElvbU9lWTVYSEVjU01nYUpXaGwxTTRvcGNHcThoTGxQbmJRcC1kNG1BWjdxUmt0LTUyU0ZvYU5oMzlndG1rZFMzTDZlREhNakpiMFhVYw?oc=5)**
+> <small>Bloomberg.com · 国际 · 20:15 · `可能需订阅`</small>
+> Mahanadi Coalfields’ $953 Million India IPO Subscribed 1.5 Times Bloomberg.com
 >
-> **7. [These Aren’t Boomer Small-Enough-to-Fail IPOs - Bloomberg.com](https://news.google.com/rss/articles/CBMioAFBVV95cUxOSEhVeUpMUVZWdW9QUEo0YkJ5RnRQYXVoVHNkaGtBeXg2R1ZXbk1fcWJwZllCaFVWV2tGYS1IbDRXYW9WQ2pMNEZ4dlNJRlZKTEt0NTdIcmxVTXhvWGRsYW1WNU1wYzMwVVZIQWJma3dDV2lnZi00Y0FoODRHd25mSkl2WTNtRXpnbC1PWXNpdEhqYmVYdjNkT3ExdXl0VU1P?oc=5)**
-> <small>Bloomberg.com · 国际 · 22:00 · `可能需订阅`</small>
-> These Aren’t Boomer Small-Enough-to-Fail IPOs Bloomberg.com
+> **8. [王胜邦：促进经济金融合理适配 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5jX0pCLV8yb3BmZ2dFNlRweDVZYWl4ZTlHOGZRUE1GYzhXTFQ1WUlVSDE2d3FDUm1rMXVMTW5zNkVNTlVyZE4zMDBlY2NsODlaQl9iQ3lCY0V3bGhrNFZQbzln?oc=5)**
+> <small>财新 · 国内 · 15:24</small>
+> 王胜邦：促进经济金融合理适配 财新
 >
-> **8. [周末急出密集新规 救市“组合拳”是否有效开盘见分晓 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1SSnlNWEh0V29zRllJeTdGUElYTHduaUc3SGNscmthRWVsemlzRmJVQjNUWmhLdUxodE1tRzNNUmpnUUt6M3JYMFlYYk8wYmxxZXN0RFBTbmpWOEVQdWpuMFhR?oc=5)**
-> <small>财新 · 国内 · 19:19</small>
-> 周末急出密集新规 救市“组合拳”是否有效开盘见分晓 财新
+> **9. [Stocks Surge After Jensen Huang Is Reinstated as Nvidia CEO](https://www.nytimes.com/2026/11/22/business/nvidia-stock-huang-ai-sp500-markets.html)**
+> <small>NYTimes Business · 国际 · 12:58 · `可能需订阅`</small>
+> The market had already started to bounce back from a sell-off last week. Then, the news that Nvidia reinstated its former chief executive sent shares soaring.
 >
-> **9. [斯坦福“联合办学”骗局 两名中国投资者被骗2.37亿元 - 财新](https://news.google.com/rss/articles/CBMiYEFVX3lxTE8takk0dWFWbHZpRWN5UXpMTERGc3hTaWR2U3hDSGNOc1NiVU95ekp5bHEzd2tDZGkwVGhpaGJUZVBZeENnMGVKOFBnaVN3S3ZqWFU4UTZTNTBoUW5hSTFmQQ?oc=5)**
-> <small>财新 · 国内 · 19:58</small>
-> 斯坦福“联合办学”骗局 两名中国投资者被骗2.37亿元 财新
->
-> **10. [国际金价跌破3600美元国内足金饰品跌破1100元/克价格连跌带动金饰需求消费者：硬通货有涨就有跌| 一探 - 第一财经](https://news.google.com/rss/articles/CBMiVEFVX3lxTE5xTTJ5ODZaSFdnX3VDRUtCZ1VQWl9NV1lKV2w3UlhOOHlqT2JIb3dCc2V6MHJBNFVPTFdUTUM5Yk5pNndnc2pRV0pIbXRZX01ENlFwSA?oc=5)**
-> <small>第一财经 · 国内 · 19:37</small>
-> 国际金价跌破3600美元国内足金饰品跌破1100元/克价格连跌带动金饰需求消费者：硬通货有涨就有跌| 一探 第一财经
+> **10. [AI视频别只盯着短剧卷了！专家：多迈向高价值场景“门槛低不代表观众眼光低” 拼品质才能活下来！ - 第一财经](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ucXd0V3ptU0t0c0lVcmhDdzNTS1VPZ3IwcE9yVDZXT25ESTlzQkdXdWhXbFg3dERZZmx4UWo0N1l1SzdjWGw1VlBxT1ZYR2xscFE?oc=5)**
+> <small>第一财经 · 国内 · 15:38</small>
+> AI视频别只盯着短剧卷了！专家：多迈向高价值场景“门槛低不代表观众眼光低” 拼品质才能活下来！ 第一财经
 >
 
 > [!example] 科技 / AI
 > 10/10 · 国内 2 / 国际 8
 >
-> **1. [The most misunderstood graph in AI just got a major update](https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/)**
+> **1. [A legendary philosopher isn’t buying Anthropic’s consciousness argument](https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/)**
+> <small>MIT Technology Review · 国际 · 01:36</small>
+> This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility that AI could be conscious or sentient…
+>
+> **2. [The most misunderstood graph in AI just got a major update](https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/)**
 > <small>MIT Technology Review · 国际 · 02:15</small>
 > A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are…
 >
-> **2. [The AI Hype Index: AI is everywhere](https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/)**
-> <small>MIT Technology Review · 国际 · 22:42</small>
-> Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apartment, and you might pass two people heaving an AI-powered…
+> **3. [Huang returns as Nvidia CEO after Trump intervention in abrupt board reversal - Reuters](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd19EYmc4X2wzaW5zXzZ5VXZ1cUFJbS1OYzJsZ2VSTVRnMkQteWdiN3Z0dTBlNmltdll6Vy1RWnpxVUthOF9XX3g0YmVvNWdXODJUMGpSeXdldVdYQWE3N2hCQXU3RExXSDViSWI3S2xHNVZFc0NUVmh5bGRhem5aUzdDa29xb1hH?oc=5)**
+> <small>Reuters · 国际 · 21:59</small>
+> Huang returns as Nvidia CEO after Trump intervention in abrupt board reversal Reuters
 >
-> **3. [How Nvidia Chips Ended Up Within Reach of China’s Military](https://www.nytimes.com/2026/11/18/technology/nvidia-alibaba-china-military.html)**
+> **4. [How Nvidia Chips Ended Up Within Reach of China’s Military](https://www.nytimes.com/2026/11/18/technology/nvidia-alibaba-china-military.html)**
 > <small>NYTimes Technology · 国际 · 12:13 · `可能需订阅`</small>
 > Alibaba, the Chinese internet giant behind the company at the center of the Nvidia spy saga, has used its A.I. computing technology to aid a lab with links to China’s military.
 >
-> **4. [How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO](https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/)**
-> <small>TechCrunch · 国际 · 09:25</small>
-> Three significant backers share what gave them conviction to bet billions on Anthropic.
+> **5. [Trump engineered a risky comeback for Jensen Huang](https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated)**
+> <small>The Verge · 国际 · 06:34</small>
+> After Nvidia's board accepted Jensen Huang's resignation as CEO, following reports that Huang had an affair with an alleged Chinese spy, President Donald Trump, too, appeared to submit to the new reality. Appearing on Stephen A. Smith's ra…
 >
-> **5. [OpenAI’s chief scientist has thoughts on how to limit AI development](https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/)**
-> <small>TechCrunch · 国际 · 05:14</small>
-> To establish a speed limit on AI development, you need to agree on how to measure speed.
+> **6. [Welcome to elite impunity, Jensen Huang](https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang)**
+> <small>The Verge · 国际 · 06:21</small>
+> I suppose I must issue a hearty congratulations to Jensen Huang. Huang is CEO of Nvidia again, to the surprise of basically everyone except President Donald Trump and Vice President JD Vance, who made sure it happened. Now, those of us who…
 >
-> **6. [Anthropic万亿IPO冲击波：智谱、MiniMax大跌，市场或重估大模型定价逻辑 - 36氪](https://news.google.com/rss/articles/CBMiTkFVX3lxTE9SVTNpZGEyRmRDdDdfQVNWRXg4ZXRGYVFONHNZYlF6WXNUX3plbzhqMTl3UjBGZXQ0NWh2SU1hUGVfME5zY3U3TDhBc1B0QQ?oc=5)**
-> <small>36氪 · 国内 · 22:16</small>
-> Anthropic万亿IPO冲击波：智谱、MiniMax大跌，市场或重估大模型定价逻辑 36氪
+> **7. [‘Outrageous,’ ‘reckless,’ ‘wow’: Here’s what politicians are saying about Jensen Huang’s return to Nvidia](https://techcrunch.com/2026/11/23/outrageous-reckless-wow-heres-what-politicians-are-saying-about-jensen-huangs-return-to-nvidia/)**
+> <small>TechCrunch · 国际 · 03:31</small>
+> Politicians on both sides of the aisle seem angry, agitated, and nonplussed by the return of Jensen Huang to Nvidia leadership less than two weeks after his ousting.
 >
-> **7. [How Jensen Huang Made Humiliation Routine at Nvidia](https://www.nytimes.com/2026/11/20/technology/jensen-huang-nvidia-culture.html)**
-> <small>NYTimes Technology · 国际 · 23:55 · `可能需订阅`</small>
-> The Nvidia co-founder’s belittling behavior toward employees goes back decades. It once led to a confidential settlement agreement with an executive who said Mr. Huang “terrorized” staff.
+> **8. [Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO](https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/)**
+> <small>TechCrunch · 国际 · 02:12</small>
+> The public hearing follows bipartisan calls for Huang to testify about the affair with the suspected Chinese spy.
 >
-> **8. [Binding of Isaac developer removes AI music from Repentance Plus](https://www.theverge.com/games/1039770/binding-of-isaac-ai-music)**
-> <small>The Verge · 国际 · 01:25</small>
-> The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff discovered the songs used during a Grand…
+> **9. [Anthropic还藏着2个最强模型… - 36氪](https://news.google.com/rss/articles/CBMiTkFVX3lxTE10a2VyVEg1YW0zY0pCUkNxc2dwN2otWEtJTTFFUG5TVzNqbXFnTTJVcV9tNVhaT3hsTlNhTHB1ZXFxcEIzZTZPSFZKTHVjQQ?oc=5)**
+> <small>36氪 · 国内 · 17:03</small>
+> Anthropic还藏着2个最强模型… 36氪
 >
-> **9. [腾讯姚顺雨团队深夜回应一切：算力不足、模型刷榜、雷霆大思考 - 36氪](https://news.google.com/rss/articles/CBMiTkFVX3lxTE1JWEZIMFhuM2oyc0tlODRyWTNST3hHZDhnTEJIRzQ3SFoxODJzWDlYNWRKamRmUmVkQVZpdEo3aVRvekdjbHRSa041eTNHQQ?oc=5)**
-> <small>36氪 · 国内 · 17:04</small>
-> 腾讯姚顺雨团队深夜回应一切：算力不足、模型刷榜、雷霆大思考 36氪
->
-> **10. [All the latest updates on AI data centers - The Verge](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOb0UxRGMyQ3VLZ1hCY2U3dVVzZnYyX1FZSGJ6OElGOFZ3amc1NnY2Z3Fhb2NIcUp4UFNQNTBQZ3RPa2RiaGEtYWROcHpadFpCV244Nng2VDZuOTBMZDNwdHR3ajl4RXhSSEFjSUZQMVlFd25GSXNZWHZxaVpJYXN0VFJSYUtwcWpOc1huZENJSTRjTlJtTUN3RXh4WFgxRkhOZnBLNVFwSHc?oc=5)**
-> <small>The Verge · 国际 · 03:39</small>
-> All the latest updates on AI data centers The Verge
+> **10. [Anthropic会是全球AI牛市的“掘墓人”？ - 36氪](https://news.google.com/rss/articles/CBMiTkFVX3lxTE9JMExHbU9WSG1fVnZFdzk3cThPVWJxMWM1NDNDSGRBWnlQNFRUN0FHS3RSVTFMQkdldHRZUUxVMmtfblhHdzhxYWhBZDVfdw?oc=5)**
+> <small>36氪 · 国内 · 23:51</small>
+> Anthropic会是全球AI牛市的“掘墓人”？ 36氪
 >
 
 > [!tip] 私募股权 / 投资市场
-> 10/10 · 国内 4 / 国际 6
+> 10/10 · 国内 6 / 国际 4
 >
 > **1. [European VC valuations double for PE-backed deals as buyout exits buck wider recovery – PitchBook](https://www.altassets.net/featured/european-vc-valuations-double-for-pe-backed-deals-as-buyout-exits-buck-wider-recovery-pitchbook.html)**
 > <small>AltAssets · 国际 · 19:31</small>
 > European venture capital deals involving private equity investors have seen median company valuations more than double this year, despite a much weaker recovery across the wider market, according to new PitchBook research. The post Europea…
 >
-> **2. [无界进化完成超亿元Pre-A轮融资 - 投中网](https://news.google.com/rss/articles/CBMia0FVX3lxTFBzNkY3SmVPNGxXenpXeXJUWUhYd1ZheUQxczVxSWdKRm92UXpsX0FiRDZYVjBxTXI1eFZaOFlfaHFETmF5UU5FVnBwNGlESzM4ZHJVeExyMXJ1VjdIOEtSUFRtOG83YlhWUFdF?oc=5)**
+> **2. [全球首只离岸人民币债券ETF香港上市 - 财新](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9DTUFHNmEtZzl4SEZ5WjlQTUZWT3RQOVIxaFVPVkRocHRsTVZERENfeE8taFFaNURjWTc2TTF4bkR0Y2ZlZ2Z6ZFVCYnZ5M01sN2pzOWhZNzlfZWlUdWhyZjZR?oc=5)**
+> <small>财新 · 国内 · 17:07</small>
+> 全球首只离岸人民币债券ETF香港上市 财新
+>
+> **3. [无界进化完成超亿元Pre-A轮融资 - 投中网](https://news.google.com/rss/articles/CBMia0FVX3lxTFBzNkY3SmVPNGxXenpXeXJUWUhYd1ZheUQxczVxSWdKRm92UXpsX0FiRDZYVjBxTXI1eFZaOFlfaHFETmF5UU5FVnBwNGlESzM4ZHJVeExyMXJ1VjdIOEtSUFRtOG83YlhWUFdF?oc=5)**
 > <small>投中网 · 国内 · 09:39</small>
 > 无界进化完成超亿元Pre-A轮融资 投中网
 >
-> **3. [河南国资“跑出”一个硬核IPO - 投中网](https://news.google.com/rss/articles/CBMibEFVX3lxTFA5Wk5wSUdNVHZuellJZVFoUUtWZTA5VVpLTEUtWEVuVXdUT25LbXR3YU1NRm5TVUl3UkRvbkloSmRTNW1TOE5jeklmeUF2dkZfakNHeE9XejlZX0s2U0wwWmd6V28zQTN5YzFWaQ?oc=5)**
-> <small>投中网 · 国内 · 19:01</small>
-> 河南国资“跑出”一个硬核IPO 投中网
+> **4. [5个亿，纪源经纬一起领投了个天使轮丨投融周报 - 投中网](https://news.google.com/rss/articles/CBMiakFVX3lxTE1oREc1Wk5xalZuX0FxVUxGR2d2UjI0R0dHNEpsX0RWbmtLOTljazJSck9Ga3k3V3NEUzluaGZiazlZTHh2U2ZRaS1ERmtsakhsQkZjSk5SUE85ZHRXQnl3M2hKQ1dXdFdxMEE?oc=5)**
+> <small>投中网 · 国内 · 10:35</small>
+> 5个亿，纪源经纬一起领投了个天使轮丨投融周报 投中网
 >
-> **4. [Celero Capital grows Nordic buyout fund by 55% to €425m after seven-month fundraise](https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/norway-western-europe-europe-by-region/celero-capital-grows-nordic-buyout-fund-by-55-to-e425m-after-seven-month-fundraise.html)**
+> **5. [阿里拆分芯片子公司平头哥独立上市 年化营收规模达百亿元级别 - 财新](https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xOTByMU1ESHFzZlp3UzdKazd6Q2FaVFJaSnJucTQ0dks0NDdIamM5WF91Y1JveUdpVjM0Z1UwOHRqVmlZdjNKaW53NHFPUTJMNGhKY3ZNYlE1b2s4dHJoMjRmWlg?oc=5)**
+> <small>财新 · 国内 · 16:00</small>
+> 阿里拆分芯片子公司平头哥独立上市 年化营收规模达百亿元级别 财新
+>
+> **6. [现场直击希音上市仪式！盘中破发，创始人许仰天未参与敲锣｜港股直通车 - 第一财经](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBLQkVIakIyYVJsQkRlRHNuOEhwakRMU0wzTmNGb3o3bk9lNHVlS3l4SldmeW56cFZXXzVHWERITkdKMkF0S0YyQWEycktQLV8zdWc?oc=5)**
+> <small>第一财经 · 国内 · 09:42</small>
+> 现场直击希音上市仪式！盘中破发，创始人许仰天未参与敲锣｜港股直通车 第一财经
+>
+> **7. [Celero Capital grows Nordic buyout fund by 55% to €425m after seven-month fundraise](https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/norway-western-europe-europe-by-region/celero-capital-grows-nordic-buyout-fund-by-55-to-e425m-after-seven-month-fundraise.html)**
 > <small>AltAssets · 国际 · 19:09</small>
 > Nordic private equity firm Celero Capital has closed its second buyout fund at an increased €425m hard cap, growing its flagship strategy by 55% less than two years after completing its debut fundraise. The post Celero Capital grows Nordic…
 >
-> **5. [Chinese fund CIC seeks to resume US private equity investments, FT says - Reuters](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWEtpZU9RaEtadGlqdnpjSjBvVGEwU1otZ2pNVjA3cHZNaVlyWDRkaWN3VUQ3Uk9yZG44UUI4UXpaa2pGVktSOHE2alN3V0IxNjF2ZEF5NEhMWDRZOTd3US1TWXBMWW5FZ21qWDRHemFicUJXZVlfM1FfMkR0cjNoNVR4Nm9aRkpjaFgxLXZTNzduWnQzZWtLdVJOZFhPQTJ5cTlvOU5FZlphaktqeXUwQVdRa3BwUmFfcm5OS2pNcmU?oc=5)**
+> **8. [Chinese fund CIC seeks to resume US private equity investments, FT says - Reuters](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWEtpZU9RaEtadGlqdnpjSjBvVGEwU1otZ2pNVjA3cHZNaVlyWDRkaWN3VUQ3Uk9yZG44UUI4UXpaa2pGVktSOHE2alN3V0IxNjF2ZEF5NEhMWDRZOTd3US1TWXBMWW5FZ21qWDRHemFicUJXZVlfM1FfMkR0cjNoNVR4Nm9aRkpjaFgxLXZTNzduWnQzZWtLdVJOZFhPQTJ5cTlvOU5FZlphaktqeXUwQVdRa3BwUmFfcm5OS2pNcmU?oc=5)**
 > <small>Reuters · 国际 · 17:10</small>
 > Chinese fund CIC seeks to resume US private equity investments, FT says Reuters
 >
-> **6. [Private equity backers flag fresh concerns about sell-to-yourself deals - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxQTjZxSm9jVVNObVZjdzVwUjhyMzV3VDl3WUcyTmhUdDM2bmlyVmZ2U3J3dlpaNDE2TU54MHAtSXZyTGROdXFZX1hQWGZmalMyVlJQaUFDTWhzUHJ1UFhyS3dTS05SYWlOdWNaY3pCb2k5elRpVXIzd1NKeEU4YnlwUEVJeWM?oc=5)**
+> **9. [「傲意科技」完成数亿元D轮融资，具身智能业务再“上新”｜36氪首发 - 36氪](https://news.google.com/rss/articles/CBMiTkFVX3lxTFBXWTdtOEh2X09RUWk5bERCSjd6OTdYUWZhRGxtNzlPdXZFcGE0TDBra1JVUGRDTkhQMlNBOVpMbldhRlIzazkxYTVyd18wUQ?oc=5)**
+> <small>36氪 · 国内 · 20:17</small>
+> 「傲意科技」完成数亿元D轮融资，具身智能业务再“上新”｜36氪首发 36氪
+>
+> **10. [Private equity backers flag fresh concerns about sell-to-yourself deals - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxQTjZxSm9jVVNObVZjdzVwUjhyMzV3VDl3WUcyTmhUdDM2bmlyVmZ2U3J3dlpaNDE2TU54MHAtSXZyTGROdXFZX1hQWGZmalMyVlJQaUFDTWhzUHJ1UFhyS3dTS05SYWlOdWNaY3pCb2k5elRpVXIzd1NKeEU4YnlwUEVJeWM?oc=5)**
 > <small>Financial Times · 国际 · 13:00 · `可能需订阅`</small>
 > Private equity backers flag fresh concerns about sell-to-yourself deals Financial Times
->
-> **7. [China prepares to restart US private equity investments after pullback - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNWmdmcDR5dl9KYy1rUjY0VWkyLWFndlNmUHcyamtsQzFwTDNFZ2VvUmhWckxEcjFxNWdtSmQydDVEaDJNY0VLYnJaUVRhZEk2WXA0ZkFFMHpwRVJXUTJiSHJHLWpObnZHb0FHNTIxaExYeEJZTUpqd3Q1cllORFEyY0k5b0M?oc=5)**
-> <small>Financial Times · 国际 · 13:00 · `可能需订阅`</small>
-> China prepares to restart US private equity investments after pullback Financial Times
->
-> **8. [36氪首发丨多地国资押注，这家中性原子量子计算企业获数亿元B轮投资 - 36氪](https://news.google.com/rss/articles/CBMiTkFVX3lxTFBhRUFYWncwNXZibVVxcVg5aEI1SnQ1ZktULVZDcEhZVmZENlZCbExQM2VoUk13ODNmc19uWXRvVW1jZFJjTDgtOFJmVmVWQQ?oc=5)**
-> <small>36氪 · 国内 · 16:58</small>
-> 36氪首发丨多地国资押注，这家中性原子量子计算企业获数亿元B轮投资 36氪
->
-> **9. [Private Equity Rethinks the AI Trade - WSJ](https://news.google.com/rss/articles/CBMijAFBVV95cUxONEVLTDViQmFaUlZhcFotUXhEZ1JzUjFONmk2bkNGLXVIOEtrdTlGdGo3akVVUWpFb1BqdE16aWlRdHY4ZmJ5QVowWFZELVJ0a1g0dkdMaTJhcmZ6NjdlMERkWnMyeEcwSXcwclVsdHNjeTE5bUdDUnJRTHp5Y3RnZ2xaQ1FtQW5ic1drVg?oc=5)**
-> <small>WSJ · 国际 · 07:05 · `可能需订阅`</small>
-> Private Equity Rethinks the AI Trade WSJ
->
-> **10. [B轮后的项目，赚不到钱了？ - 36氪](https://news.google.com/rss/articles/CBMiTkFVX3lxTE5KRWFMd2U1UDJSMjQwY1BIZ2RMQllLZjFrVUFGbkc1LTQ5bGtBMGRteXNOZDc5WnBhRUp6OXgtYmxYX2N4RFRZRUdWVlRWUQ?oc=5)**
-> <small>36氪 · 国内 · 20:21</small>
-> B轮后的项目，赚不到钱了？ 36氪
 >
 
 > [!warning] 抓取失败但不影响成稿的来源
